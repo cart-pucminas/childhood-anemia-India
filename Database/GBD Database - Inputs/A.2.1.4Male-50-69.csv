@@ -1,0 +1,964 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+Andhra Pradesh,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Andhra Pradesh,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.55766438e-8,7.576632e-10,7.62924694e-8
+Andhra Pradesh,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.71358087e-8,3.6958536e-9,2.661451835e-7
+Andhra Pradesh,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.202698182e-7,9.7669366e-9,4.934846907e-7
+Andhra Pradesh,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.005049374e-7,1.52830342e-8,8.674150651e-7
+Andhra Pradesh,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.933278959e-7,8.6487263e-9,0.0000015282421572
+Andhra Pradesh,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.676574501e-7,2.97380681e-8,0.0000021716418582
+Andhra Pradesh,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,7.627299924e-7,6.43102469e-8,0.0000031807840277
+Andhra Pradesh,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000011301688004,1.112682793e-7,0.0000044174924404
+Andhra Pradesh,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000015213432254,1.698546198e-7,0.0000054995946777
+Andhra Pradesh,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000018883874748,1.816853081e-7,0.0000073966530271
+Andhra Pradesh,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000022790297274,2.731668577e-7,0.0000080508639358
+Andhra Pradesh,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000027376691977,3.775933419e-7,0.000008383035214
+Andhra Pradesh,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000031935017058,4.815309255e-7,0.0000091831392953
+Andhra Pradesh,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000035769946164,5.82234103e-7,0.0000100448990609
+Andhra Pradesh,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000038170153164,5.585816199e-7,0.0000114093551132
+Andhra Pradesh,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000039663882052,7.308587482e-7,0.0000116157144272
+Andhra Pradesh,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000040985739374,7.940546362e-7,0.0000118995950566
+Andhra Pradesh,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000042066839926,8.36111153e-7,0.0000130114141875
+Andhra Pradesh,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000042832577608,8.291481932e-7,0.0000140560067828
+Andhra Pradesh,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000043207207399,6.451469613e-7,0.0000153571923311
+Andhra Pradesh,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000043181984357,6.92448618e-7,0.0000144782181341
+Andhra Pradesh,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000042941508555,7.241797244e-7,0.0000135088014215
+Andhra Pradesh,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000042635930425,7.478063309e-7,0.0000128978248082
+Andhra Pradesh,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000042424705841,7.510303268e-7,0.0000124399185382
+Andhra Pradesh,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000042457207826,7.289229663e-7,0.0000128841508255
+Andhra Pradesh,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000043743437009,7.291744058e-7,0.0000133660037457
+Andhra Pradesh,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000046468077728,7.171666633e-7,0.0000154855277854
+Andhra Pradesh,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000049728497983,6.474015047e-7,0.0000185486132058
+Andhra Pradesh,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000052640340581,5.360563782e-7,0.000019542252307
+Andhra Pradesh,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000055549201792,4.735727308e-7,0.0000220064450078
+Andhra Pradesh,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000057844905048,4.552558944e-7,0.0000227864030215
+Arunachal Pradesh,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Arunachal Pradesh,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.5401568e-8,1.0033324e-9,8.63062686e-8
+Arunachal Pradesh,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.70484821e-8,4.2310864e-9,2.984533093e-7
+Arunachal Pradesh,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.209539471e-7,8.7222118e-9,5.950720811e-7
+Arunachal Pradesh,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.030612789e-7,1.33752763e-8,0.0000010524151009
+Arunachal Pradesh,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.992284213e-7,9.5692297e-9,0.0000018701129892
+Arunachal Pradesh,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.987744423e-7,3.12544177e-8,0.0000028360549086
+Arunachal Pradesh,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,8.543664718e-7,7.85234491e-8,0.0000041303273781
+Arunachal Pradesh,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000013084318353,1.476517365e-7,0.0000053721683947
+Arunachal Pradesh,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000001803826526,2.089935479e-7,0.0000071270823494
+Arunachal Pradesh,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000022854023294,2.308898526e-7,0.0000089647220452
+Arunachal Pradesh,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000028174261487,3.317068951e-7,0.0000103604957956
+Arunachal Pradesh,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000003452873051,4.644051946e-7,0.0000119668405084
+Arunachal Pradesh,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000004086157806,5.623632668e-7,0.0000132640327358
+Arunachal Pradesh,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000046148859943,5.33351405e-7,0.0000149603789824
+Arunachal Pradesh,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000049345713056,5.301504956e-7,0.0000177174774764
+Arunachal Pradesh,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000051233389693,6.40230643e-7,0.0000175408104536
+Arunachal Pradesh,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000052807630043,6.321862096e-7,0.0000182700057159
+Arunachal Pradesh,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000054107960333,5.599212469e-7,0.0000185487322407
+Arunachal Pradesh,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000055186305992,4.991790028e-7,0.0000210380609395
+Arunachal Pradesh,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000056094621777,4.722927463e-7,0.0000238180195082
+Arunachal Pradesh,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000005686040443,5.074445035e-7,0.0000238804626214
+Arunachal Pradesh,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000057512013921,5.509556219e-7,0.0000241218371754
+Arunachal Pradesh,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000058205335982,4.85376962e-7,0.0000242288646165
+Arunachal Pradesh,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000059110406678,4.256849834e-7,0.0000250702297703
+Arunachal Pradesh,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000060384918788,3.162468988e-7,0.0000279832783345
+Arunachal Pradesh,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000063289719179,3.506325772e-7,0.0000295449763771
+Arunachal Pradesh,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.00000680399506,4.096750218e-7,0.0000303555648284
+Arunachal Pradesh,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000073536334923,4.103129582e-7,0.0000308948231441
+Arunachal Pradesh,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000078684435493,4.226963257e-7,0.0000361440075973
+Arunachal Pradesh,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000084066055756,3.998516814e-7,0.0000421166409405
+Arunachal Pradesh,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000085276712602,4.059359967e-7,0.0000441921542425
+Assam,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Assam,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.24883443e-8,1.7707577e-9,1.582738322e-7
+Assam,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.188731776e-7,8.5185541e-9,6.323431871e-7
+Assam,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.493200047e-7,1.98523669e-8,0.000001166596486
+Assam,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.139167724e-7,3.17592576e-8,0.0000019341521782
+Assam,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,6.027844248e-7,2.36352203e-8,0.000003336461776
+Assam,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,9.605589024e-7,5.25019225e-8,0.0000047357984341
+Assam,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000015594595987,1.247338258e-7,0.00000700822362
+Assam,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000022845441243,2.160617803e-7,0.0000094348934147
+Assam,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000030210235123,2.906506815e-7,0.0000121033917142
+Assam,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000036553622086,3.167199025e-7,0.0000148828587757
+Assam,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000042716910313,4.918683914e-7,0.0000163914572795
+Assam,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000049812135594,7.197882675e-7,0.0000177016348863
+Assam,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000056580050112,9.491932649e-7,0.0000196113773069
+Assam,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000061795635704,0.0000011122803721,0.0000206752898204
+Assam,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000064209238183,0.0000010187986249,0.0000211591660686
+Assam,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000064942194234,0.0000012388174708,0.0000194825922135
+Assam,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000065451098795,0.0000013208978816,0.0000189847373509
+Assam,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000065804545756,0.0000013154230979,0.0000191488128868
+Assam,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000066074054849,0.0000012667832091,0.0000188600550042
+Assam,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000066319476323,0.0000011644782682,0.0000198186161189
+Assam,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000066546345239,0.000001324112964,0.0000202764054107
+Assam,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000066794749817,0.0000013569692312,0.0000193076226804
+Assam,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000067158838263,0.0000012885058455,0.0000192893881967
+Assam,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000067741276731,0.0000012485465644,0.0000208027856419
+Assam,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000068640539636,0.0000011224477277,0.0000228178702485
+Assam,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000071465546903,0.0000012564051984,0.0000217642177099
+Assam,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000076793452916,0.0000012454643893,0.0000245689874853
+Assam,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000083321104279,0.0000012493154883,0.000027885664385
+Assam,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000089749045814,0.0000010771825059,0.0000333435728888
+Assam,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000097250745927,9.975288568e-7,0.00003840829974
+Assam,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000101798220263,0.000001076097237,0.0000423004046359
+Bihar,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Bihar,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.35494995e-8,1.9552937e-9,1.007076169e-7
+Bihar,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,8.92224926e-8,8.7767407e-9,3.731597909e-7
+Bihar,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.901574261e-7,1.8143676e-8,7.479212996e-7
+Bihar,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.194144042e-7,2.53487942e-8,0.000001201819364
+Bihar,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.70010192e-7,1.92051833e-8,0.0000021768862239
+Bihar,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,7.64063218e-7,5.25341121e-8,0.0000031288558271
+Bihar,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000012730153121,1.231842484e-7,0.0000049189536918
+Bihar,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000019127109693,2.213868436e-7,0.0000075086716487
+Bihar,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000025983693298,3.148333999e-7,0.0000094808740262
+Bihar,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000032457415473,3.898128211e-7,0.0000120405191187
+Bihar,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000039089206274,6.263054996e-7,0.0000128195515822
+Bihar,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000004673992768,8.631960703e-7,0.0000142273883664
+Bihar,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000054713514059,0.0000011562843385,0.0000153321712974
+Bihar,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000062321481162,0.0000014132720461,0.0000163143141438
+Bihar,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000068841761044,0.0000014721796649,0.00001740787531
+Bihar,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000074684332544,0.0000019536046284,0.0000174929366169
+Bihar,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000080219928254,0.0000021413204957,0.0000181897014429
+Bihar,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000085407352375,0.0000023947123196,0.0000192477473967
+Bihar,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000090200444204,0.0000023631515858,0.0000210293397164
+Bihar,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000094543797919,0.0000021981795124,0.0000239428024498
+Bihar,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000098345539964,0.0000026059291381,0.0000244511322365
+Bihar,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000101733725371,0.0000026866113151,0.0000241025087187
+Bihar,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000105068624444,0.0000027509794077,0.0000260277394374
+Bihar,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000108707043961,0.0000026110802761,0.0000278976363706
+Bihar,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000112996694281,0.000002459566196,0.0000305260599594
+Bihar,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000119370880143,0.0000026945921061,0.000032186349605
+Bihar,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.00001277821239,0.000002654237458,0.0000354358925728
+Bihar,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000136730389171,0.0000025675632712,0.0000405081980917
+Bihar,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000014473919363,0.0000023848688611,0.0000433071439071
+Bihar,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000152392695324,0.0000023715769361,0.0000455097409747
+Bihar,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000154967684956,0.0000020795647854,0.0000480462974743
+Chhattisgarh,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Chhattisgarh,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.93708222e-8,2.6385208e-9,2.73751518e-7
+Chhattisgarh,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.73431291e-7,1.22207845e-8,9.398226673e-7
+Chhattisgarh,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.585609002e-7,2.64278623e-8,0.0000018572657355
+Chhattisgarh,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.909649208e-7,3.99166465e-8,0.0000029457251538
+Chhattisgarh,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,8.566597878e-7,2.94801028e-8,0.000005000086702
+Chhattisgarh,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000013403669845,7.96485199e-8,0.000007194277483
+Chhattisgarh,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000021354211117,1.835516833e-7,0.0000105808659745
+Chhattisgarh,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000030927069683,2.783777424e-7,0.0000148329590823
+Chhattisgarh,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000040623738731,3.870028302e-7,0.0000187985514511
+Chhattisgarh,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000048957789781,4.406004139e-7,0.0000217471796341
+Chhattisgarh,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000005651625719,7.030712399e-7,0.0000215216925698
+Chhattisgarh,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000064630841097,9.877629834e-7,0.0000217634084393
+Chhattisgarh,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000072566181835,0.0000012594802154,0.000022298850611
+Chhattisgarh,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000079606806102,0.000001418787674,0.0000240694402812
+Chhattisgarh,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000085010597588,0.0000014072640797,0.0000275952124448
+Chhattisgarh,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000089458052346,0.0000017862894717,0.0000277665875511
+Chhattisgarh,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000093662311256,0.0000019872992878,0.0000289492108405
+Chhattisgarh,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000097532866126,0.0000021104269117,0.0000286578002436
+Chhattisgarh,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000100975000436,0.0000020535660137,0.0000313426357737
+Chhattisgarh,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000103916810577,0.0000019367797522,0.0000351103553312
+Chhattisgarh,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000106345680604,0.0000020970023859,0.0000320922878339
+Chhattisgarh,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000108544824558,0.0000021681212861,0.0000311673994602
+Chhattisgarh,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000011070521021,0.0000021583001051,0.0000326543435407
+Chhattisgarh,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000113031070803,0.0000021609767666,0.0000337051378796
+Chhattisgarh,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000115733842197,0.0000019876570658,0.0000386314679014
+Chhattisgarh,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000120090869312,0.0000020792689308,0.0000389940110827
+Chhattisgarh,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000126248498702,0.0000020031238681,0.0000417989275897
+Chhattisgarh,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000132851610875,0.000001929105872,0.0000435503585883
+Chhattisgarh,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000138603971999,0.0000016878963535,0.0000483237763943
+Chhattisgarh,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000144306623199,0.0000015703767084,0.0000533522824095
+Chhattisgarh,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000014624266354,0.0000014187236003,0.0000540096700144
+Delhi,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Delhi,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.52598378e-8,1.4435783e-9,1.335147346e-7
+Delhi,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,8.41949956e-8,6.6825179e-9,4.348283132e-7
+Delhi,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.71561774e-7,1.4135703e-8,8.161702848e-7
+Delhi,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.818643969e-7,2.17379575e-8,0.0000014656399512
+Delhi,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.094056887e-7,1.37736274e-8,0.0000024058500139
+Delhi,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,6.520620541e-7,3.9351482e-8,0.0000031709742686
+Delhi,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000010685886088,9.5950055e-8,0.0000048662411495
+Delhi,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000001598108483,1.684354913e-7,0.0000068220675786
+Delhi,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000021800794903,2.559187594e-7,0.0000091539071742
+Delhi,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000027563156607,2.723193781e-7,0.0000107530145211
+Delhi,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034187611185,4.670194075e-7,0.0000125505986471
+Delhi,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000042278615795,6.656623756e-7,0.0000145525122314
+Delhi,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000050396252789,8.701760796e-7,0.0000158407113412
+Delhi,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000057189293231,0.0000010110978329,0.0000180809020117
+Delhi,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000061337250407,0.0000010021397831,0.0000210500206494
+Delhi,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000063623102382,0.0000011801511858,0.000019598745317
+Delhi,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000065411719061,0.0000013098147561,0.0000203522080486
+Delhi,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000066868995466,0.0000013925897987,0.0000207170560609
+Delhi,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000068127223868,0.0000013784724985,0.000021031473651
+Delhi,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000069303525404,0.0000013359779733,0.0000212977317946
+Delhi,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000070317289938,0.0000014889000262,0.0000211484171512
+Delhi,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000071268411272,0.0000014496178525,0.0000221722309987
+Delhi,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000072326225033,0.0000014051941353,0.0000213601449701
+Delhi,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000073696572748,0.0000012473273844,0.000022200755026
+Delhi,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000075584231559,0.000001071275338,0.000024718327175
+Delhi,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000080155110736,0.000001317957431,0.00002480212457
+Delhi,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000088048061627,0.0000013076859908,0.0000286473568312
+Delhi,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000009741703817,0.0000013295479496,0.0000341001798154
+Delhi,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000106371597079,0.0000011371700658,0.0000379720755775
+Delhi,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000115404311549,0.0000011270335461,0.0000439227117966
+Delhi,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000128713613287,0.0000011219721808,0.0000504649438396
+Goa,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Goa,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,9.7693606e-9,6.207888e-10,5.11580628e-8
+Goa,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.700996e-8,2.7963204e-9,1.836828225e-7
+Goa,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,7.92124919e-8,6.3615761e-9,3.829928313e-7
+Goa,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.338153078e-7,1.05924873e-8,6.128532208e-7
+Goa,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.982099039e-7,6.6097988e-9,9.197287055e-7
+Goa,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.355735244e-7,1.97642013e-8,0.0000013871965471
+Goa,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.820905368e-7,5.08348313e-8,0.0000023424880811
+Goa,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,8.962953187e-7,9.07618691e-8,0.0000034100454885
+Goa,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000012366110146,1.392597379e-7,0.0000047642657363
+Goa,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000001562428247,1.45766018e-7,0.0000060744038485
+Goa,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000019233973742,2.417730942e-7,0.0000069506357905
+Goa,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000023545472069,3.348784737e-7,0.0000081011142066
+Goa,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000027751724714,3.871132014e-7,0.0000091885579197
+Goa,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000031065373728,3.983648107e-7,0.0000103006609425
+Goa,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000032684721016,4.062473823e-7,0.000011944662765
+Goa,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000033137488212,4.039838647e-7,0.0000115248730709
+Goa,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000033368794892,4.057585518e-7,0.000011735552433
+Goa,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000033470217108,3.765328279e-7,0.0000121266980939
+Goa,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000033528999291,3.467024786e-7,0.0000127033015129
+Goa,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000003362842803,2.613421611e-7,0.0000143769538637
+Goa,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000033756471635,2.544639521e-7,0.0000144011394383
+Goa,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000033904836474,2.598193965e-7,0.0000138752714613
+Goa,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034101669002,2.484537434e-7,0.0000138701120213
+Goa,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034399884474,2.160137363e-7,0.0000144568949878
+Goa,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034847274758,1.880411146e-7,0.0000155731545927
+Goa,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000035844149016,2.174996476e-7,0.0000155175270613
+Goa,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000037371054541,2.271265548e-7,0.0000154595034165
+Goa,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000003899725786,2.310156044e-7,0.000016437501406
+Goa,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000040284453334,2.318196346e-7,0.0000187854907657
+Goa,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000041481884464,2.068460481e-7,0.0000191842564076
+Goa,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000041584924362,2.236728012e-7,0.0000210564581876
+Gujarat,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Gujarat,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.85585282e-8,1.0402024e-9,9.1501691e-8
+Gujarat,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,6.78060088e-8,5.0160691e-9,2.971664973e-7
+Gujarat,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.428285669e-7,1.25687848e-8,6.093320258e-7
+Gujarat,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.386470401e-7,2.05094488e-8,0.0000011224830376
+Gujarat,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.502480418e-7,1.38967343e-8,0.0000018559398499
+Gujarat,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.696417342e-7,3.96680936e-8,0.0000025388884103
+Gujarat,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,9.480574342e-7,8.93925902e-8,0.0000036560122566
+Gujarat,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000014202959625,1.549543128e-7,0.0000052635588587
+Gujarat,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000001921120449,2.15651966e-7,0.0000069047263966
+Gujarat,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000023865288511,2.489709106e-7,0.0000092508231669
+Gujarat,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000028870263435,3.878874531e-7,0.0000100447446477
+Gujarat,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034778790274,4.97889506e-7,0.000010771208657
+Gujarat,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000040452351282,6.567598529e-7,0.0000117858941428
+Gujarat,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000044779731445,8.293551538e-7,0.0000128711103119
+Gujarat,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000046667123218,7.921945857e-7,0.0000138398945664
+Gujarat,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000046986748177,9.885055359e-7,0.0000138025659115
+Gujarat,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000047094790258,0.0000010483233981,0.0000130000336006
+Gujarat,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000047106504918,0.0000010659756869,0.0000127024733355
+Gujarat,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000047121196281,0.0000010497415189,0.0000129938475721
+Gujarat,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000047233887555,9.628742342e-7,0.0000139281037152
+Gujarat,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000047563622902,0.0000011503811789,0.0000136433168296
+Gujarat,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000048195790639,0.0000011898536743,0.0000136705741615
+Gujarat,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000049107373231,0.0000011192576627,0.0000133798570264
+Gujarat,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000050286052361,0.0000010298517818,0.0000139738457587
+Gujarat,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000051717446359,9.123478015e-7,0.0000155174665255
+Gujarat,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000054758808762,0.0000010678638425,0.0000162554158314
+Gujarat,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000059966778746,0.0000010834901942,0.0000181674901534
+Gujarat,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000066164798023,0.0000010525097034,0.0000211549980425
+Gujarat,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000072182417525,9.276924537e-7,0.0000246689646137
+Gujarat,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000078900171431,8.867878608e-7,0.0000268705546746
+Gujarat,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000082791062269,7.980894641e-7,0.0000304354438453
+Haryana,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Haryana,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.1808115e-9,3.680624e-10,2.84345073e-8
+Haryana,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.00866948e-8,1.9662589e-9,1.005431825e-7
+Haryana,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.37602198e-8,4.3202966e-9,2.044488633e-7
+Haryana,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,7.5243459e-8,6.3849624e-9,3.634775969e-7
+Haryana,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.135895763e-7,4.7577958e-9,6.430976933e-7
+Haryana,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.200942584e-7,1.44808477e-8,9.62305217e-7
+Haryana,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.3579778e-7,3.69104088e-8,0.0000016586589219
+Haryana,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,7.300855233e-7,7.25347227e-8,0.0000028476417936
+Haryana,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000010723043764,9.94665133e-8,0.0000041540196552
+Haryana,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000014319446272,1.213361729e-7,0.0000059883980643
+Haryana,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000018968653236,2.117731114e-7,0.0000073204936194
+Haryana,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000025144076342,3.1522753e-7,0.0000086100428447
+Haryana,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000031754544093,4.343661891e-7,0.0000102461892468
+Haryana,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000037727377838,5.103879235e-7,0.000011534872423
+Haryana,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000041975396231,5.202352904e-7,0.0000134126452112
+Haryana,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000044876321211,6.678564964e-7,0.0000133693252417
+Haryana,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000047361988241,7.647996157e-7,0.0000134459043811
+Haryana,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000049526166882,8.475107484e-7,0.0000136309450274
+Haryana,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000051432187891,7.766509071e-7,0.0000149001998692
+Haryana,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000053145925397,6.101952649e-7,0.000016500641722
+Haryana,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000054670832571,7.483393257e-7,0.0000162618632033
+Haryana,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000056160563081,7.843154923e-7,0.0000165229905571
+Haryana,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000057626631215,7.700833387e-7,0.000017192052587
+Haryana,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000059099898872,7.641146688e-7,0.000018187631269
+Haryana,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000060609355326,6.478993282e-7,0.000020124567682
+Haryana,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000062586335344,6.693581964e-7,0.0000198392504478
+Haryana,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000065125933491,6.690100927e-7,0.0000204214465204
+Haryana,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000067888663671,5.839771701e-7,0.000023080670951
+Haryana,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000070527906007,4.676384791e-7,0.00002627993679
+Haryana,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000073570602825,4.151825136e-7,0.0000291092771798
+Haryana,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000073636349612,3.586186735e-7,0.0000297005889359
+Himachal Pradesh,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Himachal Pradesh,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.99905617e-8,1.5763876e-9,2.017042108e-7
+Himachal Pradesh,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.034778826e-7,7.3445125e-9,5.853277281e-7
+Himachal Pradesh,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.113912454e-7,1.45076517e-8,0.0000010886172255
+Himachal Pradesh,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.44529323e-7,1.8685871e-8,0.0000019587659377
+Himachal Pradesh,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.937033753e-7,1.44439022e-8,0.0000034297717154
+Himachal Pradesh,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,7.576962935e-7,2.83414968e-8,0.0000045474060861
+Himachal Pradesh,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000011737028989,5.15378209e-8,0.0000063266936568
+Himachal Pradesh,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000016415207416,8.25773344e-8,0.0000084023850088
+Himachal Pradesh,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000020608132512,1.146934052e-7,0.0000100839150162
+Himachal Pradesh,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000023319245712,1.490669679e-7,0.0000113475447264
+Himachal Pradesh,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000002482538688,1.915233529e-7,0.0000112468552075
+Himachal Pradesh,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000026220942481,2.607547629e-7,0.0000114270396001
+Himachal Pradesh,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000027416447841,3.048090476e-7,0.0000108904495884
+Himachal Pradesh,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000028330665522,3.347102364e-7,0.0000111069413028
+Himachal Pradesh,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000028863429176,3.176039021e-7,0.0000116417022692
+Himachal Pradesh,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000029222736555,3.776634085e-7,0.0000107425850673
+Himachal Pradesh,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000029465318901,4.345360772e-7,0.0000104942763882
+Himachal Pradesh,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000029668084032,4.435321709e-7,0.0000108619638207
+Himachal Pradesh,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000029904327881,4.089563473e-7,0.0000116960663327
+Himachal Pradesh,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000030251174293,3.901095062e-7,0.0000125213022282
+Himachal Pradesh,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000030861587549,4.340959665e-7,0.0000122064920895
+Himachal Pradesh,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000031809051637,4.578129051e-7,0.0000124080035821
+Himachal Pradesh,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000032979756561,4.670605017e-7,0.0000123251463597
+Himachal Pradesh,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034269163986,4.554481366e-7,0.0000125770218582
+Himachal Pradesh,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000035570314573,3.7649086e-7,0.000014058711311
+Himachal Pradesh,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000037230789776,4.156357039e-7,0.0000153503473778
+Himachal Pradesh,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000039356224646,4.072412674e-7,0.0000154474066084
+Himachal Pradesh,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000041615649341,3.729915058e-7,0.0000164090804765
+Himachal Pradesh,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000043672192201,3.432731255e-7,0.0000188538710538
+Himachal Pradesh,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000045999829579,3.124586832e-7,0.0000207116247753
+Himachal Pradesh,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000046545897809,3.106231787e-7,0.000023305221513
+Jammu & Kashmir and Ladakh,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Jammu & Kashmir and Ladakh,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.2058895e-9,1.801817e-10,2.3402066e-8
+Jammu & Kashmir and Ladakh,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.36926411e-8,8.901485e-10,6.96796737e-8
+Jammu & Kashmir and Ladakh,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.73393104e-8,1.9605461e-9,1.290905261e-7
+Jammu & Kashmir and Ladakh,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.40206248e-8,3.0199953e-9,2.156019232e-7
+Jammu & Kashmir and Ladakh,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,6.26192621e-8,1.8538724e-9,3.487756441e-7
+Jammu & Kashmir and Ladakh,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,9.1918208e-8,4.8443159e-9,4.937561979e-7
+Jammu & Kashmir and Ladakh,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.362868618e-7,1.01111449e-8,6.815618425e-7
+Jammu & Kashmir and Ladakh,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.881479942e-7,1.69302565e-8,8.998963024e-7
+Jammu & Kashmir and Ladakh,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.397551326e-7,2.21129152e-8,0.0000010573954702
+Jammu & Kashmir and Ladakh,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.833024462e-7,2.67727006e-8,0.0000012389784573
+Jammu & Kashmir and Ladakh,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.233856994e-7,3.75561756e-8,0.0000012950975914
+Jammu & Kashmir and Ladakh,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.669192101e-7,5.00557722e-8,0.0000013774010686
+Jammu & Kashmir and Ladakh,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.065749106e-7,5.46920616e-8,0.0000014935635071
+Jammu & Kashmir and Ladakh,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.353056913e-7,5.93673892e-8,0.0000016432857918
+Jammu & Kashmir and Ladakh,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.459224698e-7,5.2709035e-8,0.0000016578534482
+Jammu & Kashmir and Ladakh,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.349453632e-7,5.8419366e-8,0.0000016631644983
+Jammu & Kashmir and Ladakh,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.079008762e-7,5.65927397e-8,0.0000016031729497
+Jammu & Kashmir and Ladakh,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.750346531e-7,4.93005364e-8,0.0000014331966497
+Jammu & Kashmir and Ladakh,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.46478706e-7,3.83323787e-8,0.0000013649638831
+Jammu & Kashmir and Ladakh,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.323062347e-7,3.10090889e-8,0.0000013652625865
+Jammu & Kashmir and Ladakh,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.298927204e-7,2.84272192e-8,0.0000013273525906
+Jammu & Kashmir and Ladakh,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.300892948e-7,3.11915926e-8,0.0000014176772908
+Jammu & Kashmir and Ladakh,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.323244262e-7,2.86044155e-8,0.0000013472796922
+Jammu & Kashmir and Ladakh,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.362647846e-7,2.62346365e-8,0.0000014644452235
+Jammu & Kashmir and Ladakh,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.414843844e-7,2.30114685e-8,0.0000017529063425
+Jammu & Kashmir and Ladakh,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.558854226e-7,2.70525072e-8,0.0000018172575833
+Jammu & Kashmir and Ladakh,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.808171418e-7,2.8436102e-8,0.000002038860771
+Jammu & Kashmir and Ladakh,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.077186055e-7,2.66267106e-8,0.000002062795661
+Jammu & Kashmir and Ladakh,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.280061116e-7,2.20601476e-8,0.0000022387628713
+Jammu & Kashmir and Ladakh,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.434075607e-7,2.05265731e-8,0.0000022021929703
+Jammu & Kashmir and Ladakh,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.540793599e-7,2.06621361e-8,0.0000026283454942
+Jharkhand,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Jharkhand,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.0354472e-8,1.4170881e-9,1.50958771e-7
+Jharkhand,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.044845324e-7,6.498152e-9,6.385890023e-7
+Jharkhand,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.147593422e-7,1.43414489e-8,0.0000011918952036
+Jharkhand,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.535541314e-7,2.22814227e-8,0.0000019265286318
+Jharkhand,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.132051918e-7,1.96312065e-8,0.0000030009755053
+Jharkhand,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,8.106747813e-7,5.17434853e-8,0.0000041552376615
+Jharkhand,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000013115647683,1.116587542e-7,0.0000059353232857
+Jharkhand,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000001931486724,1.963515893e-7,0.0000088063613801
+Jharkhand,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000025856781738,2.713209294e-7,0.0000116442330071
+Jharkhand,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000031902957168,3.189369258e-7,0.0000143524531893
+Jharkhand,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000037987693631,5.354769742e-7,0.0000147804677913
+Jharkhand,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000044947003706,6.855535208e-7,0.0000150137010259
+Jharkhand,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000051907238395,8.542261663e-7,0.0000161735128605
+Jharkhand,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000058010703942,0.0000010205656056,0.0000173876201879
+Jharkhand,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000062372820291,0.0000010364694872,0.0000186748027993
+Jharkhand,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000065557405873,0.0000013209426315,0.0000187447790692
+Jharkhand,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000006823066219,0.0000015195031657,0.0000180613939182
+Jharkhand,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000070519748883,0.0000015219734462,0.0000193824649308
+Jharkhand,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000072542175646,0.0000015407952287,0.0000201140519688
+Jharkhand,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.00000744030079,0.0000014470526764,0.0000218745757498
+Jharkhand,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000076142685779,0.0000017026611721,0.0000207008511336
+Jharkhand,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000077852272307,0.0000018860930462,0.0000203411870679
+Jharkhand,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000079716821304,0.000001814111334,0.0000194403276918
+Jharkhand,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000008194652688,0.000001879163949,0.0000208023122456
+Jharkhand,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000084739808584,0.0000016632854658,0.0000223288298844
+Jharkhand,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000090224497871,0.0000018373351924,0.0000238397834148
+Jharkhand,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000098871637871,0.0000017775778384,0.0000286307917406
+Jharkhand,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000108826220934,0.0000018506468503,0.0000335664693143
+Jharkhand,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000118211523906,0.0000015982928982,0.0000398897710518
+Jharkhand,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000012753692357,0.0000016402468199,0.0000453805974014
+Jharkhand,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000131658478973,0.0000014581533699,0.000045530857398
+Karnataka,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Karnataka,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.3833028e-9,2.161914e-10,1.76846435e-8
+Karnataka,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.29405349e-8,1.0239885e-9,6.4560257e-8
+Karnataka,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.77726522e-8,2.3314982e-9,1.313743104e-7
+Karnataka,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.69622686e-8,3.5931984e-9,2.308472421e-7
+Karnataka,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,6.95814269e-8,2.5301156e-9,4.077210447e-7
+Karnataka,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.166811247e-7,8.0472427e-9,5.667063137e-7
+Karnataka,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.012605725e-7,1.80729334e-8,8.154310738e-7
+Karnataka,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.103352158e-7,3.145705e-8,0.0000012439168281
+Karnataka,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.309907001e-7,4.20569438e-8,0.0000019232791224
+Karnataka,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.504792255e-7,4.52707401e-8,0.0000025855554789
+Karnataka,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,6.964758252e-7,7.00557003e-8,0.0000031301877652
+Karnataka,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,8.807440025e-7,9.17446488e-8,0.0000034286888617
+Karnataka,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000010631985417,1.084412647e-7,0.0000041182911024
+Karnataka,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000012035016116,1.325382677e-7,0.000004770323977
+Karnataka,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000001260431326,1.318579377e-7,0.0000050467965399
+Karnataka,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000012525908439,1.598572313e-7,0.00000488959275
+Karnataka,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000012268579425,1.647428223e-7,0.0000047097579937
+Karnataka,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000001192749537,1.634079308e-7,0.0000046742978058
+Karnataka,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000011593285732,1.631896556e-7,0.0000042869625455
+Karnataka,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000011357908434,1.31926785e-7,0.000004381260853
+Karnataka,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000011148839496,1.356992482e-7,0.000004020429274
+Karnataka,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000010888763856,1.282926065e-7,0.0000036406399424
+Karnataka,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000010641180566,1.17029391e-7,0.0000037761191793
+Karnataka,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.00000104727694,1.0531484e-7,0.0000041941480148
+Karnataka,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000010450064161,8.99371662e-8,0.0000045291607063
+Karnataka,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000010939166708,9.72743557e-8,0.0000049641315563
+Karnataka,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000012054207492,1.002654399e-7,0.0000052403268609
+Karnataka,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000013493610035,1.003392579e-7,0.0000062464513415
+Karnataka,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000001495657352,9.39735636e-8,0.0000077570737127
+Karnataka,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000016816771109,9.1461564e-8,0.0000096364812347
+Karnataka,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000018402584009,9.15968607e-8,0.0000110005194167
+Kerala,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Kerala,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.19487333e-8,5.753656e-10,6.459677e-8
+Kerala,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.34072483e-8,2.4797518e-9,2.153774469e-7
+Kerala,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,9.12362691e-8,5.7108066e-9,3.989736323e-7
+Kerala,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.522287022e-7,9.6309671e-9,7.518587607e-7
+Kerala,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.2312275e-7,7.142271e-9,0.0000013042580593
+Kerala,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.641088245e-7,2.1766331e-8,0.0000018037455898
+Kerala,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,6.096998181e-7,5.5477905e-8,0.0000024403137088
+Kerala,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,9.183116381e-7,1.022918896e-7,0.0000036705156925
+Kerala,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000012484448621,1.401457037e-7,0.0000046866065777
+Kerala,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000015598836512,1.540545756e-7,0.0000061710498318
+Kerala,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000018817353219,2.451482763e-7,0.0000065211466034
+Kerala,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000022506428843,3.623918079e-7,0.0000071503996639
+Kerala,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000026185317344,4.445187573e-7,0.0000077526348864
+Kerala,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000002937562214,4.754320676e-7,0.0000089677616588
+Kerala,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000031579847317,4.767534345e-7,0.0000103151969317
+Kerala,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000033165606494,5.779120772e-7,0.0000096847747437
+Kerala,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034605509294,6.449748302e-7,0.0000097490846304
+Kerala,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000035808819876,7.139949098e-7,0.0000105434152374
+Kerala,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000036700859249,7.423691427e-7,0.0000112550134698
+Kerala,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000037221389093,7.01081456e-7,0.0000122052236596
+Kerala,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000037398047695,6.994214909e-7,0.0000122182385896
+Kerala,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000003739167516,7.00976029e-7,0.0000117170617196
+Kerala,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000037341793174,7.118246611e-7,0.000011566295593
+Kerala,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000037391786467,6.970387498e-7,0.0000118714330035
+Kerala,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000037666478898,6.190060233e-7,0.0000116872196514
+Kerala,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000039201440266,6.997715378e-7,0.0000121418457011
+Kerala,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000042263983456,6.970403201e-7,0.0000126195980555
+Kerala,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000046016013779,6.259714877e-7,0.0000145879243958
+Kerala,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000049604084628,5.20585679e-7,0.0000175562159717
+Kerala,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000053458833983,5.094332292e-7,0.0000193517476464
+Kerala,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000054589405173,5.342260389e-7,0.000020104147577
+Madhya Pradesh,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Madhya Pradesh,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.84254747e-8,1.4345985e-9,1.356197771e-7
+Madhya Pradesh,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.030035233e-7,7.144638e-9,4.97086607e-7
+Madhya Pradesh,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.16026452e-7,1.49352204e-8,9.548088417e-7
+Madhya Pradesh,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.596373359e-7,2.43937767e-8,0.0000015853906828
+Madhya Pradesh,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.259522063e-7,1.8275919e-8,0.0000027930766097
+Madhya Pradesh,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,8.463421222e-7,5.67957625e-8,0.0000041374295795
+Madhya Pradesh,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000013921743317,1.277063929e-7,0.00000677151773
+Madhya Pradesh,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000020687019884,2.175866199e-7,0.0000098113711158
+Madhya Pradesh,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.00000278212786,3.159734089e-7,0.0000117860542673
+Madhya Pradesh,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034409387591,3.877883455e-7,0.0000148526208659
+Madhya Pradesh,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000040954031034,6.132637437e-7,0.0000156791511826
+Madhya Pradesh,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000048475459548,8.411688488e-7,0.0000163680742744
+Madhya Pradesh,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000056107883895,0.0000010815814246,0.0000170600908317
+Madhya Pradesh,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000063018046908,0.0000012273718591,0.0000181631077257
+Madhya Pradesh,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000068335684671,0.0000012918836218,0.0000206439243253
+Madhya Pradesh,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000072763044558,0.0000015983218571,0.0000204657760372
+Madhya Pradesh,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000007662101169,0.0000017381934897,0.0000198896659402
+Madhya Pradesh,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000079995278986,0.0000018313569,0.0000198696069793
+Madhya Pradesh,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000082960533425,0.0000019033793052,0.0000213370871751
+Madhya Pradesh,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000085610446419,0.0000017469865377,0.0000236790219526
+Madhya Pradesh,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000087886263094,0.000002037919335,0.0000222719924199
+Madhya Pradesh,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000008997649407,0.0000022011976851,0.0000220032919903
+Madhya Pradesh,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000092177203915,0.000002268808619,0.0000243320823031
+Madhya Pradesh,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000094803217018,0.000002209266812,0.0000259264535364
+Madhya Pradesh,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000098126713045,0.0000020156399502,0.0000278943205078
+Madhya Pradesh,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000104214719131,0.0000022131844963,0.0000280303781112
+Madhya Pradesh,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000113496913295,0.0000022117464211,0.0000326811117946
+Madhya Pradesh,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000123967980194,0.0000020483917015,0.000038485964813
+Madhya Pradesh,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000133627087198,0.0000017187197722,0.0000456730535312
+Madhya Pradesh,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000142816106891,0.0000014717529134,0.0000489307063292
+Madhya Pradesh,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000015063431696,0.0000014158318567,0.000049306777849
+Maharashtra,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Maharashtra,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.14332159e-8,1.7533541e-9,1.761625755e-7
+Maharashtra,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.126446167e-7,9.8222892e-9,5.429692524e-7
+Maharashtra,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.350075192e-7,2.14782227e-8,9.98638291e-7
+Maharashtra,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.898612288e-7,3.09878144e-8,0.0000018312645184
+Maharashtra,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.684935059e-7,2.08096637e-8,0.0000030961949399
+Maharashtra,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,9.096142698e-7,5.72100384e-8,0.0000042796819234
+Maharashtra,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000014884933869,1.220374411e-7,0.0000062119418905
+Maharashtra,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000022024434839,2.259170537e-7,0.0000082065018356
+Maharashtra,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000029475617278,3.329274334e-7,0.0000108573243242
+Maharashtra,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000036199328499,4.285167165e-7,0.0000131762232884
+Maharashtra,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000042539572457,6.386116988e-7,0.0000143730708205
+Maharashtra,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000049478116597,9.129093672e-7,0.0000132194854842
+Maharashtra,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000056440141161,0.0000011867780669,0.0000142873839428
+Maharashtra,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000062880674603,0.0000014546639184,0.0000150359299054
+Maharashtra,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000068220968435,0.0000015599861931,0.0000155671126011
+Maharashtra,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000072886269446,0.0000019150327683,0.0000155313731463
+Maharashtra,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000077165650344,0.0000021611050136,0.0000156790675961
+Maharashtra,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000081111336937,0.0000023697507734,0.0000172356169805
+Maharashtra,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000084773093982,0.0000024251185001,0.0000191927152729
+Maharashtra,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000088210669505,0.0000023691980067,0.0000216125829519
+Maharashtra,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000091586770864,0.0000027134772738,0.0000215907927441
+Maharashtra,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000095077278639,0.0000028287895998,0.0000226715193086
+Maharashtra,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000098559530946,0.0000028529756278,0.000023564317161
+Maharashtra,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000101908945719,0.0000028641289815,0.0000256715176154
+Maharashtra,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000104988070366,0.0000025029044107,0.0000264534590153
+Maharashtra,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000108134919647,0.0000025431330462,0.0000268151492748
+Maharashtra,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000111518818182,0.0000026025846787,0.0000284043043736
+Maharashtra,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000114891669079,0.0000024204362211,0.0000324455658806
+Maharashtra,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000118021496956,0.0000020560518077,0.0000354125922204
+Maharashtra,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000122022327132,0.0000019599127362,0.0000378562532848
+Maharashtra,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000122244581496,0.0000019701962382,0.0000403501683597
+Manipur,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Manipur,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.9479831e-8,9.747553e-10,1.101777794e-7
+Manipur,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,6.84752953e-8,4.2809551e-9,3.714234042e-7
+Manipur,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.422871323e-7,8.9221576e-9,6.904847808e-7
+Manipur,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.360745057e-7,1.29515871e-8,0.0000012943566648
+Manipur,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.448649187e-7,1.02539148e-8,0.000002217105741
+Manipur,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.614704802e-7,3.13584898e-8,0.0000032367241056
+Manipur,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,9.365460614e-7,7.23381645e-8,0.0000044206965761
+Manipur,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000001402268571,1.326043979e-7,0.0000059692003673
+Manipur,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000018908813776,1.894267086e-7,0.0000072837159821
+Manipur,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000023365941472,2.384082539e-7,0.0000098905288509
+Manipur,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000027956013441,3.271510252e-7,0.0000103901468338
+Manipur,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000033316743852,4.263210591e-7,0.0000120322479941
+Manipur,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000038479710689,5.26948351e-7,0.0000129510043401
+Manipur,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000042500385224,5.996317819e-7,0.0000139217750352
+Manipur,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000044407411247,5.981675525e-7,0.0000162245417431
+Manipur,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000004501677925,6.049198563e-7,0.0000164183390337
+Manipur,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000045388883139,6.217726141e-7,0.0000166906439224
+Manipur,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000045614566495,5.958656143e-7,0.0000174314350341
+Manipur,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000045785014252,5.364240274e-7,0.0000179780968565
+Manipur,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000045986908814,4.486211002e-7,0.0000188987753065
+Manipur,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000046276535816,4.23781071e-7,0.0000192111857409
+Manipur,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000046642684599,4.016630346e-7,0.0000191488375891
+Manipur,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000047108082945,4.196990173e-7,0.0000184570142989
+Manipur,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000047719570971,3.872875013e-7,0.0000193683056974
+Manipur,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000004850988769,3.364363833e-7,0.0000201743595447
+Manipur,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000050135645907,3.703589438e-7,0.0000200553001799
+Manipur,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000052543992194,3.73298547e-7,0.0000204857089987
+Manipur,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000055099411339,3.94718243e-7,0.0000229606397519
+Manipur,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000057141961392,3.676027701e-7,0.0000249077194965
+Manipur,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000059070574135,3.521566632e-7,0.0000270832050916
+Manipur,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000058689731801,3.361649335e-7,0.0000269575927227
+Meghalaya,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Meghalaya,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,6.805428e-9,5.539694e-10,3.06912045e-8
+Meghalaya,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.65280588e-8,3.0025903e-9,1.248379323e-7
+Meghalaya,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.81300032e-8,5.8330378e-9,2.588587552e-7
+Meghalaya,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.005385392e-7,1.01046467e-8,4.529167535e-7
+Meghalaya,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.526128173e-7,6.3900563e-9,7.81029395e-7
+Meghalaya,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.016313548e-7,2.3012022e-8,0.0000012937714978
+Meghalaya,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,6.061011003e-7,5.41767262e-8,0.0000024448586137
+Meghalaya,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000010209312732,1.005930516e-7,0.0000040860619236
+Meghalaya,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000015006457386,1.396045355e-7,0.0000066151739534
+Meghalaya,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000020008043529,1.822975209e-7,0.0000098315931288
+Meghalaya,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000026338246602,2.830040674e-7,0.0000110498073238
+Meghalaya,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034658806102,4.33941001e-7,0.0000127846433498
+Meghalaya,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000043519722837,5.596661236e-7,0.0000160599482872
+Meghalaya,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000005149829506,6.545011768e-7,0.0000186261016367
+Meghalaya,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000057159740017,6.876681991e-7,0.000021399601969
+Meghalaya,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000061094212105,9.149061814e-7,0.0000214371369065
+Meghalaya,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000064429305777,9.7474836e-7,0.0000210431873487
+Meghalaya,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000067274654199,0.0000010109508773,0.0000223249135069
+Meghalaya,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000069747910601,9.906119012e-7,0.0000246876940415
+Meghalaya,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000071962325193,7.469366677e-7,0.0000265698052203
+Meghalaya,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000074028060173,9.852487464e-7,0.0000249102157321
+Meghalaya,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000075999461796,0.0000011825227464,0.0000233375327397
+Meghalaya,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000077985850959,0.0000011849165554,0.0000245928583041
+Meghalaya,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000080101293332,0.0000010435043463,0.0000266224933344
+Meghalaya,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000082433325624,8.05566513e-7,0.0000292782576494
+Meghalaya,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000085660428804,8.709571797e-7,0.0000293800016897
+Meghalaya,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000089669827217,7.954463282e-7,0.0000322274471568
+Meghalaya,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000093766105244,7.579511026e-7,0.0000368942489134
+Meghalaya,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000009725184189,5.558351689e-7,0.0000392259074438
+Meghalaya,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000010040971299,5.696087776e-7,0.0000403475688901
+Meghalaya,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000099839474129,5.52810044e-7,0.0000407662768894
+Mizoram,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Mizoram,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.54851676e-8,6.997202e-10,8.19381854e-8
+Mizoram,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.73770389e-8,3.7453652e-9,2.733649751e-7
+Mizoram,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.213976056e-7,8.4025124e-9,5.454939739e-7
+Mizoram,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.033846096e-7,1.24748673e-8,0.0000010252080346
+Mizoram,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.991817237e-7,1.1988968e-8,0.0000016593999147
+Mizoram,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.969304952e-7,3.62389641e-8,0.0000025928584805
+Mizoram,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,8.473918569e-7,7.54177182e-8,0.0000034503836552
+Mizoram,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000012913487788,1.359659621e-7,0.0000048374766897
+Mizoram,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000017698814118,1.849630445e-7,0.0000066024933528
+Mizoram,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000022253445479,2.039881036e-7,0.0000086412867861
+Mizoram,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000027252461787,3.242044965e-7,0.0000094701394969
+Mizoram,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000033137030528,4.675678924e-7,0.0000108228403474
+Mizoram,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000038861480831,5.576584592e-7,0.0000125700852587
+Mizoram,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000043400815752,6.343974174e-7,0.0000146031270817
+Mizoram,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000045727626472,6.326107263e-7,0.0000166380308969
+Mizoram,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000046568047563,6.724898767e-7,0.0000152837714845
+Mizoram,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000047124703014,6.199990166e-7,0.0000156747542237
+Mizoram,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000047489999765,6.077442643e-7,0.0000169846492382
+Mizoram,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000047747877087,5.86353153e-7,0.0000178758223149
+Mizoram,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000047982542431,4.745135695e-7,0.0000188533277142
+Mizoram,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000048253162412,4.674031623e-7,0.0000180919695864
+Mizoram,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000048586199909,4.532134312e-7,0.0000187093568545
+Mizoram,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000048957464126,4.198433601e-7,0.000018987632442
+Mizoram,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000049346414102,3.765009901e-7,0.000019765178101
+Mizoram,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000004972126775,3.082172859e-7,0.0000204373525813
+Mizoram,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000050297166646,3.396779929e-7,0.0000201827212577
+Mizoram,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000051112666838,3.450894289e-7,0.0000210388196264
+Mizoram,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000051970240273,3.505887282e-7,0.0000217651170242
+Mizoram,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000052665035134,3.352160555e-7,0.0000223609942818
+Mizoram,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000053716596915,3.500996452e-7,0.0000236418455707
+Mizoram,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000053530146562,3.670264998e-7,0.0000233400309354
+Nagaland,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Nagaland,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.94249262e-8,1.7586958e-9,1.391795882e-7
+Nagaland,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.050768783e-7,8.427872e-9,4.773796666e-7
+Nagaland,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.19667453e-7,1.86838362e-8,9.141122559e-7
+Nagaland,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.656363589e-7,2.69671121e-8,0.0000016625102539
+Nagaland,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.351650323e-7,2.28555892e-8,0.0000026507358526
+Nagaland,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,8.637505955e-7,6.49277137e-8,0.0000037985415244
+Nagaland,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000014286324474,1.447288453e-7,0.0000059658767551
+Nagaland,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000021356105493,2.698949262e-7,0.0000086916467489
+Nagaland,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000028899822786,3.837433032e-7,0.0000110922021812
+Nagaland,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000035984496028,4.555594111e-7,0.000014240261781
+Nagaland,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000043361109125,6.806514182e-7,0.0000148007823105
+Nagaland,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000051828817037,9.53963467e-7,0.0000160988214521
+Nagaland,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000060298989917,0.0000011774197425,0.0000182698049378
+Nagaland,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000067704201941,0.0000013605828156,0.0000194675680346
+Nagaland,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000072925728286,0.0000013549142948,0.0000214391241583
+Nagaland,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000007642290352,0.0000016047036093,0.0000214454924067
+Nagaland,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000079528103007,0.000001679890738,0.0000232321401872
+Nagaland,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000082243856734,0.000001739059426,0.0000239723816657
+Nagaland,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000084562017328,0.0000017198142357,0.0000251582819928
+Nagaland,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000008646284699,0.0000015782604191,0.0000267161581825
+Nagaland,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000088064287401,0.0000017320573222,0.0000259727310961
+Nagaland,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000089549033872,0.0000018404084639,0.0000257357897148
+Nagaland,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000090978376906,0.000001851450699,0.0000260042646181
+Nagaland,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000092446441633,0.0000017366052175,0.0000276187952427
+Nagaland,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000094038951189,0.0000015162371866,0.0000302307292275
+Nagaland,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000096621427874,0.0000016256474958,0.000029864256051
+Nagaland,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000010033099615,0.0000016732748337,0.0000319485465754
+Nagaland,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000104250960089,0.0000014918019102,0.000036907235139
+Nagaland,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000107417262516,0.0000012900135102,0.0000393755318022
+Nagaland,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000109977644022,0.0000012891378269,0.0000410965217301
+Nagaland,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000108006969412,0.000001075333546,0.0000400901936043
+Odisha,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Odisha,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,7.3122971e-9,5.324765e-10,3.59355369e-8
+Odisha,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.77769382e-8,2.5766847e-9,1.248785944e-7
+Odisha,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,6.00049695e-8,5.5582739e-9,2.627109956e-7
+Odisha,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.025551376e-7,7.9278418e-9,4.713986215e-7
+Odisha,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.539310526e-7,5.6903865e-9,8.226068829e-7
+Odisha,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.783191004e-7,2.06559321e-8,0.0000012264556847
+Odisha,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.200085626e-7,5.04642088e-8,0.0000020870598165
+Odisha,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,8.475663773e-7,9.14586476e-8,0.0000031772061269
+Odisha,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000012293783053,1.355252919e-7,0.0000045520586787
+Odisha,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000016344359953,1.440015124e-7,0.0000067502404347
+Odisha,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000021790961956,2.389540684e-7,0.0000080138000794
+Odisha,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000029174761187,3.67279138e-7,0.0000099297102467
+Odisha,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000037020310305,4.771610552e-7,0.000012130518892
+Odisha,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000043869906231,5.765892335e-7,0.0000146253296405
+Odisha,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000048250464669,5.853024957e-7,0.0000174250237269
+Odisha,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000050896355573,7.55740973e-7,0.0000169646264417
+Odisha,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000005314455011,9.223080121e-7,0.0000165001325044
+Odisha,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000055021407982,9.698833338e-7,0.0000172157248397
+Odisha,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000056548690752,9.34180765e-7,0.0000184203007907
+Odisha,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000057749604082,7.929207165e-7,0.0000200435652173
+Odisha,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000058690496469,9.192816992e-7,0.0000191030698564
+Odisha,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000059522121183,0.0000010031728817,0.0000181859327208
+Odisha,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000060359990014,0.0000010841694899,0.000017761604207
+Odisha,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000061329758696,0.0000010246407049,0.0000186599441219
+Odisha,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000062547835368,7.907108221e-7,0.0000207923067735
+Odisha,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000006552507959,8.273916383e-7,0.0000213644472603
+Odisha,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000070872500059,7.827562827e-7,0.0000241708455273
+Odisha,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000077576016436,7.120857768e-7,0.0000277077663709
+Odisha,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000084612199894,5.300196213e-7,0.0000340820338924
+Odisha,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000093687948508,5.122978198e-7,0.0000382446216524
+Odisha,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000096542502919,4.748767271e-7,0.0000403543185401
+Punjab,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Punjab,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.17331249e-8,7.159959e-10,5.86177438e-8
+Punjab,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.38386685e-8,3.0967177e-9,1.806307293e-7
+Punjab,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,9.29630044e-8,7.7127843e-9,3.80138533e-7
+Punjab,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.557193484e-7,1.11944497e-8,7.299952449e-7
+Punjab,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.286949844e-7,7.7856379e-9,0.0000011910432026
+Punjab,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.687936097e-7,2.08121434e-8,0.0000018393250771
+Punjab,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,6.076847284e-7,4.26265847e-8,0.0000026024563656
+Punjab,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,9.048776186e-7,7.53050931e-8,0.0000038497404512
+Punjab,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000012194067037,1.084810565e-7,0.0000051014533735
+Punjab,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000015105514045,1.312714557e-7,0.0000065371483968
+Punjab,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000018195295715,1.966277238e-7,0.0000065896782313
+Punjab,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000021866350296,2.661263026e-7,0.0000072077577753
+Punjab,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000025444784938,3.268907231e-7,0.0000083091548367
+Punjab,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000028266736046,3.716323047e-7,0.0000091473477901
+Punjab,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000002965854093,3.770629944e-7,0.0000094015150604
+Punjab,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000003016971048,4.58629475e-7,0.0000092188661308
+Punjab,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000030522636401,5.124776281e-7,0.0000089622045317
+Punjab,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000030772774895,5.308668834e-7,0.0000092415250705
+Punjab,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000030960587021,4.721593636e-7,0.0000093209787343
+Punjab,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000031126728639,4.622545245e-7,0.0000093744326102
+Punjab,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000031229686914,5.233847125e-7,0.0000093481570583
+Punjab,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000031320213542,5.360419071e-7,0.000010286055083
+Punjab,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000031466059151,5.184104811e-7,0.0000108474680052
+Punjab,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000003174321954,4.930440101e-7,0.0000112087256657
+Punjab,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000032225655955,4.296723042e-7,0.0000122031092212
+Punjab,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034141748623,4.850093744e-7,0.0000119616620888
+Punjab,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000037877015165,5.164517841e-7,0.000013709525906
+Punjab,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000042356802682,5.508884414e-7,0.0000162864312294
+Punjab,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000046494380689,5.259362778e-7,0.000018293478205
+Punjab,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000050568485255,4.977143711e-7,0.0000202029913992
+Punjab,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000054569343793,5.089125714e-7,0.000021297428799
+Rajasthan,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Rajasthan,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.29921871e-8,1.7776361e-9,1.583909826e-7
+Rajasthan,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.132684039e-7,8.5405275e-9,5.607428176e-7
+Rajasthan,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.334178529e-7,1.91926576e-8,0.000001118293159
+Rajasthan,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.859672103e-7,3.11920777e-8,0.0000017685178126
+Rajasthan,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.633829295e-7,2.67946565e-8,0.0000029569719887
+Rajasthan,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,9.161107444e-7,7.98334098e-8,0.0000044261551468
+Rajasthan,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000015349206206,1.918951317e-7,0.0000061404765906
+Rajasthan,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000002323541689,3.03172182e-7,0.0000086172203934
+Rajasthan,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000031854290871,4.297511124e-7,0.0000110088812043
+Rajasthan,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000040247681938,5.217300405e-7,0.0000137795600828
+Rajasthan,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000049013256176,7.724603297e-7,0.0000155895539991
+Rajasthan,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000059010212832,0.0000010007335087,0.0000159413565607
+Rajasthan,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000069389676,0.0000012495922535,0.0000187293545857
+Rajasthan,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000079329545087,0.0000015621301706,0.0000221469105335
+Rajasthan,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000087987304553,0.0000015768234118,0.0000247011553653
+Rajasthan,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000095988086377,0.0000021101983869,0.0000247986676684
+Rajasthan,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000010385735172,0.0000025302946468,0.0000271480236234
+Rajasthan,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000111173248013,0.0000028242407219,0.0000289349463495
+Rajasthan,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000117521320645,0.0000031856312642,0.0000312017623185
+Rajasthan,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000122499915165,0.000002746658488,0.0000336432217438
+Rajasthan,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000125961666859,0.0000032512842418,0.0000327133258198
+Rajasthan,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000128590726134,0.0000034966819306,0.0000329275844105
+Rajasthan,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000131085951302,0.0000034304037862,0.0000334313080888
+Rajasthan,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000134148753846,0.0000032220936371,0.0000340814205886
+Rajasthan,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000138445797201,0.0000029055414917,0.0000388272210768
+Rajasthan,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000147447128602,0.0000030216119751,0.000041682982217
+Rajasthan,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000161787383168,0.0000031064404816,0.0000488771293515
+Rajasthan,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000178065813774,0.0000031740602654,0.000055024018443
+Rajasthan,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000192909274942,0.0000030560288517,0.0000651013985648
+Rajasthan,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000207044009522,0.0000032263290976,0.0000720310313412
+Rajasthan,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000214066076363,0.0000029138328683,0.0000733126944202
+Sikkim,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Sikkim,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.7140234e-8,1.8451885e-9,1.41659185e-7
+Sikkim,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,9.72169115e-8,7.733242e-9,4.455462774e-7
+Sikkim,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.036776864e-7,1.69918516e-8,9.009924009e-7
+Sikkim,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.400762417e-7,2.40996426e-8,0.0000015651627946
+Sikkim,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.999843978e-7,1.87662321e-8,0.0000025735542994
+Sikkim,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,8.216931737e-7,5.20723632e-8,0.0000037440295664
+Sikkim,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000013871504149,1.287769296e-7,0.0000055913749529
+Sikkim,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000021076677901,2.258628765e-7,0.0000078245052619
+Sikkim,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000028930640455,3.392882745e-7,0.0000110890494997
+Sikkim,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000036525406931,4.03612523e-7,0.0000129360275079
+Sikkim,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000044594041262,5.961984703e-7,0.0000140744548218
+Sikkim,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000053957084314,8.564240993e-7,0.0000150312296076
+Sikkim,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000063546175773,0.0000011193957185,0.0000178787188264
+Sikkim,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000072333202254,0.0000012911769013,0.0000211218176723
+Sikkim,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000079243436496,0.0000012181528648,0.0000239440811893
+Sikkim,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000084718037749,0.0000015084916103,0.0000242253595613
+Sikkim,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000089748826509,0.0000017337040626,0.0000239940154147
+Sikkim,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000009442750359,0.0000018346047677,0.0000242331196473
+Sikkim,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000098789709839,0.0000019143146725,0.0000265086593272
+Sikkim,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000102840697046,0.0000019136109746,0.0000289177681406
+Sikkim,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000106487326757,0.0000021388708335,0.0000284103288654
+Sikkim,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000109879086583,0.0000023126389455,0.0000275793333213
+Sikkim,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000113186263906,0.0000021961128168,0.0000291149033312
+Sikkim,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000116653740429,0.0000021903798287,0.0000310539045377
+Sikkim,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000120529764766,0.0000018726380636,0.0000351817463651
+Sikkim,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000012614190804,0.0000021386860145,0.0000358767469382
+Sikkim,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000133699413442,0.0000020703810316,0.0000386286160628
+Sikkim,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000142041055117,0.0000020507506093,0.0000411853362462
+Sikkim,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000149914220212,0.0000019238095659,0.0000454155659516
+Sikkim,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000158458475999,0.000001899007754,0.0000487165156267
+Sikkim,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000158849638477,0.0000016981526408,0.0000501096758699
+Tamil Nadu,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Tamil Nadu,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.70850843e-8,1.7219544e-9,1.534473395e-7
+Tamil Nadu,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,9.76733073e-8,7.749398e-9,4.884643357e-7
+Tamil Nadu,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.036929364e-7,1.56062583e-8,9.355188042e-7
+Tamil Nadu,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.369786007e-7,2.34340419e-8,0.0000015951515993
+Tamil Nadu,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.893039869e-7,1.67262703e-8,0.0000027037932864
+Tamil Nadu,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,7.622275926e-7,4.43553328e-8,0.0000040874181808
+Tamil Nadu,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000012142641838,1.036643769e-7,0.000005459356944
+Tamil Nadu,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000017741285259,2.004422167e-7,0.0000074716570417
+Tamil Nadu,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000023697074569,2.82547934e-7,0.0000096526599958
+Tamil Nadu,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000029311574497,3.104368949e-7,0.000011559553507
+Tamil Nadu,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000035071227018,4.965874333e-7,0.0000128359548888
+Tamil Nadu,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000041631074484,6.681778946e-7,0.0000143944288985
+Tamil Nadu,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000048135174694,8.823800789e-7,0.0000149177067281
+Tamil Nadu,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000053747719639,0.0000010197116406,0.0000166459071846
+Tamil Nadu,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000057601312954,0.0000010615282654,0.0000175825906257
+Tamil Nadu,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000060320732049,0.0000013192922731,0.0000166636023407
+Tamil Nadu,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000062676453314,0.0000015204481723,0.0000166405920428
+Tamil Nadu,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000064688747488,0.0000017196610736,0.0000166752001918
+Tamil Nadu,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000066365443398,0.0000016790401576,0.0000181643415462
+Tamil Nadu,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000067696607964,0.0000014377347057,0.0000206164333403
+Tamil Nadu,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000068785898911,0.0000015922532732,0.0000213369988259
+Tamil Nadu,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000069841329299,0.0000016395675769,0.0000198283594091
+Tamil Nadu,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000070980049924,0.0000017589216641,0.000019949919927
+Tamil Nadu,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000072333605376,0.0000017453160211,0.0000209000518272
+Tamil Nadu,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000074006590018,0.0000015785756088,0.0000215085751888
+Tamil Nadu,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000007728827246,0.0000017243348253,0.0000220376855026
+Tamil Nadu,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000082465578328,0.0000017069883247,0.000023223468828
+Tamil Nadu,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000088603862051,0.0000015002992654,0.0000263897527658
+Tamil Nadu,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000094752784344,0.0000012280771195,0.0000315238921392
+Tamil Nadu,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000102199838437,0.0000012650385302,0.0000356970836443
+Tamil Nadu,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000107722571223,0.0000012311990841,0.0000378634763896
+Telangana,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Telangana,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.6776527e-9,2.799653e-10,1.77118799e-8
+Telangana,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.42932267e-8,1.2720383e-9,6.18380178e-8
+Telangana,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.12191886e-8,2.9056532e-9,1.437760007e-7
+Telangana,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.38213728e-8,4.8363318e-9,2.535629237e-7
+Telangana,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,8.14628933e-8,4.5108543e-9,4.729864801e-7
+Telangana,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.60841381e-7,1.33264353e-8,7.514343121e-7
+Telangana,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.244787978e-7,3.25408241e-8,0.0000012442304882
+Telangana,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.505818529e-7,6.20466432e-8,0.0000019811763542
+Telangana,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,8.174070426e-7,8.78790495e-8,0.0000031663342003
+Telangana,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000011037145492,1.04537965e-7,0.0000041818857207
+Telangana,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000001479488624,1.664062354e-7,0.000005519336844
+Telangana,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000019862175445,2.620296808e-7,0.0000071443697376
+Telangana,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000002549880839,3.478380366e-7,0.0000087091936261
+Telangana,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000030966627404,4.192113835e-7,0.000010083633446
+Telangana,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000035513279773,4.071338421e-7,0.0000124472432666
+Telangana,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000039443173429,5.195805521e-7,0.000013330308845
+Telangana,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000043242672385,6.204950084e-7,0.0000134346928317
+Telangana,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000046714204846,6.846960142e-7,0.0000143037460401
+Telangana,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000049659725014,7.063942283e-7,0.0000163106460494
+Telangana,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000051887380904,6.64193109e-7,0.0000169842026453
+Telangana,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000053421155298,7.868776262e-7,0.0000166178058329
+Telangana,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000054603806818,8.813906982e-7,0.0000158991388216
+Telangana,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000055652161104,8.907759602e-7,0.0000163957197672
+Telangana,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000056792544312,8.23044007e-7,0.0000172535945079
+Telangana,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000058230993471,6.381816004e-7,0.0000195393401902
+Telangana,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000060785091518,6.946636737e-7,0.0000201959299998
+Telangana,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000006447975616,7.112284759e-7,0.0000204625945403
+Telangana,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000068474079988,6.847003392e-7,0.0000243564277941
+Telangana,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000071946591646,5.648792591e-7,0.0000274665098253
+Telangana,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000075308799484,6.015221533e-7,0.0000280936128706
+Telangana,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000076414226451,4.61368046e-7,0.0000292683164679
+Tripura,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Tripura,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.47867977e-8,7.621216e-10,8.05341837e-8
+Tripura,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.39212609e-8,3.6756394e-9,3.134425093e-7
+Tripura,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.133176663e-7,8.0630335e-9,5.828403633e-7
+Tripura,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.888102903e-7,1.12667301e-8,0.000001065095159
+Tripura,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.761386482e-7,7.2641879e-9,0.000001707103093
+Tripura,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.492219385e-7,2.27012101e-8,0.0000024100434862
+Tripura,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,7.47303337e-7,5.26291692e-8,0.0000034089125818
+Tripura,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000001114908056,9.16911685e-8,0.0000044580120758
+Tripura,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000014971851572,1.391035674e-7,0.0000056999949606
+Tripura,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000018406550369,1.477993553e-7,0.0000070962264777
+Tripura,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000021885637774,2.189969731e-7,0.0000078835715741
+Tripura,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000025894227504,2.926036065e-7,0.0000088463927921
+Tripura,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000029738834954,3.399771023e-7,0.000009532790882
+Tripura,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000032735426841,3.678122617e-7,0.0000107346523769
+Tripura,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034178663008,3.634929138e-7,0.0000113804342565
+Tripura,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034547731662,4.154576181e-7,0.0000112454406777
+Tripura,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034648660643,4.417436093e-7,0.0000114008845271
+Tripura,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034623132118,4.11201558e-7,0.0000126287032711
+Tripura,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034605950113,3.513014379e-7,0.0000124367701567
+Tripura,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.00000347287378,3.080239626e-7,0.0000125715836747
+Tripura,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034967179421,3.545237064e-7,0.0000125478627275
+Tripura,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000035238875318,3.510935146e-7,0.0000131969219098
+Tripura,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000035554312448,3.307104219e-7,0.0000134832181958
+Tripura,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000035930199543,3.114322041e-7,0.000014540986715
+Tripura,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000036379206311,2.375925339e-7,0.0000158096381426
+Tripura,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000037288477971,2.842098558e-7,0.0000158057365291
+Tripura,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000038730149947,3.000805309e-7,0.0000165143058864
+Tripura,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000004034800241,3.051168333e-7,0.0000168712156797
+Tripura,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000041781336421,2.756684251e-7,0.0000183829007277
+Tripura,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000043478200214,2.857703525e-7,0.0000179845326246
+Tripura,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000043923696967,2.653665185e-7,0.0000188115612559
+Uttar Pradesh,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Uttar Pradesh,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.09433365e-8,2.4500119e-9,1.399345956e-7
+Uttar Pradesh,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.157211802e-7,1.09227927e-8,4.955783559e-7
+Uttar Pradesh,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.460006754e-7,2.68911417e-8,0.0000010853666491
+Uttar Pradesh,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.133047592e-7,3.82090657e-8,0.0000019040851285
+Uttar Pradesh,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,6.090276102e-7,2.63587814e-8,0.0000033142608988
+Uttar Pradesh,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000010034200795,7.21483215e-8,0.000004671143417
+Uttar Pradesh,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000016962353056,1.765434757e-7,0.0000062507596945
+Uttar Pradesh,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000025731127629,3.198118994e-7,0.0000083099231854
+Uttar Pradesh,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000035197047188,4.667584057e-7,0.0000116278175712
+Uttar Pradesh,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000044237340019,5.463192069e-7,0.0000146027540192
+Uttar Pradesh,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000053317136041,9.025501301e-7,0.0000151973156715
+Uttar Pradesh,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000063584040615,0.000001295425794,0.0000177480697513
+Uttar Pradesh,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000074516168617,0.000001821245263,0.0000185400966686
+Uttar Pradesh,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.00000855939079,0.0000023008721007,0.0000196177249287
+Uttar Pradesh,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000096247966725,0.0000025217330856,0.0000222202994204
+Uttar Pradesh,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000106913672216,0.0000033468480797,0.0000223910414524
+Uttar Pradesh,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000117706227009,0.0000041494328083,0.0000234686972987
+Uttar Pradesh,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000128491194987,0.0000043589750579,0.0000266411400529
+Uttar Pradesh,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000139118657665,0.0000044428302235,0.0000303675022405
+Uttar Pradesh,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000149449676121,0.0000041169836572,0.0000339740229392
+Uttar Pradesh,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000159523892094,0.000004799936312,0.0000352994532581
+Uttar Pradesh,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000169709099003,0.0000054609430708,0.0000378434938828
+Uttar Pradesh,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000180134494916,0.0000055704545671,0.0000425745514789
+Uttar Pradesh,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000190896291038,0.0000054034040562,0.0000479919442493
+Uttar Pradesh,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000202019852867,0.0000044394599295,0.0000546390463569
+Uttar Pradesh,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000215063858839,0.0000049301195225,0.0000567212731317
+Uttar Pradesh,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000229604369624,0.0000052668092876,0.0000592421772482
+Uttar Pradesh,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000243299310557,0.0000051482519829,0.0000662769618904
+Uttar Pradesh,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000253879734214,0.0000048413107306,0.0000727920642131
+Uttar Pradesh,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000261213086308,0.0000050225422817,0.000077341397556
+Uttar Pradesh,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000260530628811,0.0000047128511758,0.0000789182014459
+Uttarakhand,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+Uttarakhand,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.2342506e-8,2.2491214e-9,2.001617594e-7
+Uttarakhand,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.48699718e-7,1.0707326e-8,7.355418879e-7
+Uttarakhand,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.08607443e-7,2.45902089e-8,0.0000014342304709
+Uttarakhand,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,5.113858172e-7,4.11783015e-8,0.0000025767157959
+Uttarakhand,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,7.462642732e-7,2.87411093e-8,0.0000040824802476
+Uttarakhand,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000001195703968,7.77442954e-8,0.00000615130827
+Uttarakhand,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000019685789648,1.701839564e-7,0.0000086957196698
+Uttarakhand,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000029443050878,2.878613612e-7,0.0000117007262371
+Uttarakhand,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000040018548975,4.166673134e-7,0.0000142898802513
+Uttarakhand,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000050210071472,5.205023292e-7,0.0000179433755766
+Uttarakhand,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000060962719158,8.449843931e-7,0.0000188707888929
+Uttarakhand,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000073272222491,0.0000011932710119,0.0000204399074128
+Uttarakhand,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000085967065583,0.0000014773972866,0.0000230210817803
+Uttarakhand,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000097897419272,0.0000017330667518,0.0000268180439171
+Uttarakhand,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000107885446956,0.0000016926438106,0.0000314605844837
+Uttarakhand,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000116441588216,0.0000021727456749,0.000030500258223
+Uttarakhand,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000124579352023,0.0000026982695242,0.0000308307142265
+Uttarakhand,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000132087168256,0.000002970276414,0.0000337796268832
+Uttarakhand,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000138741427431,0.0000029371059554,0.0000380481346595
+Uttarakhand,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000014432339283,0.0000026971978812,0.0000414153405686
+Uttarakhand,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000149013693496,0.000002844939007,0.0000402626167352
+Uttarakhand,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000153278365441,0.0000029272803514,0.0000394223063446
+Uttarakhand,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.00001572340054,0.0000029575712915,0.0000399125808216
+Uttarakhand,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000160999984725,0.0000029861740399,0.0000411790715696
+Uttarakhand,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000164681107442,0.0000026327715176,0.000043964743635
+Uttarakhand,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000169470660769,0.0000028198164242,0.0000440133015335
+Uttarakhand,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000175450158347,0.0000028621005427,0.0000468221916135
+Uttarakhand,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000181219897485,0.0000024298496496,0.0000516234325687
+Uttarakhand,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000185436660627,0.0000021532405385,0.0000552197710409
+Uttarakhand,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000018788204476,0.000002034209814,0.0000606462325677
+Uttarakhand,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000180878159749,0.0000018134708545,0.0000608047002322
+West Bengal,1990,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0,0,0
+West Bengal,1991,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.35065588e-8,7.53762e-10,6.54629392e-8
+West Bengal,1992,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,4.54019806e-8,3.3971253e-9,2.220865353e-7
+West Bengal,1993,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,9.29250441e-8,7.3697456e-9,4.279984004e-7
+West Bengal,1994,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,1.532551786e-7,1.10591667e-8,7.359414912e-7
+West Bengal,1995,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,2.235175285e-7,7.3119741e-9,0.0000012602517848
+West Bengal,1996,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,3.64800115e-7,2.32626005e-8,0.0000017086826929
+West Bengal,1997,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,6.124025876e-7,6.59102139e-8,0.0000023447523684
+West Bengal,1998,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,9.256025343e-7,1.190991131e-7,0.0000031823665495
+West Bengal,1999,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000001263394269,1.471290403e-7,0.0000042616039222
+West Bengal,2000,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000015852717678,1.661473677e-7,0.0000052660635591
+West Bengal,2001,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000001930660569,2.372257019e-7,0.0000059267765611
+West Bengal,2002,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000023359838543,3.295838788e-7,0.0000069432876491
+West Bengal,2003,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000027354037478,4.15690074e-7,0.0000075433712527
+West Bengal,2004,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000030647158006,4.451327863e-7,0.0000085977203965
+West Bengal,2005,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000032584764421,4.147058609e-7,0.0000100623382906
+West Bengal,2006,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000033717052608,5.478534297e-7,0.0000098183317822
+West Bengal,2007,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000034721126681,6.198785069e-7,0.0000100855018131
+West Bengal,2008,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000035551713088,6.835958952e-7,0.000009545485581
+West Bengal,2009,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000003616257791,6.31359577e-7,0.0000110856488245
+West Bengal,2010,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000036505856521,5.664385932e-7,0.0000123046556098
+West Bengal,2011,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000036524657765,6.76385115e-7,0.0000119857286368
+West Bengal,2012,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000036342490687,7.032636038e-7,0.0000112493246488
+West Bengal,2013,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000036116808017,7.157304191e-7,0.0000108539298396
+West Bengal,2014,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000036010474055,7.062429531e-7,0.0000113339170959
+West Bengal,2015,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000036179421836,6.123454935e-7,0.0000117393456046
+West Bengal,2016,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000037435719181,6.590684596e-7,0.0000119449514755
+West Bengal,2017,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000040078445925,6.643851748e-7,0.0000128618482466
+West Bengal,2018,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.000004351853995,6.051988894e-7,0.0000147523894229
+West Bengal,2019,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000047159879824,5.07688039e-7,0.0000180951098583
+West Bengal,2020,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000052002755846,4.614253364e-7,0.000020582449026
+West Bengal,2021,50-69 years,Male,Extensively drug-resistant tuberculosis,Percent of total prevalent cases,0.0000054051704039,4.232223807e-7,0.0000230747955908
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2021. Seattle, WA: IHME, University of Washington, 2023. Available from http://vizhub.healthdata.org/gbd-compare. (Accessed 7/24/2024)."
+"For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"

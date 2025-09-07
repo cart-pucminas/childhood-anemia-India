@@ -1,0 +1,964 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+Andhra Pradesh,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3661304224950267,0.2833323607617305,0.459355707199472
+Andhra Pradesh,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3579664835186705,0.2762828262302034,0.4479655968960354
+Andhra Pradesh,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3496453126869527,0.269106060177511,0.4347188300455492
+Andhra Pradesh,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3412352600915035,0.2649615876801024,0.4271161979625559
+Andhra Pradesh,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3327436638304339,0.2577502955741483,0.4150899994503081
+Andhra Pradesh,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3242008490206989,0.2526200464560559,0.4097170254560145
+Andhra Pradesh,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3155131341284537,0.2454682964146908,0.3982717707856998
+Andhra Pradesh,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.306626830837039,0.2375895926784816,0.3885578799485478
+Andhra Pradesh,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2976279851814535,0.2286489568938527,0.3794121309802315
+Andhra Pradesh,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2886558372097547,0.2218190292601583,0.368638052656227
+Andhra Pradesh,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2798602892423059,0.2143971201030029,0.3565049681627764
+Andhra Pradesh,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2712215364501076,0.2087266112619891,0.3448342923541647
+Andhra Pradesh,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2626494196483091,0.2015831184684831,0.333877288579789
+Andhra Pradesh,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2541458209017482,0.193531246286299,0.3241513838045635
+Andhra Pradesh,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2457695477736096,0.1864029237639242,0.315166890017269
+Andhra Pradesh,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2375547765157456,0.1790923739581036,0.3067070296998404
+Andhra Pradesh,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2294707845601103,0.1743430607856176,0.2956953847544685
+Andhra Pradesh,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2214489768259677,0.1698027111847972,0.2845008822834218
+Andhra Pradesh,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2135307462625422,0.1650194367281287,0.2741090226085977
+Andhra Pradesh,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2057071719212806,0.1590531541026921,0.2625314773762978
+Andhra Pradesh,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1979627929270605,0.1541996907294985,0.2519782618949576
+Andhra Pradesh,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.190157571415917,0.1478898113397711,0.2414313105145577
+Andhra Pradesh,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1822866238344914,0.1426792708188057,0.2313142257009061
+Andhra Pradesh,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1745650000188722,0.1367011699337626,0.2197205596556224
+Andhra Pradesh,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.167220695403351,0.1310950791007336,0.2099579752868583
+Andhra Pradesh,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1604716942357372,0.1256152033720953,0.2016586885363259
+Andhra Pradesh,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1542558716456262,0.1211381385897356,0.1946682316360337
+Andhra Pradesh,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1484463325453132,0.1160233416060212,0.1865483193557667
+Andhra Pradesh,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1430706850927841,0.1113391264802562,0.179016433298156
+Andhra Pradesh,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1381895278627817,0.1076629046512642,0.1721307194032899
+Andhra Pradesh,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1337816773514749,0.1046644667775897,0.1642603276763494
+Andhra Pradesh,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1289016884356874,0.100426980171067,0.1615955335110636
+Arunachal Pradesh,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2507912064048884,0.1836389855656514,0.3296931386846882
+Arunachal Pradesh,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2571144290928431,0.1931508136578489,0.3345743472486795
+Arunachal Pradesh,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2628192311643398,0.2003612251850176,0.340006742250462
+Arunachal Pradesh,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2676888320602205,0.2050763567010946,0.3447529527427074
+Arunachal Pradesh,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2714711620754576,0.2061520419624013,0.3480747364601971
+Arunachal Pradesh,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.273932272643547,0.2066689943351077,0.3538998731183771
+Arunachal Pradesh,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2755952137246836,0.2090195197520063,0.3524176456247515
+Arunachal Pradesh,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2770736723825792,0.2112368496971953,0.354062589283422
+Arunachal Pradesh,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2782375173261882,0.2124897992594558,0.3537595993777125
+Arunachal Pradesh,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2790015499148214,0.2148869674259368,0.3527180235681449
+Arunachal Pradesh,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2792801956589424,0.2116492140548324,0.3523325432906485
+Arunachal Pradesh,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2790324222610205,0.2125408446742843,0.3519657757733353
+Arunachal Pradesh,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2783817585172459,0.2117028534386801,0.3530305012678648
+Arunachal Pradesh,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2774181667834747,0.2100904110800235,0.3527794778143213
+Arunachal Pradesh,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2762474253431665,0.2097219781432475,0.3528241656247242
+Arunachal Pradesh,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2749745997409121,0.2086985566497714,0.353211733156644
+Arunachal Pradesh,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2730072558835058,0.2082730882779222,0.3480165711020446
+Arunachal Pradesh,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2700054468701793,0.2058094507723145,0.3437848299942404
+Arunachal Pradesh,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2665307941259824,0.2032593472820528,0.3422374681631627
+Arunachal Pradesh,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.263107307703518,0.2001842483722851,0.3351234825246262
+Arunachal Pradesh,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2602606726481279,0.1994425518237788,0.3348394609042513
+Arunachal Pradesh,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2576814241818482,0.1976843857154102,0.3304890383562462
+Arunachal Pradesh,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2549630098883719,0.194248631358947,0.3223891757379711
+Arunachal Pradesh,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.252515704724173,0.1920242382135026,0.3176771146282102
+Arunachal Pradesh,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2507441934867202,0.1915281057606373,0.3172622597668539
+Arunachal Pradesh,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2500309216001717,0.1924552357824448,0.3178527167518947
+Arunachal Pradesh,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2519533852090244,0.1938210899668379,0.3182643533638264
+Arunachal Pradesh,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2565963906078872,0.1969805579399883,0.3236321337268988
+Arunachal Pradesh,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2619801873878574,0.2006952473229122,0.3296973498487889
+Arunachal Pradesh,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2661626487814873,0.2045343711441951,0.335100701780327
+Arunachal Pradesh,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2688269451175912,0.2091992851547159,0.3369717627005097
+Arunachal Pradesh,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2675653049351636,0.2083637165363709,0.3359069054462256
+Assam,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2180897302271784,0.1406675559738089,0.3161241440752159
+Assam,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2220508216957776,0.1466385472049903,0.3146094695765101
+Assam,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2255898261255766,0.1513785536712696,0.3156804500194622
+Assam,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2285236184852741,0.1543014861302102,0.3199496278887748
+Assam,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2306568100001793,0.158950052944928,0.3245038620903003
+Assam,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2318104378540216,0.1582189473288699,0.3274262061825101
+Assam,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2322816688317102,0.1604377396392004,0.3263679070102278
+Assam,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2325239077080874,0.1632986735851609,0.3232848117422154
+Assam,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2325780279630355,0.1652891234040917,0.322377328580353
+Assam,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2324934242020709,0.1662975527167008,0.3213675226403477
+Assam,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2323130177951498,0.1658676795130166,0.3192992017644824
+Assam,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2317981167048161,0.1673050219995903,0.3167950534004763
+Assam,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2307781627575926,0.1672518991645734,0.3143363992314529
+Assam,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.229425921155995,0.1669326234411614,0.3088026222061046
+Assam,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2279349720709602,0.1657332132840936,0.3040489260933464
+Assam,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2264473581004029,0.1634483188061932,0.2987794980048973
+Assam,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2247795948516419,0.1638575965232143,0.2924702970960983
+Assam,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2227644141309292,0.1638212048002554,0.2863107829561667
+Assam,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2205616090901342,0.1628494817975432,0.2832871107607754
+Assam,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2182931083610445,0.1609980758939055,0.2805985216992261
+Assam,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2161164679935746,0.1593315392594894,0.2792969091874457
+Assam,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2136769599224856,0.1598327855408017,0.2722546670599505
+Assam,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2108049048515861,0.1596462340446189,0.2681615683285845
+Assam,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2080482014984268,0.1592269090604831,0.2665372878341551
+Assam,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2059685646977422,0.1587033018611254,0.2632544426489382
+Assam,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2051283306064811,0.157913758931557,0.2632647199060796
+Assam,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2066874766223425,0.1590794937779052,0.2639190420789012
+Assam,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2104474004419736,0.1614816036361724,0.2684141310100425
+Assam,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2147425228798457,0.1647390340386804,0.2743221087702399
+Assam,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2179706202041416,0.1679666833267952,0.2796114465979691
+Assam,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2199283883420942,0.1685170084159949,0.284089423400775
+Assam,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2199842834637173,0.1696148333218186,0.2747788981470869
+Bihar,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2134303719338693,0.135408846768517,0.3134335500119355
+Bihar,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.217644268994943,0.1399344716152759,0.3119844674109877
+Bihar,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2212590547939401,0.1452094061098005,0.3125989505102747
+Bihar,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2240929860559439,0.1485242615582845,0.3099466404627669
+Bihar,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2259712711496364,0.1537441849857683,0.3098460764771007
+Bihar,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2267080404986103,0.1551935581667946,0.3117309876403051
+Bihar,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2266131992149001,0.1572132143450976,0.3110005483088488
+Bihar,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2262123670885381,0.1589431594867186,0.3061907291239645
+Bihar,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2256130252105189,0.1592821837451833,0.3039897192370817
+Bihar,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2249248761641503,0.1603561168261696,0.3029190611514102
+Bihar,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2242877276446833,0.1620391280310815,0.3032586541641364
+Bihar,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2235514138786217,0.1611855542315907,0.2994313672588138
+Bihar,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2225537136539136,0.1608831266837709,0.2963745594425662
+Bihar,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2213124847975779,0.1615233952672462,0.2904493671466291
+Bihar,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2198805848221954,0.1612657009568828,0.2884832803922169
+Bihar,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.218341362165186,0.1606469937347056,0.288371624682261
+Bihar,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2163905404277239,0.16047176369949,0.2813719803787325
+Bihar,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2138396607664457,0.1587880142303933,0.2780296871584724
+Bihar,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.210999112030966,0.1574779142684767,0.2758078772479206
+Bihar,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2081377376617744,0.1545055221706631,0.2724114204476451
+Bihar,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.205515354491849,0.151401998595333,0.2679699622393899
+Bihar,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2028573054282142,0.1519647298522206,0.2629752846547326
+Bihar,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2000362793478091,0.151059443124943,0.2570826850499991
+Bihar,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1975012451198304,0.1505947671677104,0.2533499477238516
+Bihar,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1956752835203692,0.1506279698689896,0.2504951806653744
+Bihar,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1949790199253154,0.1502604328147035,0.2508499752869437
+Bihar,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1963968607325719,0.1506043199899764,0.2526503416317558
+Bihar,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1997347285535651,0.1516410434422055,0.2565787248804054
+Bihar,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.203612342885196,0.1542060812170685,0.2583530950247232
+Bihar,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2066937855533978,0.1597672016087135,0.2618870259566931
+Bihar,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2088307812089131,0.1617664652511811,0.2660908374556024
+Bihar,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2072382735487793,0.1572323533679048,0.2618300681609308
+Chhattisgarh,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3786455032026533,0.296314356072758,0.4802507479081799
+Chhattisgarh,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3707128120800633,0.2900356979512763,0.4694756921521288
+Chhattisgarh,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3627526924422895,0.2822171423663528,0.4596326424726151
+Chhattisgarh,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3547767603248694,0.2736366275251929,0.449561207414817
+Chhattisgarh,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3468155683894299,0.2683048550595788,0.4402647127179535
+Chhattisgarh,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3389438611672872,0.2577207777192954,0.4343709428928884
+Chhattisgarh,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3309552930768794,0.2541555003022293,0.4191249440071695
+Chhattisgarh,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3228560903173212,0.2489953660682571,0.4082671869496818
+Chhattisgarh,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3150371147166439,0.243328144013561,0.3986254152232906
+Chhattisgarh,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3078580385937492,0.2358825094331824,0.3920172403670927
+Chhattisgarh,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3016581969041612,0.2312768218819416,0.3854818407788647
+Chhattisgarh,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2963960073822692,0.2267397067726101,0.3778019079974023
+Chhattisgarh,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.291474152810835,0.2218880923213343,0.3712078918795355
+Chhattisgarh,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2866279540533683,0.2179479974795471,0.3647992199430641
+Chhattisgarh,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2815569287347547,0.2147423335708122,0.3613974252695164
+Chhattisgarh,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2759432051969546,0.2107217132932741,0.3548648552756971
+Chhattisgarh,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2698820395487889,0.2056665501428929,0.3505436808952195
+Chhattisgarh,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2636966434792372,0.1991049924572357,0.3434162249678711
+Chhattisgarh,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2573378644867316,0.1936084592864327,0.3376308948586495
+Chhattisgarh,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2507540815770914,0.1883307412139103,0.3289240162076814
+Chhattisgarh,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.243859436918556,0.1839787137351333,0.3209665131167081
+Chhattisgarh,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2363265320974148,0.1789840162319098,0.3082029225386805
+Chhattisgarh,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2281226559168844,0.1734770918473647,0.294097979781446
+Chhattisgarh,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2196097637185387,0.1683798785972062,0.2815777274608586
+Chhattisgarh,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.211215567106433,0.1607745768141608,0.2682005207663524
+Chhattisgarh,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.203358277104749,0.1546065378135815,0.2619913484416205
+Chhattisgarh,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1960206024106693,0.1486870117134714,0.24880648557702
+Chhattisgarh,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1889189367707326,0.1430853925548157,0.2397392476922798
+Chhattisgarh,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1820183274777494,0.1360434996232338,0.2309632931634149
+Chhattisgarh,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1753720073536686,0.130484200318863,0.22359975586427
+Chhattisgarh,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1689545820790566,0.1301060412143756,0.2158095862295203
+Chhattisgarh,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1621352906219795,0.1230222180304957,0.2044841419196945
+Delhi,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2285193898365864,0.1597531690334095,0.3128880675928897
+Delhi,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.232889600294233,0.164875755551568,0.313268462822366
+Delhi,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2368366989260015,0.1697274466676804,0.316417016697048
+Delhi,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2401684889524142,0.1738195535141832,0.3204997944892063
+Delhi,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2426722626609765,0.1781596674852781,0.3222124188903488
+Delhi,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2441598115200026,0.1800955132817023,0.3231550642478434
+Delhi,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2449806809069678,0.1821534676844016,0.3230475100000921
+Delhi,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2455847261307738,0.1813384215321523,0.3218592580285954
+Delhi,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2459629244910595,0.1808382448217774,0.3193355893454931
+Delhi,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2461371361041754,0.1823968994546527,0.3187688757007113
+Delhi,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2461299989422181,0.1836794885583913,0.3175401004771678
+Delhi,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2459167518498884,0.1855977766290045,0.3159164725077877
+Delhi,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2455294682316601,0.1843792107538558,0.316804146148766
+Delhi,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2449755798927585,0.183853963305996,0.3178220308511091
+Delhi,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2442745144089558,0.1844428851738737,0.3180442902932227
+Delhi,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2434650419979786,0.1836721932111063,0.3173816477103252
+Delhi,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2420892927811848,0.1842671224123807,0.3125059203996606
+Delhi,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2398743120370512,0.1831187153826861,0.3080078327074539
+Delhi,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2372233783646995,0.1803358741572915,0.3007379158951698
+Delhi,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2345219550571018,0.1775086544674944,0.2997793019408241
+Delhi,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2321631461325244,0.1750353569351306,0.3026768286436615
+Delhi,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2298995468219346,0.1740249955388762,0.2971775226863727
+Delhi,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2274652508846894,0.1723362993980733,0.2925984585704211
+Delhi,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2252411718299511,0.1702525794757931,0.2901012538144021
+Delhi,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2236194634074023,0.1691157725577031,0.28458394573451
+Delhi,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2229761732263152,0.1691280725543724,0.2867432848078968
+Delhi,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2245697978033529,0.1705719257679788,0.2907244885678359
+Delhi,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2285117237022474,0.1744837519023539,0.2952098894627845
+Delhi,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2330827415460546,0.1764509498990675,0.2992766385217681
+Delhi,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2366745455063977,0.1791271514805187,0.3047499640419255
+Delhi,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2391009654630889,0.1844905579675656,0.305624183551834
+Delhi,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.23773760997774,0.179501887988313,0.2979355152975316
+Goa,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2905299759741956,0.2244846513815932,0.364950469989922
+Goa,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2826297373767329,0.2181236157542018,0.3544642260910828
+Goa,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2747529229636614,0.2121930306212752,0.3461864953625698
+Goa,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2669828952255536,0.2057524880970571,0.3374167180002627
+Goa,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.259311529303079,0.2006723880844846,0.3288856414495884
+Goa,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2517327049206113,0.1945906762034013,0.3223075938674203
+Goa,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2441226401571077,0.1880731175220441,0.3110245866028615
+Goa,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2364759617183032,0.1829246291286073,0.2999658878090956
+Goa,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2288768519274943,0.1780614961022075,0.2910281702224855
+Goa,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2214852414481017,0.1722115293768066,0.2808267194906786
+Goa,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.214468976355546,0.167509798828385,0.2714924066201892
+Goa,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2078406723646063,0.1621941164475754,0.2617246243747153
+Goa,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2014925043557562,0.1561476455011389,0.2528806259936491
+Goa,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1953656151414008,0.1526896845978015,0.245507303029919
+Goa,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1893907320152316,0.1487606310983066,0.2382963899945525
+Goa,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1834875730181074,0.1444522750415503,0.2316155783998748
+Goa,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1775680476267897,0.140483345277068,0.2221425704578195
+Goa,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1716284357274934,0.1357604557395242,0.213382011830012
+Goa,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.16577806917362,0.131166336041516,0.2055130526308998
+Goa,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.160103066607644,0.1260867365524038,0.1985888207294365
+Goa,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1546918355248682,0.1216827098884714,0.1918273004106208
+Goa,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1495726838162173,0.1172774882137409,0.1858078268037071
+Goa,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1446556844385651,0.1139260570711997,0.1797848805211213
+Goa,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1398873807596866,0.1096562349704154,0.17404222749788
+Goa,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1352147075613645,0.1057450176461379,0.168513651439263
+Goa,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1305830764453347,0.102128241433703,0.16288186173521
+Goa,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1257969649207551,0.098265171506851,0.1556113293178971
+Goa,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1210421049977567,0.0948177564658319,0.1495499014440511
+Goa,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1166242789259812,0.0912060333473511,0.1436971459363143
+Goa,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1128849892075951,0.0876385037451283,0.1400931097960724
+Goa,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1098619170219731,0.0864631185104552,0.1352153913974721
+Goa,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1059269351825839,0.0829141690171163,0.1300413965593152
+Gujarat,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1796432551037351,0.1094958846737331,0.2691570782072134
+Gujarat,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1820655688887622,0.1138414737773517,0.2698281914121903
+Gujarat,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1841084450446155,0.1180974888907996,0.2689245457125785
+Gujarat,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1857316400897367,0.121753820662173,0.2661035197706443
+Gujarat,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1868079514629825,0.1255014810529104,0.2668133674665986
+Gujarat,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1872683873284013,0.1271024040197173,0.2661322558950939
+Gujarat,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1872670936898698,0.1295317781056,0.2645232400709275
+Gujarat,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1870175938397949,0.1303969998488088,0.2622733251509891
+Gujarat,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1866266318458927,0.1317313104059995,0.2592082407104865
+Gujarat,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1861292247103971,0.1330804961387417,0.2559636388305182
+Gujarat,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1855639443160628,0.1342016184966935,0.251549761288515
+Gujarat,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1848282727435705,0.1345945337218363,0.2508330031432013
+Gujarat,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1838192150325086,0.1338387888275395,0.245856819468085
+Gujarat,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1825942374818501,0.1324496655142788,0.2428880747086593
+Gujarat,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1812579327694843,0.1311757833316261,0.2395543180279803
+Gujarat,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1799036232518159,0.1316067214169526,0.233885367654807
+Gujarat,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1782259651054086,0.1306934130056206,0.2316615830790067
+Gujarat,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1760223179400398,0.129749786169112,0.2292694967956202
+Gujarat,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1735785136371695,0.1280934769309009,0.2270797588779591
+Gujarat,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1711669381335886,0.1267253235303402,0.2250936923717901
+Gujarat,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1690417602894636,0.1247015295055856,0.2207333005719088
+Gujarat,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1669479515002027,0.1254483825222875,0.2175649634701038
+Gujarat,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1646981360042864,0.1244092973152625,0.2132897801648217
+Gujarat,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1626664455055429,0.123670635232378,0.2085926233539871
+Gujarat,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1612130559204357,0.1217449743832842,0.2051968740491898
+Gujarat,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1606597310152109,0.1211923666369692,0.2044540193867388
+Gujarat,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1616962303851682,0.123093878696484,0.2047804479637114
+Gujarat,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1642351026445463,0.1266912002386871,0.2064892641910417
+Gujarat,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1671679088980186,0.130537903122854,0.2068818942445368
+Gujarat,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1694609463857841,0.1326129102505284,0.2090388189056511
+Gujarat,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1711065630442449,0.1354569855607008,0.2125822900993385
+Gujarat,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1710531669313671,0.133264831334877,0.212580162090814
+Haryana,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3382556919557186,0.2598183280689381,0.427804614984856
+Haryana,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.331650872416533,0.2556954510014894,0.4172656034541545
+Haryana,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3247781213892127,0.2515264592206573,0.4072928263775688
+Haryana,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3177054869712443,0.2461815689015681,0.3991918599471744
+Haryana,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3105040405519614,0.2399593910350189,0.394771275735833
+Haryana,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3032854041480211,0.2336547674739591,0.3832306417230472
+Haryana,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2960193640394499,0.2267107234976313,0.3752881035461126
+Haryana,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2887667379954207,0.2205942666578633,0.3658436100810138
+Haryana,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2816134880352576,0.2130352197507024,0.3558167165748988
+Haryana,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2747150912374506,0.2099818432405413,0.3479822479519255
+Haryana,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2681899720910556,0.2041956706916289,0.3386956769030537
+Haryana,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2620308466897156,0.2006500111574347,0.3312355630969433
+Haryana,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2560069154524966,0.196139008379711,0.3224382537335077
+Haryana,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2499510201882473,0.1908300763299912,0.3135086485460326
+Haryana,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2437033006393972,0.186525873404249,0.3057482356215937
+Haryana,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2371299515841144,0.1823262542830342,0.2966599601339524
+Haryana,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.230104129000235,0.1782986425905389,0.2886676683076555
+Haryana,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2227306093623395,0.1740847827913487,0.2800087020063788
+Haryana,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.215205921227975,0.1689694746687599,0.2706459638370014
+Haryana,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2077181507836064,0.1620000788595506,0.2625241166759334
+Haryana,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2004242044049511,0.1553834517523603,0.2526393122138832
+Haryana,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1932114903457769,0.150780466495542,0.2412318053349483
+Haryana,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1860087487867612,0.1461994880469605,0.2305614238630298
+Haryana,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1790074474024596,0.1419505457872624,0.2204088397807367
+Haryana,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1723607678386812,0.1371041713528943,0.2118939387932091
+Haryana,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1662226908712894,0.1316752096963831,0.2056030906961051
+Haryana,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1605699800150811,0.126522567461628,0.1983286999604627
+Haryana,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1552697840653962,0.1225174371564709,0.1922386453775119
+Haryana,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1501839384788099,0.11767982012802,0.188117385233542
+Haryana,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1452449075392134,0.1128192709638223,0.1832510970989463
+Haryana,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1403811931363825,0.1102186355767458,0.1733633665928416
+Haryana,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1340481050770925,0.103444603415121,0.1665419378723552
+Himachal Pradesh,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2013696945654775,0.1326814353262194,0.2923829141069155
+Himachal Pradesh,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2055497548726371,0.1389425627900163,0.2887273095872577
+Himachal Pradesh,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2090899243566908,0.1432316348733006,0.2884825563953158
+Himachal Pradesh,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2118673689086968,0.146650239777193,0.2859823090981725
+Himachal Pradesh,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2136824884290208,0.1492575629143346,0.2844945334150666
+Himachal Pradesh,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2143647378618195,0.1502032359929668,0.2842886320919486
+Himachal Pradesh,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2141141755774627,0.1516843739691906,0.2834895828260241
+Himachal Pradesh,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2134483525992144,0.1513923621168269,0.2821886830811911
+Himachal Pradesh,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2124748845966401,0.1533820397306544,0.2804806458383967
+Himachal Pradesh,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.211420327117025,0.1553576882988677,0.2805662827529163
+Himachal Pradesh,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2105074461380188,0.1552957567756073,0.277691987931988
+Himachal Pradesh,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2097058049161969,0.1557240270256129,0.2761274474455064
+Himachal Pradesh,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2088493352890502,0.1546962155248221,0.2748817446458521
+Himachal Pradesh,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2079350689174625,0.1537536308500508,0.2709703405617814
+Himachal Pradesh,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2069112034518842,0.1528532134381989,0.2667224923013733
+Himachal Pradesh,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2057393575482231,0.1521078002357183,0.2629962671277646
+Himachal Pradesh,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2041614284638048,0.1519695564529823,0.2600254008573825
+Himachal Pradesh,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2020822306460166,0.1507949863619561,0.2590803587080214
+Himachal Pradesh,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1997676542685844,0.1495176027664047,0.2568033695897355
+Himachal Pradesh,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1974575922099798,0.1491626807421299,0.253655454163147
+Himachal Pradesh,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1953990609671233,0.1491865795960738,0.2487926823570053
+Himachal Pradesh,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1933197973354724,0.1478443549387333,0.2445858195387585
+Himachal Pradesh,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1910315628649706,0.1475949179473398,0.2403140726911825
+Himachal Pradesh,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1889236042771878,0.1469468765373941,0.2346341234442201
+Himachal Pradesh,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1873780796118229,0.1456635456664333,0.232384264762588
+Himachal Pradesh,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1867762684457135,0.1457354908567381,0.2314120614464845
+Himachal Pradesh,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1882663127571516,0.1468473629752225,0.2317186484057075
+Himachal Pradesh,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.191863356876435,0.1490802622168228,0.2358007687758828
+Himachal Pradesh,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.195897680110465,0.1521961077026513,0.2409238807279686
+Himachal Pradesh,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1988179064496364,0.1556403925988649,0.2441936553246175
+Himachal Pradesh,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2004183337091586,0.1580285290025714,0.2468708840296406
+Himachal Pradesh,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2001576790541762,0.1608889736482453,0.2475875219327925
+Jammu & Kashmir and Ladakh,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3152433970851798,0.2432312565145108,0.4011462766779397
+Jammu & Kashmir and Ladakh,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3089792805174829,0.2411765509195672,0.3900468496113357
+Jammu & Kashmir and Ladakh,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.302285781744739,0.2357479594579723,0.3802803563447254
+Jammu & Kashmir and Ladakh,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2952451596043131,0.2312530865903628,0.3719527196439633
+Jammu & Kashmir and Ladakh,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2879161608329321,0.2265387518354703,0.36358509694417
+Jammu & Kashmir and Ladakh,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2803600138493367,0.219954180722851,0.3555799366610427
+Jammu & Kashmir and Ladakh,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2722539478508632,0.212804340342367,0.3449867254981998
+Jammu & Kashmir and Ladakh,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2635644737239176,0.2040657111978316,0.334192007742872
+Jammu & Kashmir and Ladakh,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.254731926039304,0.1961835173050232,0.3247788798754066
+Jammu & Kashmir and Ladakh,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2462319480722401,0.1896238364654689,0.3150977777186104
+Jammu & Kashmir and Ladakh,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2385369565203228,0.183796196439367,0.3050317210699959
+Jammu & Kashmir and Ladakh,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2316352519149224,0.1788062016074439,0.2962673681768785
+Jammu & Kashmir and Ladakh,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2251640740438238,0.1728649562538414,0.2874324893189223
+Jammu & Kashmir and Ladakh,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2190220737650922,0.1674530650583828,0.2796392357291963
+Jammu & Kashmir and Ladakh,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2130851477663377,0.1629046568108291,0.2706382447457333
+Jammu & Kashmir and Ladakh,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2072303904198489,0.1578998408825347,0.2650003042909694
+Jammu & Kashmir and Ladakh,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2013776436613728,0.1537130372059404,0.2547417787036461
+Jammu & Kashmir and Ladakh,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1954937250937605,0.1502151171846005,0.2468037797469101
+Jammu & Kashmir and Ladakh,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1896678257006568,0.1466788438934921,0.2391141259350561
+Jammu & Kashmir and Ladakh,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1839761176973948,0.1413716492603428,0.2326438898301618
+Jammu & Kashmir and Ladakh,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1784967024905956,0.1377579659102463,0.2267318282873611
+Jammu & Kashmir and Ladakh,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1733406909659606,0.1341854975026755,0.219106645699782
+Jammu & Kashmir and Ladakh,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1684857556853471,0.1309244774787828,0.2120774220218774
+Jammu & Kashmir and Ladakh,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1637648206819494,0.1275166925257262,0.2045897051793321
+Jammu & Kashmir and Ladakh,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.159058230077448,0.1231270934230271,0.1986556585341001
+Jammu & Kashmir and Ladakh,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1542689397602775,0.1189622178026093,0.1933344310098441
+Jammu & Kashmir and Ladakh,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1491732400579957,0.1161194463574887,0.1849886023901939
+Jammu & Kashmir and Ladakh,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1438693097483201,0.1134012021302408,0.1771375237256013
+Jammu & Kashmir and Ladakh,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1386795771623155,0.1088135765543392,0.1708974574003269
+Jammu & Kashmir and Ladakh,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1340044512463216,0.1045257052006117,0.1653822717026404
+Jammu & Kashmir and Ladakh,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1299733280965939,0.1013751679755306,0.1615917486083738
+Jammu & Kashmir and Ladakh,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1254283398016492,0.0986026735889252,0.156405204294837
+Jharkhand,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2389160213509722,0.1586005559693322,0.344696816754021
+Jharkhand,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2422409134306903,0.1623328984498879,0.346762131441105
+Jharkhand,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2451862340670347,0.1665237748191996,0.3462389051044042
+Jharkhand,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2475661159691081,0.1704412196189528,0.3442141260822293
+Jharkhand,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2492730713755018,0.1765098206522767,0.3424177780964639
+Jharkhand,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2502484615919856,0.178614711323803,0.341063782768769
+Jharkhand,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2508660294716466,0.181787092684369,0.3391076932577264
+Jharkhand,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2515444089225371,0.1846932397508787,0.3349413559953884
+Jharkhand,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2522305412098093,0.187765964192172,0.3338874946580291
+Jharkhand,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2528429445043308,0.1866189410123427,0.333748615943423
+Jharkhand,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2532811111633241,0.1852169111501277,0.3340953409515325
+Jharkhand,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2532018234647209,0.1854953752500024,0.3336199060990878
+Jharkhand,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2523365657075075,0.1865509743235656,0.3312206978396202
+Jharkhand,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2509352243189149,0.185920493116221,0.3283604989034147
+Jharkhand,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2492157627566534,0.1848592234762262,0.3245892135759521
+Jharkhand,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2474443560982964,0.1833904840496103,0.3226879918812711
+Jharkhand,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2454654844985011,0.1821515041926817,0.3194085840565171
+Jharkhand,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2431233083025854,0.1802274203703604,0.3161680177579706
+Jharkhand,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2405605027543931,0.1788289320778564,0.31378974785857
+Jharkhand,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2379896564860157,0.1777823956157968,0.3111044301586372
+Jharkhand,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2356018242162735,0.1759339546059965,0.3057074429968016
+Jharkhand,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2329839329394053,0.1754486871095006,0.3021584754243999
+Jharkhand,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2299584213544451,0.1740625184467436,0.2963592715126728
+Jharkhand,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2271337883257024,0.1733438930811419,0.2890035130970285
+Jharkhand,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2250848540425232,0.1723837085054529,0.2859224382330552
+Jharkhand,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2243227920450755,0.1720605901275728,0.2855778951725132
+Jharkhand,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2262612339644876,0.1743900603882443,0.2886633615378723
+Jharkhand,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2307751032687258,0.1786182942802694,0.2954530875933451
+Jharkhand,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2359094326177367,0.1834265542127027,0.2987190610802226
+Jharkhand,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2397959678939025,0.18650710501881,0.3022954080144743
+Jharkhand,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2421499329179998,0.1857763386086008,0.3085529177238857
+Jharkhand,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2411582740068945,0.183025608649808,0.309371107854253
+Karnataka,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3010113367824513,0.2291370179888564,0.3902458748909051
+Karnataka,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3029723956576064,0.2322824905802455,0.3940531155828471
+Karnataka,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3049364143012529,0.2359617985508159,0.3950677400871205
+Karnataka,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3068468168736747,0.2369044052112281,0.3926543980447726
+Karnataka,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3086366552261075,0.2367257420864372,0.3978778895051538
+Karnataka,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3102277450116792,0.2361651849062725,0.4019760634197307
+Karnataka,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3120569245497714,0.2392959940504538,0.3991004812219028
+Karnataka,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3142988774340172,0.2410357811404825,0.4005945139885429
+Karnataka,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3164653675412732,0.2433840336853319,0.4037714193251563
+Karnataka,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3181167770306719,0.2448358522644549,0.4048071297462629
+Karnataka,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3188165995653353,0.246156687728638,0.4058638544516333
+Karnataka,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3187615913927115,0.246976572758871,0.4025945417864246
+Karnataka,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.318492128662131,0.2459780133383784,0.4014697009750441
+Karnataka,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3180866467573295,0.2459756316122525,0.3970469086734077
+Karnataka,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3176190274945228,0.2444564502590101,0.3955449066007278
+Karnataka,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3171498989173445,0.2449518441748224,0.3951212115591059
+Karnataka,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.316602507304516,0.2437166032509595,0.3923856141177446
+Karnataka,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3158853622441506,0.2433449081819133,0.3894776864792538
+Karnataka,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3150023495220059,0.2443338242570162,0.3871591322033798
+Karnataka,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3139484588355757,0.2426402930343505,0.3901677846652038
+Karnataka,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3127008659598242,0.2397150552775171,0.3933074157928404
+Karnataka,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3103625757333255,0.2381102085136512,0.387852651854156
+Karnataka,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.306703014264348,0.236138948556595,0.3821906025003043
+Karnataka,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3027233172235695,0.2335550278236714,0.3781171396700542
+Karnataka,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2994390965068821,0.2305369816127199,0.3750607296070363
+Karnataka,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2978745648088786,0.2292709670664649,0.3737212427906587
+Karnataka,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2990269341917094,0.2287988217043536,0.3746169120964574
+Karnataka,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3021002457095803,0.2332027273359774,0.3768480299115582
+Karnataka,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3056754240660945,0.2377442660627889,0.3849271421567345
+Karnataka,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3082585738170326,0.2372277693270345,0.3864475160321444
+Karnataka,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3092763764389331,0.2424050754885754,0.3871138972681332
+Karnataka,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3103378261674642,0.2398177465458278,0.3908373886389647
+Kerala,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2455246538919527,0.1811852674601975,0.3323596777116261
+Kerala,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2504302406309375,0.1873006689456583,0.3331652005909458
+Kerala,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2550232821634726,0.1940712206044771,0.3328933625238498
+Kerala,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2591009204822804,0.1982118649491734,0.3312861829990314
+Kerala,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2624200948596955,0.2018500874134687,0.3307270819014755
+Kerala,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2647421733136745,0.2028448430501952,0.3325323329724911
+Kerala,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2664805044079457,0.2051170295810758,0.3359664339296531
+Kerala,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2680929954420427,0.2061746027939413,0.337186775258548
+Kerala,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2694327972890659,0.2062784055317867,0.3395260271051238
+Kerala,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2703780122934802,0.2053933016548107,0.3401714096143556
+Kerala,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2708126887193058,0.2048308206826574,0.3399755286702446
+Kerala,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2706656028661047,0.2059577129779624,0.3381095645424029
+Kerala,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2700628730873761,0.2068392465130727,0.3370652098506116
+Kerala,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2691223200198127,0.2068619847797211,0.3341736179831658
+Kerala,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2680034034999087,0.206304314672958,0.3312265112560384
+Kerala,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2668728116488465,0.2066560368821088,0.3311239867172383
+Kerala,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2654570384704399,0.2076351286008619,0.327013636229601
+Kerala,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2635145870254487,0.2068155428607947,0.3267110029373614
+Kerala,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2613063811574548,0.2033065664101513,0.3254883695760272
+Kerala,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.259071257256091,0.2020990359360039,0.3252453844433468
+Kerala,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2570669200612525,0.1999909896741845,0.325542348872485
+Kerala,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2548539958241875,0.1987500981580187,0.3209777567805901
+Kerala,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2522058534459516,0.1957354546950256,0.3167649472247611
+Kerala,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2497137684665933,0.1936127100710174,0.3130604261026554
+Kerala,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2479637340594895,0.1929719325455254,0.3132333294267137
+Kerala,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.247492745679693,0.1930850378212381,0.314074086436608
+Kerala,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2499339365242704,0.1959941854633843,0.3144249176666006
+Kerala,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2552771224052153,0.1995115209084838,0.3200355290173375
+Kerala,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.261312114168462,0.2050452113064039,0.3302054621327263
+Kerala,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2659160264740903,0.2090449170727737,0.3368501526380199
+Kerala,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2684989212813363,0.2134668374270069,0.333257412392703
+Kerala,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2676031892428497,0.2113843717527835,0.3305158666221996
+Madhya Pradesh,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2253300638283284,0.1456997070713481,0.330412936039842
+Madhya Pradesh,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2291695979946401,0.1540064334300694,0.3278038100384917
+Madhya Pradesh,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2325656965791931,0.1603367229972119,0.3274322054439127
+Madhya Pradesh,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2353553008897196,0.1642285379180568,0.3266380768644241
+Madhya Pradesh,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2373549443640853,0.1654178521144375,0.3261112216847696
+Madhya Pradesh,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.238381057046202,0.1645790648842518,0.3244854568778469
+Madhya Pradesh,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2387101053610617,0.1657326159239333,0.3229337408742507
+Madhya Pradesh,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2387655563857262,0.1679703746214977,0.3210684193395621
+Madhya Pradesh,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2385866139208849,0.1680182857633154,0.3199938497640613
+Madhya Pradesh,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2382324139044632,0.1689915736777624,0.3182376080576997
+Madhya Pradesh,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.237791356350648,0.167436872870035,0.3149963575709231
+Madhya Pradesh,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2370241650627253,0.1684716238252747,0.3141719960659956
+Madhya Pradesh,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2357541013581393,0.1690796867308144,0.3101448708822863
+Madhya Pradesh,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2341447673356824,0.1683266127480022,0.3081040192337523
+Madhya Pradesh,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2324402847297718,0.1678788090914834,0.3057044347296606
+Madhya Pradesh,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2308158948418605,0.1687191723327347,0.3039862803904232
+Madhya Pradesh,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2289134433409085,0.1696794726503219,0.2973713102214698
+Madhya Pradesh,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2264796413206766,0.1691273380005823,0.2917228927152449
+Madhya Pradesh,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2237737166204174,0.1691534249459613,0.2874198103576717
+Madhya Pradesh,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.221034623765039,0.1684105118237304,0.2834300839639286
+Madhya Pradesh,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2185121297229064,0.1668938924715033,0.2783353234635444
+Madhya Pradesh,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2159392900992636,0.1658838140581244,0.2740765761528654
+Madhya Pradesh,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2131913222901099,0.1635526574005829,0.2683753644034924
+Madhya Pradesh,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2106832844496179,0.1614450618085039,0.2663746050093712
+Madhya Pradesh,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2088457080913165,0.1609316089627215,0.2640565833249433
+Madhya Pradesh,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.208100106917584,0.1605929997554045,0.2646470014457619
+Madhya Pradesh,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2095248087451165,0.1610401551022136,0.2649380515594511
+Madhya Pradesh,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2130035254084731,0.1653163200912145,0.2694385310533825
+Madhya Pradesh,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2171105701639418,0.1686731007755225,0.2751136001749553
+Madhya Pradesh,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2204470424541991,0.1726351001162628,0.281406392180199
+Madhya Pradesh,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2230145559198789,0.1733332026374147,0.2794232604634907
+Madhya Pradesh,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2215665484037628,0.1691795809719403,0.2824473845877477
+Maharashtra,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2157083984587854,0.1471651074422284,0.2996834591237187
+Maharashtra,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2202985556822457,0.1533765320350091,0.3042400078264576
+Maharashtra,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2244070170500534,0.1584977690885166,0.3070545477051636
+Maharashtra,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2278006397905674,0.1639371200365511,0.3059941479946186
+Maharashtra,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.230237925204426,0.1675600722450184,0.3058152410085698
+Maharashtra,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2315005348133213,0.1694616668151486,0.3063598873499554
+Maharashtra,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2320056878832051,0.1715704944713077,0.3044198793315074
+Maharashtra,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2323235104673193,0.1722518070781632,0.303375612207188
+Maharashtra,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2324941414108175,0.1728387587170727,0.3037677967572885
+Maharashtra,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.232533650138189,0.1730612299049004,0.3030455135728699
+Maharashtra,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2324255085507376,0.1726591517931017,0.3042474016255532
+Maharashtra,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.231971873644333,0.1723847247492398,0.2982381514619742
+Maharashtra,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2310702462352281,0.1729522881106457,0.2943886563883141
+Maharashtra,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2298135179570982,0.1744821617130593,0.2926100070975744
+Maharashtra,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.228350691117024,0.1740916296311656,0.2910831299450371
+Maharashtra,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2268193711240437,0.1733650625789581,0.2885787542790015
+Maharashtra,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2248968742674486,0.1732022823108417,0.2860872094152614
+Maharashtra,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2224616231729439,0.1707439839742273,0.2825822896842844
+Maharashtra,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.219837348872724,0.1682765457333935,0.2800589534833012
+Maharashtra,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2173448650647366,0.1664229031425495,0.276076904657498
+Maharashtra,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2152895643315227,0.1659248720796548,0.2731774373226738
+Maharashtra,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2133935966340222,0.1645563172980682,0.2693188906902434
+Maharashtra,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2113337048204676,0.1626567637763119,0.2664256795260384
+Maharashtra,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2094452915183622,0.1617543650043691,0.2650239527802732
+Maharashtra,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2080470001312942,0.1609280212752605,0.264377313621584
+Maharashtra,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2074670716854857,0.1607335095633006,0.2639722048026111
+Maharashtra,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2088932480241177,0.1616672931335444,0.2644885560728888
+Maharashtra,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2124349400352871,0.1638488010987254,0.2680824683135959
+Maharashtra,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2165586628749851,0.1668535465797914,0.2749156352855764
+Maharashtra,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2198180128075365,0.1706528983463741,0.281279550341048
+Maharashtra,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2220239618077853,0.169586380974717,0.2764865491275369
+Maharashtra,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.22087553306823,0.1702090590074224,0.2730911285500711
+Manipur,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3335636760928163,0.2612317399784987,0.4142540985503176
+Manipur,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3254117401600613,0.2555260532460215,0.4036310011205862
+Manipur,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3171977169941182,0.2491080621434191,0.3942697186596578
+Manipur,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3089782713169649,0.2408048214227153,0.3836681968225743
+Manipur,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3007699663243859,0.2328705601716958,0.3780008325791544
+Manipur,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2925982924030841,0.2256520282502256,0.3722608457015061
+Manipur,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2842785511892677,0.2199368090455907,0.3627407598869634
+Manipur,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2757516269328087,0.213770440347773,0.3527334627442067
+Manipur,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2672458464925911,0.207536996460189,0.3415270256568654
+Manipur,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2590343830435093,0.2005728401172271,0.330521336031629
+Manipur,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2513950342485979,0.1940919342628221,0.3204979342157723
+Manipur,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2443271233742248,0.1890789609598623,0.3116243456854877
+Manipur,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2376313121124734,0.1842962094852765,0.3046241057749302
+Manipur,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2312031625478843,0.1789551174240659,0.297799973693529
+Manipur,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2249492369603522,0.1741915510814277,0.2892431563861075
+Manipur,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2187764493590161,0.1692032960986047,0.2812197270623292
+Manipur,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2126591325702174,0.1644194449898507,0.2717800740038352
+Manipur,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2066202304468761,0.1593263372042132,0.2621958077327819
+Manipur,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2006912411234938,0.1545432352297484,0.2532511142771523
+Manipur,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1948850031479498,0.1508442812474358,0.2470896674549604
+Manipur,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1892198860914264,0.1464486401731511,0.2411232319037588
+Manipur,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.18372844405591,0.1420823591837402,0.2324625327109733
+Manipur,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1784017743841918,0.1387267367532134,0.2273207796964769
+Manipur,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1731995062781536,0.1347326367457585,0.2212675762328329
+Manipur,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.168088284618259,0.1311503344666403,0.2144056024880826
+Manipur,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1630198877611684,0.1275565639755265,0.2070536851597734
+Manipur,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.157768688576177,0.1241395508228407,0.1970685280900691
+Manipur,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1524513119152729,0.1191037158244388,0.1893290262518764
+Manipur,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1474399487007737,0.1151859101299254,0.1840151332947646
+Manipur,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1431536214210855,0.1114150803152006,0.1794283604995057
+Manipur,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1397758572551569,0.1087656923653327,0.1752919052419926
+Manipur,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1340722477640196,0.1035577468368476,0.1711814408364281
+Meghalaya,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3359347812641968,0.2626680946783341,0.424809615903292
+Meghalaya,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3278485231372989,0.256664274129279,0.4103275016138971
+Meghalaya,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3197607766700343,0.2490056116984338,0.3989484249661301
+Meghalaya,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3117404979963495,0.2447771390722667,0.3905697548199665
+Meghalaya,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3038058180219066,0.2392153041055533,0.3825258535004873
+Meghalaya,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2959907316286792,0.2334528979653907,0.3764925959555631
+Meghalaya,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2881523225715474,0.224860446871016,0.3633221875891957
+Meghalaya,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2802259023457245,0.2191188391620847,0.3555233083713008
+Meghalaya,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2723580097107693,0.2107008931854467,0.3467814640654818
+Meghalaya,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2647446623017863,0.2047816621764547,0.3383873463189817
+Meghalaya,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2575881393616975,0.1969755966289771,0.3298872584246612
+Meghalaya,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.250940583313691,0.1946628413592464,0.3223428595822156
+Meghalaya,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.244633129375755,0.1894237632862972,0.3143589502747388
+Meghalaya,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2385139257843623,0.1824625805485834,0.3067321523379385
+Meghalaya,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2324260535682786,0.1771433391040926,0.2993920646509368
+Meghalaya,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.226204894659868,0.1714956507510348,0.2920758633428724
+Meghalaya,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2198033023161688,0.1670902636515838,0.2809592891889711
+Meghalaya,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2133263295469397,0.1638589915270371,0.2720346636379913
+Meghalaya,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2068250768393155,0.1608211814170355,0.2633233925443909
+Meghalaya,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2003465201646963,0.1550696246950637,0.2535197080501741
+Meghalaya,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1939384501015171,0.1502740018054414,0.2447726775127587
+Meghalaya,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1873943030407965,0.1464486219564853,0.2353259121052004
+Meghalaya,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1806693842273917,0.1411456420575852,0.2257723344301766
+Meghalaya,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1741002061467425,0.1364608960152394,0.2174066887173341
+Meghalaya,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1680142101349721,0.1315110491318149,0.2100177915291398
+Meghalaya,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1627232645786033,0.1274207843925087,0.2035438748355574
+Meghalaya,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1583931350275404,0.1242196837701078,0.1966738855555513
+Meghalaya,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1546315034054691,0.1214360634917513,0.1924305496304236
+Meghalaya,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1509684867017742,0.1174279596862026,0.1900094679364635
+Meghalaya,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1469480394265288,0.1138561365377925,0.1848041405129218
+Meghalaya,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1419736479753568,0.1100739206029858,0.1765445769692631
+Meghalaya,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1366819299597923,0.106323993520598,0.1703472693402459
+Mizoram,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3016235985405481,0.2285940332765116,0.3843699467736265
+Mizoram,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2943036895285337,0.2257328940826158,0.3732662333402755
+Mizoram,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2869357493567764,0.2220680967325534,0.3644981831121133
+Mizoram,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2795305116838852,0.2170253807881618,0.3552728363931594
+Mizoram,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.272100608329032,0.2096203993716871,0.3443993525885557
+Mizoram,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.264678015570026,0.2027252261671301,0.3370910796705124
+Mizoram,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2571600315966367,0.1983663633227468,0.3276835753123043
+Mizoram,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2495370919071892,0.1912592176015516,0.3176515123185505
+Mizoram,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2420051610617389,0.1865764421490432,0.3073805629838499
+Mizoram,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2347637819863095,0.1821640037999812,0.2988768652683323
+Mizoram,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.228006025803731,0.1765481255260733,0.2915349579238966
+Mizoram,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2217749542075733,0.1720347765013565,0.2823863720865129
+Mizoram,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2159689068648361,0.1676171390535178,0.2746460387386651
+Mizoram,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2104445084198324,0.1631053022258152,0.2663017376162636
+Mizoram,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2050674466087762,0.1580208012246592,0.2587298119548898
+Mizoram,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1997017956738407,0.1524904283965465,0.2501951058114574
+Mizoram,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1943766739396804,0.148927397878481,0.2435325716714826
+Mizoram,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1891211368378554,0.1456625385641498,0.2365703055963691
+Mizoram,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1838355754058541,0.1422362309943982,0.2307004113393763
+Mizoram,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1784169657332601,0.1386050369916958,0.2246363575610127
+Mizoram,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1727604088785626,0.1337945024100122,0.2188025863407918
+Mizoram,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1664428799938459,0.1285763799709403,0.2093987770144063
+Mizoram,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1595264713891259,0.1236035639591276,0.2001863846195032
+Mizoram,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1526571203692874,0.1182647022041053,0.1908797825759267
+Mizoram,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.146468442633906,0.1136544559124954,0.1825563829406631
+Mizoram,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1415672691271307,0.1097189372636131,0.1761265336536288
+Mizoram,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1379458266846058,0.1069429020711249,0.1711649278246966
+Mizoram,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1348978421692744,0.1052309539737175,0.1678967776047361
+Mizoram,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1319888496205643,0.1028128372017712,0.1653444380179825
+Mizoram,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.128804836384908,0.10035944015111,0.1612226914899565
+Mizoram,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1249044225224719,0.0974662621689926,0.1541168369375565
+Mizoram,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1201955693927217,0.093722198262986,0.1475636706440371
+Nagaland,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3210424173495095,0.2428573781058079,0.4027709094039455
+Nagaland,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3133493730854603,0.2411482327398862,0.3929822526979236
+Nagaland,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.305697905894742,0.2372346187274669,0.3801627396506515
+Nagaland,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2981395004430226,0.2316406312724347,0.3723844051367679
+Nagaland,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2906942235022493,0.223484519333137,0.3667960548098021
+Nagaland,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.283399454363021,0.2160528249385652,0.3602443913626542
+Nagaland,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.276176657129565,0.211420600723398,0.348571958642599
+Nagaland,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2689748304400284,0.2049742556841418,0.3395654493182894
+Nagaland,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2618341197632027,0.1989119907602691,0.3295472608145529
+Nagaland,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2548537276240425,0.1933944183406377,0.3243046364519534
+Nagaland,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2481282809439701,0.1884797931423885,0.3174051865604461
+Nagaland,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2416491007215789,0.1848737080011657,0.3082096766155605
+Nagaland,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.235364720502854,0.1802994853467398,0.3003068232752338
+Nagaland,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2292143874669325,0.1767975921987044,0.2900793949433822
+Nagaland,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2231589127506042,0.1719067752510694,0.2829229334007805
+Nagaland,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2171596936490956,0.1678379296537562,0.2748222131826563
+Nagaland,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.211145738706749,0.1626239339610788,0.2676937627325109
+Nagaland,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2050953975581018,0.1583207889505665,0.2588840756750893
+Nagaland,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.199136972568557,0.1546634561341224,0.2512404489907505
+Nagaland,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1933574432456192,0.1485585792990758,0.2431303435426734
+Nagaland,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1878518470910143,0.1431002383149335,0.237562913351262
+Nagaland,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1826931280039832,0.1403347040189201,0.2287984614509398
+Nagaland,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1777817150935232,0.1370109344615643,0.2214451113118703
+Nagaland,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1729888464145219,0.1330990141003959,0.2151913074610789
+Nagaland,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1681973913053261,0.1294883805967784,0.210060529563993
+Nagaland,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1632867808876356,0.1252368153203698,0.2044560712875978
+Nagaland,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1581087168842946,0.1241319197197332,0.1966904079821086
+Nagaland,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1528324206932323,0.1209499897953759,0.1880447596754768
+Nagaland,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1477083037431472,0.1163323076215575,0.1812025785760957
+Nagaland,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.143028246441228,0.1120719160081255,0.1777383922022356
+Nagaland,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1388762145210289,0.107432650052949,0.1742406169757036
+Nagaland,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.133804172016525,0.1036976837201301,0.1671820771000129
+Odisha,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.269598062606468,0.1884332679485871,0.3657462047893001
+Odisha,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2762536304814029,0.1987921905846596,0.3745835569993621
+Odisha,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2822428520357682,0.2068408320047943,0.3808833703875614
+Odisha,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2872434343375887,0.2141588660857252,0.3859969361355859
+Odisha,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2908798432394876,0.2170328226526263,0.3818781847117372
+Odisha,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2928117139761818,0.2178385506812292,0.3849076934529563
+Odisha,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2936166963419865,0.219517311747377,0.3840377150022451
+Odisha,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2940813866121671,0.2220111962332976,0.3836720863420226
+Odisha,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2942465801104939,0.2233694286061046,0.3837602598108089
+Odisha,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2941786172631759,0.2217699347559669,0.3863417432079241
+Odisha,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.293934065439249,0.220470195114253,0.3856781263561291
+Odisha,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2933074073645004,0.2242024115006861,0.3798210312547564
+Odisha,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.292215422723772,0.2240632519838769,0.3751937576932083
+Odisha,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2908289610758006,0.220838405181422,0.3728926040489514
+Odisha,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2892904219726198,0.2193981303960465,0.3701534597348966
+Odisha,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2877144911247994,0.2175477209428358,0.367584612208675
+Odisha,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2858454361742092,0.2176959104430124,0.3655830825756802
+Odisha,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2835234863062739,0.2169302399756706,0.3620383131675556
+Odisha,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.280976618985777,0.2153914363272388,0.3598490830651373
+Odisha,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2783941821593053,0.2124847406721434,0.3590137747328872
+Odisha,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2759750426122961,0.2089899616513145,0.3569889495316896
+Odisha,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2734044523490729,0.2100493363666305,0.3511173541383744
+Odisha,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.270514411966483,0.2096412564232323,0.3461219444081522
+Odisha,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2677981628002503,0.2081695295677662,0.3400784374899714
+Odisha,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2657725316352413,0.206880303326885,0.3360705788321867
+Odisha,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.264919583645644,0.2052530760794214,0.3349195148005812
+Odisha,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2666394068579564,0.207886657620146,0.3351626747026378
+Odisha,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2710290806368751,0.2105113101236067,0.3413948398456351
+Odisha,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2762040397990453,0.2125756596674982,0.3485428921834086
+Odisha,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2804008530766435,0.2172029069913827,0.3550525438153134
+Odisha,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.283681261694417,0.2204896748548024,0.3558961876006596
+Odisha,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2813884047522778,0.2210295602851377,0.3561394608797596
+Punjab,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2209949224557563,0.156497974551688,0.3054703841338809
+Punjab,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2251456463064499,0.1612586632518707,0.3067817882178991
+Punjab,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2288300065204464,0.1658922345618071,0.3089661919719292
+Punjab,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2319229224653524,0.1692122548480912,0.3068477504772626
+Punjab,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.234260985589664,0.1729021816507616,0.3091604387776969
+Punjab,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2357047641638484,0.1742929683804491,0.3113178321113379
+Punjab,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2365929457843804,0.1773733127362239,0.3135370393688537
+Punjab,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2373956835421794,0.1770055222460168,0.3137646246397897
+Punjab,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.238076197846664,0.1786459613148084,0.3107738064265387
+Punjab,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2385982387822351,0.1796555913172246,0.310341499588047
+Punjab,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2388713190886645,0.1794058355366284,0.3117317853705643
+Punjab,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2386550977530072,0.1795688476030238,0.3065152807567632
+Punjab,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2378363958802299,0.1795646574096378,0.302088881189459
+Punjab,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2366671298206822,0.1801351676819057,0.2989210229722494
+Punjab,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2353539554091583,0.1796293657231153,0.2956665652008318
+Punjab,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2340999717715985,0.1785828210679711,0.2941855061938563
+Punjab,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2328591536103263,0.178535395878407,0.2911528218465775
+Punjab,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2315052379832524,0.1787733909076478,0.2887315621976431
+Punjab,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.23009622030162,0.1772463217300022,0.2866810334528071
+Punjab,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2286468215083601,0.1767660391887291,0.2856169001668891
+Punjab,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2271927712200856,0.1753687948744744,0.2825178948401632
+Punjab,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2252072218894773,0.1754516157592067,0.2818937222644737
+Punjab,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2225281266230008,0.1732043997960415,0.2789203771433339
+Punjab,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2198635294338554,0.1714755807248802,0.2746386207580256
+Punjab,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2178937624947202,0.1707809249047138,0.2732208406682264
+Punjab,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2172458995634613,0.1711113084371675,0.2704979092954143
+Punjab,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2192316795944849,0.1706941224077697,0.2748365671366128
+Punjab,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2238064834649809,0.1750076295601553,0.2830405455921937
+Punjab,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2290767980762362,0.1808659570523293,0.2909045579063812
+Punjab,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2331335243609478,0.182500584049967,0.2965052424859837
+Punjab,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2355445061682823,0.1875522937509963,0.2917487366793864
+Punjab,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.235479478172172,0.1852460967980418,0.2936600523731831
+Rajasthan,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2547084728481296,0.1837922406122447,0.3415198145447584
+Rajasthan,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2565484933914654,0.189174317323667,0.3412208014173198
+Rajasthan,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2587001471075625,0.1932892027982164,0.342701573339918
+Rajasthan,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2610667922400261,0.1947421687935802,0.3441644001451358
+Rajasthan,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2635294790339152,0.1970797258000448,0.3460264586993385
+Rajasthan,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2659991520240287,0.1987016565600091,0.3506632394486869
+Rajasthan,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2700587350856465,0.2043021880437995,0.3496132508967133
+Rajasthan,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2761706614085866,0.2109082018902616,0.3536462195525278
+Rajasthan,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2825870915942306,0.2167361537985743,0.3615889762746591
+Rajasthan,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.287614694824281,0.2209280247803828,0.3672507198191566
+Rajasthan,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2895410674842619,0.2233496096350521,0.3685001038813193
+Rajasthan,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2888271388590607,0.2223697219207372,0.3642203585334025
+Rajasthan,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2874086598187969,0.2208815350692313,0.3611254545605402
+Rajasthan,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2856991345414111,0.2207226497582368,0.358043683228793
+Rajasthan,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2841358624948704,0.219505249087841,0.3567354941395217
+Rajasthan,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2831522024701607,0.2179640373525405,0.357361960512265
+Rajasthan,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2826968167398972,0.2184431148609946,0.3556713527076497
+Rajasthan,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2823986292530626,0.2157237719215096,0.3523384044578361
+Rajasthan,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2821656778502941,0.2138101019777761,0.3527479131796915
+Rajasthan,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2818921203277708,0.2143913844561609,0.3519294498856489
+Rajasthan,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2814186821126326,0.2160248389900017,0.3521552278163642
+Rajasthan,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2781144165821493,0.2128212896004602,0.3463110776646896
+Rajasthan,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2711412875975953,0.2085361753742095,0.337011909103551
+Rajasthan,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2629962671287653,0.2020027853483313,0.3292678589032419
+Rajasthan,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2562278938113119,0.19660084933414,0.3189143971330185
+Rajasthan,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2533536584263711,0.1949689706199197,0.316540686200093
+Rajasthan,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2554536851548349,0.197469112637465,0.3192865702916861
+Rajasthan,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2604019819692164,0.2025539932614264,0.3258234945350027
+Rajasthan,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2657997862805513,0.2074747463559695,0.3324348646138129
+Rajasthan,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2692411290673265,0.2110279430930359,0.3369753971468882
+Rajasthan,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2704326936426851,0.2088915364501959,0.3399574444861282
+Rajasthan,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2682543980942806,0.2106825722011567,0.3400701512995047
+Sikkim,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2258799060296627,0.1584437613561176,0.3107649974377981
+Sikkim,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2309264812938165,0.1652972555528132,0.311996097997365
+Sikkim,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2353753780431556,0.1711755318003829,0.3151757382050812
+Sikkim,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2389742044657607,0.1736192010849219,0.3186733409429513
+Sikkim,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2414577875909214,0.1770518980783655,0.3198210670551804
+Sikkim,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2425768487553733,0.1775701187198772,0.3222859720541738
+Sikkim,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2427948608308018,0.1785236890190669,0.3201917439830858
+Sikkim,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2427419177756385,0.1813471343540744,0.3186324453336024
+Sikkim,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2424668710163503,0.1849158325112978,0.3175790618896823
+Sikkim,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2420243205773375,0.186373997214866,0.3162168098571589
+Sikkim,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.241471900216337,0.1852570050661853,0.316103687842593
+Sikkim,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2406990579333888,0.1856001900603471,0.3131344759264875
+Sikkim,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.239713617123296,0.1839075908617486,0.3065924598080483
+Sikkim,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.238616481406012,0.1827515321432327,0.3038347257626407
+Sikkim,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2375106797915142,0.1823534175870841,0.300437844099949
+Sikkim,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2364623203850617,0.1815004743752996,0.3029895097731743
+Sikkim,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.235077103955888,0.18121384650206,0.2986346387112447
+Sikkim,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2330398013678035,0.179400802588621,0.2956390463713764
+Sikkim,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2307538498512276,0.177198200484228,0.2942489269098654
+Sikkim,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2285617428494436,0.1744106175243657,0.2928204563467345
+Sikkim,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2267876373870703,0.1719969355908773,0.2925001134159398
+Sikkim,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2251655993368732,0.1716971823573664,0.2873784390219017
+Sikkim,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2235015171372425,0.1722649585823897,0.2827528841435683
+Sikkim,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2221611520206667,0.1719287061539168,0.2789412837013478
+Sikkim,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2215369897796954,0.1738261885458211,0.2770741716591824
+Sikkim,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.221983191842769,0.1740172836475516,0.2778847609101384
+Sikkim,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2247508418279761,0.1762683602839876,0.2834909147234947
+Sikkim,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2299481745703076,0.1810031865578096,0.2890780292706584
+Sikkim,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2357755304744743,0.1847352890738345,0.2957181190169909
+Sikkim,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2406301723497107,0.1890653521066451,0.3016092126405825
+Sikkim,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2445234627131798,0.1922666851558195,0.306323277212737
+Sikkim,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2447956675332827,0.190736405126868,0.3055153823800499
+Tamil Nadu,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2064004079180423,0.13507653134046,0.2948979022537703
+Tamil Nadu,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.210235193627635,0.1416277192841853,0.2969116727520901
+Tamil Nadu,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2135784428370084,0.1467634684083854,0.2980833321629138
+Tamil Nadu,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.216249994566901,0.1507351319895641,0.2981321404039261
+Tamil Nadu,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2180537497097511,0.1527438181419763,0.2960140936848394
+Tamil Nadu,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2188361310136927,0.1534962244749812,0.296830223319191
+Tamil Nadu,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2189351585974804,0.1555083044047134,0.2945284213464444
+Tamil Nadu,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2188242853736696,0.1573928399837993,0.2930063326790543
+Tamil Nadu,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2185391211745603,0.1585857035773675,0.2914510004663769
+Tamil Nadu,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2181452076695522,0.1594552289862215,0.2911854565695939
+Tamil Nadu,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2177210459270512,0.1595567514740354,0.2894956453818564
+Tamil Nadu,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2171282633630126,0.1595931090113678,0.2888848487967376
+Tamil Nadu,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2161954065238073,0.1590937728009696,0.2880407037821103
+Tamil Nadu,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2150029787954002,0.1587874842606828,0.2860084884403701
+Tamil Nadu,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2136313677878671,0.1577092017210921,0.281408142068437
+Tamil Nadu,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2121880585284321,0.1563176973454239,0.2774807217001845
+Tamil Nadu,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2104590911085384,0.1569656581658871,0.2735050355078789
+Tamil Nadu,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2083235696272812,0.155927617471612,0.2680867794470732
+Tamil Nadu,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2060076883998274,0.1541711993237026,0.2624527038883019
+Tamil Nadu,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2037418391613537,0.1521460309860061,0.2579647344974704
+Tamil Nadu,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2017334577459548,0.1515694552246783,0.2548544832249799
+Tamil Nadu,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1997113277171766,0.1499045410604093,0.2507291237647439
+Tamil Nadu,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1974879828871245,0.1484088329425699,0.246478591181493
+Tamil Nadu,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1954402220929244,0.1483832096622523,0.2432475613950545
+Tamil Nadu,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1939531303943851,0.1488293981634433,0.2445088633611388
+Tamil Nadu,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1933826713907617,0.1488338109951487,0.2429535949553093
+Tamil Nadu,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.194947925863436,0.1508828880227815,0.2458732395544288
+Tamil Nadu,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1986570635718707,0.1539291245196377,0.2491814180056387
+Tamil Nadu,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2027928010232133,0.1573822806737065,0.2563989993117645
+Tamil Nadu,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2057073240082776,0.159212444502919,0.2610904777045213
+Tamil Nadu,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2070731126575985,0.1582078787888749,0.2633021526954599
+Tamil Nadu,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2064375102555632,0.1609204342418271,0.2570567590304304
+Telangana,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2445966442455741,0.1704434495333713,0.3313921443608529
+Telangana,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2505572206228389,0.1793552654477812,0.3368901989328583
+Telangana,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2558206726543811,0.1872657301543016,0.34284291460021
+Telangana,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2601495155736245,0.192739904737595,0.3464019610271657
+Telangana,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2632472602277147,0.1966303989377602,0.3457561112540821
+Telangana,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2648480075554213,0.1979648942649508,0.3490429245921363
+Telangana,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2654097347474901,0.1996708519182056,0.3491432647128903
+Telangana,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2656048414886678,0.2005959531319458,0.3459604068647714
+Telangana,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2654768606523817,0.2022049064814035,0.3427355184480464
+Telangana,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2651230397834342,0.2029410114512124,0.3385267100909405
+Telangana,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2646421057023093,0.202198088214666,0.3344962257396173
+Telangana,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2638998834847146,0.2020864303081709,0.3338400685561132
+Telangana,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2628174449806791,0.2001096494110521,0.3337636392803453
+Telangana,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2614939626662597,0.1980584002387497,0.3316873129500276
+Telangana,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2600439842824401,0.1966376135270929,0.3301802556991967
+Telangana,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2585837696471458,0.1962612398098142,0.3284453682781462
+Telangana,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2569437191488759,0.1955184354722993,0.3263031433139732
+Telangana,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2549315557273039,0.1931996407997297,0.3233842743984728
+Telangana,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2527354389456281,0.1901340684421509,0.3219055710126388
+Telangana,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2504971690927516,0.1873391080652267,0.3201220311669865
+Telangana,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2483742264517632,0.1856180321415146,0.3192317534821445
+Telangana,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2459713315865017,0.1838116804624385,0.315471783789888
+Telangana,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2431235471377656,0.1827406313127212,0.3106899476522993
+Telangana,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2404045436372174,0.1824838694889553,0.3052205799354059
+Telangana,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2383619368756707,0.1799722854110272,0.3025950311349575
+Telangana,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2375081345224555,0.1778598892318487,0.2991623873489408
+Telangana,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2391482763524216,0.1796005930688634,0.3042077864975337
+Telangana,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2432151907199482,0.1818558674945779,0.3098975920681129
+Telangana,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2480235496794024,0.1865798380739517,0.3149007159713547
+Telangana,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2519370546853393,0.1894298777690343,0.3211921855754984
+Telangana,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2549872534789427,0.1961393952808462,0.3262249535751307
+Telangana,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2536040631530655,0.1956322920840446,0.3188445540276913
+Tripura,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3448582797652992,0.2663348630927447,0.4337619448534525
+Tripura,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3365439412671416,0.2605549209903297,0.4220190322394319
+Tripura,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3281377934293081,0.2552573348553377,0.4096865452503816
+Tripura,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3196783117606427,0.2488093225580856,0.4009151846462208
+Tripura,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3111657223064825,0.2421029504901785,0.3924238209219621
+Tripura,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.302626050797292,0.2338567946747166,0.3844562495631992
+Tripura,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2939101661637027,0.227336876932481,0.375709050195644
+Tripura,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2849572044878601,0.2201536267455544,0.3632820291907969
+Tripura,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2759477665601885,0.21218189316074,0.3507116812227237
+Tripura,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2671076690439933,0.20415414477907,0.3404395709604928
+Tripura,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2586688672537103,0.1973203207469636,0.3301819615144762
+Tripura,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2506321820470468,0.1917886082345889,0.3197767172098278
+Tripura,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2428526979389613,0.1863553913123796,0.3088085489078547
+Tripura,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2353252359838611,0.1818933128475091,0.2987114978160707
+Tripura,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2280219549599471,0.1771437557692312,0.2894803682342201
+Tripura,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2209072632013444,0.1718479441360718,0.2817973236259369
+Tripura,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.21389760182365,0.167195130834829,0.2711538972629315
+Tripura,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2069816505920008,0.160594521803363,0.2599467286344386
+Tripura,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.200222896583284,0.1564585969253094,0.2528879093135681
+Tripura,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.193686880599832,0.1512301064848818,0.2432990952159948
+Tripura,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1874313326748568,0.1451789840318613,0.2355972821301702
+Tripura,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1813470524037924,0.1415140418052462,0.2257691889197053
+Tripura,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1753534872038107,0.1386089012959223,0.2170847771640107
+Tripura,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1695756659625155,0.134162139482999,0.209902817319626
+Tripura,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1641542783245595,0.1292602333067251,0.2023414155073696
+Tripura,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1592359069505807,0.1253011875166556,0.197318711805987
+Tripura,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1549051972628732,0.1223115747584753,0.1909712876001911
+Tripura,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1510340513231891,0.119445458132929,0.1862890648001726
+Tripura,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1473408209937141,0.1161713253243127,0.1824490965766384
+Tripura,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1435725628797661,0.1124739461994405,0.1787870122968424
+Tripura,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1394132641044907,0.1082085479849649,0.1736603595658314
+Tripura,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1346029234683361,0.1053947175920035,0.1693777101351445
+Uttar Pradesh,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1628968256144574,0.0890353288089945,0.2667444614655093
+Uttar Pradesh,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1631950741446643,0.0920328731206801,0.2617403157204695
+Uttar Pradesh,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1633308724923036,0.0937950867355729,0.2548636208758539
+Uttar Pradesh,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1633333496619394,0.0968394430958206,0.2506792839732188
+Uttar Pradesh,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1631633755655209,0.0995929532634742,0.2469567389393395
+Uttar Pradesh,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1628323788224516,0.1002318627821658,0.2451669045524578
+Uttar Pradesh,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1623779406845126,0.100975522090456,0.2425861541168383
+Uttar Pradesh,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1618009347833001,0.1009551740220577,0.2424317541572499
+Uttar Pradesh,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1611077449218869,0.1019983032874242,0.2399534131581526
+Uttar Pradesh,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1602871688855271,0.101650933253522,0.2380706111059927
+Uttar Pradesh,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1594019505458515,0.102270967899199,0.2355509130280281
+Uttar Pradesh,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1583499503468058,0.1027246985328217,0.2301698002219193
+Uttar Pradesh,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.157047711298,0.1025080347927803,0.2245943825837161
+Uttar Pradesh,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1555978049862886,0.1018200863079586,0.2207287363789885
+Uttar Pradesh,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1541229349411653,0.1025332658652874,0.2174651902163117
+Uttar Pradesh,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1527134588271157,0.101183468599475,0.2149576530119267
+Uttar Pradesh,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.151269942065458,0.1017140890090086,0.2121911542665646
+Uttar Pradesh,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1496615434803981,0.1020031647381961,0.2093992947757313
+Uttar Pradesh,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1479996862131652,0.1021506927631359,0.2063627380675232
+Uttar Pradesh,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1463170093977669,0.1021646430592104,0.2030376345374007
+Uttar Pradesh,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1446467989712899,0.1015569388638969,0.1999639036799722
+Uttar Pradesh,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1427165149694204,0.1011201744237754,0.196938390195049
+Uttar Pradesh,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1404802068071312,0.0994752763788949,0.1936598790254772
+Uttar Pradesh,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1383641312030092,0.0973344999488259,0.1918228025163612
+Uttar Pradesh,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1368289600262879,0.0961762270271394,0.1899857132555702
+Uttar Pradesh,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1362202753851533,0.0960555340363071,0.1892880016308989
+Uttar Pradesh,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.136962961524328,0.0965705040400501,0.1873938660218256
+Uttar Pradesh,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1387750436509586,0.0995206709546893,0.1861488567280889
+Uttar Pradesh,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1407978175271946,0.1019366781015304,0.1883290596081311
+Uttar Pradesh,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1421728050331666,0.1039903130711202,0.1901317726149025
+Uttar Pradesh,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1424867255868874,0.1052895887483804,0.1884941263740775
+Uttar Pradesh,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1413298715837551,0.1048712698571035,0.185558060979036
+Uttarakhand,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3632027389351245,0.2774878095767945,0.4516564415223152
+Uttarakhand,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3572590627879974,0.2728685300830215,0.4402424634715468
+Uttarakhand,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3510472359964591,0.2716494320249174,0.4338433104276372
+Uttarakhand,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3446087433141067,0.267948077393764,0.4260940512808377
+Uttarakhand,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3379441811326521,0.2620085991040751,0.4215733810022879
+Uttarakhand,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3310985451506905,0.2552723150212075,0.4150333084805517
+Uttarakhand,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3238784390430028,0.2494997493726633,0.4069957564068702
+Uttarakhand,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3162002427753528,0.2405458914045872,0.3946054039478954
+Uttarakhand,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3083109602255108,0.2335602760831473,0.3889304263631974
+Uttarakhand,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3005114120570573,0.2264349200648172,0.3859508825566537
+Uttarakhand,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2931010142048344,0.2190915420894443,0.3802089331836548
+Uttarakhand,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2861714229286524,0.2153837614308694,0.369449525685978
+Uttarakhand,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.279540823550928,0.2109260808562996,0.3611155099357058
+Uttarakhand,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2729947238684649,0.2067723996228449,0.3526852381485614
+Uttarakhand,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.266337114622455,0.2025277120117454,0.3447246353531893
+Uttarakhand,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2593750029444682,0.1963459431419858,0.3378499522480854
+Uttarakhand,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2520213267376184,0.1917262225998132,0.3258488279220574
+Uttarakhand,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2443093499913397,0.1859071442805333,0.3131363458043584
+Uttarakhand,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2363912838848184,0.1793017141342701,0.3052478653139256
+Uttarakhand,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2283709111866997,0.17204235749375,0.2966042772930924
+Uttarakhand,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.220355329977303,0.165140126308648,0.2848623071000858
+Uttarakhand,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2122477960329039,0.159657657166822,0.2737337428775115
+Uttarakhand,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2040032167177724,0.1549236176595604,0.2636812016331817
+Uttarakhand,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1958036818007836,0.1479140163036053,0.2515852331441549
+Uttarakhand,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1878460867560008,0.1422678098001921,0.242459090148177
+Uttarakhand,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1802942214143221,0.1364635679891084,0.2323699070828093
+Uttarakhand,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1730157869541094,0.130888024693424,0.22197866925467
+Uttarakhand,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1659624128898564,0.1269051702105432,0.2096930523330046
+Uttarakhand,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1593550012144394,0.1226810075099826,0.2014782460178761
+Uttarakhand,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1534764265953478,0.1177836388542512,0.1956087201506458
+Uttarakhand,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1485305580136026,0.1150285949371321,0.1882563129905063
+Uttarakhand,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.1437301941915091,0.1097996190662957,0.183373573441687
+West Bengal,1990,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2882118585159223,0.2173674619613955,0.373917310320931
+West Bengal,1991,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.295590711066573,0.2244155705629097,0.3776863533855934
+West Bengal,1992,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3022864727646943,0.232070229647127,0.3848705831655248
+West Bengal,1993,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3079195446214942,0.2365996364760215,0.3898295418838827
+West Bengal,1994,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3121179621224585,0.2423015512389293,0.3963252062851829
+West Bengal,1995,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3145447556205788,0.2429595584064432,0.4018241774720938
+West Bengal,1996,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3159419203892677,0.245943930836793,0.4005861166634639
+West Bengal,1997,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3172340165985813,0.2466122995952957,0.4006228466041409
+West Bengal,1998,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3183080036309894,0.2457464901782443,0.3988990914044507
+West Bengal,1999,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3190942152336816,0.2450644405597421,0.3999494914234182
+West Bengal,2000,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3194778750003318,0.2436025587014264,0.402066108538886
+West Bengal,2001,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3193930125541779,0.2476612243667663,0.4018196117230092
+West Bengal,2002,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3189189660416909,0.2479874086265439,0.4016754197363527
+West Bengal,2003,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3181781058129568,0.2454190740420323,0.3984916869501596
+West Bengal,2004,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3172462047888608,0.243925853843501,0.3979189097510083
+West Bengal,2005,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3161959750560358,0.2435828418045142,0.396198779710336
+West Bengal,2006,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3144712359289998,0.240736436135923,0.3934507982065386
+West Bengal,2007,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3118123874904062,0.2376629971297195,0.3912430791557745
+West Bengal,2008,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.308613475177707,0.2357396397756477,0.3878170370990198
+West Bengal,2009,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3053289164343896,0.2355181724723983,0.3842392962161724
+West Bengal,2010,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3024253781279454,0.2337375838846755,0.3808361508879825
+West Bengal,2011,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2994814291698875,0.2324674588175475,0.3759515298165964
+West Bengal,2012,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2961329328821731,0.2278581909632377,0.3729699493493161
+West Bengal,2013,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2930296963006158,0.2264237293368371,0.3686408677041438
+West Bengal,2014,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.290782923808928,0.2262856258258414,0.3646405181628154
+West Bengal,2015,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2899334667787377,0.2224947006862556,0.3644235296514476
+West Bengal,2016,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2922182156146736,0.2268761850459406,0.3673954449128758
+West Bengal,2017,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.2975297786907074,0.2336799016745442,0.3735193917463413
+West Bengal,2018,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3035411856514251,0.2380357746114266,0.3844629955711011
+West Bengal,2019,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.307948157606261,0.2412066565588212,0.3932884339221369
+West Bengal,2020,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3103959570020846,0.2397600184725567,0.3905167025072137
+West Bengal,2021,70+ years,Female,Latent tuberculosis infection,Percent of total prevalent cases,0.3084955626091554,0.2392278017626997,0.3854722251984485
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2021. Seattle, WA: IHME, University of Washington, 2023. Available from http://vizhub.healthdata.org/gbd-compare. (Accessed 7/24/2024)."
+"For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"

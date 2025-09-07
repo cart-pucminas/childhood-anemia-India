@@ -1,0 +1,964 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+Andhra Pradesh,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4871021977640198,0.3911185741984748,0.5655942803729372
+Andhra Pradesh,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4815576089039977,0.3842176071561261,0.5590219593128415
+Andhra Pradesh,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4748281534723095,0.3796372185081954,0.552820067520029
+Andhra Pradesh,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4671123247137233,0.3727464366657726,0.5481119304179971
+Andhra Pradesh,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4585686237318712,0.3636283989343561,0.5440998778788141
+Andhra Pradesh,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4493431910186327,0.3505442663986836,0.5406706684902077
+Andhra Pradesh,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4350745412321691,0.339141837562392,0.5272635589240153
+Andhra Pradesh,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4139023273169712,0.3160710575077537,0.5078227895824479
+Andhra Pradesh,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3898145708798113,0.2914013245410954,0.4828381594180446
+Andhra Pradesh,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3669775713802956,0.2688789987892794,0.4643901506935523
+Andhra Pradesh,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3497136593690314,0.2522132270250588,0.4552095700944624
+Andhra Pradesh,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3380798284096173,0.2449648723231991,0.4421440979032539
+Andhra Pradesh,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3285179427780213,0.2391276102144741,0.433250569026555
+Andhra Pradesh,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3199909875917074,0.2328024324216369,0.4245999272069762
+Andhra Pradesh,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3114648585771638,0.2267591580938758,0.414697432892772
+Andhra Pradesh,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3019310489913245,0.2208307531514299,0.4052004485015995
+Andhra Pradesh,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2899390054321438,0.2144988672661554,0.388213121917374
+Andhra Pradesh,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2761577329414449,0.204586523985832,0.369283971940493
+Andhra Pradesh,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2627876889627532,0.1931431869663782,0.3497327356046711
+Andhra Pradesh,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2520727095281601,0.1861579667598334,0.3337686484029721
+Andhra Pradesh,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.246281848811181,0.1822854707228805,0.3258684250292512
+Andhra Pradesh,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2452163993138941,0.1812117023501668,0.3247735777981396
+Andhra Pradesh,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.246259682823997,0.1824498684887558,0.3274353044336163
+Andhra Pradesh,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2479776257825125,0.1839022120895847,0.3296641891094284
+Andhra Pradesh,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.248970448440296,0.1832157954741932,0.3323003310876349
+Andhra Pradesh,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2478673871556302,0.1804565086425449,0.3333131401105241
+Andhra Pradesh,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.241260322942193,0.178045980881623,0.3242654900487431
+Andhra Pradesh,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2293876648050081,0.169637594060257,0.3077382238388048
+Andhra Pradesh,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.216246869368866,0.1607429800885262,0.2892975214743153
+Andhra Pradesh,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2058958182907027,0.1521690292467726,0.2765451603031897
+Andhra Pradesh,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.198852385078194,0.1467140685378386,0.2681416132036444
+Andhra Pradesh,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1933765375281979,0.1398019281894336,0.2615189425491975
+Arunachal Pradesh,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3438043884233359,0.2158981797898453,0.4824987036185824
+Arunachal Pradesh,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3605487738710282,0.237976938521426,0.4835442860429008
+Arunachal Pradesh,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3730050111503295,0.2584055351479497,0.4830537981892704
+Arunachal Pradesh,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3815902577845197,0.2740599023328417,0.4842949692430176
+Arunachal Pradesh,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3866884755857194,0.2857071087715038,0.4851520009249268
+Arunachal Pradesh,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3887134206430424,0.2898699177260745,0.4875843688777966
+Arunachal Pradesh,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3831574207894114,0.2861843998055626,0.4814070524208328
+Arunachal Pradesh,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3687326749659129,0.2764705751918508,0.4628215420699356
+Arunachal Pradesh,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3506979358409766,0.2629099418769664,0.442741257717708
+Arunachal Pradesh,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3342926492535388,0.2481606468590667,0.4281725479543831
+Arunachal Pradesh,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3247302411699302,0.2401769866028588,0.42022966600715
+Arunachal Pradesh,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3211205862192436,0.2392747094517943,0.4110590709257289
+Arunachal Pradesh,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3188026050908783,0.2389438071853966,0.4063187532884162
+Arunachal Pradesh,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3171692258357715,0.2391277121627786,0.4028047851860504
+Arunachal Pradesh,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3155913261443949,0.2390142008742168,0.3978935151520397
+Arunachal Pradesh,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3134848472682268,0.2365644194619364,0.3950532282745475
+Arunachal Pradesh,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3092707327187015,0.2356518951897536,0.3909318961777611
+Arunachal Pradesh,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3029084922428876,0.2295412055674109,0.3886098002160089
+Arunachal Pradesh,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2962674763673601,0.2220092261493705,0.3830864145634742
+Arunachal Pradesh,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2912050597074088,0.2160383337416899,0.3817654583035972
+Arunachal Pradesh,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2894388238718491,0.2135744798381761,0.3877104538074319
+Arunachal Pradesh,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2951688228597514,0.2179003067723192,0.3903514056306716
+Arunachal Pradesh,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3082517904897898,0.2271757930274739,0.4046384379629046
+Arunachal Pradesh,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3239983637934283,0.2398307883476584,0.4244077139685257
+Arunachal Pradesh,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3376251292200631,0.2491667306372524,0.4464437026043983
+Arunachal Pradesh,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3442982485609713,0.2515948306238537,0.4564017965308401
+Arunachal Pradesh,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3455275666158818,0.2546909343324018,0.4536537515362624
+Arunachal Pradesh,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3463317235517618,0.2547639009713004,0.4522090555119772
+Arunachal Pradesh,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3469659972235233,0.2540846006504995,0.4552268453859082
+Arunachal Pradesh,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3477107413220704,0.2538564203334235,0.4614729596752314
+Arunachal Pradesh,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.35024631092983,0.2511698713444018,0.4576382465892482
+Arunachal Pradesh,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3503185735285739,0.253394733806394,0.457292527503118
+Assam,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3344993490923414,0.206615301848353,0.4815080128522634
+Assam,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3499261268426286,0.2284765015328772,0.4834304888958707
+Assam,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3613011203773488,0.2440733353732321,0.4836446288614409
+Assam,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3690214397840459,0.2554329045411111,0.4809773028910987
+Assam,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3734352395194311,0.2606780054082925,0.4823309900209775
+Assam,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3748991833373633,0.2627426611961181,0.4823532160780538
+Assam,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3693940049284433,0.2563439564085122,0.4739004488320738
+Assam,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3558712512779132,0.246018112112966,0.4588672706201471
+Assam,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3392024430709152,0.235460106314072,0.441135943728177
+Assam,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3243340328816347,0.225439683699352,0.424888755349791
+Assam,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3162548784577182,0.2212121037639697,0.4184890639398002
+Assam,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.314116794198544,0.2243364391479008,0.4083282773315608
+Assam,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3132838266190592,0.2272263710950733,0.4021667200450337
+Assam,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3130265430660437,0.2298045830374819,0.402341500181498
+Assam,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3125485478857887,0.2317160982892597,0.4019099362542951
+Assam,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3109889192763728,0.2347555074766606,0.4007110103572865
+Assam,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3060054632764585,0.2317020670867436,0.3936017623942232
+Assam,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2975892969569337,0.2248228346033646,0.3835596049099049
+Assam,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2882875267607183,0.2199668220827778,0.3734656364840013
+Assam,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2806872002409105,0.211985010996879,0.3677838954283049
+Assam,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2773825623939055,0.2087006509593902,0.3675350317803406
+Assam,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.279888560621654,0.2102803039608093,0.369491889794511
+Assam,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2864356464641896,0.2157084779419595,0.3730489704071249
+Assam,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2946803676798222,0.2227007245842282,0.381402302424572
+Assam,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3021914977100777,0.2292039522053958,0.3909262472769474
+Assam,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3064430014634425,0.2321262014789364,0.3980642546544869
+Assam,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3103086830873839,0.2341800946476752,0.4002551705021248
+Assam,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3166542278879755,0.2372286866677682,0.4102035147306905
+Assam,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3228172707183324,0.2403936262362127,0.4242790073663984
+Assam,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3261107387572616,0.2408214878513513,0.4392657395580601
+Assam,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3255271410069977,0.2377318949278053,0.4324112382089752
+Assam,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3279373880840323,0.234909625310825,0.4380683916336755
+Bihar,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3385079258667383,0.206726629031468,0.4875850033175161
+Bihar,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3484403398946398,0.2272593368129603,0.480056947400746
+Bihar,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3553873466538749,0.2398866388048309,0.4764168087696191
+Bihar,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3597723956302563,0.2490234525748983,0.4733817697724046
+Bihar,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3619905845110789,0.2521087371817626,0.4690694455104372
+Bihar,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3624234881563898,0.2541990302602811,0.4708355190989856
+Bihar,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3564149949161549,0.2484983494459036,0.4581011246259907
+Bihar,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3423224437191182,0.2379196340654859,0.4391860090496671
+Bihar,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3252624171202606,0.2269798170546909,0.4189872504558325
+Bihar,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3104859845117468,0.2157174280066561,0.4055773790183128
+Bihar,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3032225647564986,0.2110154030896995,0.3982125726453145
+Bihar,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.302164757021427,0.2155443995068054,0.3912935151265815
+Bihar,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3021754047250298,0.2191555524749732,0.3870519051161822
+Bihar,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3026369906983249,0.2231703806183611,0.3873199642818683
+Bihar,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3029255834529183,0.228147835476847,0.3892009565600834
+Bihar,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3024059816077491,0.2283875914058631,0.3862186339913359
+Bihar,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2992947766945937,0.2270021339469968,0.3790713519810625
+Bihar,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.293495702761041,0.2228612855585028,0.3707539546444578
+Bihar,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2869078014335108,0.2160561001024078,0.3653793205180394
+Bihar,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2814530715176057,0.2113683047460046,0.3598900878550954
+Bihar,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2790826459042065,0.2077067064372691,0.3596296223224792
+Bihar,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2814905846777388,0.2110918016843048,0.3665645829999078
+Bihar,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2877388813251348,0.2174522200126223,0.3717479520385965
+Bihar,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2957716715116281,0.2240754681311891,0.3849006133621253
+Bihar,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3034250187221579,0.230361717884124,0.3949561483238987
+Bihar,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3083961677773764,0.2330790396613621,0.4027578584415836
+Bihar,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3130490062491144,0.2354926734189105,0.4066020278910008
+Bihar,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3196886921355534,0.2365887861537038,0.413789187525119
+Bihar,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3258408616065952,0.2372873531176108,0.4290750383531971
+Bihar,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3290727053871958,0.2354391701925541,0.4382812549108443
+Bihar,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3274892640502941,0.2368148584779147,0.4398077087867646
+Bihar,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3291981353054807,0.2355295646636739,0.4380492877525716
+Chhattisgarh,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4939934771058696,0.3953834713276112,0.5683340530733361
+Chhattisgarh,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4885632969814096,0.391413337519191,0.5625168804534573
+Chhattisgarh,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.482192381953287,0.385100456769475,0.5562665271511695
+Chhattisgarh,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4750591005464482,0.3775807095825889,0.5528880053780927
+Chhattisgarh,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4673024364863977,0.3662610059889979,0.5501548089030469
+Chhattisgarh,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4590365115078284,0.3536986390512663,0.5453425227663722
+Chhattisgarh,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4456624369554177,0.345136244480724,0.5357521722519054
+Chhattisgarh,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4253640729936688,0.3277359646345515,0.5157829410670429
+Chhattisgarh,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4026049263562606,0.3047321661118755,0.4956864407368316
+Chhattisgarh,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3820408096745556,0.2874225914061372,0.4822489515530136
+Chhattisgarh,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3684215274277181,0.2739876993490319,0.4743113563194429
+Chhattisgarh,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3612998413879911,0.2668200311019965,0.4669530301188561
+Chhattisgarh,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3563152304743122,0.2620979506022474,0.4600294180158902
+Chhattisgarh,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3523415865314984,0.259131570945781,0.4571193889119845
+Chhattisgarh,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3482136915051351,0.2562714511242783,0.4604230933873995
+Chhattisgarh,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3427583867964272,0.250714301607758,0.4556058762792023
+Chhattisgarh,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3344447319431438,0.2461651137534691,0.4420441714498723
+Chhattisgarh,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.323906857143319,0.2391211498027339,0.4268540181809173
+Chhattisgarh,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3132407731129306,0.2310456760006221,0.4160898506644472
+Chhattisgarh,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3045627375077089,0.2257068655500264,0.4076562000224417
+Chhattisgarh,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3000277357769974,0.2211874155634978,0.4029303097575702
+Chhattisgarh,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.300477522358725,0.2209297358640635,0.4008204542919803
+Chhattisgarh,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3039751502077565,0.2244419248131071,0.4037828807133953
+Chhattisgarh,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3084975366734496,0.2272697743181648,0.4105357737688273
+Chhattisgarh,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3119789207291621,0.2300411567669775,0.4151527531874044
+Chhattisgarh,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3123697058851418,0.2307292481536276,0.4181466193109759
+Chhattisgarh,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3053346957126473,0.2244999817343058,0.4084999714718248
+Chhattisgarh,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2912243676915787,0.2149804573884657,0.3919653880128981
+Chhattisgarh,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2749723638645088,0.2036101105899378,0.370660779005464
+Chhattisgarh,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2616253701331323,0.1934113739767459,0.35489623220436
+Chhattisgarh,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2521311627001537,0.1836465666305346,0.3432470276608592
+Chhattisgarh,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2436213476553841,0.1751850824849087,0.3217320319355351
+Delhi,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3511255699894378,0.2263139651853844,0.4903778458375631
+Delhi,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3734877942466468,0.2548386848384902,0.4932617709279471
+Delhi,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3907223423211857,0.2818555074387148,0.5000841324721956
+Delhi,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4029346074366507,0.3015573105541902,0.505768768759288
+Delhi,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4102362083085742,0.3093806539112954,0.5105097226915538
+Delhi,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4127766711778219,0.3097883899873582,0.5134339870242861
+Delhi,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4067774308296384,0.3031946424532724,0.5069095036642722
+Delhi,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3915928245998644,0.2947559943110114,0.4890739437577537
+Delhi,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3723044537702277,0.2814978994584971,0.4683161933963228
+Delhi,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3541540755017324,0.2676394394676167,0.44800790076982
+Delhi,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3424031203188799,0.2585543749601761,0.4389645473661859
+Delhi,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3364715488931503,0.2559106927829296,0.4298126642066185
+Delhi,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3317822169057507,0.2551445041782832,0.4228970030381269
+Delhi,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.327595729066731,0.2504811969247879,0.412890123199217
+Delhi,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3231806399567828,0.2453272258640979,0.406633972728229
+Delhi,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3177980099292002,0.2381570298202151,0.4028123482639046
+Delhi,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3093133800514504,0.2352570294215544,0.3914908447721223
+Delhi,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2978366943939478,0.227890953334019,0.3787474951084262
+Delhi,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2860472093521662,0.2192867997533104,0.3652374965396165
+Delhi,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.276674194771859,0.2099625835950798,0.3587370329578788
+Delhi,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2724857397422481,0.204629884844129,0.3590035562266497
+Delhi,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2746314243820143,0.2075644674587935,0.3578171592062743
+Delhi,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2810880263335821,0.2134199026804646,0.3616628339346351
+Delhi,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2898788293605516,0.2194844426437456,0.370898977681433
+Delhi,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2989276700054591,0.2249796139116141,0.3803734109690078
+Delhi,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.305968166550383,0.2280102761791473,0.3892598988592739
+Delhi,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3163806337259411,0.237693254076126,0.4031003376678076
+Delhi,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.332585426260468,0.246483186805998,0.4286263930003159
+Delhi,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3477515598587233,0.2596144635720593,0.4500636731661311
+Delhi,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3551649103746433,0.2618980532115632,0.4672520989299912
+Delhi,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3544503550389479,0.2605537278412959,0.4635153585189338
+Delhi,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3567455264082836,0.25747539250963,0.4676580203173691
+Goa,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4422810266185167,0.3371412323374878,0.5390804894026802
+Goa,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.434508859265851,0.3298539487075407,0.5306817825581656
+Goa,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4250458119581828,0.3226966416652568,0.5242035111012276
+Goa,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4142138361912945,0.3132258323863619,0.517004853792821
+Goa,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4023167335417181,0.3016546920552223,0.5084467406777713
+Goa,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3896786306242498,0.2907601525047003,0.4958009654432169
+Goa,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3714806535650956,0.2770702281985572,0.4762554788833412
+Goa,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.345906875237758,0.2589579484085939,0.4451402760025604
+Goa,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3179209920962979,0.2378647284906394,0.4157072664993702
+Goa,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2926305853323045,0.2166095574857434,0.3886172324556304
+Goa,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2750994966427772,0.2005515546862406,0.3683109772249946
+Goa,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2648665178720202,0.194235095719008,0.3559696469209177
+Goa,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2572569485035412,0.1891333510884986,0.3428355694139163
+Goa,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2511570613027353,0.1857176367012739,0.3373360782402264
+Goa,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2453491643850828,0.1801285172061485,0.333993274139899
+Goa,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2386276863421816,0.1752131813816931,0.3230364935073451
+Goa,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2300005827017576,0.1708995002775986,0.3096042376900241
+Goa,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2203513510361598,0.1654377634907663,0.2943897020525078
+Goa,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2112714575071658,0.1587837827273408,0.2805827389651277
+Goa,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2043162518146616,0.1528093674043241,0.2711139836852202
+Goa,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2009869038353901,0.148993000860151,0.2678785787676314
+Goa,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2016329142908967,0.1494938974381822,0.270419896769845
+Goa,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2045686729378413,0.1506203393791473,0.2748459418909817
+Goa,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.208290684743148,0.1530083396514823,0.2807048648823004
+Goa,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.211276994223112,0.1541673158378816,0.2862838464932812
+Goa,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2119629439735716,0.154109305296338,0.290158845857857
+Goa,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2072049120065565,0.1514423337556469,0.2823028178845436
+Goa,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1974591295419103,0.1432592888598681,0.2630273104981428
+Goa,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1863301889852458,0.1346553710506617,0.2472592306559842
+Goa,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1775608044524073,0.1291370249371068,0.2374696928282684
+Goa,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1715354481893409,0.1249723251641871,0.2335746744989884
+Goa,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1671100395550749,0.1211567555833723,0.2242170843681135
+Gujarat,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.258330345325262,0.1319935371655651,0.4232834193640696
+Gujarat,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2627297836799615,0.1488235529551355,0.4066964052358703
+Gujarat,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.265381233835848,0.1613009031533487,0.3932386665478098
+Gujarat,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2665427569429436,0.1699737000102349,0.3848558057143256
+Gujarat,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.266454485088372,0.1725501819481867,0.3776450466338102
+Gujarat,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2653517329939578,0.1720989487909733,0.3718540153103236
+Gujarat,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2592495097596555,0.1691999850444293,0.3599191016714214
+Gujarat,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2466559456458348,0.1622944928312102,0.3397666177119959
+Gujarat,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2316355640109759,0.1536868521654318,0.3184954718003352
+Gujarat,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2183455766564303,0.1445275339180671,0.3008074270136776
+Gujarat,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.210981201051395,0.1408252836892321,0.2907070087882461
+Gujarat,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2086792307548934,0.141025293837021,0.2836995929273735
+Gujarat,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2074455571762567,0.1429478045203265,0.2772548448001996
+Gujarat,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2067147871751314,0.1437955597775339,0.2738467837352257
+Gujarat,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2058960382199996,0.1449802517203903,0.2714334891935669
+Gujarat,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2044067170111091,0.1449244220621907,0.2717424246559297
+Gujarat,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2010897549658228,0.1440093958934692,0.26479197924815
+Gujarat,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1961048701424404,0.1407706101276262,0.258966882457412
+Gujarat,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1907589708905464,0.136529161570971,0.2529191547522682
+Gujarat,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1863764476639344,0.1331929772076485,0.2499712904565726
+Gujarat,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1842932680923572,0.1306992601460981,0.24867079388239
+Gujarat,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.185223130708928,0.1316213497602497,0.2493729462078098
+Gujarat,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.188291026636264,0.1355853857433998,0.2517730822929767
+Gujarat,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1924039779467491,0.1383412737298939,0.2553841522872926
+Gujarat,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1964747063132653,0.1406114103243387,0.2585870684425252
+Gujarat,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1993754702469705,0.1435919947531533,0.2630867730686602
+Gujarat,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2028503353863336,0.146811444143914,0.2677140885412342
+Gujarat,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2080195812826274,0.1528634311284502,0.2772023158970955
+Gujarat,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2129154894333404,0.1574213763892514,0.2843137189811693
+Gujarat,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2155699593252002,0.1581188343995473,0.2900523850874428
+Gujarat,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2152013407886455,0.1562571603985714,0.2903834243358288
+Gujarat,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2166414066811013,0.1597922532503779,0.290818090619422
+Haryana,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4790746060119147,0.3744656070194539,0.5633404349859361
+Haryana,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4730687688391201,0.369619057850448,0.5585395253925212
+Haryana,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4661212713103996,0.3626184738036538,0.5521486801026129
+Haryana,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.458402820861384,0.352023136502732,0.547432784538749
+Haryana,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4500406476514275,0.342465031293427,0.5421076578319535
+Haryana,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4411231415775311,0.3314024592678626,0.537921815761597
+Haryana,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.427088745397178,0.321670879676368,0.5232741943168606
+Haryana,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.406116843624745,0.3028979753293068,0.4997163820728959
+Haryana,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3824788050624972,0.2792801619248345,0.4770094414716868
+Haryana,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3606128329751608,0.258890014063146,0.4593853762902673
+Haryana,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3451225423350129,0.2480046804843635,0.4482848577636997
+Haryana,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3357231726876098,0.241639486492059,0.4363661473935077
+Haryana,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3282919340345871,0.2384360690917433,0.4309144090846076
+Haryana,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3217737776512825,0.2357010261333738,0.4238262334789195
+Haryana,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3150805675319262,0.232557605363554,0.4180637592224543
+Haryana,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.307153537058329,0.2246507025188098,0.4102389343587045
+Haryana,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2962966802190632,0.217277253552332,0.3946165417916296
+Haryana,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2831092712437109,0.208732860888527,0.3765726772835109
+Haryana,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.269987865219759,0.199616721515052,0.3571042591031386
+Haryana,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2594106041958447,0.1932623111976728,0.3419358219501296
+Haryana,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2538754752538128,0.1886084648542521,0.3367474161553904
+Haryana,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2534240599004096,0.1876717495486836,0.3363896231474325
+Haryana,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2554265133286431,0.187718132820063,0.3412947577659929
+Haryana,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2582309103437701,0.1884419495823509,0.3435684842143046
+Haryana,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2601906940063974,0.188188738018062,0.3489724121750094
+Haryana,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2596715445297103,0.1865467497309735,0.3505118954416146
+Haryana,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2532056121050691,0.1838367754196136,0.3393128859601853
+Haryana,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.24117099551208,0.176650176264593,0.3221465804841046
+Haryana,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2276768173119492,0.166811579068158,0.3041249464699938
+Haryana,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2169265454496241,0.158384944299639,0.291224367068298
+Haryana,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2096127600072,0.1546514195476418,0.2839112758251079
+Haryana,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2042406501471345,0.1491690320574972,0.2768963530206964
+Himachal Pradesh,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3227807099447439,0.2002908211258127,0.4729927390021506
+Himachal Pradesh,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3453879070670342,0.2274971262116089,0.4797855360032974
+Himachal Pradesh,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3627223956344369,0.2504926955288996,0.4848503862398854
+Himachal Pradesh,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3749126260208988,0.2621930922702868,0.4909319024975176
+Himachal Pradesh,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3821415037440695,0.2773131510788914,0.4921002442082778
+Himachal Pradesh,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3846282297122777,0.2752030932477814,0.494628583230616
+Himachal Pradesh,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3785514446868112,0.2702277685879981,0.4828871029570887
+Himachal Pradesh,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3631684167764141,0.2587444251112802,0.4633224983757456
+Himachal Pradesh,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3434729879422555,0.2446275376469746,0.4431584283315878
+Himachal Pradesh,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3246277375413029,0.2316620075222751,0.4241242232976082
+Himachal Pradesh,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3118639330144431,0.2247114452678638,0.4132682624411986
+Himachal Pradesh,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3049452014730701,0.2242993385423006,0.399132976048801
+Himachal Pradesh,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2996004642218626,0.2222751737463053,0.3867940118761386
+Himachal Pradesh,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2950680956210171,0.2220131372885069,0.3759495443043703
+Himachal Pradesh,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.29056005913949,0.2194697625927894,0.3690033750985136
+Himachal Pradesh,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2852700569313988,0.2182596394686509,0.3642323041751238
+Himachal Pradesh,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2775786802984776,0.2131540370006553,0.3500096988454441
+Himachal Pradesh,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2678648106930393,0.2051251306113745,0.3370571095065751
+Himachal Pradesh,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2583078372833365,0.1970244790537109,0.3278872373161253
+Himachal Pradesh,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2510513853209209,0.1909818477487621,0.3243303164856295
+Himachal Pradesh,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2483338822594211,0.1889918162524456,0.3281394276893477
+Himachal Pradesh,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2511730176817746,0.1904609312050483,0.3255877620619484
+Himachal Pradesh,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2578263030441815,0.1958766139208481,0.3296642710503075
+Himachal Pradesh,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2661738243197275,0.2023778384480698,0.3376718355869842
+Himachal Pradesh,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2741053536558947,0.2060052563997132,0.3492544049560009
+Himachal Pradesh,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2795014178096387,0.2066207086684978,0.36240116596158
+Himachal Pradesh,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2857340814214019,0.2113644417542109,0.3687758587529766
+Himachal Pradesh,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2952168815341872,0.2145176767919744,0.3838552379973689
+Himachal Pradesh,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3043672232034794,0.2200336482511404,0.4014403921147955
+Himachal Pradesh,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3096382302124219,0.2236698571892613,0.4152270240714269
+Himachal Pradesh,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3108970880614831,0.227420137711373,0.4186097311541434
+Himachal Pradesh,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3133682342329344,0.2250900573955869,0.4139712680513353
+Jammu & Kashmir and Ladakh,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.461077669865891,0.3558531015395422,0.5569004799020338
+Jammu & Kashmir and Ladakh,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4547567631683435,0.3498139613471796,0.5480867896216608
+Jammu & Kashmir and Ladakh,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.447121448336565,0.343554397387981,0.5404611473644524
+Jammu & Kashmir and Ladakh,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4383285558077728,0.3356387361078216,0.5328152407686066
+Jammu & Kashmir and Ladakh,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4286058546944179,0.3254120054022562,0.5260816024267888
+Jammu & Kashmir and Ladakh,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.418123956135108,0.3141334592953251,0.5168793874199403
+Jammu & Kashmir and Ladakh,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4013441127448748,0.3009398225806102,0.5036824909290829
+Jammu & Kashmir and Ladakh,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.376144479411604,0.2790282104622879,0.4800493022071823
+Jammu & Kashmir and Ladakh,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3478971333125565,0.2583350105534842,0.4521155904752025
+Jammu & Kashmir and Ladakh,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3221017713046417,0.2356480806385164,0.4220509354416726
+Jammu & Kashmir and Ladakh,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3043809039126985,0.2182082800071244,0.4142787171863482
+Jammu & Kashmir and Ladakh,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.294266800956067,0.211524341556904,0.3978035987175331
+Jammu & Kashmir and Ladakh,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.28658232234226,0.2077881947571791,0.38586392072902
+Jammu & Kashmir and Ladakh,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2803330924909488,0.2018520302013937,0.3782953866242738
+Jammu & Kashmir and Ladakh,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2743519071691859,0.1969952591087817,0.3726658566089621
+Jammu & Kashmir and Ladakh,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2675071799545373,0.1907324390139202,0.3631758363229735
+Jammu & Kashmir and Ladakh,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2586970907314852,0.1879069241817785,0.3517330314721811
+Jammu & Kashmir and Ladakh,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2487279233053972,0.1844442391309415,0.3392946339055859
+Jammu & Kashmir and Ladakh,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2393215487069287,0.1800258491716532,0.3269543998925764
+Jammu & Kashmir and Ladakh,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2322166643151056,0.1748461700351743,0.3169526433631239
+Jammu & Kashmir and Ladakh,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2291156497269508,0.1721897213634894,0.312555150342599
+Jammu & Kashmir and Ladakh,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2305149155366129,0.1735379603569961,0.314225413053097
+Jammu & Kashmir and Ladakh,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2346169330816683,0.1778011610650635,0.3192424109722667
+Jammu & Kashmir and Ladakh,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2398229049541516,0.180460968145404,0.3258573271921358
+Jammu & Kashmir and Ladakh,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2443586469135033,0.1829653202002561,0.3310322210511772
+Jammu & Kashmir and Ladakh,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2462428580421719,0.1836769752362856,0.3332515245675074
+Jammu & Kashmir and Ladakh,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2415385609680437,0.1793432261178475,0.3253522617000121
+Jammu & Kashmir and Ladakh,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2306540031906082,0.1701568881494684,0.3092208125321872
+Jammu & Kashmir and Ladakh,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2177170498884174,0.1596666228999454,0.2910596413449438
+Jammu & Kashmir and Ladakh,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2071040866489278,0.1515699832755752,0.2786384678366606
+Jammu & Kashmir and Ladakh,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.199569347199757,0.1464316033920485,0.2671053974200735
+Jammu & Kashmir and Ladakh,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1932279165726581,0.1393640407377985,0.261623410741573
+Jharkhand,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3642446510811408,0.2392583507162127,0.4941230670398973
+Jharkhand,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3751365736274779,0.2548648084399952,0.4973655660645688
+Jharkhand,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3829005386333576,0.2704236027528734,0.4972807633250262
+Jharkhand,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3879841212340675,0.2795097299862529,0.4965766768966509
+Jharkhand,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3907790110614708,0.2856388198441641,0.4945784862260418
+Jharkhand,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3916583987658716,0.2879775363172614,0.4928794892968343
+Jharkhand,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3858969485710753,0.2825991035276452,0.4829637324682442
+Jharkhand,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3719285177233086,0.2707346225847857,0.4654976288055844
+Jharkhand,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3550779736406519,0.256844856240163,0.4470580470325802
+Jharkhand,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3408426300412604,0.2454419342525797,0.4315173100350618
+Jharkhand,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3347790460449315,0.2400682067784352,0.4256382763799796
+Jharkhand,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3361275066412603,0.2436777119669457,0.4233787324023996
+Jharkhand,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3395838291064751,0.2495769304879806,0.4249115675422894
+Jharkhand,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3438438751405261,0.256712575918129,0.4261595209986694
+Jharkhand,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3475400271856822,0.2600655384976763,0.4292214385209703
+Jharkhand,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3492679823907642,0.2623940583619777,0.4311103871835038
+Jharkhand,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3469426309300236,0.2622001502036089,0.4275963288687293
+Jharkhand,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3409334845701974,0.2570427716413475,0.4227761085048676
+Jharkhand,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3335705693615148,0.2511936184757926,0.4151620590455466
+Jharkhand,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3272458821334545,0.2459429713434476,0.4155331044705255
+Jharkhand,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3243696389886021,0.2437675834451825,0.414439441375557
+Jharkhand,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3273013800844064,0.2453022342556516,0.417647565176042
+Jharkhand,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3349947038647505,0.2520482688016856,0.4261108158443646
+Jharkhand,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3446195876654216,0.2611647833230665,0.4402583734279631
+Jharkhand,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3532118603313876,0.268621532900793,0.4511968030327783
+Jharkhand,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3576065260297125,0.2709167437298846,0.4586611506333587
+Jharkhand,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3593125764749169,0.2700034298376191,0.4612016574194133
+Jharkhand,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3616682046735486,0.2702484698137829,0.4605325853550492
+Jharkhand,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3640786230758012,0.2707159293020654,0.4649423092351717
+Jharkhand,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3659121357838654,0.2694605214343202,0.4744355912251433
+Jharkhand,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.366793684602365,0.2680913121860867,0.4797352907145504
+Jharkhand,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3686833526761562,0.2709535975688601,0.4798552780943289
+Karnataka,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4564416770780654,0.3567509135085339,0.5384256322505899
+Karnataka,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.459082927040452,0.3686444283473264,0.5354151568849663
+Karnataka,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4593897210200017,0.3742648885544362,0.5325012050219341
+Karnataka,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4577752720660255,0.3769944117354917,0.531125322908363
+Karnataka,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4546260113265808,0.377062437595741,0.5284553750591657
+Karnataka,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4502986187128096,0.3733297090412756,0.5253799079233501
+Karnataka,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.437470817965913,0.3642695775814462,0.5087578754832174
+Karnataka,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4129684858316477,0.3440349711823908,0.4822965988713988
+Karnataka,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3835189900366686,0.3184986521746051,0.4525231666331686
+Karnataka,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3560643878130513,0.2948112332794381,0.4234676041920177
+Karnataka,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3376501286717697,0.2787554583304807,0.4097183912271017
+Karnataka,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.327281256673181,0.2722088159104335,0.3941185716059958
+Karnataka,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3189136646911574,0.2638619811468931,0.3867444033180803
+Karnataka,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3120199640960376,0.2581623160042102,0.3789857465892763
+Karnataka,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3060878196504236,0.25109625480972,0.3710154532450888
+Karnataka,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3006139422327321,0.2452100729924066,0.3633463414315457
+Karnataka,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2945606855926205,0.24126642748066,0.3558891791408021
+Karnataka,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2880317429770553,0.2376822087608154,0.3464188675580318
+Karnataka,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2821779334822647,0.2317840179924828,0.3389688642826077
+Karnataka,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.278152552952956,0.2250873629871179,0.3360519814383681
+Karnataka,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2771034529360429,0.2223361551327129,0.3358956694715864
+Karnataka,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2827853302225212,0.2269362183714039,0.3453912970820645
+Karnataka,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2959294058069709,0.2371205718359989,0.3622816057056873
+Karnataka,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3131146867855051,0.2504407162752534,0.383943757473393
+Karnataka,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3310859336631754,0.2632090754695717,0.4101095641536645
+Karnataka,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3468052661981967,0.2730686064719054,0.4329195017784083
+Karnataka,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3675474717851714,0.2856648099090363,0.4536396221515362
+Karnataka,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3955156900443728,0.3019895875904823,0.4868743280210163
+Karnataka,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4201898266762398,0.3171104499680082,0.518857172691417
+Karnataka,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4313447472936054,0.3205306317710764,0.5382014805403985
+Karnataka,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.429616920057952,0.3210352747769524,0.5325863458581932
+Karnataka,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4297870677310182,0.3255331152122245,0.5384169226174378
+Kerala,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.36512146778165,0.2474824545853059,0.4916497057000181
+Kerala,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.375001728190167,0.267112550999713,0.4890480665986865
+Kerala,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3820369557970437,0.2839569235525931,0.4874600220259826
+Kerala,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3866385531468485,0.2909493442353896,0.4852659460595782
+Kerala,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3891871030296967,0.2964563258392406,0.4835416992672148
+Kerala,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.390063954225652,0.2971164971639688,0.4846784044605522
+Kerala,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3853726847775326,0.2948481213803267,0.4767771471020254
+Kerala,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3736002172236162,0.2859477944979329,0.4599960007926967
+Kerala,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3587882937658515,0.2760163217337167,0.4459771878904287
+Kerala,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3452208306570389,0.2677073798958043,0.4377865048339057
+Kerala,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3373487271818995,0.2638815413689509,0.4328688633768471
+Kerala,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3355897845876945,0.2639563128102787,0.4236343185520989
+Kerala,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3364563885067612,0.2656498006369535,0.4233639581223667
+Kerala,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3385553525389509,0.2689464614595273,0.4231382751710126
+Kerala,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3404061177501441,0.2716184522667169,0.4235283529606234
+Kerala,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.340400573287094,0.271062198235385,0.4215486895601619
+Kerala,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3376130605548499,0.2688925032218238,0.419256019833804
+Kerala,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3332880568849372,0.2650231116018194,0.4107227164530747
+Kerala,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3289165713205408,0.2580420295243264,0.4092436268467129
+Kerala,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3259364493823854,0.2537337757142185,0.4080408295725475
+Kerala,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3257543301368849,0.2524196858584318,0.4132713271777168
+Kerala,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3316969696294487,0.2553793662243849,0.4179675258095
+Kerala,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3435041032052331,0.263438015450907,0.4323247395099077
+Kerala,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3572991967546697,0.2739494240052518,0.449295262869667
+Kerala,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3692795693917635,0.28031817170436,0.4611830601245962
+Kerala,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3757834487464669,0.2823274580001564,0.4748446879582012
+Kerala,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3774948236888191,0.2834943319332729,0.4763073929672753
+Kerala,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3778744198777655,0.2823519387052424,0.480405441891148
+Kerala,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3776974470271983,0.2821012202264941,0.4862969190026371
+Kerala,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3778289202698212,0.2819041184500109,0.4943501197310668
+Kerala,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3780002632724188,0.2787085738007794,0.4852046261829053
+Kerala,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3780802635375975,0.2830087055884598,0.489311490620782
+Madhya Pradesh,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3190711816120655,0.192703084661605,0.4605053358465759
+Madhya Pradesh,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3406946828280855,0.2179600796198632,0.4691992345797005
+Madhya Pradesh,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3575542313443793,0.2397967869049511,0.475842528821328
+Madhya Pradesh,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3696356675838129,0.2546411987628746,0.4793107409667962
+Madhya Pradesh,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3769131817215524,0.2621980504698422,0.4833474332241031
+Madhya Pradesh,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3793839838367265,0.2642403009931062,0.4878043970292917
+Madhya Pradesh,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3741640175952999,0.2606899361556821,0.477860000990669
+Madhya Pradesh,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3611697265809603,0.2521494492784012,0.4620008087631554
+Madhya Pradesh,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3446571247734813,0.2397412936652057,0.4444629497879212
+Madhya Pradesh,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3289230469943747,0.229235477244426,0.4308322298861105
+Madhya Pradesh,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3183026292823673,0.2234325768516689,0.4221357660442271
+Madhya Pradesh,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3124564155621622,0.2209257422267724,0.4093704464247128
+Madhya Pradesh,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3077135883699701,0.2194622337195231,0.40076964682318
+Madhya Pradesh,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.30340988054532,0.2187571435270995,0.3900864479134433
+Madhya Pradesh,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2988444535950793,0.2159359351115612,0.3837125335220119
+Madhya Pradesh,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2932819024406918,0.2139953622034711,0.3760942634392155
+Madhya Pradesh,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2841650633668424,0.209138626643548,0.3621879967318953
+Madhya Pradesh,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2715513051485829,0.2014175240856577,0.3462833862501521
+Madhya Pradesh,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.258610927857652,0.1921881397988301,0.3359719731500237
+Madhya Pradesh,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2485447642661402,0.1845164725123102,0.3279407984860505
+Madhya Pradesh,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2446089354307987,0.1815331649610312,0.3257082914798046
+Madhya Pradesh,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2470617272324793,0.1839414819474543,0.3269573343064977
+Madhya Pradesh,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2528312819691262,0.1890067905921973,0.3306291740805365
+Madhya Pradesh,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.260109951960486,0.1941322200127886,0.3360892420820359
+Madhya Pradesh,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2670830761864432,0.1969398407557649,0.3440250548629965
+Madhya Pradesh,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2719371943653618,0.1995493618682631,0.3505865973016248
+Madhya Pradesh,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2784110592258183,0.2048280553192977,0.3592329671634157
+Madhya Pradesh,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2886619765203486,0.2110047964364896,0.3793659386377652
+Madhya Pradesh,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2983870592847068,0.21520448898059,0.3982015993638533
+Madhya Pradesh,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3032880665703011,0.2148657341336416,0.4099947999258504
+Madhya Pradesh,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3019934507251724,0.2232737299101354,0.3988630953806614
+Madhya Pradesh,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3029354629706152,0.2202969000212744,0.4027273469399829
+Maharashtra,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3219123695769334,0.2016669767579313,0.4635629480384551
+Maharashtra,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3437097397446622,0.2289728081302357,0.4733754410435543
+Maharashtra,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3604278576344722,0.2459024495474544,0.477113025617501
+Maharashtra,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3722383209665333,0.2587025795680827,0.4783829511080034
+Maharashtra,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3793116451787745,0.2689171571190697,0.4801727784014459
+Maharashtra,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3818509355342537,0.2702764115487554,0.4841385474239108
+Maharashtra,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3761688591722042,0.2682439789027326,0.4768063943074913
+Maharashtra,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3615465063092856,0.2589134198164281,0.4587204678336468
+Maharashtra,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3427664298797038,0.2479665665341771,0.4373631006006998
+Maharashtra,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3248085991313019,0.2362676944837982,0.4162460661729621
+Maharashtra,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3126737064117486,0.229333918779713,0.4088884758322537
+Maharashtra,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3062536775002349,0.2249962477311561,0.3956638818558974
+Maharashtra,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3015259772361659,0.2231631122825392,0.3888068125137088
+Maharashtra,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2975711989912976,0.2206461874432487,0.3814652069272833
+Maharashtra,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2934256619269908,0.2178443474466516,0.3756327994299018
+Maharashtra,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2879660820501117,0.2158992321464166,0.3655913374618565
+Maharashtra,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2794087020612432,0.2103939996348987,0.3565082076013345
+Maharashtra,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2684106871210648,0.2038011395501524,0.3438420318598031
+Maharashtra,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2574885852417562,0.1944111117730274,0.3315563861417049
+Maharashtra,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2490896702231732,0.1881612626561744,0.3220806580546085
+Maharashtra,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2458163828634746,0.1872857086451873,0.318821090843821
+Maharashtra,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2484165694728136,0.1877579239172464,0.3213553337979092
+Maharashtra,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2546716120330364,0.1922236286135082,0.3274661688629324
+Maharashtra,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2626854001580602,0.1995934612822539,0.3358135600762466
+Maharashtra,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2705737933683697,0.2051505125532777,0.3458321755165056
+Maharashtra,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2764178985082118,0.2081457798132654,0.3573081145269599
+Maharashtra,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2849916602410137,0.2134572229413835,0.3686115105424228
+Maharashtra,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2985095947606605,0.2222174638688369,0.3887677374197974
+Maharashtra,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3112105354233722,0.2306697952768028,0.4106122398936616
+Maharashtra,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3174716313134438,0.2357780602931814,0.424288780814351
+Maharashtra,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3159321045359434,0.2317323105414497,0.4214801185979127
+Maharashtra,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3177748926236506,0.2337519724221278,0.4198593667101267
+Manipur,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4754376024742237,0.3726564419521944,0.563189030601317
+Manipur,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4690509469519003,0.3662328810102019,0.5553667003217448
+Manipur,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4611894382693103,0.3587525291050797,0.5488084835205675
+Manipur,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4520580907462297,0.3476731663293563,0.5417700854143512
+Manipur,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4419935815419307,0.3373948776331166,0.5354074581121688
+Manipur,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4312134679368977,0.3279143164455079,0.5267131844013232
+Manipur,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4147906573001527,0.3165208621869766,0.5099337726553805
+Manipur,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3907284075113961,0.2981795562321605,0.4864627361037514
+Manipur,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3638701658528253,0.2751852313015074,0.4631638331084214
+Manipur,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3391851729975748,0.2515297241248008,0.4408799439092273
+Manipur,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.321843304929247,0.2342991207895557,0.4266320812831664
+Manipur,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3115701309533867,0.2266218259285814,0.4126177001203994
+Manipur,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3038284601605115,0.2193701676676759,0.4026446110357159
+Manipur,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2974590733213836,0.214052733424918,0.3929999959048523
+Manipur,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2912760426036832,0.2102830039079265,0.3877500077363126
+Manipur,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2840647542040489,0.205738340926063,0.3820488970452623
+Manipur,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2746635628407103,0.2009785910685417,0.3676584667000198
+Manipur,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2639523644170506,0.1942510299931467,0.3515472150236075
+Manipur,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2537490340641665,0.1861568516257781,0.3368074939087325
+Manipur,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2459236490434579,0.181143249284484,0.3276422894371597
+Manipur,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2423418305676283,0.1777619046498909,0.3255853919279036
+Manipur,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2437712852090889,0.1791496907402397,0.324264687902496
+Manipur,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2484280063721262,0.182629785727357,0.3298109020254062
+Manipur,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2542672897910067,0.1876297206745091,0.3388176688721954
+Manipur,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2591729361437879,0.1907760943757976,0.3454283500009716
+Manipur,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2609285105083476,0.1896202914700022,0.3454066060767405
+Manipur,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2559200400547303,0.1878499922248758,0.339866662754766
+Manipur,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2447637523990175,0.1790157808412598,0.3304217705816241
+Manipur,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2317137829381025,0.1693406913186187,0.3152575791451786
+Manipur,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2211533053139847,0.162288026036171,0.3041894437825271
+Manipur,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2136469072501731,0.1567678241658959,0.2861129396160245
+Manipur,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2100482339344095,0.1508261490728975,0.2883228582851099
+Meghalaya,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4731998494115194,0.371665904901708,0.5629642940034181
+Meghalaya,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4665609862430523,0.3650042638073404,0.5575696435983788
+Meghalaya,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4588351584904033,0.3539542785661734,0.5509152684310953
+Meghalaya,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4502229736769946,0.3459733038242211,0.543387206259763
+Meghalaya,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4408758530120955,0.3351964308861793,0.5325499988807418
+Meghalaya,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4309258620269037,0.3237348506800966,0.525782937803587
+Meghalaya,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.415587803807647,0.3110305374781232,0.5109233405827732
+Meghalaya,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3928874813574562,0.2935891362637521,0.4900602380909728
+Meghalaya,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3673908435164438,0.2714065874206915,0.4623315855073275
+Meghalaya,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3439021475782315,0.2531825213421241,0.4456389758801711
+Meghalaya,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3272774208350626,0.2380365689917134,0.4307292887228887
+Meghalaya,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3172295218410442,0.229984634722161,0.4187472659138057
+Meghalaya,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3095191556405786,0.2229004141514096,0.4091932586316267
+Meghalaya,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3030480895917555,0.217656956892363,0.3998051891608633
+Meghalaya,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2967075869281789,0.2117431801692832,0.3929390436326093
+Meghalaya,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2893727659754371,0.2067328762645231,0.3924054376639877
+Meghalaya,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.279877390842155,0.2003943504939944,0.3747549633130788
+Meghalaya,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2690170126401696,0.1948549740419162,0.35702207494515
+Meghalaya,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2585650341030484,0.1906448451738515,0.3471371898155028
+Meghalaya,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.250267025254188,0.1861008738339176,0.3335530475423719
+Meghalaya,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2460494180889003,0.1831103055230096,0.3312978226800315
+Meghalaya,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2463317847794771,0.1840299667271231,0.3293912542316813
+Meghalaya,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2493007217628179,0.1861587188647777,0.3313369931780623
+Meghalaya,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2532434596852119,0.1879967199376943,0.3359291838015803
+Meghalaya,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2563287182170432,0.1906549078802022,0.3407518795095622
+Meghalaya,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.256711927861695,0.1898505496369545,0.3398001083896586
+Meghalaya,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2519507152835512,0.1854732202718341,0.3369808732783252
+Meghalaya,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2426856174659136,0.1777922854448294,0.3268540230548947
+Meghalaya,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2317131612861121,0.1692986112740491,0.3144674674474019
+Meghalaya,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2219447080275126,0.1599665779480725,0.3016724483045415
+Meghalaya,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.213707482738824,0.1562710029712658,0.287754346686168
+Meghalaya,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2085796886583381,0.151545200514319,0.2840567753373838
+Mizoram,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4471732492114369,0.3362364075977452,0.5443946371334312
+Mizoram,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4403562175287069,0.3274951608110888,0.5384308903518904
+Mizoram,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4322447079038109,0.3206714358278795,0.5314261818872545
+Mizoram,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4230322740679301,0.3138841219923648,0.5256416653884916
+Mizoram,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4128922245986209,0.3110708650730377,0.5185016715264914
+Mizoram,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4020073475160618,0.3002912239049207,0.5119747917654571
+Mizoram,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3852928942183671,0.2877168782769805,0.4891364696704863
+Mizoram,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3608309679876298,0.2663039426370281,0.4627797775980561
+Mizoram,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3337555228902997,0.2465718262435293,0.4300945988014088
+Mizoram,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.309370050413999,0.2292350890414379,0.4047110711306844
+Mizoram,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2930452377469723,0.215729029922405,0.3942502525870929
+Mizoram,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2841857307908165,0.2089494180131066,0.3787638786614523
+Mizoram,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2778316440927533,0.2041622563402207,0.3668615410888026
+Mizoram,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2727966883308965,0.1995802765468992,0.3595902484181388
+Mizoram,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2678731485447713,0.1954281445216573,0.3538111959530641
+Mizoram,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.261839187241243,0.1909251324164386,0.3500611711563825
+Mizoram,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2537547265732056,0.1868788234766137,0.3351478594667831
+Mizoram,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.24447847272756,0.1812633069356391,0.3225753543655258
+Mizoram,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2354814203645108,0.1758114557253709,0.310441492985175
+Mizoram,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2282718839604658,0.1693477553428691,0.3010180053726485
+Mizoram,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2243786263370981,0.1660007846685802,0.2958122953440516
+Mizoram,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2240335160509033,0.1664873422904135,0.2942639145239775
+Mizoram,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2255278008554534,0.1671993770575475,0.2962931144716064
+Mizoram,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2276690391977794,0.1684812112607129,0.2998209512763503
+Mizoram,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2290910051315057,0.1688900532035156,0.3050764500979789
+Mizoram,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2288052477038444,0.1681716502761653,0.3062696017950694
+Mizoram,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2251966102307405,0.1656312592733794,0.3033909604962278
+Mizoram,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2182941178494732,0.1595916809569239,0.2938004001024645
+Mizoram,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2101512780928278,0.1524258261747855,0.2842843523844298
+Mizoram,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2027348125136829,0.1462583429668462,0.2767984479582693
+Mizoram,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.196008576691897,0.1457019810744453,0.2648515193062276
+Mizoram,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1895763242201743,0.1397668144426509,0.2581724404902812
+Nagaland,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4633151077214884,0.3560131177601785,0.5582869469292099
+Nagaland,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4562539857114324,0.3492100503478007,0.553235913404746
+Nagaland,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4480560592388686,0.3437909723060237,0.5471712018906922
+Nagaland,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4390013955540464,0.3332257744082831,0.5369628649013788
+Nagaland,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4293006684323854,0.3237889975485954,0.5295166501329697
+Nagaland,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4190711979863289,0.3144626376143886,0.5222781208325387
+Nagaland,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4034799250569575,0.2997477140745755,0.5032167919935302
+Nagaland,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3803890295534867,0.2810720801002352,0.479266343975555
+Nagaland,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3543321543348663,0.262353880701017,0.4552265665866221
+Nagaland,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3303017134749982,0.2423523662159244,0.433933267987357
+Nagaland,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3134779768622678,0.2263970402413785,0.4190232820911634
+Nagaland,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3036053129022883,0.2193517311853439,0.4063096828955628
+Nagaland,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2961791443424169,0.2135374749771711,0.393408384391679
+Nagaland,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2900654190008037,0.2077808314708614,0.385331911907264
+Nagaland,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2840964883833475,0.2016504598202313,0.3778962434513169
+Nagaland,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2770963781496027,0.1967019336957681,0.3708218156910317
+Nagaland,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2678633109958804,0.191144108844143,0.3574829656029262
+Nagaland,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2572733219980818,0.1849160017378333,0.3433304743415294
+Nagaland,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.247204788268166,0.1801922505427897,0.3318989025497673
+Nagaland,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2395559267462325,0.1744764750828431,0.3231921203169237
+Nagaland,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2362321490617237,0.1729409103387256,0.3208339798361344
+Nagaland,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2378016928651219,0.1744881660888546,0.3222001371662461
+Nagaland,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2423307532285235,0.1782527360137747,0.3270720162725752
+Nagaland,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2479185929838764,0.1826575103486252,0.3328987104834444
+Nagaland,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2526256958185131,0.1862899643281931,0.3375432016108739
+Nagaland,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2544012687666902,0.1873846463251457,0.3437314315651976
+Nagaland,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2497692821624481,0.1837027341193822,0.3399309251395475
+Nagaland,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2392423748879216,0.1767318597786532,0.327733522753849
+Nagaland,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2267882487609092,0.1678673169222528,0.3060235255287364
+Nagaland,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2164275192461425,0.1590908949563628,0.2894379005661623
+Nagaland,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.208772377695509,0.1538464980853197,0.2779544256839613
+Nagaland,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2042864457053019,0.1493195506494675,0.2746380450659463
+Odisha,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3876672086680499,0.2634305499234269,0.505664204190399
+Odisha,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4033526810329985,0.2847196680500036,0.5136787993200571
+Odisha,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4151076507565777,0.3022184888339494,0.519553937519068
+Odisha,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4232429018702103,0.3101214440648853,0.5219230112126089
+Odisha,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4280535459634984,0.3181333858968211,0.52673732781501
+Odisha,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4298585798164827,0.3173257351357376,0.5293385040822782
+Odisha,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.424889946671987,0.3176128754560815,0.5211354740071562
+Odisha,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4121028373055055,0.3068063601372867,0.5076468549405768
+Odisha,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3961006665268679,0.2940681962868582,0.4928905802524701
+Odisha,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3816458624066568,0.2785629825157346,0.4795113773032798
+Odisha,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3735373591394268,0.2726826336948473,0.4747244459647084
+Odisha,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.371039279337756,0.2735776861723529,0.4655728037901963
+Odisha,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3698173852630473,0.2772567572667307,0.4631996087437619
+Odisha,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3692087329960093,0.2807002452932877,0.4611889178789588
+Odisha,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3684851296507825,0.2812264916920735,0.4581741275366936
+Odisha,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3668513308818374,0.2805688029320484,0.4557339785820753
+Odisha,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3623418556526622,0.2792589339310235,0.4506179013899551
+Odisha,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3549909002548025,0.2741517458629989,0.4417170821799585
+Odisha,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3470088657601606,0.2680450636872726,0.4347382713411571
+Odisha,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3406285872624557,0.261544828013174,0.4306178420824617
+Odisha,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3380848686105481,0.2584489801547907,0.4257964968533642
+Odisha,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3415572244355598,0.2626773032502109,0.4297704749521839
+Odisha,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3498802361668613,0.2713069884214764,0.4404183194627229
+Odisha,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.360223279928239,0.2786850485723429,0.4540900567882538
+Odisha,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3697096443566051,0.2873158642365282,0.4627232847141953
+Odisha,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.375429886367965,0.2911030979105267,0.4714985957558294
+Odisha,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.380269548358084,0.2917850652738126,0.4741647530756836
+Odisha,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3873724720120228,0.2960196885619722,0.4812768014281267
+Odisha,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3942135297532834,0.2978593326957479,0.4885887159897064
+Odisha,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3982908019383097,0.2992827661898921,0.5005369667462366
+Odisha,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3998009480835514,0.2987160047407646,0.5148084942418214
+Odisha,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4009545570585116,0.3021156871986623,0.5119120146296878
+Punjab,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3656237087663032,0.2435312550901681,0.496174914029237
+Punjab,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3794532097331374,0.264862292111773,0.4962118566418795
+Punjab,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3894025491402448,0.2814209877936669,0.4925914570101104
+Punjab,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3959861886824835,0.2922381038674646,0.4934315132409046
+Punjab,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3997288577549006,0.2993442442123493,0.4939684684787691
+Punjab,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4011309315758119,0.3025231482531878,0.4946817882380956
+Punjab,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3953444955789002,0.2975487276768481,0.4887900758743071
+Punjab,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3806138065160991,0.2859786310441233,0.4723071389998781
+Punjab,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.362222257821046,0.2701361251996106,0.4532918095238721
+Punjab,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3456821164346432,0.2591321666553579,0.4385849409916295
+Punjab,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3366736240952194,0.2512809683421916,0.4287274050473598
+Punjab,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3345128851849718,0.2521502664406418,0.4218417674718203
+Punjab,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3340715638752538,0.252557058692099,0.4214094306845836
+Punjab,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3344815684137285,0.2548438090374619,0.4212016405721985
+Punjab,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3348303074037594,0.2573704135860125,0.4205014250446778
+Punjab,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3342104997561506,0.259903229979009,0.4211059085727679
+Punjab,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3313061022319543,0.2573548253366126,0.4123946899991114
+Punjab,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3264911672605996,0.2521482454111365,0.4068610755221463
+Punjab,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3213864881873141,0.2472905709066782,0.4053808283743721
+Punjab,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3175834086651172,0.241786509138262,0.4032087402798651
+Punjab,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3166540281153286,0.2390004338381369,0.4023646624090048
+Punjab,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3207665064990208,0.2436785960593418,0.4074486492699335
+Punjab,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3293003713773632,0.2519226366174941,0.4152481269666005
+Punjab,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3394959984799053,0.2593527989667217,0.423508952301051
+Punjab,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3487041853340053,0.2644344901542666,0.4310440791561715
+Punjab,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3542769551185577,0.26749066187005,0.4438791951227637
+Punjab,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3581300180828431,0.2696427809062455,0.4465933486556627
+Punjab,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3629987873905733,0.2715488005300853,0.4585531902335139
+Punjab,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3673160927997568,0.2737173949081178,0.4702033239957333
+Punjab,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3695841537871644,0.2743198231054161,0.4755760209546284
+Punjab,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3697577676706362,0.2758176928474665,0.4741171472677284
+Punjab,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3726843335599922,0.2705916304321191,0.4762054369708011
+Rajasthan,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4446411289912171,0.3584946221781606,0.5357155397174664
+Rajasthan,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4420961833609249,0.3629221429689368,0.5273040612099682
+Rajasthan,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4388066931199064,0.3585252196492891,0.5190816210764277
+Rajasthan,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4348857191938989,0.3541405274401833,0.5137391160836844
+Rajasthan,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4303658956878654,0.3483250401140283,0.5094310153340502
+Rajasthan,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4252477016534188,0.3416869380141398,0.5058530918357071
+Rajasthan,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4156360209990397,0.3333360946357101,0.4973265348442982
+Rajasthan,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3998037692462911,0.3159389829865063,0.4854826785640276
+Rajasthan,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3811106282057545,0.2959554656766086,0.4664942089640282
+Rajasthan,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3631218381624955,0.2772147775600025,0.4534879848737244
+Rajasthan,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3494688102915881,0.2620566533881173,0.440898204515006
+Rajasthan,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3388279766204642,0.255425312445927,0.4296663089578121
+Rajasthan,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3280078222255391,0.25131742610961,0.4135851262887126
+Rajasthan,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3179350886416845,0.2479866971713338,0.4021720420139986
+Rajasthan,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.309564863763361,0.2423316687016755,0.3903569982776131
+Rajasthan,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3038405563752355,0.2359150786513288,0.3911155544659724
+Rajasthan,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.299214218196267,0.2333110359186728,0.3808676989137652
+Rajasthan,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2941164439709813,0.230767975280184,0.3736499218692087
+Rajasthan,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2893691868852637,0.2250785266042612,0.3687266003037135
+Rajasthan,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2858363337182328,0.2176035816017205,0.3666646833970677
+Rajasthan,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.284431363890345,0.2154245181062388,0.3645041981347552
+Rajasthan,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2857881822216795,0.215891137830802,0.3650292941404483
+Rajasthan,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2894220868559224,0.2194800685146044,0.3706620359710986
+Rajasthan,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2944944102652401,0.2229445425148574,0.3748421097127153
+Rajasthan,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.300173034038098,0.2253756299215,0.3826057537269252
+Rajasthan,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3056475897711439,0.2282069093307605,0.3896072884009991
+Rajasthan,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.320053503663804,0.2398228754840325,0.4022543512295204
+Rajasthan,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3451366137586077,0.2594283757978132,0.433032583963364
+Rajasthan,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3690080624485728,0.2759097005094174,0.4662408589308026
+Rajasthan,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3800585918656309,0.2794020395322835,0.4849917972385095
+Rajasthan,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3781370627746888,0.2725394886907979,0.483352406152703
+Rajasthan,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3795285960472057,0.2765954003280034,0.4828821605592335
+Sikkim,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3330284497694132,0.2145576727191001,0.4641089441648638
+Sikkim,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3425571814604762,0.2321793516675833,0.4604133181370184
+Sikkim,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3493422898073844,0.2446662072543878,0.4626396278981112
+Sikkim,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3537192218735003,0.2542882300753061,0.4611573710787658
+Sikkim,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3560413522558153,0.2589876385807983,0.4617859764319482
+Sikkim,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3566961928030066,0.2573900262467073,0.4589150771912087
+Sikkim,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3511720028400837,0.2521456502490664,0.4490220657549422
+Sikkim,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3376286315821061,0.2431852019915167,0.4327596366915852
+Sikkim,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3207073494449508,0.2335882266714026,0.415103565852008
+Sikkim,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.305156858563218,0.2239271567162069,0.3947379339251259
+Sikkim,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2958764598744836,0.2176166795176758,0.3863453046662963
+Sikkim,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2925077687386347,0.2195697122552306,0.3799937418754671
+Sikkim,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2911211247609868,0.2199702665825821,0.3733638059001032
+Sikkim,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2911725913324023,0.2209222808700895,0.3705000849826653
+Sikkim,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2920536967512156,0.2227263762326107,0.3714907880728016
+Sikkim,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2930186042766678,0.2235858201139337,0.3744618203015324
+Sikkim,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2931778208102832,0.2231284735245051,0.373720898769845
+Sikkim,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.292778191095876,0.2217306682914714,0.374015805089299
+Sikkim,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2925966946179514,0.2210382710211475,0.374996533559003
+Sikkim,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.293504507201307,0.2163128705107539,0.37964712033872
+Sikkim,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2964678224101221,0.2187486573070156,0.3888081564109725
+Sikkim,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3056779119097743,0.2251863806550927,0.3953342898592059
+Sikkim,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3215705169693499,0.2406786190728466,0.4122177945010921
+Sikkim,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3395719605096675,0.2556672518049471,0.4302854421039763
+Sikkim,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3551523745257683,0.2677334489725756,0.4503007636077915
+Sikkim,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3639521926623038,0.274467590910843,0.4599322762040632
+Sikkim,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3678851644877999,0.28036645760828,0.4649081657055287
+Sikkim,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3716293210487523,0.2844746358005999,0.468347950183672
+Sikkim,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3750605774566402,0.2861733705722822,0.4688938832367632
+Sikkim,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3779767795684614,0.2876451706429759,0.471407985675621
+Sikkim,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3785958919664336,0.2940657101025672,0.4764341081118541
+Sikkim,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3844827290601167,0.2930494097085877,0.4771781372071155
+Tamil Nadu,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3145485246829318,0.186998972267724,0.4636533875298119
+Tamil Nadu,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3357273840338302,0.2160941632021341,0.4670672044477327
+Tamil Nadu,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3516759818726402,0.2366769188180082,0.4679694298732321
+Tamil Nadu,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.362682418231737,0.255145240318829,0.4685063137668168
+Tamil Nadu,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3690468917786936,0.2632825078470987,0.4698855743782864
+Tamil Nadu,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3711056517529353,0.2645860357452356,0.471045576763038
+Tamil Nadu,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3644148368985469,0.2609032078168959,0.4609426827703162
+Tamil Nadu,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3479064479226894,0.2506904658662158,0.4393292662072238
+Tamil Nadu,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3271136037226789,0.2375863657864069,0.4156882420556378
+Tamil Nadu,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3077064722530573,0.2254246212885444,0.3909484953710968
+Tamil Nadu,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2954233379063378,0.2186281738297695,0.3761075580861479
+Tamil Nadu,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2901491036935441,0.2184274174474689,0.3652499622258425
+Tamil Nadu,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2871116014419746,0.2189024588502909,0.3598633237662016
+Tamil Nadu,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2850469228102245,0.2182165113486538,0.3566067836414986
+Tamil Nadu,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2826949075691365,0.2182609035832076,0.3519455204997131
+Tamil Nadu,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2787754192130104,0.2180426290264244,0.3458530417136027
+Tamil Nadu,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2713805819935825,0.2113965243892711,0.3383309358996638
+Tamil Nadu,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2611729027098803,0.2026340105506046,0.328720124364381
+Tamil Nadu,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2506838174150787,0.1908631692714147,0.3223868156680022
+Tamil Nadu,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2424618673223069,0.1841818053666659,0.3184007160415903
+Tamil Nadu,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2390895270367674,0.1804278206917137,0.3152616607165626
+Tamil Nadu,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2411765964641628,0.1814911571489966,0.3185455562708505
+Tamil Nadu,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.246534453253611,0.1864794929580488,0.3244616392916528
+Tamil Nadu,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2534880725433989,0.1914061706644083,0.3324854592557786
+Tamil Nadu,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2603198063967698,0.1972853673227563,0.3400151916692546
+Tamil Nadu,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2653150399097408,0.2010732522801588,0.3479934135583666
+Tamil Nadu,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2729329625142138,0.2065317528979875,0.3549248124329731
+Tamil Nadu,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2853718881697931,0.2156508176468319,0.3712716949224741
+Tamil Nadu,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2974920550141716,0.2220389375863437,0.3911626168991583
+Tamil Nadu,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3040772509158254,0.2247075224885774,0.4056552874186845
+Tamil Nadu,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.304543119448385,0.2229712983254442,0.4013005072418868
+Tamil Nadu,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3062595526069969,0.2233547157356735,0.4110259487488847
+Telangana,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3659286390191968,0.2381749403415047,0.4996720900648423
+Telangana,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3800695302535503,0.2606000043161309,0.5037141710601399
+Telangana,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3901948704542269,0.2790399749159198,0.500147609475008
+Telangana,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3968401064818052,0.2924088570751279,0.4968790783432071
+Telangana,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4005147757476404,0.3000137138357486,0.4943098915080236
+Telangana,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4017349469870399,0.3028549831276083,0.496665678727944
+Telangana,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3952681744945746,0.2968592530250749,0.4895493172348214
+Telangana,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3794421082959427,0.2837465414800434,0.4755081895900643
+Telangana,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.360201986953013,0.2677803243457083,0.4557217271555407
+Telangana,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3436359820756441,0.2541673301803667,0.441497981864925
+Telangana,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3359404581778888,0.2485898808895673,0.4343016152111971
+Telangana,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3356676933179793,0.2507859423375851,0.4281011568556086
+Telangana,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3367434878654383,0.253174891030251,0.4268123986628096
+Telangana,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3384286288237024,0.2570094301754242,0.4245071945935743
+Telangana,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3399349689581594,0.2621856858308995,0.4274592648103401
+Telangana,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3404472514491503,0.2639081989356546,0.4254691952064914
+Telangana,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3383139177069021,0.2615909912186781,0.4248902512795706
+Telangana,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3336250942793178,0.2556681190085244,0.417244237932017
+Telangana,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3281386893147056,0.2508987288190675,0.4149301518822196
+Telangana,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3236512794501113,0.2455280772497266,0.4139783490052868
+Telangana,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3219767097941572,0.2419051589814997,0.4138347177780203
+Telangana,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.325617534928208,0.2458111490171208,0.4184580597790801
+Telangana,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.334036914123554,0.2532359818935304,0.4291469989997899
+Telangana,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3443620099497904,0.2599582816358964,0.4412438727415239
+Telangana,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3537124252281728,0.2659931490781354,0.4500867679161806
+Telangana,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.359246966699664,0.2705652529773135,0.4576650011184413
+Telangana,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3631266928930957,0.2741464463626146,0.4609764386935489
+Telangana,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3683530961830236,0.2754933056749047,0.4682152797629848
+Telangana,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3731952024682263,0.2775586820073679,0.479189558054322
+Telangana,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3759309531262536,0.2782123882517817,0.4909647655700737
+Telangana,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3748988383239655,0.2765152961526264,0.4773757051701839
+Telangana,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3782678835994287,0.2834815551358143,0.4891975620128398
+Tripura,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4784328179819797,0.3755287444580103,0.5604135776493031
+Tripura,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4724363526918407,0.371327378007038,0.5546619469337268
+Tripura,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4651651301850021,0.3671677498497125,0.5501030636507752
+Tripura,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4568232104510092,0.3588144144360256,0.5442690770266365
+Tripura,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4475665536710743,0.347385980813593,0.5411542597934782
+Tripura,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.437527181802717,0.3328630823977671,0.5357109212995134
+Tripura,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4215678842740006,0.3186834334325197,0.5185637648925792
+Tripura,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3976477704591459,0.3021083539518886,0.4921229184395779
+Tripura,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.370622262927504,0.2795762849190097,0.4641462052229275
+Tripura,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3454723512450863,0.2543533939809395,0.4391368069841952
+Tripura,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3272472544539181,0.2389198672196974,0.4283485873392344
+Tripura,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3157589708707857,0.230555967130989,0.4133167804712234
+Tripura,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3066847379920449,0.2245695217477006,0.4006069629102783
+Tripura,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.298945819460923,0.2198512659468941,0.3959629323848496
+Tripura,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2914992036274622,0.2148427363734626,0.3899314187774648
+Tripura,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2831789113923051,0.2071822883085846,0.3829805924170944
+Tripura,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2727093415578092,0.2001543868960799,0.3686946122533789
+Tripura,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2608934987947994,0.1911792266844636,0.3526016387286337
+Tripura,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2496792648571155,0.1833677908581745,0.3345862709822997
+Tripura,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2410747655979751,0.1772793451759972,0.3206488328647184
+Tripura,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2370782990906116,0.1741355479765184,0.3145138467281717
+Tripura,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2380227800132332,0.174830721331186,0.317087381761198
+Tripura,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2417400513730892,0.1769624632235064,0.3201278571546414
+Tripura,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.246412324950837,0.1809513274321892,0.3261513581882872
+Tripura,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2501125447039886,0.1834419327813043,0.3312640272039067
+Tripura,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2512016893367628,0.1831665744083625,0.3350809959004492
+Tripura,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2467529427335476,0.1809141838232883,0.3267159260719849
+Tripura,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2374301753396148,0.1728532816625397,0.3150199281098957
+Tripura,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2266904453732215,0.1635409358354592,0.3030210421180492
+Tripura,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2180005817840382,0.1570364951180101,0.2926313117021033
+Tripura,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.211771233106884,0.1559216815539645,0.2850448800827959
+Tripura,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2061988181278563,0.1507771962149884,0.2800576278741682
+Uttar Pradesh,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2531984894079357,0.1166512860251323,0.4300793600725739
+Uttar Pradesh,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2650390272901813,0.1391150124018462,0.4222484233015269
+Uttar Pradesh,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2737998015913753,0.1584850882463352,0.4156041801687795
+Uttar Pradesh,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2797183054147155,0.1716446827740931,0.4057836181334478
+Uttar Pradesh,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2829911353616159,0.1759451962592178,0.4017003223801144
+Uttar Pradesh,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2838039095584376,0.1753330802746507,0.4013723292381881
+Uttar Pradesh,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2787049864000218,0.173527693434137,0.392477626304208
+Uttar Pradesh,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2666824807226439,0.1677656803860227,0.3746776752940433
+Uttar Pradesh,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2516520088255425,0.1596676971561079,0.3511908260783305
+Uttar Pradesh,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2376160028747917,0.1516304920368656,0.3324055820580176
+Uttar Pradesh,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2286083261346517,0.1473745420817629,0.3196778450453233
+Uttar Pradesh,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2243265235899138,0.1468365533572969,0.3116785827166383
+Uttar Pradesh,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2213334421764876,0.1460769753848142,0.3069614507905521
+Uttar Pradesh,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2189707894546744,0.1472872752166334,0.3031709276566885
+Uttar Pradesh,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2165335869596499,0.1476772624973478,0.3004038370003619
+Uttar Pradesh,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2132704245336855,0.1468241162139871,0.2944128922524045
+Uttar Pradesh,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2074659308570791,0.145204361776279,0.2853228010662093
+Uttar Pradesh,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1992632948613375,0.1392177487906395,0.2720732203767925
+Uttar Pradesh,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1906742910958944,0.1316986040215922,0.2605826099299182
+Uttar Pradesh,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1837780528252084,0.1268195486182995,0.2512861897238507
+Uttar Pradesh,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1806965026042832,0.1243115612305306,0.2490332936794818
+Uttar Pradesh,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1813608943932594,0.1247387220462198,0.2489671253775738
+Uttar Pradesh,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1837270170182185,0.1259416134005626,0.2506677902856893
+Uttar Pradesh,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1869632152106877,0.1273925437415126,0.2546556219831223
+Uttar Pradesh,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1902479323293768,0.129125840756002,0.2577042200856945
+Uttar Pradesh,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1927492048808275,0.1303078259324417,0.2615951685339925
+Uttar Pradesh,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.1966686397443349,0.1340141523101196,0.268835352792085
+Uttar Pradesh,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2029892968575276,0.1394966502117068,0.2820570119723675
+Uttar Pradesh,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2090006699828396,0.1448938140033082,0.2952701682295329
+Uttar Pradesh,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2119906205066484,0.1464649879288297,0.3055807760478193
+Uttar Pradesh,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2099047275607217,0.1456904263350862,0.2897232678326489
+Uttar Pradesh,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2108850427077133,0.1495457713875526,0.2902745181112284
+Uttarakhand,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4877438420027749,0.3850749838634312,0.5676591950941148
+Uttarakhand,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4826466456717079,0.3800960326755341,0.5606548182166733
+Uttarakhand,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4766082477952081,0.3769577866688266,0.5560428134444132
+Uttarakhand,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4697976335599216,0.3708817654775287,0.5531379704443427
+Uttarakhand,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4623451925044288,0.3626218580506841,0.550833359161514
+Uttarakhand,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4543439655968036,0.3517930409709622,0.5494947406580712
+Uttarakhand,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4410776498014181,0.3404373013510386,0.5326106567788808
+Uttarakhand,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4204943900783226,0.3225242749309279,0.5117756872551253
+Uttarakhand,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3968380381645221,0.3000609104192819,0.4932311734846298
+Uttarakhand,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.374635516286875,0.2799375651832114,0.4766944104951781
+Uttarakhand,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3585704217773372,0.2671011252647141,0.466658008071151
+Uttarakhand,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3490144702939642,0.2581956361967621,0.4555332000747226
+Uttarakhand,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.342364570377244,0.2509927120297048,0.4485608796415286
+Uttarakhand,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3372968574066238,0.2475482340357036,0.4405976904541946
+Uttarakhand,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3321817458865433,0.2411137839298854,0.4329599991027232
+Uttarakhand,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3250121046394743,0.2345383531298639,0.4244796935302092
+Uttarakhand,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3141672253908814,0.2279064586137812,0.4114586513951456
+Uttarakhand,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3009762310309232,0.2188246184843657,0.3949329951558076
+Uttarakhand,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2878648485482385,0.2099844324821625,0.3805681550407244
+Uttarakhand,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2772411350120691,0.2023266166062681,0.3705044197878892
+Uttarakhand,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2715348364393349,0.1966352876135336,0.3605516479082146
+Uttarakhand,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2709661446273618,0.1967710615761974,0.3586044321826126
+Uttarakhand,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2730293658807787,0.1992411090187718,0.3618555666252152
+Uttarakhand,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2760098114751673,0.2015692263996806,0.3687993048645575
+Uttarakhand,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.278174500470691,0.2031887333554717,0.3720108124460847
+Uttarakhand,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2777255780219589,0.2034387046305818,0.3709634886695119
+Uttarakhand,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2706095663214056,0.1996929636538126,0.3660676419908894
+Uttarakhand,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2570872920226747,0.1923371803043517,0.345199207500006
+Uttarakhand,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.241730759579569,0.1815907997108089,0.3213120358722265
+Uttarakhand,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2292451091298744,0.1699550471496977,0.3037758303452104
+Uttarakhand,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2204623722125686,0.1607512999976705,0.2967158852707368
+Uttarakhand,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.2143296840989702,0.1573209902569432,0.2902444961586385
+West Bengal,1990,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4118624954994571,0.2886280555548589,0.5165767254533095
+West Bengal,1991,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4296073124453831,0.3162749989261074,0.5262883011526924
+West Bengal,1992,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4431953701767547,0.3423734531545449,0.5316165469242349
+West Bengal,1993,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4527936912679794,0.3602499870113989,0.5369795385520372
+West Bengal,1994,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4585451601387585,0.3689900714775702,0.5401064938873386
+West Bengal,1995,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4606338279875686,0.3681995870718499,0.5454945026949245
+West Bengal,1996,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4553381004305628,0.3661927154250469,0.539097684084127
+West Bengal,1997,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.441976799572538,0.3543646627318114,0.524462117551449
+West Bengal,1998,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4254282245758762,0.3382484309971748,0.5119517609922635
+West Bengal,1999,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4106905895410132,0.3241448166679715,0.5009347066998702
+West Bengal,2000,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4028216746409145,0.314713362238096,0.4974554771108702
+West Bengal,2001,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.400838117245714,0.314281109624673,0.4934649239152571
+West Bengal,2002,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3999465219581396,0.3131037289053179,0.4907590640319044
+West Bengal,2003,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3995340027376035,0.3136715588179883,0.4892264814530439
+West Bengal,2004,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3989495610940941,0.3119580578067864,0.4882920526162454
+West Bengal,2005,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3974772803350739,0.3087129749968267,0.4881949794430597
+West Bengal,2006,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3924814220441708,0.3054724320534108,0.479509199085686
+West Bengal,2007,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3836671279488576,0.2988380020823217,0.4706552816321026
+West Bengal,2008,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3737769079714384,0.2885851635177748,0.4620809851990087
+West Bengal,2009,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3655569964317032,0.2787955493347136,0.4603598505386937
+West Bengal,2010,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3617743230048639,0.2736045643067944,0.4633429670831392
+West Bengal,2011,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3649071626390046,0.2766958076874353,0.4587247341263632
+West Bengal,2012,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3735141616071388,0.2857500670130793,0.4680593615003057
+West Bengal,2013,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3844197364639565,0.2954529397327379,0.4799582100194858
+West Bengal,2014,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.394319338392518,0.301172241183287,0.4917955615482215
+West Bengal,2015,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.3997656207452115,0.3032635036562764,0.4989295727625627
+West Bengal,2016,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.403948995735696,0.307886593806253,0.5043424183960564
+West Bengal,2017,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4108000124891834,0.3115888237405667,0.5168174328601682
+West Bengal,2018,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4178648731381897,0.3111276649888533,0.5281714630008387
+West Bengal,2019,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4226292883744216,0.3129870677447305,0.5333768218231143
+West Bengal,2020,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4251940569572465,0.3106705116059597,0.5279978793870508
+West Bengal,2021,5-14 years,Male,Latent tuberculosis infection,Percent of total prevalent cases,0.4250571357652963,0.3129056323653408,0.5350534343085396
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2021. Seattle, WA: IHME, University of Washington, 2023. Available from http://vizhub.healthdata.org/gbd-compare. (Accessed 7/24/2024)."
+"For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"

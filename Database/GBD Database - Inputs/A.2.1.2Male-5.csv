@@ -1,0 +1,964 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+Andhra Pradesh,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0026713447465413,0.0020034985751903,0.0032830740300925
+Andhra Pradesh,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0025755502519731,0.0019499003547082,0.0031728807989293
+Andhra Pradesh,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.002478440646303,0.0018741501938684,0.0030300449686553
+Andhra Pradesh,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023813642650471,0.001786849817008,0.0029190396655662
+Andhra Pradesh,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022850856614365,0.0016849781925022,0.0028631706026931
+Andhra Pradesh,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0021899997778621,0.0015962664380079,0.0028065654874212
+Andhra Pradesh,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.002089816898637,0.0015208993357945,0.0026815132409286
+Andhra Pradesh,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019830116569926,0.0014361126757288,0.0025418610652643
+Andhra Pradesh,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018758839271376,0.0013449150344597,0.0024594768259909
+Andhra Pradesh,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017741977629656,0.001265456043738,0.0023609801991942
+Andhra Pradesh,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016832230891589,0.0011897840564694,0.0022909408733083
+Andhra Pradesh,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016004463160114,0.001134499119991,0.0021567806903298
+Andhra Pradesh,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015199658359235,0.0010676853150497,0.0020321062879527
+Andhra Pradesh,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.00144265635508,0.0010111646640917,0.0019033302306668
+Andhra Pradesh,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013698166681715,0.0009543411726135,0.0018171743765715
+Andhra Pradesh,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013028075264877,0.0009010852567439,0.0017402169893305
+Andhra Pradesh,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012436934019464,0.0008656829637757,0.0016645107504123
+Andhra Pradesh,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011915562284492,0.0008447768796423,0.0015785817365005
+Andhra Pradesh,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011417796629928,0.0008082750253534,0.0015260611876132
+Andhra Pradesh,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010898566171868,0.0007679122899092,0.0014679761056985
+Andhra Pradesh,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010315120896272,0.0007273456542326,0.0013954049742079
+Andhra Pradesh,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009605602227608,0.0006713720095987,0.0013061928128898
+Andhra Pradesh,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008781410048619,0.0006206175810274,0.0012033243689725
+Andhra Pradesh,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007919689630112,0.0005560831315699,0.0010801646198374
+Andhra Pradesh,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007115671563999,0.0005003905644509,0.0009647829980599
+Andhra Pradesh,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006468141814492,0.0004527571364445,0.0008769551684606
+Andhra Pradesh,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005940078348331,0.0004224392974879,0.000798846997525
+Andhra Pradesh,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005459815206539,0.0003921349214788,0.0007317144685394
+Andhra Pradesh,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005066616252963,0.0003639909371827,0.0006802024013365
+Andhra Pradesh,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004802489682731,0.0003395459190561,0.000642914762705
+Andhra Pradesh,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004662009544383,0.0003314147819391,0.000620047387417
+Andhra Pradesh,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004285528177801,0.0002970515656037,0.0005893120747387
+Arunachal Pradesh,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001927947699807,0.0012460416673161,0.0028669762824594
+Arunachal Pradesh,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001923084817219,0.0013007051203592,0.0027936159628827
+Arunachal Pradesh,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019113674825146,0.0013346008640691,0.0026444939243421
+Arunachal Pradesh,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018943417222788,0.0013592353037451,0.002564491764788
+Arunachal Pradesh,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018729838765066,0.0013509765072311,0.0024960480713376
+Arunachal Pradesh,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018495659883311,0.0013384974016534,0.0024451836286964
+Arunachal Pradesh,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018068963909769,0.0013403685900495,0.0023378794490976
+Arunachal Pradesh,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.00173600732206,0.001272912022364,0.0022329464855472
+Arunachal Pradesh,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016501266194577,0.0012123191224031,0.0021235080318029
+Arunachal Pradesh,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015622030037346,0.0011394902231901,0.0020189236299765
+Arunachal Pradesh,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014848027107633,0.0010709518220231,0.0019310588103797
+Arunachal Pradesh,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014090538739937,0.0010226589426133,0.0018001614617655
+Arunachal Pradesh,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013259652628162,0.0009797827539982,0.0016823107291303
+Arunachal Pradesh,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012477091644518,0.0009311404515937,0.0015833925091069
+Arunachal Pradesh,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011873085755872,0.0008897861168933,0.0015143508987373
+Arunachal Pradesh,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011584157380599,0.0008634007144659,0.001496519001952
+Arunachal Pradesh,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011521175940246,0.0008427857306266,0.0014783055694653
+Arunachal Pradesh,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001148682747507,0.0008286477894289,0.0014810708688454
+Arunachal Pradesh,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011460677841812,0.0008230958318043,0.0015032738115914
+Arunachal Pradesh,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011419100157842,0.0008123247100742,0.0015106865717644
+Arunachal Pradesh,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011337657238856,0.0007924913191572,0.001514293485646
+Arunachal Pradesh,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011057265813529,0.0007631504509683,0.0014840152074006
+Arunachal Pradesh,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010521564060893,0.0007227408230663,0.0014153022031927
+Arunachal Pradesh,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009867320017377,0.0006742837121596,0.0013357025066371
+Arunachal Pradesh,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009240531381742,0.0006261631205413,0.0012417015410904
+Arunachal Pradesh,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008792507110261,0.0005954067987365,0.0011884218944651
+Arunachal Pradesh,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008477361324947,0.0005854951446392,0.0011412596753833
+Arunachal Pradesh,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008188426149621,0.0005752931907279,0.0010927084218338
+Arunachal Pradesh,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007980598749975,0.0005615254487786,0.0010683686245014
+Arunachal Pradesh,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.00079109642011,0.0005461912483023,0.0010588456521318
+Arunachal Pradesh,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007984884241352,0.0005575155710119,0.0010688887430387
+Arunachal Pradesh,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007334574953875,0.0004977949576253,0.0009911430570753
+Assam,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.002210215856752,0.0013797389990259,0.0033202683036032
+Assam,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022437362610937,0.0014708108616258,0.0032623782290967
+Assam,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022634793226204,0.0015428518883523,0.0032373268302601
+Assam,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022724390323611,0.0015856785091568,0.0031412286673724
+Assam,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022733616963962,0.001615579861885,0.0031103102460997
+Assam,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022699759438772,0.0016204478868313,0.0031026685531438
+Assam,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022433438781458,0.0016086604745293,0.0030467400108546
+Assam,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0021832439223208,0.0015707077289259,0.0029156946858291
+Assam,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.002104219004817,0.0015030500784202,0.0028012095694022
+Assam,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020212333760172,0.0014339418124466,0.002727349770872
+Assam,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019506261286214,0.0013640524007994,0.0026313745190618
+Assam,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018903304150469,0.0013432100046521,0.0025076866867741
+Assam,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018288131312506,0.0013312481814316,0.0023805355182787
+Assam,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017697502505201,0.0012988370961228,0.0022962779101978
+Assam,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017172940990085,0.001271569517817,0.002209468343496
+Assam,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001675793336125,0.001241972412765,0.0021532173056402
+Assam,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016469141832226,0.0012194612104274,0.0020993839752874
+Assam,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016256084277957,0.001202520614007,0.0020631450401974
+Assam,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016054253408673,0.0011901253480117,0.0020399705479223
+Assam,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015805812316971,0.001150615085542,0.0020272240278642
+Assam,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001545388076003,0.0011121019826158,0.0020047178507203
+Assam,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014720207412102,0.0010550302248523,0.0019135539192499
+Assam,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013571274526435,0.0009912779782336,0.0017604719653195
+Assam,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012318969698135,0.0009076952805385,0.001595380059925
+Assam,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011284132041784,0.0008354695930675,0.0014764937165142
+Assam,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010795412738949,0.0007979820824254,0.0014232129489391
+Assam,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010709919927303,0.0007889839507809,0.0014061974024105
+Assam,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010657886812525,0.0007790003546919,0.0014035964683205
+Assam,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010626147667412,0.0007818709277049,0.0013911235705259
+Assam,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001060353347532,0.0007610476998801,0.00141879003573
+Assam,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010601362893371,0.0007421238838346,0.0014538905199675
+Assam,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009468762833877,0.0006380510637543,0.0012708011133471
+Bihar,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016049040976877,0.000976250008114,0.0023830618513717
+Bihar,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016294984804405,0.0010549138990005,0.0023364432527636
+Bihar,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016401087849902,0.0011102338458507,0.0022948803017751
+Bihar,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016403826158285,0.0011451297845633,0.0022545215196545
+Bihar,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016347105441244,0.0011606888087319,0.0022294231950564
+Bihar,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016267685153609,0.0011583313067253,0.0022095043283498
+Bihar,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016007754751292,0.0011442248799883,0.0021334857909335
+Bihar,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015480555815681,0.0011059901406686,0.0020352815175393
+Bihar,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014814286288658,0.0010451955346938,0.0019367467938967
+Bihar,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014140960474467,0.0009864429355125,0.0018730927015939
+Bihar,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013592567719672,0.0009507227903494,0.0018004867506315
+Bihar,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013149381654185,0.0009284893881982,0.0017244505105372
+Bihar,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012708803115447,0.0009164539260086,0.0016463011387069
+Bihar,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012284687743705,0.0009002725228136,0.0015600776706055
+Bihar,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011897099764241,0.000890180697539,0.0015086884886447
+Bihar,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011564924014712,0.0008557963779173,0.001487623512416
+Bihar,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011305110877748,0.0008503476911486,0.0014449971515612
+Bihar,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011095974744201,0.0008332733346504,0.0014183323081436
+Bihar,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010890030577676,0.0008094779673026,0.0013902202543064
+Bihar,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010642479896809,0.000794813700496,0.0013764013309549
+Bihar,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010317255785426,0.0007575261932933,0.0013693120444679
+Bihar,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009766007796747,0.0007214960490075,0.0012896118406251
+Bihar,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008980415210639,0.0006636278329888,0.0011843232613797
+Bihar,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000813181528248,0.0006035941216299,0.0010627214044927
+Bihar,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007399341677026,0.0005457408235624,0.0009601078691295
+Bihar,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006976142270403,0.0004936568958725,0.000920805491343
+Bihar,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006791284572047,0.0004731888139973,0.0008951514309828
+Bihar,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006643700268446,0.0004570519867404,0.0008818237136073
+Bihar,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006531368575475,0.0004395610192344,0.0008748564418454
+Bihar,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006454720655636,0.0004267105227769,0.0008753357226254
+Bihar,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006409763335909,0.0004316476165245,0.0008768986076276
+Bihar,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005927628252973,0.000397614428249,0.0008025962417885
+Chhattisgarh,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.003335295476663,0.0025626603938444,0.0041028287469086
+Chhattisgarh,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.003217620563845,0.0024465558224035,0.003912256396984
+Chhattisgarh,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0031004374628105,0.0023634997036514,0.0037577413499409
+Chhattisgarh,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0029843014873295,0.0022549949276638,0.0036391294985471
+Chhattisgarh,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0028695637413931,0.002113045763923,0.0035568791097917
+Chhattisgarh,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0027567290978359,0.0020038001787044,0.0034931960173485
+Chhattisgarh,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0026358888914596,0.0019064710269694,0.0033459965186374
+Chhattisgarh,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.002505219053141,0.001817659337764,0.003193280657447
+Chhattisgarh,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023764405936652,0.0017186890173341,0.0030391911208731
+Chhattisgarh,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022612550119667,0.001624404939806,0.0029173793888245
+Chhattisgarh,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0021701715255135,0.0015446682335995,0.0028472723836851
+Chhattisgarh,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020995457740592,0.0014965083654699,0.0027445230546671
+Chhattisgarh,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020357319131255,0.0014308765485484,0.0026542331566279
+Chhattisgarh,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019763755100258,0.0013972132669885,0.002607376775735
+Chhattisgarh,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001919576296822,0.0013621858700074,0.0025388644510431
+Chhattisgarh,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018632702581488,0.0013169424783806,0.0024876089792653
+Chhattisgarh,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018112938231632,0.0012855709984186,0.0024218960356212
+Chhattisgarh,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017657933034327,0.0012581568635789,0.0023350707650933
+Chhattisgarh,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017205096351426,0.0012204230326743,0.002270348927644
+Chhattisgarh,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016695168392519,0.0011802937494244,0.0022123199202845
+Chhattisgarh,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016081175635393,0.0011381345850269,0.0021426442206193
+Chhattisgarh,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015239495691771,0.0010787796802916,0.002007790948607
+Chhattisgarh,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014160477357615,0.000999353198481,0.0018851967875154
+Chhattisgarh,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012966351143221,0.0009145122335822,0.001724908192245
+Chhattisgarh,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011795661258365,0.0008361702447162,0.0015761756961282
+Chhattisgarh,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010807082498123,0.0007520963734752,0.0014640803583908
+Chhattisgarh,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009967284486496,0.0007006510396003,0.0013359216332919
+Chhattisgarh,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009169082386475,0.0006352989247391,0.0012230914387901
+Chhattisgarh,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008468903652637,0.0005778736100234,0.001125695806385
+Chhattisgarh,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007924857903141,0.0005406850823078,0.0010699572759872
+Chhattisgarh,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000756818874593,0.0005201564409332,0.0010178669674171
+Chhattisgarh,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006966681723698,0.0004711216733734,0.0009348721314312
+Delhi,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022307770514089,0.0014653603904945,0.0032328563431736
+Delhi,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023168625148496,0.0015955493918572,0.0031841985733537
+Delhi,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023759465905501,0.0016967289320199,0.0031414570305453
+Delhi,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0024134155258858,0.0017566105376437,0.0031299106996057
+Delhi,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0024343682276061,0.0017882041432266,0.0031504886853424
+Delhi,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0024421101355349,0.0017997412801582,0.0031863052001719
+Delhi,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0024112021290709,0.001805209090573,0.0030747060753108
+Delhi,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023294488537751,0.0017327547255936,0.0029597516527967
+Delhi,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022183604276036,0.0016561790005978,0.0028272397668279
+Delhi,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020993720378213,0.0015581598924555,0.0027050560834621
+Delhi,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019929672817843,0.0014601109148061,0.0025813167453846
+Delhi,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018922233041267,0.0014133669442584,0.0024322166377788
+Delhi,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017819423267057,0.0013440467076275,0.0022787098995358
+Delhi,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016706595918088,0.0012577770531806,0.002105726980095
+Delhi,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015672422810262,0.0011921877778721,0.0019633271200201
+Delhi,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001480249972905,0.0011148579651213,0.0018650632856528
+Delhi,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014114101080074,0.0010797762913922,0.0017826685516162
+Delhi,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001352992761422,0.0010337545941649,0.001720353735353
+Delhi,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012988485237276,0.0009956633621436,0.0016616884537456
+Delhi,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012430089699265,0.0009394806017629,0.0015999362204835
+Delhi,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011795610816848,0.0008703178162459,0.001539834222874
+Delhi,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010935311275775,0.0008231916601133,0.0014217813040133
+Delhi,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009874615534042,0.0007478846927528,0.0012766226545509
+Delhi,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008824776477554,0.0006657488272232,0.0011447502722928
+Delhi,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008011189865559,0.0005951985725975,0.0010353762264631
+Delhi,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000766378779064,0.0005598975887335,0.0009992397556577
+Delhi,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007661257484065,0.0005600546110286,0.0010046589631999
+Delhi,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007709099896845,0.0005501921604228,0.0010373745976595
+Delhi,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007773938500264,0.000544467131779,0.0010610028341291
+Delhi,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007820563203704,0.0005369031688811,0.0010883893227982
+Delhi,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007834330394894,0.0005200658707296,0.001070145592886
+Delhi,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007297440263889,0.0004739262249673,0.0010063365278984
+Goa,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016365783042113,0.0012027482620374,0.0021363400021825
+Goa,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001529957543838,0.0011276233567925,0.002003535790107
+Goa,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014270775332866,0.0010530931196175,0.0018755128009537
+Goa,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013293103275286,0.0009702601732727,0.001738156796179
+Goa,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001238839497778,0.0008963877962329,0.0016428929007073
+Goa,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011578025506239,0.0008323893301197,0.0015430748194917
+Goa,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010843077112352,0.0007830090282322,0.0014429622216437
+Goa,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010155672950981,0.0007292903350126,0.0013581624886229
+Goa,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009523645039701,0.0006784469034105,0.0012693417968888
+Goa,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008949857819505,0.000632726138774,0.0011794821672276
+Goa,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008429187224501,0.0005877363679775,0.0011288066576309
+Goa,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007947587528454,0.0005582319628174,0.001057200302848
+Goa,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007494834316719,0.0005246200744409,0.0009985486948091
+Goa,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007082144609942,0.0004889036181915,0.0009527444491232
+Goa,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006719023144687,0.0004574077594191,0.0009102853496107
+Goa,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006418875149278,0.0004345859681084,0.0008778184181544
+Goa,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006192052359687,0.0004253948452734,0.0008304965412911
+Goa,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006018124513846,0.0004151480482279,0.0008057384129706
+Goa,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005863882554723,0.0004066973724568,0.0007848601822601
+Goa,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005696922744403,0.0003943554704232,0.0007696082233456
+Goa,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005483817944028,0.0003715905235321,0.0007500796224625
+Goa,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005188491423337,0.0003537750858622,0.000700688143571
+Goa,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004818875254056,0.0003303636559728,0.0006529527805897
+Goa,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004412707514038,0.0003022904660762,0.0005951665777386
+Goa,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004016948994683,0.0002698554384383,0.0005476164706601
+Goa,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0003681558889914,0.0002418649998204,0.0005073072934161
+Goa,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0003385215281073,0.0002262280957877,0.0004673973595108
+Goa,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0003099510518899,0.0002150671982891,0.0004257132258339
+Goa,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0002857975769032,0.0001950767867631,0.0003898548756221
+Goa,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0002698942581867,0.0001783602772841,0.00037433526344
+Goa,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0002617401334366,0.0001722694214276,0.0003579152030255
+Goa,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000240735949166,0.0001558430193209,0.0003363920824808
+Gujarat,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019823285936529,0.0011030087903921,0.0032582049639982
+Gujarat,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020085853166193,0.0012299339409221,0.0031112820393456
+Gujarat,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020196897893544,0.001314462241943,0.0029806934524387
+Gujarat,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020187577741025,0.0013565321228116,0.0029534160921784
+Gujarat,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020090749123852,0.0013881265622916,0.0028644371659405
+Gujarat,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019938322182587,0.0014012165182597,0.0027695511610849
+Gujarat,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019498463728022,0.0013684312604093,0.0026963915970357
+Gujarat,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018664141412828,0.0013095390919293,0.0025669526244337
+Gujarat,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017640982487867,0.0012356167988622,0.0024050966251918
+Gujarat,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016637057630106,0.0011591704877208,0.0022789192567207
+Gujarat,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001586755440002,0.0010986822805556,0.0021931636181369
+Gujarat,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015298538751456,0.0010634122558128,0.0020625882978557
+Gujarat,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014771310364515,0.0010409129740043,0.0019281876109329
+Gujarat,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.00142824151585,0.0010182289545501,0.0018459891335027
+Gujarat,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013847143855655,0.0009912287130844,0.0017736815793707
+Gujarat,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013480537008272,0.0009593948488435,0.001733976115028
+Gujarat,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013193416773212,0.0009503752480124,0.0016898591487417
+Gujarat,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012960069520197,0.0009261962363644,0.0016635778847323
+Gujarat,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012733395482778,0.0009049524171143,0.0016333645493064
+Gujarat,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012471717106942,0.0008850162044345,0.0016188504274044
+Gujarat,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012141996322895,0.0008609152014111,0.0016144826651223
+Gujarat,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011580912658482,0.0008274909154223,0.0015421218638989
+Gujarat,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010761856336362,0.0007714172135575,0.0014285366634357
+Gujarat,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009856617426698,0.0007142349638669,0.0012901112084742
+Gujarat,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009058359501607,0.000660566689559,0.0011843694295741
+Gujarat,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008572038739218,0.0006081949852663,0.001129755434759
+Gujarat,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008327067838686,0.0005989602522922,0.00111077391706
+Gujarat,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008134108322351,0.0005790121122908,0.0011109481741522
+Gujarat,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008010700560169,0.0005645567532294,0.0011035833033843
+Gujarat,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007971050745513,0.0005502789744788,0.0010906892905296
+Gujarat,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008005417123744,0.0005573144728742,0.0010829041129063
+Gujarat,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007287911931605,0.0004950066713996,0.0009781967434507
+Haryana,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0025706469958665,0.0019650329126824,0.0031913340294441
+Haryana,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0024822359145869,0.0019008621693907,0.0030968120292942
+Haryana,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023920599678924,0.0018175614207561,0.0029931845024868
+Haryana,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023018893508047,0.0017172654876517,0.0028894587525025
+Haryana,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022131692283773,0.0016319865240326,0.00280590307101
+Haryana,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0021263090138501,0.001540657798671,0.0027689868435674
+Haryana,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020351073605857,0.0014617270364116,0.0026344333796012
+Haryana,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019378440563886,0.0013847244079769,0.0025196014480635
+Haryana,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018403357120721,0.0013143238356719,0.0024020839111081
+Haryana,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017486926726362,0.0012525001933132,0.0023295587586095
+Haryana,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016689561064752,0.0011745078471521,0.0022373536940164
+Haryana,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015998977309711,0.0011315319168689,0.0021547440588514
+Haryana,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015359924402684,0.0010956106988665,0.0020746464355829
+Haryana,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014768301290791,0.00105436583446,0.0019803759372047
+Haryana,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014213270743664,0.0010115568559078,0.0019181315242285
+Haryana,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001368371863877,0.0009706574777215,0.0018462637076651
+Haryana,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013200303358968,0.0009573276756698,0.0017885373613704
+Haryana,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012768966103972,0.0009316115556125,0.0017120150379522
+Haryana,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012350931815336,0.0008837680847787,0.0016375426406006
+Haryana,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011909099015201,0.0008475368603817,0.0015814211872969
+Haryana,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011406363116192,0.000805391964814,0.0015167506974085
+Haryana,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010791785557716,0.0007728261481088,0.0014296517112982
+Haryana,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010081453701256,0.0007302319783797,0.0013345977852519
+Haryana,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009330066495652,0.000677641409295,0.001245399693943
+Haryana,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008589874020474,0.0006217729457686,0.0011521274991209
+Haryana,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007932215362388,0.0005686165158523,0.001073751012493
+Haryana,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007355777702335,0.000537493554843,0.0009939962381929
+Haryana,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000682827942384,0.0004981690102449,0.0009269527615805
+Haryana,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000637724892328,0.0004643258827508,0.0008550291148655
+Haryana,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006023391127997,0.0004315480645848,0.000805409123868
+Haryana,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005773108403857,0.0004017743632389,0.0007751896620302
+Haryana,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005181648180133,0.0003638465791284,0.0006971762188467
+Himachal Pradesh,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014773617060068,0.0008897965780535,0.0022071711164921
+Himachal Pradesh,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015647620059302,0.0010187357940888,0.0022311468722678
+Himachal Pradesh,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001629765776323,0.0011137296026425,0.0022231611739123
+Himachal Pradesh,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016742028212123,0.0011771256392801,0.0022566259610122
+Himachal Pradesh,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017004039346152,0.0011998034919011,0.0022932620604487
+Himachal Pradesh,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017095502477382,0.0011988799640951,0.0023304945783884
+Himachal Pradesh,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016868799043071,0.0011759907779924,0.0022548588924257
+Himachal Pradesh,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016271017729075,0.0011429750751476,0.0021489298451534
+Himachal Pradesh,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015467449607828,0.0010743708752845,0.0020449917880575
+Himachal Pradesh,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001462373037329,0.0010217751218272,0.001941206722665
+Himachal Pradesh,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013908610153125,0.0009526401417863,0.0018546764230216
+Himachal Pradesh,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013298108365775,0.0009364929066438,0.0017372889330987
+Himachal Pradesh,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012676466890897,0.0008953202190802,0.0016272652960659
+Himachal Pradesh,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012081542092648,0.0008728817353444,0.0015499657331953
+Himachal Pradesh,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011545504762453,0.0008379627267557,0.0014947369268115
+Himachal Pradesh,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011101184463101,0.0008110826390709,0.0014492044837752
+Himachal Pradesh,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010765885538475,0.0007938681428864,0.0013882053130751
+Himachal Pradesh,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010505069136364,0.0007728949838294,0.0013614038811196
+Himachal Pradesh,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010268909525657,0.0007514883957795,0.0013423195957601
+Himachal Pradesh,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010009285965377,0.0007262552650214,0.0013173406223864
+Himachal Pradesh,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009682987068954,0.000700730168455,0.001278280578211
+Himachal Pradesh,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009182514698738,0.0006620351898291,0.0012048034439324
+Himachal Pradesh,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008522097967914,0.0006149415111418,0.0011232133968782
+Himachal Pradesh,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007846851197294,0.0005631654378003,0.0010258393784458
+Himachal Pradesh,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007313643057772,0.0005273229314192,0.00096328409523
+Himachal Pradesh,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007086830411152,0.0005068083274003,0.000940137624925
+Himachal Pradesh,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007087619990482,0.0005083995406783,0.0009444933111712
+Himachal Pradesh,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007117619651993,0.0005096788375031,0.0009525162035678
+Himachal Pradesh,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007160767194313,0.0005037727135891,0.0009741439939007
+Himachal Pradesh,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000719801126882,0.0004973433293866,0.0009875690165679
+Himachal Pradesh,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000721774327138,0.0005131050281483,0.0009740305284872
+Himachal Pradesh,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000662449925614,0.0004683971867701,0.000904011558044
+Jammu & Kashmir and Ladakh,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019806555589661,0.0014381979971304,0.0025148906196316
+Jammu & Kashmir and Ladakh,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019022846965465,0.0013923335981479,0.0024252400852168
+Jammu & Kashmir and Ladakh,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018245642448623,0.0013312619219824,0.0023311508715956
+Jammu & Kashmir and Ladakh,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017471460844333,0.001276584384693,0.0022358049093256
+Jammu & Kashmir and Ladakh,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016691257706694,0.0012030573897215,0.0021660829645664
+Jammu & Kashmir and Ladakh,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015913161261572,0.0011287165627307,0.0021050951020876
+Jammu & Kashmir and Ladakh,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015094048476408,0.0010822874564604,0.0020040024944956
+Jammu & Kashmir and Ladakh,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014231885278913,0.0010241580788316,0.0018850030992316
+Jammu & Kashmir and Ladakh,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013381988672148,0.0009641796082842,0.0017809162792986
+Jammu & Kashmir and Ladakh,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012594578472687,0.0008865466843646,0.0016748791811964
+Jammu & Kashmir and Ladakh,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011916301251441,0.0008341520711533,0.0016129623095647
+Jammu & Kashmir and Ladakh,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011329869946463,0.0007905719282145,0.0015147754721993
+Jammu & Kashmir and Ladakh,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010780193008319,0.0007531214788,0.0014453033259945
+Jammu & Kashmir and Ladakh,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010274704988628,0.0007255434145786,0.0013795887660258
+Jammu & Kashmir and Ladakh,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009821139835646,0.0006921727677498,0.0013290573869007
+Jammu & Kashmir and Ladakh,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009422377356623,0.000660476450276,0.0012825483708712
+Jammu & Kashmir and Ladakh,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009089004261644,0.0006420670740146,0.0012228981660722
+Jammu & Kashmir and Ladakh,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000880397652957,0.0006226307282339,0.001171849495547
+Jammu & Kashmir and Ladakh,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008527194867559,0.0006115723913855,0.0011394402075048
+Jammu & Kashmir and Ladakh,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008221514453643,0.0005948600090325,0.001104327764105
+Jammu & Kashmir and Ladakh,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007854634055192,0.0005657059553352,0.0010651203202288
+Jammu & Kashmir and Ladakh,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007408286011467,0.000540535799475,0.0009933352349426
+Jammu & Kashmir and Ladakh,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006904800588802,0.0004994953553782,0.0009182662598519
+Jammu & Kashmir and Ladakh,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006374887818224,0.0004533462416692,0.0008575503810009
+Jammu & Kashmir and Ladakh,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005859624965145,0.0004128015842351,0.0007844489467649
+Jammu & Kashmir and Ladakh,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005406561943459,0.0003767167644189,0.0007263387061562
+Jammu & Kashmir and Ladakh,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005001611087728,0.0003511382083677,0.0006646767732807
+Jammu & Kashmir and Ladakh,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004620194230281,0.0003246891165962,0.0006131925543297
+Jammu & Kashmir and Ladakh,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004286077841388,0.0003012938913476,0.0005691521898082
+Jammu & Kashmir and Ladakh,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004026513293708,0.0002819392365447,0.0005387149849674
+Jammu & Kashmir and Ladakh,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0003849203568699,0.0002722782036791,0.0005144685456897
+Jammu & Kashmir and Ladakh,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0003480409856868,0.0002486780802982,0.0004796932294946
+Jharkhand,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018653791986116,0.0012310534408713,0.0027097048559492
+Jharkhand,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018766089125372,0.0012793152477117,0.0026729420770102
+Jharkhand,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018791747398093,0.0013003368379253,0.0025949428247399
+Jharkhand,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018755478306192,0.0013228700687861,0.0025428373175884
+Jharkhand,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018677220740389,0.0013263266687231,0.0025019778421962
+Jharkhand,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018577247249067,0.0013133849066673,0.0024564485523389
+Jharkhand,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018306440788287,0.0013060585516922,0.002386692529115
+Jharkhand,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017788190044725,0.00127217628989,0.002316541680738
+Jharkhand,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017140907754055,0.0012280776280773,0.0022500942879195
+Jharkhand,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016486656515247,0.0011719159889998,0.0021795552120152
+Jharkhand,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015945775552272,0.0011429007531253,0.0021200026893901
+Jharkhand,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015491379775021,0.0011268163080145,0.0020211341498568
+Jharkhand,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015027776153223,0.0011076326071874,0.0019157327595846
+Jharkhand,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014580195657378,0.0010864646856099,0.0018561382199501
+Jharkhand,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014178688387601,0.0010528827449678,0.0018058598280279
+Jharkhand,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013851806098104,0.0010269656129231,0.0017683727394492
+Jharkhand,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013614461476043,0.0010215770761935,0.0017409161533002
+Jharkhand,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013427358868369,0.0010098607554558,0.0017152924391468
+Jharkhand,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013240244563455,0.0009872857226968,0.0017020558811719
+Jharkhand,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013011100295601,0.0009645941526444,0.0017011616847796
+Jharkhand,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012700752981087,0.000903763072775,0.0016645076450701
+Jharkhand,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012067863538275,0.0008762632997375,0.0015717185227978
+Jharkhand,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011065486503078,0.0008043709487126,0.0014296049334203
+Jharkhand,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009936796341718,0.000727081275374,0.0012883440702542
+Jharkhand,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008939051844427,0.0006591834459509,0.0011591864878891
+Jharkhand,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008347606733914,0.0006130272406977,0.0010942360597939
+Jharkhand,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008067992972821,0.0005856506340026,0.0010542189633663
+Jharkhand,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007838896099017,0.0005584171189579,0.0010360803989996
+Jharkhand,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007685962794499,0.000535526570772,0.0010285209418788
+Jharkhand,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000763383081112,0.0005183649466946,0.0010315376720693
+Jharkhand,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007689318727729,0.0005299823420306,0.0010154678271346
+Jharkhand,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007164449593507,0.000488269954091,0.0009876447720086
+Karnataka,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015527047697839,0.0011254209256003,0.0020068230201689
+Karnataka,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001520965070615,0.0011204865099499,0.0019575972015219
+Karnataka,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014868303508338,0.0011036025294423,0.0018802439390106
+Karnataka,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014515253150131,0.0010901078064646,0.0018433274442136
+Karnataka,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014163552042602,0.0010693855449888,0.0018038039802549
+Karnataka,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013826237979707,0.0010468935962176,0.0017748871195931
+Karnataka,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013431462991737,0.0010195497408473,0.0017084456621162
+Karnataka,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012933296067349,0.0009739775264802,0.0016433426581992
+Karnataka,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012374129366987,0.00091890052519,0.0015777104387927
+Karnataka,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001180485023343,0.0008645542391907,0.0015202234362068
+Karnataka,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011277042639339,0.0008097346908515,0.0014638884605726
+Karnataka,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001074246600289,0.0007832977138436,0.0013631233748996
+Karnataka,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001015655211225,0.000744831213909,0.0012858907209365
+Karnataka,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009576749285566,0.0007039841504256,0.0011937164106171
+Karnataka,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009063900060551,0.0006687294771605,0.0011328720743215
+Karnataka,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008682173071088,0.0006432215389623,0.0010941012934546
+Karnataka,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008431639859796,0.000621168135948,0.0010564742393979
+Karnataka,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008248466261753,0.000609652519455,0.0010239320482019
+Karnataka,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000809344176531,0.0005975618412425,0.00101828680817
+Karnataka,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007928657970956,0.000584951445213,0.001005124967588
+Karnataka,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007718825026828,0.0005690926707431,0.0009782078939554
+Karnataka,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007362025757565,0.0005494855606957,0.0009314282657856
+Karnataka,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006855500422158,0.0005199223624812,0.0008678636058412
+Karnataka,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006314988236801,0.0004796899377334,0.0008022942065173
+Karnataka,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005866599123274,0.000446073304245,0.0007498990195661
+Karnataka,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.00056474899651,0.0004245788413735,0.0007261616286198
+Karnataka,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005624758081,0.0004207383851669,0.000726767648491
+Karnataka,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005652330951893,0.0004199636688114,0.0007268747902584
+Karnataka,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000570003242711,0.0004138333320304,0.0007301468665533
+Karnataka,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005735272069238,0.0004122471579186,0.0007389766846765
+Karnataka,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005748884861493,0.0004191305052466,0.0007427518214552
+Karnataka,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005265279692323,0.0003771468740305,0.0006815414956253
+Kerala,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000894183093294,0.0005779770522432,0.0012964164194077
+Kerala,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008677353298097,0.0005827323297541,0.0012052375800267
+Kerala,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000838112144805,0.0005772562342736,0.0011340650365001
+Kerala,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008068019239411,0.0005627221805534,0.0010789185629138
+Kerala,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007749663129612,0.0005524080512958,0.001027614767061
+Kerala,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.00074311319537,0.0005365527515146,0.0009825677954727
+Kerala,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007061848202414,0.0005176744903876,0.0009290322051623
+Kerala,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006626660254157,0.000489282843288,0.0008699741948068
+Kerala,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006172702973038,0.0004487133873942,0.0008121003315717
+Kerala,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005749818422584,0.0004116509031456,0.0007677550681904
+Kerala,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005408700352143,0.0003816446915003,0.0007199826164822
+Kerala,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005137361644393,0.0003673377905184,0.0006803523338478
+Kerala,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004890083366145,0.0003537190606228,0.0006440958171688
+Kerala,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004667311564708,0.0003370241310777,0.0006188355195558
+Kerala,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004469837835291,0.0003244760489896,0.0005911195980535
+Kerala,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000430404472783,0.0003072182303547,0.0005707657513342
+Kerala,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004176188547358,0.0002996985220893,0.0005552991266947
+Kerala,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004073585195788,0.0002914828102397,0.0005441990948279
+Kerala,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0003976134919828,0.0002808818370296,0.0005324976388644
+Kerala,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0003867515636664,0.0002692210307958,0.0005210718094159
+Kerala,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0003734355845537,0.0002537911700186,0.0005100349017939
+Kerala,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0003529491447584,0.0002412717674447,0.0004761388788507
+Kerala,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0003249747653003,0.0002236946926185,0.0004327499504584
+Kerala,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0002948464649063,0.0002051727164607,0.0003913400075536
+Kerala,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0002681490085003,0.0001862629243398,0.000358747147608
+Kerala,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0002504540811604,0.0001729568049744,0.0003391638354816
+Kerala,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0002395874938441,0.0001666857568874,0.0003249310255879
+Kerala,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0002302867546286,0.0001597316766716,0.0003130800636586
+Kerala,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0002237043736977,0.0001483010229116,0.00030575644901
+Kerala,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0002207923463289,0.0001425843986577,0.0003061751769223
+Kerala,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0002207918768993,0.0001421935386127,0.0003047742598281
+Kerala,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0002123962277224,0.0001363274661708,0.0002964124406982
+Madhya Pradesh,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023239103680647,0.0014252406460613,0.0033567616878667
+Madhya Pradesh,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.002402423150249,0.0015783191125542,0.0034020274255594
+Madhya Pradesh,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0024584425002114,0.0016506679635037,0.0033938318737128
+Madhya Pradesh,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0024957125326474,0.0017298186397923,0.0033918429322802
+Madhya Pradesh,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0025180353926784,0.0017849509623575,0.003385138136713
+Madhya Pradesh,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0025286335933282,0.0017763078125559,0.003389032406189
+Madhya Pradesh,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0025046572757494,0.0017604001640326,0.0033374741933508
+Madhya Pradesh,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0024350279496072,0.0017192967163814,0.0032205783872837
+Madhya Pradesh,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023388916873494,0.0016559548566328,0.0030897248477952
+Madhya Pradesh,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022358213512992,0.0015802339219622,0.0029229966033393
+Madhya Pradesh,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0021451189427596,0.0015138480964679,0.0028115177754504
+Madhya Pradesh,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020569040553338,0.0014648234059307,0.0027074101377818
+Madhya Pradesh,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001956039715348,0.0013940110085854,0.0025581319101056
+Madhya Pradesh,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018538922091621,0.0013378333437606,0.0024068232747762
+Madhya Pradesh,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017628562876837,0.0012966070175066,0.0022568145361259
+Madhya Pradesh,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016954494984988,0.001245898288442,0.0021944062687911
+Madhya Pradesh,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001651730370881,0.0012379284492712,0.0021121035817896
+Madhya Pradesh,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016190398620425,0.0012090313752779,0.0020611373860603
+Madhya Pradesh,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015897619761811,0.0011739086616817,0.0020245604028162
+Madhya Pradesh,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015568323409792,0.0011549660109173,0.0019910577622597
+Madhya Pradesh,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015141533102655,0.001101214108494,0.0019483081586973
+Madhya Pradesh,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014395222318493,0.0010533552339327,0.0018470902900019
+Madhya Pradesh,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013330251900038,0.0009800922785557,0.0017049199375108
+Madhya Pradesh,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012216254298199,0.0008969888429128,0.0015724441588755
+Madhya Pradesh,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011331198326194,0.0008350883537363,0.001462667813898
+Madhya Pradesh,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010964294440536,0.0008065163272455,0.0014227797367946
+Madhya Pradesh,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011032918990152,0.0008132540637015,0.0014482379566558
+Madhya Pradesh,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011186892121371,0.0008087843130424,0.0014886806370531
+Madhya Pradesh,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011319737100765,0.0008091363302579,0.0015280513627416
+Madhya Pradesh,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011346934124624,0.0007917803035807,0.0015362045823445
+Madhya Pradesh,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011265322577804,0.0007775558290718,0.0015327395517769
+Madhya Pradesh,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010190240747354,0.0007108521163442,0.0013767434923217
+Maharashtra,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015103520613115,0.0009521010761695,0.0022855245490093
+Maharashtra,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015786008607984,0.0010538211103062,0.0022490470500937
+Maharashtra,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016231194798993,0.001131014995513,0.0022010183723723
+Maharashtra,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016480065756876,0.0011621378540157,0.0021875265326453
+Maharashtra,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016593609405818,0.0011738153014107,0.0021800480615667
+Maharashtra,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016616049270434,0.0011726174981155,0.0022130638357547
+Maharashtra,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016305124427974,0.0011538091689435,0.0021620650940589
+Maharashtra,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015537036406962,0.0010978313237972,0.0020433004285474
+Maharashtra,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014522160005947,0.0010090301586237,0.0019013434038033
+Maharashtra,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013467223928873,0.0009216859906568,0.0017660204903822
+Maharashtra,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012581867524554,0.0008517828870263,0.0016423919116728
+Maharashtra,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011819306197384,0.0008143031350319,0.0015302483261196
+Maharashtra,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011028230970515,0.0007672731330866,0.001424084198124
+Maharashtra,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010269305107667,0.0007256267123046,0.0013218865880797
+Maharashtra,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000959944042994,0.0006801432314737,0.001229225823868
+Maharashtra,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009071895007916,0.0006436681340378,0.001168232147627
+Maharashtra,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008691123392364,0.0006259077570091,0.001113741433398
+Maharashtra,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008393589264434,0.0006111007735262,0.0010738024925198
+Maharashtra,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008124691319508,0.0005931965878168,0.001055731519874
+Maharashtra,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007837393326052,0.0005673764849219,0.001033556830675
+Maharashtra,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007491668302961,0.0005394974411696,0.0009847604806549
+Maharashtra,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006987983890483,0.0005054090082546,0.0009140551310125
+Maharashtra,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006338565870575,0.0004631222216225,0.0008349678432366
+Maharashtra,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005673347354765,0.0004167422960147,0.0007528384407205
+Maharashtra,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005144264765514,0.0003631314098343,0.0006895963246414
+Maharashtra,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004915688438703,0.0003456857267724,0.0006704406414147
+Maharashtra,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004909250898028,0.0003408406941538,0.0006610859430392
+Maharashtra,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004931068389939,0.0003379885148227,0.0006695074926616
+Maharashtra,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000496474518245,0.000333064219959,0.0006735366198235
+Maharashtra,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004991374569568,0.0003321114478965,0.0006865379803463
+Maharashtra,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004992964988961,0.0003265738320942,0.0006924077960333
+Maharashtra,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004626382286849,0.0002929991273869,0.000643363767592
+Manipur,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0026707331654588,0.0020121989439225,0.0033471461708631
+Manipur,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0025739546004548,0.0019271952889759,0.003253954676948
+Manipur,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.002473070593418,0.0018402972546097,0.0030963233159759
+Manipur,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023691976735127,0.0017463020790713,0.0029876754333047
+Manipur,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022632735422394,0.0016512863540186,0.0029168005293361
+Manipur,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0021562450900341,0.0015516821769588,0.0028441950249767
+Manipur,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020398214047321,0.0014695002083968,0.0027136052125286
+Manipur,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019122798272362,0.0013609681619298,0.0025543344727109
+Manipur,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001783905004281,0.0012519519448111,0.0023869101841757
+Manipur,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001664827968511,0.0011432820941805,0.0022298381926889
+Manipur,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015656042048535,0.0010479425498652,0.0021096995215605
+Manipur,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014818346173746,0.0010025658093625,0.001990884636352
+Manipur,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014025894755442,0.000951703902488,0.0018799819263069
+Manipur,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013301248891988,0.0009152996176777,0.0017836858412092
+Manipur,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012673332274583,0.0008703682696039,0.0017143556388315
+Manipur,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012175257458382,0.000831870655357,0.0016839064912554
+Manipur,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011819793560991,0.0008124710631379,0.0016223744029395
+Manipur,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011559422072847,0.0007897013272679,0.0015713103131465
+Manipur,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001133109584379,0.0007726685905286,0.0015443465421091
+Manipur,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011074785638874,0.0007528395029311,0.0014987716237033
+Manipur,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010740308009746,0.000729111220937,0.0014619429556372
+Manipur,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010294769893033,0.0006970572814462,0.0013864552049357
+Manipur,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000976704350894,0.0006732895573279,0.0013152530645223
+Manipur,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009196726432915,0.0006384621309241,0.0012490812918673
+Manipur,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008637261782168,0.0005982263576085,0.0011713747740969
+Manipur,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008150533096721,0.0005583265609187,0.0011024801019705
+Manipur,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007717819895044,0.0005341493904548,0.0010389284239011
+Manipur,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000730464958022,0.0005089111716843,0.0009857309560239
+Manipur,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006947642718212,0.0004830758927492,0.0009343561270452
+Manipur,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006684975523983,0.000456055627227,0.0008971395965547
+Manipur,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006524899854331,0.0004426808043756,0.0008755388829473
+Manipur,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005974078898812,0.0003994128633088,0.0008094912894809
+Meghalaya,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.003624808813827,0.0026770808229051,0.0045164201221344
+Meghalaya,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0035180350763592,0.0025959522694897,0.0043699930660307
+Meghalaya,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0034040219178228,0.0024981680759636,0.0042633793311583
+Meghalaya,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0032852811607602,0.0023877788125607,0.0041321249577391
+Meghalaya,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0031642974397204,0.0022769288171255,0.0040406711001884
+Meghalaya,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.003043280483932,0.0021654243502163,0.003982918589314
+Meghalaya,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0029113949223106,0.0020771372645738,0.0038156973181857
+Meghalaya,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0027643055265473,0.0019747545714728,0.0036321259758426
+Meghalaya,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0026118619666695,0.0018627868057438,0.0034409380721117
+Meghalaya,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0024650480160869,0.0017429972477076,0.0032676895386694
+Meghalaya,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023353209642627,0.0016484368680583,0.0030960239516419
+Meghalaya,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022212303961367,0.0015690368503109,0.0029587661762598
+Meghalaya,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0021130312631474,0.0015022199758355,0.0028089386151964
+Meghalaya,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020105166695737,0.0014349005013046,0.0026544437199628
+Meghalaya,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019140937251416,0.0013655473032255,0.0025426424400852
+Meghalaya,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018254054339693,0.0012996219166709,0.0024333102798093
+Meghalaya,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017461397313329,0.0012413632103805,0.0023095531579507
+Meghalaya,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016748614411163,0.001185287372525,0.0022075768323634
+Meghalaya,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016067034434185,0.0011268683114808,0.0021303383721491
+Meghalaya,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015369686515282,0.0010717031816255,0.0020646181944476
+Meghalaya,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014627047568214,0.0010054445649831,0.0019870299558076
+Meghalaya,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013809193764947,0.0009465763704692,0.0018635818544785
+Meghalaya,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012946447930057,0.0008890351252556,0.0017468616194364
+Meghalaya,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012081568045782,0.0008370014857887,0.0016523228707678
+Meghalaya,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011268866261871,0.0007829552089343,0.0015498914832757
+Meghalaya,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010573132957111,0.0007365212903743,0.001452971285065
+Meghalaya,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000998799564208,0.0006964648339741,0.0013572731764244
+Meghalaya,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009462438147596,0.0006659148191345,0.0012704842739785
+Meghalaya,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008992959881955,0.0006247469761338,0.0012134259272333
+Meghalaya,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008573006027179,0.0005998479504589,0.0011646224686284
+Meghalaya,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008219687983426,0.0005726124102058,0.0011329905029798
+Meghalaya,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000751711059274,0.0005209275996436,0.0010159631995082
+Mizoram,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020955097731476,0.0015361920657523,0.0026695569803622
+Mizoram,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019867722131191,0.0014456349041735,0.002531355294821
+Mizoram,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018823870793379,0.0013523862942837,0.0023925180068829
+Mizoram,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001784541910694,0.0012843125559512,0.002295451427324
+Mizoram,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016951188289659,0.0012148719661445,0.0022062290683556
+Mizoram,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016153547101076,0.0011493196625551,0.0021409021253008
+Mizoram,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001542261565309,0.0010964347298188,0.0020459671933052
+Mizoram,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014727650075687,0.0010410152519428,0.0019604274967499
+Mizoram,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014070803400352,0.0009874196041315,0.0018829082640931
+Mizoram,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013455369010048,0.0009463984050151,0.0018036316058536
+Mizoram,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012885543585862,0.0009060482356374,0.001735475098506
+Mizoram,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012357566425019,0.0008711073366838,0.0016618051843709
+Mizoram,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011863462948431,0.0008280928534257,0.00158410620471
+Mizoram,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011398973456873,0.0007852905470077,0.0015088601763826
+Mizoram,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010962506905296,0.0007515833266457,0.0014663730211419
+Mizoram,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010557625493208,0.0007224822390406,0.0014283113060361
+Mizoram,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010209014706316,0.0006961405043817,0.001375308802364
+Mizoram,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009911436137189,0.0006752478910194,0.0013353236496938
+Mizoram,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009621321291071,0.0006596936357624,0.0012996423116279
+Mizoram,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009300846106316,0.0006305511583184,0.0012649540995419
+Mizoram,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008918564202284,0.0006015327901729,0.0012235125011515
+Mizoram,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000843774730716,0.0005738623053097,0.0011534842972028
+Mizoram,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007869287507291,0.0005349166206721,0.0010746308367816
+Mizoram,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007267558859968,0.0004940890099306,0.0009883100810178
+Mizoram,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000668733835636,0.0004534461541334,0.0009050685943234
+Mizoram,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006214825767193,0.0004209944006355,0.0008420628968551
+Mizoram,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005834420741143,0.0004026310292347,0.0007992658342649
+Mizoram,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005477927259651,0.0003812125918979,0.000755037656995
+Mizoram,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005177160891031,0.00035663007234,0.0007165514189858
+Mizoram,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004955756864445,0.000340862741921,0.0006929584133634
+Mizoram,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004820035739004,0.0003201795251265,0.000662414073713
+Mizoram,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004461127977064,0.0002981392388781,0.0006170868902792
+Nagaland,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0028079662538418,0.0020279708276021,0.0035242611903967
+Nagaland,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0026946057180093,0.0019456107299708,0.0033928213442375
+Nagaland,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0025810576903788,0.0018558673204789,0.00324473884422
+Nagaland,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0024691921679048,0.0017611384854706,0.0031332796459819
+Nagaland,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023612970584024,0.00168633029997,0.0030514302437387
+Nagaland,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022590449578692,0.0016141591752031,0.0029891572470277
+Nagaland,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0021584009314086,0.0015319688198214,0.0028478142937952
+Nagaland,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020566926920297,0.0014345413598733,0.0027573243841747
+Nagaland,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019556706089537,0.0013566588924198,0.0026247857715973
+Nagaland,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018578294316648,0.0012722649495734,0.0025057292277426
+Nagaland,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017671551612041,0.0012064133826003,0.002379311531433
+Nagaland,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001682932349034,0.0011455092099528,0.0022675846775473
+Nagaland,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016034068488029,0.0010967853304433,0.0021713719735908
+Nagaland,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015304649690783,0.0010505149389007,0.002055860649091
+Nagaland,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014656966951221,0.0010197078414844,0.0019824885897521
+Nagaland,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014113376852225,0.0009729263228366,0.0019234392658669
+Nagaland,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013688530247751,0.0009551809625248,0.0018518596242567
+Nagaland,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013347613869694,0.0009429909690759,0.0018149609143025
+Nagaland,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013033609491215,0.0009209352607232,0.00177855328379
+Nagaland,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012692429817279,0.0008871532001886,0.0017307618600911
+Nagaland,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012274354565669,0.0008471191979247,0.0016753581108234
+Nagaland,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011748020030348,0.0008093836467573,0.0015965441490661
+Nagaland,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011141564293149,0.000775918972699,0.0015069985113133
+Nagaland,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010495614007221,0.0007226492128078,0.0014197069997135
+Nagaland,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009861439327834,0.0006775086393673,0.0013491164264035
+Nagaland,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009295386812775,0.0006291350740347,0.0012741535947261
+Nagaland,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008784842456862,0.0006017781533326,0.0012020034874673
+Nagaland,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008296194355306,0.0005759527371199,0.001119053772872
+Nagaland,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007855803225759,0.0005544427448598,0.0010609634260602
+Nagaland,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007495064636662,0.0005279698719873,0.0010284247433489
+Nagaland,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007225783122868,0.0004851848324549,0.0009927867294092
+Nagaland,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006593566402202,0.00043992709932,0.0009109247791999
+Odisha,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022013307541923,0.001446015098705,0.0031061015884756
+Odisha,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022901665075312,0.0015804909356507,0.0031280303261832
+Odisha,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023528102332585,0.0016582453272626,0.0031350037519895
+Odisha,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023929105274745,0.0017389626018689,0.0031496858507547
+Odisha,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0024145071345654,0.0017655106742171,0.0031508795140178
+Odisha,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0024216518328804,0.0017699256827277,0.0031811784233776
+Odisha,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023950079617776,0.0017493718801866,0.0030938933119917
+Odisha,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023262546503521,0.0017146409573721,0.0030000910804267
+Odisha,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022336926963701,0.0016618103674325,0.0028705611732925
+Odisha,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0021363809942977,0.0015941229490163,0.0027485765866906
+Odisha,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020534394626799,0.0015312945812959,0.0026458791107431
+Odisha,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019816832094956,0.0014885929639021,0.0025169646401681
+Odisha,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019068654900786,0.0014385656647519,0.0023915180590625
+Odisha,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018323955698194,0.0013814913086341,0.0022874040648199
+Odisha,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017614701563983,0.0013275280419837,0.0021905897036177
+Odisha,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016972797007934,0.0012758330266418,0.0021283194086557
+Odisha,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001642250285626,0.0012308094667304,0.0020607081385726
+Odisha,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015938620028633,0.0011951529944957,0.0019944297147765
+Odisha,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015468003591388,0.0011477929689019,0.00194829712433
+Odisha,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014961213477479,0.0011009635832763,0.0019085126678338
+Odisha,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014375841602433,0.0010404729749983,0.0018669448941964
+Odisha,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013576943799755,0.0009909021154453,0.0017655565914432
+Odisha,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012576641174948,0.0009309072774557,0.0016263339014844
+Odisha,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011556694141993,0.0008509124939504,0.0014821462755849
+Odisha,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010710494783622,0.0007926136148364,0.0013537511619412
+Odisha,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010241288317655,0.0007408095271795,0.0013092140978391
+Odisha,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010048015811066,0.0007352310648984,0.0012968078175357
+Odisha,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009901353615725,0.0007154263788739,0.0012788780984401
+Odisha,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000981132339948,0.0007011845235148,0.0012720190290838
+Odisha,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009786983777592,0.0006878216372582,0.0012954142806204
+Odisha,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009885154575465,0.0007051566352402,0.0012973791536121
+Odisha,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009327204565571,0.0006466978745489,0.0012213409883142
+Punjab,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011919050685181,0.000799086831975,0.0016885111711567
+Punjab,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012015282643243,0.000829184546585,0.0016699525543043
+Punjab,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012054842271594,0.0008625395549496,0.0016429518983068
+Punjab,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001204852095573,0.0008739840067997,0.0016217752382199
+Punjab,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012008833955611,0.0008784774493418,0.0015867484479301
+Punjab,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011946076497381,0.0008813566807645,0.0015639228853744
+Punjab,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011750904363575,0.0008670058733956,0.0015146346067565
+Punjab,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011372693664768,0.0008350508017432,0.0014675816623666
+Punjab,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010907642161191,0.0008040708430695,0.0014180342566492
+Punjab,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010451761116652,0.0007692910081489,0.0013643868825433
+Punjab,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010098400702756,0.0007294369780574,0.0013189927049828
+Punjab,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009820812678905,0.0007169274084338,0.0012993656495551
+Punjab,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009537606221089,0.0007031614069866,0.0012490584384729
+Punjab,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009267007857038,0.0006860669900648,0.0011969424834793
+Punjab,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009034326120887,0.0006762801962441,0.0011618938566228
+Punjab,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008862309561264,0.0006694079925448,0.0011434860659428
+Punjab,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008752873376481,0.0006655825163971,0.0011149191458168
+Punjab,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000867737767042,0.0006562530476865,0.00110551517187
+Punjab,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008605332828818,0.0006478762361084,0.0011015377223016
+Punjab,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000851129570104,0.000625011658587,0.001096703998833
+Punjab,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008374239022241,0.0006111414175687,0.0010900683753337
+Punjab,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008022702305805,0.000585294735281,0.0010447777430562
+Punjab,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007407349010611,0.0005462117273919,0.0009516613627065
+Punjab,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006691925637654,0.0004970109811543,0.0008560071738476
+Punjab,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006054964985047,0.0004486672008588,0.0007767568066255
+Punjab,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005679277208078,0.000417608410846,0.0007330471901489
+Punjab,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005503934372358,0.0003981863210147,0.0007061851368155
+Punjab,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005358153880664,0.0003806320647521,0.0006892373543287
+Punjab,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000525872773645,0.0003652455273156,0.000687426803203
+Punjab,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005222265240815,0.0003587129158456,0.0006919507575024
+Punjab,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005268083747195,0.0003657188496218,0.000700905857976
+Punjab,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004922016304692,0.0003378476804486,0.0006488281326014
+Rajasthan,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0027903997662691,0.0020139609403607,0.0035339346400081
+Rajasthan,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0026852687013445,0.0019586581869458,0.003364982892254
+Rajasthan,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0025812331531021,0.0018896405149739,0.0032441966980005
+Rajasthan,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0024816320332405,0.0018340559410026,0.0031221012202186
+Rajasthan,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023904461275325,0.0017927397315644,0.0030524302985237
+Rajasthan,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023118524975432,0.0017345471069735,0.0029906579426842
+Rajasthan,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022415106959259,0.001691693332443,0.0028923430448166
+Rajasthan,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0021723011171724,0.0016329634084647,0.002804524193572
+Rajasthan,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0021028854371875,0.0015789533010608,0.0027098154028257
+Rajasthan,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020319531648426,0.0015102307717374,0.0026310384284038
+Rajasthan,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019580711075384,0.0014631727614347,0.0025492964300471
+Rajasthan,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018635959004065,0.0013952321486172,0.0023988715919038
+Rajasthan,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017469821127345,0.0013268312268675,0.0022172954815515
+Rajasthan,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001631379949829,0.0012413229852039,0.0020770869209625
+Rajasthan,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015408376032383,0.001185283600074,0.0019506171649663
+Rajasthan,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014994288426705,0.0011427596019666,0.0018919497493714
+Rajasthan,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014963840506004,0.0011572252095789,0.0018660711323533
+Rajasthan,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015016231605105,0.0011620995238877,0.0018687921272356
+Rajasthan,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015093331352558,0.0011625470573534,0.0018825896553989
+Rajasthan,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015143976156896,0.0011465489068133,0.0019099325051876
+Rajasthan,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015124695338673,0.0011328648684505,0.0019267668466753
+Rajasthan,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014624563001201,0.001107528681534,0.0018505833112384
+Rajasthan,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001352556435239,0.0010366652825774,0.0017078829887873
+Rajasthan,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012212593195572,0.0009271033417316,0.0015528977623323
+Rajasthan,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011088177382955,0.0008283033905096,0.0014299592567164
+Rajasthan,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001058613658392,0.000768128862755,0.0013809706878111
+Rajasthan,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010753734550327,0.000776669704506,0.0014064528586349
+Rajasthan,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011171093993643,0.0007980828337525,0.0014695404902334
+Rajasthan,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011590766637892,0.0008261236587122,0.0015405683258971
+Rajasthan,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011781460673182,0.0008223596856077,0.0015784493251344
+Rajasthan,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011722929622916,0.0008063265471767,0.0015583112967718
+Rajasthan,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010679329213431,0.0007226170143655,0.0014514948928571
+Sikkim,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016522091690519,0.0010569833435785,0.002448138682104
+Sikkim,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001684630028031,0.0011223608352982,0.0024164458224031
+Sikkim,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017029309588659,0.0011666991181437,0.0023789548920993
+Sikkim,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017101641819843,0.0011992921527083,0.0023296430068788
+Sikkim,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017108234044441,0.0012278133758834,0.0023137104717863
+Sikkim,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017082102210168,0.0012264701271665,0.0022781829435263
+Sikkim,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016848726359762,0.0012037527223245,0.002204874812557
+Sikkim,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016312554158285,0.0011601583810544,0.0021205130097872
+Sikkim,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015604616469976,0.0011160726871223,0.0020289917406816
+Sikkim,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014871899233561,0.0010786101393035,0.0019377192571344
+Sikkim,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001425216391772,0.0010307316230012,0.0018573735900285
+Sikkim,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013702548081904,0.0009979437994327,0.0017614980585619
+Sikkim,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013127165389296,0.0009727568231125,0.0016833679310503
+Sikkim,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012586645246811,0.0009427600521939,0.0016230296092824
+Sikkim,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012140051364745,0.0009071252564266,0.0015760703772669
+Sikkim,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011851817354884,0.0008647763709973,0.0015466960417287
+Sikkim,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011701932146553,0.0008538749540633,0.001532694832581
+Sikkim,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011607689539163,0.0008336820139951,0.0015285949030105
+Sikkim,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011530584185498,0.0008242780499312,0.00151399417044
+Sikkim,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011435917620085,0.0008176392122058,0.001510391473673
+Sikkim,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011286443577402,0.0007981369783934,0.001511704743081
+Sikkim,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010975010585683,0.0007675215484179,0.001445005949593
+Sikkim,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010478186506663,0.0007393550262232,0.0013589533153372
+Sikkim,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009888752792614,0.0006945676562628,0.0012901369277195
+Sikkim,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009312113046119,0.0006502841762084,0.0012191469877749
+Sikkim,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008861658109789,0.0006119278273432,0.0011761827808591
+Sikkim,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008507197867019,0.0005907103291,0.0011133220424009
+Sikkim,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000817692004875,0.0005660283522346,0.0010615721216802
+Sikkim,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007919026092789,0.0005455734393761,0.0010215909545166
+Sikkim,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007785021409975,0.0005231044674781,0.0010356884805591
+Sikkim,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007746852319119,0.0005175611720844,0.0010313026833822
+Sikkim,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007172140012737,0.0004830294453559,0.000969981740645
+Tamil Nadu,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017692828978904,0.0011012707285414,0.0026872431640402
+Tamil Nadu,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018190017560568,0.001224576579172,0.0026255989970661
+Tamil Nadu,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018496486901986,0.0012857465376277,0.0026104923229323
+Tamil Nadu,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018643459943161,0.0013263169318619,0.0025470316205551
+Tamil Nadu,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018666661272649,0.0013417601364126,0.0024700603859044
+Tamil Nadu,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018608822283233,0.0013581882975419,0.0024330950465528
+Tamil Nadu,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018216445405221,0.0013252625198592,0.0023317451246038
+Tamil Nadu,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017363645657597,0.0012710528535474,0.0021931123937169
+Tamil Nadu,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001626122001077,0.0011901667613642,0.0020518760715844
+Tamil Nadu,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015119844974982,0.0011160909384101,0.0019197657553461
+Tamil Nadu,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014160476560085,0.0010480977444517,0.00181416482693
+Tamil Nadu,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013355423242996,0.0010002092827425,0.0016892662072994
+Tamil Nadu,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001255562321149,0.0009558538717948,0.0015661376787405
+Tamil Nadu,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001180608693836,0.0008913916585156,0.001476505949018
+Tamil Nadu,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011148271695926,0.0008451793287823,0.0013982278714836
+Tamil Nadu,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010625680659841,0.0008039369005927,0.0013454570617123
+Tamil Nadu,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010245112973446,0.0007809490431635,0.0012839237612874
+Tamil Nadu,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009948333996483,0.0007540315666968,0.001250314828431
+Tamil Nadu,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009680570070285,0.0007387565893991,0.0012177589619894
+Tamil Nadu,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009390011175937,0.000715097483652,0.0011805323556091
+Tamil Nadu,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009028300949333,0.0006732319043312,0.0011464043673776
+Tamil Nadu,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008453167086479,0.0006368552730791,0.0010662421740571
+Tamil Nadu,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007674760677365,0.0005790498619973,0.0009707316067126
+Tamil Nadu,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006875702963978,0.0005205046500404,0.0008773803845589
+Tamil Nadu,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006249213397383,0.0004674004906957,0.0007945827451146
+Tamil Nadu,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005994322593804,0.0004390455658027,0.0007656450088849
+Tamil Nadu,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006025024441941,0.0004352009485169,0.0007828816230537
+Tamil Nadu,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.00061007554806,0.0004362679102032,0.0008014271193013
+Tamil Nadu,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006189587748003,0.0004420930176824,0.0008050715233056
+Tamil Nadu,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000625835885267,0.0004374766141635,0.0008339360838762
+Tamil Nadu,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006283012844933,0.0004311745797284,0.0008448190677134
+Tamil Nadu,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005958217499236,0.0004147329927541,0.0008109344132665
+Telangana,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015010490989948,0.0009706930217027,0.0021378375931777
+Telangana,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015266875372362,0.0010387679046303,0.0021178168259127
+Telangana,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015413672658432,0.0010800425898491,0.0020941066074908
+Telangana,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015479178979103,0.0011014654385601,0.0020650215973136
+Telangana,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015490851109852,0.0011207695977727,0.0020513601914897
+Telangana,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015475784515151,0.0011320961712176,0.0020215219067062
+Telangana,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015238760499817,0.0011149962474341,0.001948227429376
+Telangana,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014674339348384,0.0010782659219841,0.0018667086045233
+Telangana,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013941113140409,0.0010218274131315,0.0017659144010079
+Telangana,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013200833641012,0.0009669139684997,0.0016900799066487
+Telangana,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012607297640344,0.0009089724124139,0.001637575235376
+Telangana,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001213217980977,0.000882804919128,0.0015626618989238
+Telangana,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011656739929099,0.0008567157755929,0.0014891832294214
+Telangana,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001119844735889,0.000832562982355,0.001429649253516
+Telangana,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010774279829496,0.000806279716826,0.001375725523884
+Telangana,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010409723207981,0.0007702821474419,0.001326655037809
+Telangana,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010129998790218,0.0007538286083884,0.0012981016458945
+Telangana,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009915376911929,0.0007380090811684,0.0012514994052566
+Telangana,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009717212946376,0.0007179307701473,0.0012282138697711
+Telangana,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009482763833811,0.000697888996559,0.0012094301426464
+Telangana,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009165576130786,0.0006692900932706,0.0012018049627768
+Telangana,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008626309504419,0.0006408148359991,0.0011098658871377
+Telangana,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007861392093322,0.0005865300065339,0.0009994689588217
+Telangana,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007036125945175,0.0005197341394344,0.0008931083173828
+Telangana,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006324951774283,0.0004656347246317,0.000806569943743
+Telangana,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005907580022386,0.0004320541408411,0.0007655672987581
+Telangana,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005712810623122,0.0004134910214878,0.0007409643469067
+Telangana,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005558895888764,0.0003945854814311,0.0007242615146696
+Telangana,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005457661933481,0.0003834695210356,0.000722979795924
+Telangana,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005419582863935,0.0003777370165326,0.0007348494770915
+Telangana,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005428883012248,0.0003831522911476,0.0007398489022632
+Telangana,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005038496276361,0.0003502503513944,0.000674559829934
+Tripura,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020870775087316,0.0015807276338163,0.0026236507060374
+Tripura,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020049862924148,0.001501636156859,0.0025024341812749
+Tripura,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019218386814042,0.0014309409724519,0.0024184196831291
+Tripura,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018374135834586,0.0013375716531127,0.0023225836774904
+Tripura,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017519129896482,0.0012626279671517,0.0022479745392045
+Tripura,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016660110002706,0.001188316292591,0.002207068345642
+Tripura,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015737918991645,0.0011197518695867,0.0020833385358197
+Tripura,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014741458993317,0.0010442978678126,0.0019567402196678
+Tripura,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013740568190801,0.0009686764776097,0.0018248117106852
+Tripura,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012807690778775,0.0008985930430291,0.0017183108603011
+Tripura,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012014364643135,0.0008413892305412,0.0016208700659198
+Tripura,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011344464829831,0.0007920317387637,0.0015348098453039
+Tripura,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.00107280671321,0.0007472893452957,0.0014387270014082
+Tripura,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010155111805196,0.0007150074639618,0.001369518213308
+Tripura,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000961926260238,0.0006774245115646,0.0013050987221272
+Tripura,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009116933029002,0.0006386176991872,0.0012452418515103
+Tripura,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008659752406712,0.000609777912761,0.0011626415802548
+Tripura,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008248270423661,0.0005764349002316,0.0010834687919447
+Tripura,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007857144888417,0.0005519938528224,0.0010449660997505
+Tripura,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007464259549766,0.000518872695176,0.0010022206057474
+Tripura,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007050358605749,0.000483331457264,0.0009587352233593
+Tripura,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006604168735791,0.0004556506513121,0.0008972357187357
+Tripura,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006139896254463,0.0004299070519013,0.0008234255214706
+Tripura,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005677180795715,0.0004018611123783,0.000767474436311
+Tripura,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005237920716402,0.0003684588274977,0.0007201215479567
+Tripura,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000485665057706,0.0003438956978077,0.0006811834192436
+Tripura,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004514644113045,0.0003233376402142,0.0006219340598922
+Tripura,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004193821269612,0.0003021270890104,0.0005689220167665
+Tripura,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0003920220988592,0.0002832153930102,0.0005322783389067
+Tripura,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0003718795871462,0.0002647733170884,0.0005031177622468
+Tripura,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0003594128125294,0.0002440418766108,0.0004832455406148
+Tripura,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000335051660956,0.0002274019292159,0.0004595071334394
+Uttar Pradesh,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023157107834693,0.001291421031877,0.0039294771244495
+Uttar Pradesh,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022722458864573,0.0013480745651709,0.0036184656305062
+Uttar Pradesh,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022252175175421,0.0013816509777554,0.0033465682078833
+Uttar Pradesh,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0021770451135183,0.0014233385700435,0.003158026126306
+Uttar Pradesh,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0021301092522391,0.0014283171063937,0.0030404646339769
+Uttar Pradesh,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020862350070722,0.0014313180975482,0.0029081465043437
+Uttar Pradesh,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020340722229774,0.0014147678813729,0.002840071962969
+Uttar Pradesh,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019673406729107,0.0013640400379554,0.0027442236795846
+Uttar Pradesh,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018939574207548,0.0013121105405155,0.0026377996238306
+Uttar Pradesh,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001821929943583,0.0012339507283451,0.0025500865617038
+Uttar Pradesh,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017584451144609,0.0011904041509651,0.002465663757177
+Uttar Pradesh,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016978175526715,0.0011712822778995,0.0023466731731802
+Uttar Pradesh,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016331940876866,0.0011609123155981,0.0022447177413633
+Uttar Pradesh,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015710140409048,0.0011555594016649,0.0021322237403711
+Uttar Pradesh,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015186199815395,0.001133633968308,0.0020271596237387
+Uttar Pradesh,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014833619662417,0.001109083561782,0.0020146395810779
+Uttar Pradesh,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014645072500109,0.0010899835061833,0.0019748744233548
+Uttar Pradesh,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014535096633176,0.0010695643792107,0.0019581494801654
+Uttar Pradesh,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014447138931103,0.0010411420867085,0.0019613176198244
+Uttar Pradesh,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001432935926839,0.0010132081032572,0.0019668979340789
+Uttar Pradesh,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014130594341661,0.0009780490164147,0.0019670219729123
+Uttar Pradesh,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013562189848302,0.0009480806144165,0.0018575101521764
+Uttar Pradesh,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001257161873675,0.0008807748787543,0.0017164759598494
+Uttar Pradesh,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011462820231565,0.0008057958187582,0.0015558349052324
+Uttar Pradesh,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010546982335202,0.0007364238509639,0.0014085374689982
+Uttar Pradesh,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010140423799851,0.0006904146618889,0.0013639264460243
+Uttar Pradesh,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010152978152596,0.0006766033672574,0.0013507711641099
+Uttar Pradesh,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010244024244793,0.0006822295050795,0.001379587871622
+Uttar Pradesh,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010354301389017,0.0006754230004645,0.0014296555435967
+Uttar Pradesh,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010417137071193,0.0006675419235418,0.0014782916254837
+Uttar Pradesh,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010355515254864,0.0006887278966817,0.0014664991562721
+Uttar Pradesh,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.00095044225811,0.0006211224636489,0.0013368093080916
+Uttarakhand,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0037058966845188,0.0027587410395823,0.0045924511344399
+Uttarakhand,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0035707884832641,0.0026837006768339,0.004391225067392
+Uttarakhand,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0034350401784389,0.0025844195564372,0.004243884878839
+Uttarakhand,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0032999415905929,0.0024782540555226,0.0041076188149469
+Uttarakhand,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0031665898215856,0.0023624928281944,0.0040036181146512
+Uttarakhand,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0030361122951942,0.0022225786469719,0.0039035590518279
+Uttarakhand,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0029026191605848,0.0021161789775987,0.0037540728741113
+Uttarakhand,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0027640594309238,0.0020092536885764,0.0035949181061853
+Uttarakhand,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.002626051624332,0.00189841723716,0.0034471426236194
+Uttarakhand,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0024954802729248,0.0017955873895022,0.0033162847330908
+Uttarakhand,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0023800865441934,0.0016872212823662,0.0031960174846886
+Uttarakhand,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0022801137443843,0.0016054284157982,0.0030504763290762
+Uttarakhand,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0021872640219765,0.0015390583552903,0.0029233254211447
+Uttarakhand,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020983180411171,0.0014672383726721,0.0027860108160471
+Uttarakhand,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0020131160633943,0.0014178549201941,0.0026635610546465
+Uttarakhand,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0019323607929777,0.0013537120595533,0.0026211320986636
+Uttarakhand,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0018603514788463,0.0012927486775704,0.002488090521001
+Uttarakhand,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001796904838791,0.0012508087877119,0.0024173920651639
+Uttarakhand,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017337910494951,0.0012079012421138,0.0023515010938346
+Uttarakhand,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016639399516048,0.0011536303326648,0.0022416429230451
+Uttarakhand,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0015820214259382,0.0010923308783604,0.0021203721560725
+Uttarakhand,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014787127412983,0.0010291170895481,0.001997386259294
+Uttarakhand,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013559391291797,0.0009528330425052,0.001800513024985
+Uttarakhand,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012254179590024,0.000866020065059,0.0016261796416454
+Uttarakhand,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011005119783224,0.0007772102863104,0.0014598908946501
+Uttarakhand,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009950640880941,0.0006994679583946,0.0013187589171487
+Uttarakhand,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009037716341441,0.0006442631933718,0.0011981762060148
+Uttarakhand,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008180395619607,0.0005848413331581,0.0010954556505239
+Uttarakhand,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007461463772758,0.000526448814759,0.0010007413893447
+Uttarakhand,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006967319847911,0.0004778574247261,0.000959894409312
+Uttarakhand,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006706583649921,0.000464422343559,0.0009140623614129
+Uttarakhand,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006074255854205,0.0004061693497705,0.0008450827424897
+West Bengal,1990,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016116990795362,0.0010999714105599,0.0022295792909372
+West Bengal,1991,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016587798816087,0.0011553216242372,0.0022361862135031
+West Bengal,1992,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016900610996192,0.0011944853050861,0.002248298906246
+West Bengal,1993,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017082593934384,0.0012279765890255,0.002263026887452
+West Bengal,1994,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017164280660595,0.0012533555965911,0.0022663410167635
+West Bengal,1995,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0017180465655621,0.0012443209716009,0.0022779729090711
+West Bengal,1996,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001693989540578,0.0012365769529064,0.0022288976855912
+West Bengal,1997,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0016336570907228,0.0011864192751042,0.0021256380827821
+West Bengal,1998,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001551999661326,0.0011200988871982,0.0020260930530889
+West Bengal,1999,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0014643025447381,0.0010386712073563,0.0019298930029432
+West Bengal,2000,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013868072578886,0.0009740830072796,0.0018259913783731
+West Bengal,2001,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0013173348986482,0.0009419012802286,0.001708178110442
+West Bengal,2002,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0012456474416177,0.0009023158448855,0.0015952432734796
+West Bengal,2003,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011758639425777,0.0008663205324228,0.001494008243273
+West Bengal,2004,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0011116621634575,0.000815981535327,0.0014224818691037
+West Bengal,2005,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.001057110787551,0.0007808860843974,0.0013513064556692
+West Bengal,2006,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0010132544425762,0.0007477823398419,0.0013065218970528
+West Bengal,2007,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009756165803986,0.0007144959431585,0.0012571095392467
+West Bengal,2008,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009395526293817,0.0006829422718509,0.0012137298955659
+West Bengal,2009,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0009009523750818,0.0006525328142364,0.0011740164059633
+West Bengal,2010,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0008562982254894,0.0006081527069918,0.0011421760807524
+West Bengal,2011,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0007966295368457,0.0005691792669297,0.0010530956203236
+West Bengal,2012,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.000723951799383,0.0005338030087919,0.0009506952704822
+West Bengal,2013,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0006513297966742,0.0004809491080693,0.0008490554374539
+West Bengal,2014,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005922784629911,0.0004432057725853,0.0007681374591562
+West Bengal,2015,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005606896387127,0.000417003536698,0.0007316348004815
+West Bengal,2016,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005491344623466,0.0004046723911862,0.0007174772544609
+West Bengal,2017,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005406312652134,0.0003909385158007,0.0007192586579676
+West Bengal,2018,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005347974224237,0.0003800672196733,0.0007218841268265
+West Bengal,2019,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005315420077878,0.000367481479842,0.0007149711616853
+West Bengal,2020,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0005298421636913,0.0003716499417751,0.0007094592482828
+West Bengal,2021,<5 years,Male,Drug-susceptible tuberculosis,Percent of total prevalent cases,0.0004885562426901,0.0003443231670611,0.0006541398635659
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2021. Seattle, WA: IHME, University of Washington, 2023. Available from http://vizhub.healthdata.org/gbd-compare. (Accessed 7/24/2024)."
+"For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"

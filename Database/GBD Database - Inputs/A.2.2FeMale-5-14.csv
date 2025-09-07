@@ -1,0 +1,964 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+Andhra Pradesh,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013027431664183,0.0010307895985831,0.0016427353361587
+Andhra Pradesh,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012786925455307,0.0010172699926486,0.0016015628241112
+Andhra Pradesh,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012540675089944,0.0010006231079508,0.0015581058717399
+Andhra Pradesh,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012294035679098,0.0009841624384401,0.0015216751199357
+Andhra Pradesh,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012052881303488,0.000974529437245,0.0014992713920485
+Andhra Pradesh,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011824262219059,0.0009457188252832,0.0014698962898706
+Andhra Pradesh,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011608887198186,0.0009356417340015,0.0014559300215609
+Andhra Pradesh,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011398001122072,0.0009316594151868,0.0014235035683394
+Andhra Pradesh,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011187016884074,0.0009097324879339,0.0013898577007155
+Andhra Pradesh,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010970159723934,0.0008817230091155,0.0013716707050989
+Andhra Pradesh,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010742015525355,0.0008492731624652,0.0013504080728104
+Andhra Pradesh,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010455579073653,0.0008257583467685,0.0013197220540177
+Andhra Pradesh,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010094602951745,0.000799542477009,0.0012743060050569
+Andhra Pradesh,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009693328717849,0.0007676058190544,0.0012213509735471
+Andhra Pradesh,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009290132261609,0.0007315158043751,0.001165450056821
+Andhra Pradesh,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000892657259654,0.0006983196672425,0.0011206271344691
+Andhra Pradesh,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008593343776061,0.0006716549694803,0.0010737930921537
+Andhra Pradesh,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008260845924304,0.0006469083981201,0.0010378090751045
+Andhra Pradesh,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007942570898966,0.0006189061340794,0.0009971647870967
+Andhra Pradesh,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007648168363412,0.0005942800605242,0.0009550079046585
+Andhra Pradesh,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007384076799998,0.0005743224903314,0.0009232634203015
+Andhra Pradesh,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007120153803732,0.0005526905898831,0.0008895124370293
+Andhra Pradesh,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0006846692843016,0.000535262751503,0.0008520015027025
+Andhra Pradesh,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0006596874812066,0.0005170253107556,0.0008139631416084
+Andhra Pradesh,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0006404631477383,0.0005040909641303,0.0007844887728956
+Andhra Pradesh,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0006303667723744,0.0005001983333002,0.0007691051451566
+Andhra Pradesh,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0006277535466586,0.0005012985234742,0.0007739926588312
+Andhra Pradesh,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000627711159958,0.0005049699883925,0.0007769257164948
+Andhra Pradesh,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.00062865975012,0.0005052952752988,0.0007842109459612
+Andhra Pradesh,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0006288346680035,0.0005048746850601,0.0007910721755748
+Andhra Pradesh,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0005988028480346,0.0004707005697345,0.0007370658553166
+Andhra Pradesh,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0006017535240435,0.0004787078100831,0.0007445458219509
+Arunachal Pradesh,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0020340986057315,0.0016298141865332,0.0025024257139457
+Arunachal Pradesh,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019791232849667,0.0015831676459587,0.0024318690651404
+Arunachal Pradesh,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019227542704093,0.0015379563679166,0.0023609699222549
+Arunachal Pradesh,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018661698667276,0.0014873906382678,0.0022981594880687
+Arunachal Pradesh,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018104579890372,0.0014361474395079,0.0022555178688084
+Arunachal Pradesh,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017570014880063,0.0013934657143978,0.002187331917158
+Arunachal Pradesh,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017057567880355,0.0013663201600072,0.0021425472182835
+Arunachal Pradesh,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016556459617547,0.0013267412823821,0.0020688340684485
+Arunachal Pradesh,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016058602072947,0.0012839675630263,0.0020131512905219
+Arunachal Pradesh,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015556446766678,0.00123533275802,0.0019555246466974
+Arunachal Pradesh,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015043746758155,0.0011873525195381,0.0018948538248141
+Arunachal Pradesh,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014463880435562,0.001146352466663,0.0017882260506326
+Arunachal Pradesh,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013811137475298,0.0011086075507066,0.0017059861823068
+Arunachal Pradesh,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013156600661598,0.001061831398802,0.0016299231933935
+Arunachal Pradesh,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012571150388555,0.0010146187277251,0.0015534593844542
+Arunachal Pradesh,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012127505807444,0.0009739792001591,0.0014949217542522
+Arunachal Pradesh,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011823631816326,0.0009486908668813,0.0014594537953986
+Arunachal Pradesh,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011584740425283,0.0009302696908782,0.0014260705823653
+Arunachal Pradesh,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011375838934783,0.0009130707329353,0.0014070409301157
+Arunachal Pradesh,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011160177992788,0.0009001011459089,0.0013777954707428
+Arunachal Pradesh,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010896612533826,0.0008794292789263,0.0013436432618389
+Arunachal Pradesh,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010502879008876,0.000852066248806,0.0012939372658846
+Arunachal Pradesh,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009988986242651,0.0008058682961507,0.0012295211161406
+Arunachal Pradesh,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009455864071946,0.0007559674672658,0.0011685244344304
+Arunachal Pradesh,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009004881220707,0.0007129677905642,0.0011122192069438
+Arunachal Pradesh,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008739107452167,0.0006878462753897,0.0010778400681421
+Arunachal Pradesh,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008623483579787,0.0006884076458388,0.0010613724454882
+Arunachal Pradesh,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008546515600526,0.0006857683743921,0.0010486227422706
+Arunachal Pradesh,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008493462617785,0.0006844958913249,0.0010447246120649
+Arunachal Pradesh,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008448611487715,0.0006754791344953,0.0010447728584405
+Arunachal Pradesh,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008136649115478,0.0006456748011973,0.0010029196370124
+Arunachal Pradesh,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008194663696723,0.0006614526267854,0.0010123161128247
+Assam,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016844016859906,0.0013456339047482,0.0020663327903526
+Assam,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016964651334457,0.0013709840450308,0.0020737796570362
+Assam,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017063150529733,0.0013858200834118,0.0020795609216819
+Assam,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017135614779404,0.0013989026614684,0.0020924091862171
+Assam,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017181400512462,0.0013988574515951,0.0020856937584778
+Assam,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017203858791948,0.0013899735451994,0.0021009113267269
+Assam,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017224863355133,0.0013985088427469,0.0021086145199137
+Assam,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017255757472272,0.0014026644162625,0.0021213772725782
+Assam,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017284960186222,0.0014090972130137,0.0021247319327089
+Assam,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017298364172223,0.0014014287722476,0.0021376632285761
+Assam,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017280312364433,0.0013942160203853,0.0021625689432246
+Assam,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017170335720569,0.0013967589482379,0.00213923531538
+Assam,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016941022148733,0.0013853810236707,0.0020910893968498
+Assam,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016624207383924,0.0013578012905008,0.0020265993970746
+Assam,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016253309810564,0.0013230436512491,0.0019936643635289
+Assam,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015862724264884,0.0012746156311227,0.0019751515817467
+Assam,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015381273190639,0.0012459039613644,0.0019116960806189
+Assam,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014763688932972,0.0012028800009979,0.0018199383907915
+Assam,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014081257834431,0.0011428761136859,0.0017307584811281
+Assam,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013403132706403,0.0010853001560566,0.0016569090182592
+Assam,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012797712257624,0.0010260849192824,0.0015955510317885
+Assam,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012215158851885,0.0009824430721167,0.0014968515309994
+Assam,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001160418093028,0.0009300802458211,0.0014151289303868
+Assam,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011034735950506,0.0008865592060222,0.0013496758856455
+Assam,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010576225747207,0.0008455211524505,0.0013023776598838
+Assam,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010296657407828,0.000814515087048,0.001276969252987
+Assam,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010163298902919,0.0008106462310043,0.0012403571493357
+Assam,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010072263074203,0.000808366059842,0.0012148991930266
+Assam,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009981961590819,0.0008048908033956,0.0012006328757103
+Assam,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009850023131362,0.0007935426944996,0.0011965077835766
+Assam,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009446306887228,0.0007588124142757,0.001176683930042
+Assam,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000948367130148,0.0007648483672342,0.0011546310779145
+Bihar,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0021350330046316,0.001721783004912,0.002671264988757
+Bihar,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0020845964201315,0.0016838219528139,0.0025859696235951
+Bihar,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0020325197804575,0.0016442156744583,0.0024859079416574
+Bihar,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019818188132214,0.0016138091469211,0.002402906915323
+Bihar,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019354883831141,0.0015803254119568,0.0023626063305825
+Bihar,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018964183074343,0.0015371553520485,0.0023242002917855
+Bihar,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001863258204446,0.0015270891237325,0.0022762526798536
+Bihar,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.00183258878681,0.0015034207715561,0.0022483249842438
+Bihar,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018038702798376,0.0014742555950348,0.0022159314511569
+Bihar,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017760623054825,0.0014417010945095,0.0022071611325755
+Bihar,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017474346263913,0.0014059242451446,0.0021956909748937
+Bihar,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001709856406952,0.0013819806933436,0.0021355836908325
+Bihar,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016601569595363,0.0013389490378068,0.0020741681076474
+Bihar,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016035926526234,0.0012910730240409,0.0019887718803573
+Bihar,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001546329500882,0.0012398381634654,0.0019382359641625
+Bihar,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014951685496845,0.0011922431661783,0.0018996556736848
+Bihar,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014507505573118,0.0011562066692796,0.0018230378732439
+Bihar,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014083710846685,0.0011206319053759,0.001736695891779
+Bihar,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013671575571827,0.0010867812393621,0.0016813993458939
+Bihar,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001325771276275,0.0010626984989131,0.001618948849936
+Bihar,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001282583504721,0.0010233175439008,0.0015753573818503
+Bihar,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012332095622322,0.0009941172100617,0.0015014213144468
+Bihar,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011783376368732,0.0009484098488227,0.0014455721066074
+Bihar,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011238422475924,0.0009090713100604,0.0013929624578864
+Bihar,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001075686067846,0.0008730602021263,0.0013437767523023
+Bihar,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010397646012811,0.0008350658375153,0.0013014659508987
+Bihar,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010143104405949,0.0008242866712105,0.0012545637368513
+Bihar,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009932652483025,0.0008097423595128,0.0012145872835175
+Bihar,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009757480111855,0.0007967168061066,0.0011934984772743
+Bihar,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009606947576011,0.0007787395330297,0.0011838142033017
+Bihar,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009187145015672,0.0007373917773397,0.0011257379580184
+Bihar,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009188366115604,0.0007369579102029,0.0011140830711262
+Chhattisgarh,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014936751896471,0.0011927410206317,0.0018737803009825
+Chhattisgarh,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014745342684355,0.0011757934379177,0.0018479584322788
+Chhattisgarh,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001459034596705,0.0011575339355616,0.0018302518268772
+Chhattisgarh,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014472269684481,0.0011451867718,0.0018216233173104
+Chhattisgarh,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014390618007313,0.0011343631964467,0.0018086394965289
+Chhattisgarh,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014344335991603,0.00111971650683,0.001806159758036
+Chhattisgarh,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014411874714221,0.0011390255338227,0.0018069520158899
+Chhattisgarh,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014611156293535,0.0011640094789925,0.0018295278733986
+Chhattisgarh,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014849833123492,0.001191544583139,0.0018377708658581
+Chhattisgarh,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015036126607149,0.0012076731100865,0.0018554839046752
+Chhattisgarh,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015078955060041,0.0012080742969667,0.0018671026817356
+Chhattisgarh,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014930615887177,0.0012077089095625,0.0018389460984776
+Chhattisgarh,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014641445375803,0.0011819195997727,0.0018021392848177
+Chhattisgarh,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014260104588459,0.001139006081022,0.0017539911206338
+Chhattisgarh,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013838855111533,0.0011036871429541,0.0017351442978221
+Chhattisgarh,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013432817819377,0.0010728175007173,0.0016764900811749
+Chhattisgarh,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013019416062847,0.0010380782236746,0.0016257217901404
+Chhattisgarh,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012550615326417,0.0010035419438515,0.0015665669795206
+Chhattisgarh,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012046305979732,0.0009659898121006,0.001493047971078
+Chhattisgarh,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011522193573557,0.0009197384508412,0.0014230891871532
+Chhattisgarh,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010991195481032,0.000878419285517,0.0013668115687004
+Chhattisgarh,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010369228752871,0.0008344137024719,0.0012820587014334
+Chhattisgarh,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009636315658244,0.0007777931329466,0.0011839854903829
+Chhattisgarh,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000889987350073,0.000720524011028,0.0010978445393771
+Chhattisgarh,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008268892638463,0.0006688021044275,0.0010237203959732
+Chhattisgarh,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007853739135544,0.0006320122086862,0.0009751025190115
+Chhattisgarh,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007622335127233,0.0006154604566992,0.0009336121995427
+Chhattisgarh,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007447448434628,0.0006110991438672,0.0008984684943569
+Chhattisgarh,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007295708044374,0.0005948304736013,0.0008663193485601
+Chhattisgarh,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007133646027713,0.0005765466515451,0.0008520789748902
+Chhattisgarh,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0006723419618295,0.0005412605539633,0.0008131766413551
+Chhattisgarh,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0006843087411666,0.0005506910942222,0.0008461190109927
+Delhi,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019314735052817,0.0015497821709268,0.0023683822624658
+Delhi,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018909616090833,0.0015215114376106,0.0023123886998091
+Delhi,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001848961760269,0.0014983704102992,0.0022548630960043
+Delhi,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018071341767163,0.0014644959399835,0.0021930301196915
+Delhi,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017671144165556,0.001428421175027,0.0021711007977479
+Delhi,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017305423890103,0.0013880363755806,0.0021320645593256
+Delhi,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016962193193888,0.0013669065531655,0.0020822460504877
+Delhi,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016617816767016,0.0013443762461484,0.0020531283801315
+Delhi,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016271146644688,0.0013098507313626,0.0020141743436032
+Delhi,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015917893884298,0.0012751333998398,0.0019828536748266
+Delhi,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015552467379102,0.0012458573174879,0.0019537962896832
+Delhi,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015115797380418,0.0012151135507339,0.0018908705453544
+Delhi,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001458405253763,0.0011822626774768,0.001818671228974
+Delhi,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014004420316675,0.0011404144563899,0.0017419207770644
+Delhi,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013428260938106,0.0010893960189168,0.001667947349427
+Delhi,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012906726507876,0.0010357019381423,0.0016080897345802
+Delhi,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012438345744767,0.0009980261489035,0.0015443277004009
+Delhi,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011986986852725,0.0009687998302781,0.0014816886040504
+Delhi,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011548977717476,0.000927232314536,0.0014248334759535
+Delhi,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011118980951908,0.0008918137358003,0.0013683624976605
+Delhi,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010691298099241,0.0008502781529229,0.0013295812374923
+Delhi,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010218628003957,0.0008151790513157,0.0012725500394811
+Delhi,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009704743484985,0.0007723979846236,0.0012186367886041
+Delhi,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009219237170843,0.0007337737708604,0.0011655960613893
+Delhi,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008834842309729,0.0006995535005081,0.0011183208674826
+Delhi,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008626137597836,0.0006762283649165,0.0010878439811848
+Delhi,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008550892637898,0.0006714498469416,0.0010671592740436
+Delhi,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008505323359724,0.0006658056015858,0.0010570682489883
+Delhi,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008470864667003,0.0006672177957708,0.0010491280214614
+Delhi,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008428014535142,0.0006611779639022,0.0010479213923519
+Delhi,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007976537896741,0.0006328274625203,0.0009992302234943
+Delhi,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000803716523604,0.0006321666957109,0.0009908803438947
+Goa,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017964234328631,0.0014346083780681,0.0022020699043369
+Goa,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017257677209022,0.0013847809401391,0.0021030525808125
+Goa,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016583484817309,0.0013329906183548,0.0020071434579347
+Goa,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015959065411088,0.0012914506606553,0.0019349352934797
+Goa,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015399985977017,0.0012455893397541,0.0018660742387874
+Goa,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014921250816909,0.0011984858333924,0.0018122090246605
+Goa,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014486568249947,0.0011643283368205,0.0017658693208874
+Goa,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014055337226079,0.0011268737939149,0.0017229802044258
+Goa,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013642922011495,0.0010852702905512,0.0016727754983237
+Goa,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013263375715355,0.0010516672249475,0.0016319932670215
+Goa,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001292657215321,0.0010231704815914,0.0016023147404085
+Goa,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012604321180919,0.0009972574984777,0.0015555322563156
+Goa,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012279368753007,0.0009789933869078,0.0015159792210221
+Goa,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011977133935359,0.0009554291259959,0.0014793251483231
+Goa,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011723028503695,0.0009363515157993,0.001451665203256
+Goa,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011547072044918,0.0009222789948518,0.0014329670086345
+Goa,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011451880614239,0.0009164324840005,0.0014181057897266
+Goa,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011402023777193,0.0009119523996588,0.0014081853725774
+Goa,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011368613958743,0.0009031077775059,0.0014017592334811
+Goa,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001132078428365,0.0009020098548455,0.0014008129615737
+Goa,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011222998846299,0.0008980299282727,0.0013913649045992
+Goa,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011018466220812,0.0008770728415409,0.0013678573661963
+Goa,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010720593343962,0.0008514802901374,0.001325947181676
+Goa,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010398881065611,0.0008241951840065,0.0012865002361178
+Goa,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010122407823461,0.0008026463119798,0.0012571899203829
+Goa,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009959359795283,0.00078856467646,0.0012320158506222
+Goa,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009901008152063,0.0007935313119859,0.0012239228863041
+Goa,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009882691306066,0.0007944262985247,0.0012053859215979
+Goa,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009881022051182,0.0007953188155952,0.001207729763662
+Goa,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009870279459051,0.0007933919866368,0.0012104335715907
+Goa,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009413493084106,0.000753871962457,0.0011540996629086
+Goa,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009511934353178,0.0007487950330609,0.0011669020520931
+Gujarat,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018260161254221,0.0014946877612257,0.0022389908989046
+Gujarat,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018129051441308,0.0014925027697622,0.0021916026315503
+Gujarat,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017944999799371,0.0014715003103552,0.0021886274019741
+Gujarat,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017726918266778,0.0014588760663701,0.0021785851053187
+Gujarat,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017494213876948,0.0014422812131944,0.0021543319968957
+Gujarat,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017267497681238,0.0014120822113849,0.0021177837259495
+Gujarat,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016966730228694,0.0013861780442872,0.0020865373198868
+Gujarat,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016540530847105,0.0013506916977966,0.0020254454446581
+Gujarat,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016055400161832,0.0013216231480731,0.0019620591435348
+Gujarat,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015577310433132,0.0012744608662514,0.0019166640893527
+Gujarat,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015170552260636,0.0012307755712584,0.0018936265807076
+Gujarat,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014767702337685,0.0012134079080302,0.0018209144429946
+Gujarat,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014296241754123,0.0011808154103967,0.0017468333817857
+Gujarat,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013797012308297,0.0011363525075591,0.0016720374595227
+Gujarat,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013316748065382,0.0010976440685635,0.001603276073722
+Gujarat,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012906363971405,0.0010589554633081,0.0015572262611535
+Gujarat,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012556143691922,0.0010329712530483,0.0015151502430755
+Gujarat,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012225252627294,0.0010118739349204,0.0014688303741188
+Gujarat,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011915589408719,0.000990083525891,0.0014260711090389
+Gujarat,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011626050791324,0.0009603380700558,0.0014052310791547
+Gujarat,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011353926566819,0.0009338318624549,0.0013751271448605
+Gujarat,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011080195143473,0.0009096250629303,0.0013422909317951
+Gujarat,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010802701621411,0.0008863073697977,0.0013049523475232
+Gujarat,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001054346576515,0.0008679856457256,0.0012719003018064
+Gujarat,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010326066381353,0.0008506740632962,0.0012477171342607
+Gujarat,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.00101741291551,0.0008284003826208,0.0012285694747903
+Gujarat,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010091000534119,0.0008232520304148,0.0011984574308373
+Gujarat,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010049203566243,0.0008204217227727,0.0011941330035927
+Gujarat,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010027874870734,0.0008152834643238,0.001207055330144
+Gujarat,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010003674763851,0.0008029227020757,0.0012086747686543
+Gujarat,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009592270181091,0.0007734515721605,0.0011406486970792
+Gujarat,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009624927002401,0.0007768148989164,0.001190819086299
+Haryana,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014662575338355,0.0011745468512253,0.0017827526539929
+Haryana,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014651342500162,0.0011823552980768,0.0017722904677418
+Haryana,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014601811112605,0.001179923251174,0.0017767491396807
+Haryana,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014526726734132,0.0011809452910535,0.0017637332379671
+Haryana,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014439673329344,0.0011773691300803,0.0017711527019422
+Haryana,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014353422317848,0.0011589146277765,0.001782688972271
+Haryana,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014248106390269,0.0011641869172779,0.0017508310814854
+Haryana,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014103509733057,0.0011520741675771,0.0017377266271966
+Haryana,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013935008384674,0.0011361172266622,0.0017245819626503
+Haryana,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013755921481282,0.0011152571445781,0.0017036997224603
+Haryana,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013579351381207,0.0010922533739112,0.0016986996789421
+Haryana,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013359095320546,0.0010801841775973,0.0016651538414968
+Haryana,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013061843390327,0.001062396812492,0.001622078728777
+Haryana,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012713261270493,0.0010390628213804,0.0015787523788
+Haryana,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001234364320676,0.0010016144866557,0.0015297071385673
+Haryana,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011986939395948,0.0009662052056077,0.0014893250328726
+Haryana,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011609099338461,0.0009404235745005,0.0014380213828586
+Haryana,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011181171815859,0.0009089480391261,0.0013735545942225
+Haryana,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010745447326057,0.000876419818091,0.0013078817398826
+Haryana,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010340386842018,0.0008504133559998,0.0012519341161058
+Haryana,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010002647302647,0.0008172704336037,0.0012167054266458
+Haryana,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009705708238176,0.0007979266721523,0.0011777905087326
+Haryana,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009417018671912,0.0007726280368075,0.0011404287866781
+Haryana,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009160613088752,0.0007493618446311,0.00110664029883
+Haryana,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008961022742212,0.0007308597336365,0.0010839872773218
+Haryana,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008843448855315,0.0007186558135566,0.0010705079735493
+Haryana,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008819944908764,0.0007279850239857,0.0010653191404379
+Haryana,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008854747010467,0.0007375882502973,0.0010639090675066
+Haryana,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.00089012738192,0.0007415978907137,0.0010739270252241
+Haryana,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008912079128622,0.0007403262209515,0.0010776321890335
+Haryana,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000853092795013,0.0006935969086107,0.0010412071713932
+Haryana,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008638470506897,0.0006941438066309,0.0010567715775486
+Himachal Pradesh,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016929464111793,0.0013550044617129,0.002117492054225
+Himachal Pradesh,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016488251156044,0.0013239318074224,0.002036501554629
+Himachal Pradesh,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016013021600322,0.0012907757397115,0.0019623010633029
+Himachal Pradesh,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015516822372073,0.0012660875069954,0.0018949961174559
+Himachal Pradesh,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015013229437796,0.0012189915676564,0.0018455988103228
+Himachal Pradesh,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014512842114133,0.0011675182330568,0.0017904292523443
+Himachal Pradesh,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013995676873656,0.0011355106876353,0.0017160738207651
+Himachal Pradesh,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013450612085492,0.0010977087111553,0.001643680276556
+Himachal Pradesh,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012905143282937,0.0010520494625061,0.0015747731758734
+Himachal Pradesh,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012386944031939,0.001003587032949,0.0015160633568654
+Himachal Pradesh,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011924644407981,0.0009589189027538,0.0014723955320198
+Himachal Pradesh,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011518292208896,0.0009273068478921,0.0014086732174622
+Himachal Pradesh,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011145829700645,0.000893084328778,0.0013695681439588
+Himachal Pradesh,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001079701794202,0.0008636649102733,0.0013389858009339
+Himachal Pradesh,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010464637162839,0.0008346167174583,0.00131672409772
+Himachal Pradesh,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010143300711267,0.0008042202684875,0.001281197482346
+Himachal Pradesh,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009824975851507,0.0007805901967975,0.0012457908236216
+Himachal Pradesh,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009510721104066,0.0007597493185569,0.0011858816445194
+Himachal Pradesh,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009208906075235,0.0007415366730068,0.0011339748111816
+Himachal Pradesh,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008924276830072,0.0007209409059413,0.0010969692326809
+Himachal Pradesh,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008662164334046,0.0006988809593276,0.0010616203971046
+Himachal Pradesh,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008400228758057,0.000683495656523,0.0010343603112198
+Himachal Pradesh,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008131324283698,0.0006600532121914,0.0010036585981896
+Himachal Pradesh,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007882326341675,0.0006400647118411,0.0009776325007684
+Himachal Pradesh,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007681178510046,0.0006238528916258,0.0009537816218855
+Himachal Pradesh,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007556349880105,0.0006129561526948,0.0009382485540599
+Himachal Pradesh,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007485699082017,0.000616142821879,0.0009239877802513
+Himachal Pradesh,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007429645097699,0.0006099326262479,0.0009170408537732
+Himachal Pradesh,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007389700999093,0.0006019489181973,0.0009207859405452
+Himachal Pradesh,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007366511156888,0.0005956671430858,0.0009165010696444
+Himachal Pradesh,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007074901234951,0.0005754480949393,0.0008625837190176
+Himachal Pradesh,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007098616351618,0.0005694506037565,0.0008803456443024
+Jammu & Kashmir and Ladakh,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0022673925635611,0.0018321664945212,0.0027793228368178
+Jammu & Kashmir and Ladakh,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0022007202119559,0.0018083869714035,0.0026780569342289
+Jammu & Kashmir and Ladakh,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0021337523870142,0.0017491926169143,0.0025803116302765
+Jammu & Kashmir and Ladakh,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0020683632091285,0.0016870657650089,0.0025101740738718
+Jammu & Kashmir and Ladakh,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0020062740941599,0.0016283081043459,0.0024318046079755
+Jammu & Kashmir and Ladakh,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019488064586952,0.0015796920065202,0.0023673116617842
+Jammu & Kashmir and Ladakh,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018929730588769,0.0015380516209504,0.0022899412663842
+Jammu & Kashmir and Ladakh,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018364091840326,0.0014998626222838,0.0022144119795996
+Jammu & Kashmir and Ladakh,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017810988884252,0.0014524217125353,0.0021500957881161
+Jammu & Kashmir and Ladakh,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017290303251976,0.001418049377864,0.0020886844407899
+Jammu & Kashmir and Ladakh,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016829143961962,0.001366910074043,0.0020438979510786
+Jammu & Kashmir and Ladakh,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016408670484257,0.0013361787790253,0.0019843907971347
+Jammu & Kashmir and Ladakh,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016006261860084,0.0013063264724074,0.0019311464620863
+Jammu & Kashmir and Ladakh,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015640150436927,0.0012758128413265,0.0018899504920117
+Jammu & Kashmir and Ladakh,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015327658134768,0.0012374515758125,0.0018500116971878
+Jammu & Kashmir and Ladakh,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015087816085029,0.0012099673436234,0.0018247092469777
+Jammu & Kashmir and Ladakh,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014923851768384,0.0012093360783419,0.0017976821123378
+Jammu & Kashmir and Ladakh,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014803618384239,0.0012072149102797,0.0017674363591789
+Jammu & Kashmir and Ladakh,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014690292768774,0.0012063752021899,0.0017692282121714
+Jammu & Kashmir and Ladakh,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014544602489704,0.0011975329894959,0.0017704702679804
+Jammu & Kashmir and Ladakh,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014324224123547,0.0011719642930152,0.0017527518327789
+Jammu & Kashmir and Ladakh,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013864780688218,0.0011449534759478,0.0016797819653921
+Jammu & Kashmir and Ladakh,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013144116814833,0.00108640541593,0.0015657414587814
+Jammu & Kashmir and Ladakh,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012352027086093,0.0010200700865549,0.0014707746970655
+Jammu & Kashmir and Ladakh,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011673332198948,0.0009590211370671,0.001402145178854
+Jammu & Kashmir and Ladakh,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011286528738624,0.0009256578339174,0.0013620510536224
+Jammu & Kashmir and Ladakh,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011134675999005,0.0009278126703063,0.0013350577305684
+Jammu & Kashmir and Ladakh,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011045915236387,0.000924745023704,0.0013231452711961
+Jammu & Kashmir and Ladakh,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011008988103085,0.0009177443399241,0.001313906090998
+Jammu & Kashmir and Ladakh,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001101355047358,0.0009070920761885,0.0013208943438341
+Jammu & Kashmir and Ladakh,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010509803884796,0.0008707062811809,0.0012655249564916
+Jammu & Kashmir and Ladakh,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010597935755493,0.0008707495225948,0.0012799655101673
+Jharkhand,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018477643812847,0.0014674640459515,0.0023386809281395
+Jharkhand,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018251165784384,0.001460326525341,0.0022731660821749
+Jharkhand,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017981278503482,0.001451545879414,0.00223623841819
+Jharkhand,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017684277847081,0.0014358943808837,0.0021913618228562
+Jharkhand,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017376570422666,0.0014118146845184,0.0021410027898218
+Jharkhand,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001707454987888,0.0013856347285416,0.0020849137311331
+Jharkhand,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016764974971714,0.0013669976333226,0.0020557587498519
+Jharkhand,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016431260199118,0.0013406922212156,0.0020063970926134
+Jharkhand,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016082104315617,0.0013012833762022,0.0019610745293304
+Jharkhand,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015725285356219,0.001256711253222,0.0019230638323754
+Jharkhand,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015367432415314,0.0012167240946273,0.0018945632084591
+Jharkhand,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014941508005005,0.0011882065769184,0.0018396469462045
+Jharkhand,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014418513102208,0.0011593041814668,0.0017878710338461
+Jharkhand,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013852391037706,0.0011161050956594,0.0017243684058799
+Jharkhand,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013302459734326,0.0010665782783839,0.0016595690808699
+Jharkhand,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012834652150639,0.0010177450131507,0.0016007143637551
+Jharkhand,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012447169911209,0.0009918142161154,0.0015487467911777
+Jharkhand,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012082313777504,0.0009603442127598,0.0014919071494994
+Jharkhand,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011729165053163,0.0009365215777434,0.0014320422273085
+Jharkhand,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011373887544109,0.0009133939514457,0.0013891964913851
+Jharkhand,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010998002863263,0.0008841224813123,0.0013504993562155
+Jharkhand,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010558825574546,0.0008558694920383,0.0012812506216347
+Jharkhand,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010063961255991,0.0008195080063846,0.0012195653631593
+Jharkhand,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009568670397449,0.0007825024119569,0.0011706940322013
+Jharkhand,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009127870145528,0.0007424039745257,0.001125131768359
+Jharkhand,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008796182976038,0.000715351842768,0.0010928024094063
+Jharkhand,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008558973746531,0.0006984410852906,0.0010559311958581
+Jharkhand,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008361586441662,0.000683380841235,0.0010213149490855
+Jharkhand,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008196796312848,0.0006684118330844,0.0010026164559696
+Jharkhand,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008057150514652,0.000646021679136,0.0009966550867542
+Jharkhand,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007656904321076,0.0006072133402552,0.0009449158259197
+Jharkhand,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007738254146593,0.0006102159071317,0.0009688542788502
+Karnataka,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014298740916895,0.0011373069677961,0.0017647532865619
+Karnataka,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014021430376082,0.001130617333534,0.0017302534358464
+Karnataka,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013735573688021,0.0011118097305609,0.0017051957749055
+Karnataka,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013450881970808,0.0010896838974542,0.0016709253223214
+Karnataka,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013177688809017,0.0010668850737147,0.0016430800154462
+Karnataka,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012927416414083,0.0010480540296223,0.0016178234885366
+Karnataka,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012686851934054,0.0010271561487361,0.0015791752851634
+Karnataka,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012435985850766,0.0010097621114741,0.0015431819780475
+Karnataka,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012177247006518,0.0009889406059108,0.0015107197948179
+Karnataka,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011912404140086,0.0009633356800751,0.0014750165859263
+Karnataka,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011642470097085,0.0009324280476822,0.0014474582245882
+Karnataka,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011351387435268,0.0009051680267625,0.0014032719387254
+Karnataka,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001103255266614,0.0008857837531756,0.0013614759546798
+Karnataka,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010695592448396,0.0008582211831405,0.0013168079726404
+Karnataka,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010353451922931,0.0008278384220614,0.0012724165540643
+Karnataka,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010021941651555,0.0008015987740123,0.0012299526333221
+Karnataka,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009688455015414,0.0007755932150888,0.0011918507298478
+Karnataka,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009343959997206,0.0007506339049365,0.0011529131749017
+Karnataka,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009012231836994,0.0007255344685683,0.0011161913388511
+Karnataka,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008715619245115,0.000694604543457,0.0010879011777483
+Karnataka,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008475422847739,0.000676735061049,0.0010449812796415
+Karnataka,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008267424092613,0.0006632537962735,0.0010121474618005
+Karnataka,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008067528357702,0.0006469180163815,0.0009865146914202
+Karnataka,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007894844445182,0.0006337981107415,0.0009650239363143
+Karnataka,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007769647468523,0.0006196345238187,0.0009497525003495
+Karnataka,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007713342302999,0.0006147031791117,0.0009392961107801
+Karnataka,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007707929338376,0.0006193260108258,0.0009354226079159
+Karnataka,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007713572764852,0.0006244974569089,0.0009324602297248
+Karnataka,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007721686059915,0.0006280963040182,0.0009384846890075
+Karnataka,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007723642744247,0.0006284031959222,0.0009525364223558
+Karnataka,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007558552721212,0.0006213989896137,0.0009331671730782
+Karnataka,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007606210258365,0.0006177624315227,0.0009449287046023
+Kerala,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014822361192384,0.0011974084017476,0.0018601985910996
+Kerala,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014560884553095,0.0011811341528758,0.0018156330026317
+Kerala,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014298630298693,0.0011616804987676,0.0017706009843407
+Kerala,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014045971627447,0.0011427308375028,0.0017319315289595
+Kerala,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013810790166041,0.0011198241481293,0.0016969516842019
+Kerala,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013602571205204,0.0010985367710275,0.0016768603293878
+Kerala,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013386854227227,0.0010845597207447,0.0016369912415396
+Kerala,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013136606580946,0.0010642161675846,0.0015949421987372
+Kerala,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012877594071848,0.0010361721991454,0.0015634728874169
+Kerala,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012634407021691,0.001018322754047,0.001552997585596
+Kerala,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012427559972202,0.0009943064813129,0.001526406433083
+Kerala,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012231932179892,0.0009791149170248,0.0015065661732595
+Kerala,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012017576800318,0.0009591922000596,0.0014866288442971
+Kerala,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011793216413999,0.0009432098479599,0.0014661750966678
+Kerala,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011578841673379,0.0009269259342572,0.0014390770453818
+Kerala,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011405793687789,0.0009170399876528,0.0014304311035806
+Kerala,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011275717126026,0.0009084864447322,0.0014116420377436
+Kerala,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011160153835861,0.0008967590716161,0.0014006782968305
+Kerala,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011046859392171,0.0008825507566516,0.0013778499112985
+Kerala,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010920514511588,0.0008683968478693,0.0013559842914559
+Kerala,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010763763936425,0.0008461916942393,0.0013381993759723
+Kerala,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010509412998848,0.0008266710248838,0.0012972794503493
+Kerala,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010164883621832,0.0007980169566611,0.0012524946681697
+Kerala,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009819595572968,0.000777282826096,0.0012092753444015
+Kerala,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000955502839014,0.0007589588859791,0.001174164082682
+Kerala,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009447372592962,0.0007543814689146,0.0011660151249615
+Kerala,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009473909600855,0.0007613955186873,0.0011687422553456
+Kerala,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009539437122599,0.0007682065881317,0.0011817318801743
+Kerala,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009608219502745,0.0007730591506823,0.0011945391221261
+Kerala,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009643193487214,0.0007642886983301,0.0012035372677339
+Kerala,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009113252560422,0.0007227102502286,0.0011257260878234
+Kerala,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009187901774068,0.0007280358742976,0.0011351478614539
+Madhya Pradesh,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019496046666591,0.0015539495375372,0.0024324564604918
+Madhya Pradesh,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019173661938925,0.0015287089069371,0.0023851441104979
+Madhya Pradesh,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018819641630508,0.0015136530206976,0.0023485536820519
+Madhya Pradesh,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018445658653703,0.0014884162072681,0.0023170278495361
+Madhya Pradesh,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018065402409716,0.0014582765703261,0.002270044371578
+Madhya Pradesh,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017694655490399,0.0014188754423226,0.0022314574852425
+Madhya Pradesh,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017334904695585,0.0013944083175581,0.0021666290484916
+Madhya Pradesh,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016974075897773,0.0013684650834051,0.0021095313634826
+Madhya Pradesh,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016604545475112,0.0013266412480386,0.0020504350085851
+Madhya Pradesh,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016214172864813,0.0012872206969477,0.002002006030072
+Madhya Pradesh,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015789075924828,0.0012534280392407,0.0019662320968177
+Madhya Pradesh,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015237993351646,0.0012060407650874,0.0018853853649303
+Madhya Pradesh,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014544486952593,0.0011618217915081,0.0018032243102634
+Madhya Pradesh,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013804337805194,0.0011162511618485,0.0017182760598733
+Madhya Pradesh,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013118206456006,0.0010613870851992,0.0016410358166215
+Madhya Pradesh,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012589851852367,0.0010009145014055,0.0015932139787914
+Madhya Pradesh,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012213343140094,0.0009867288057842,0.0015218601840905
+Madhya Pradesh,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011895054417578,0.0009661702636109,0.0014694010132508
+Madhya Pradesh,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011609016092227,0.0009465583223503,0.0014271249947971
+Madhya Pradesh,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011325500161027,0.0009222965294154,0.0013906223142312
+Madhya Pradesh,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011011718594951,0.0008916736492269,0.0013423484717899
+Madhya Pradesh,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010597305461912,0.00085889208493,0.0012931072691046
+Madhya Pradesh,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010094730149452,0.0008157108767407,0.001239262051102
+Madhya Pradesh,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009592043081062,0.0007754751499809,0.0011858495136053
+Madhya Pradesh,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009179564413856,0.0007328346649049,0.0011478372218822
+Madhya Pradesh,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008948865342729,0.0007177553663239,0.001130244806383
+Madhya Pradesh,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008848131644637,0.0007141994432431,0.0010913673548187
+Madhya Pradesh,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008764605608943,0.0007116061336433,0.0010789375454869
+Madhya Pradesh,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000869825593124,0.0007035161233487,0.0010720836141944
+Madhya Pradesh,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008649076809222,0.0006988297206564,0.0010558341857243
+Madhya Pradesh,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008288145673034,0.0006719559167359,0.0010193521581186
+Madhya Pradesh,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008410588755485,0.000676043560495,0.0010441841358406
+Maharashtra,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0020041578855395,0.0016520819820764,0.0024305539091989
+Maharashtra,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001980898344523,0.0016380782962721,0.0024087212045112
+Maharashtra,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019524986776498,0.0016180462268317,0.0023674127196732
+Maharashtra,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019201027971706,0.0015826893343598,0.002346192934534
+Maharashtra,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018854540240967,0.0015403453106068,0.0023132183799132
+Maharashtra,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018501278075206,0.0014934391959947,0.0022774732588375
+Maharashtra,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018089390933018,0.0014736229632663,0.0022183107756571
+Maharashtra,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017589250095883,0.001445341205772,0.0021478735520193
+Maharashtra,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017052014804965,0.001400962660837,0.0020640671773364
+Maharashtra,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016526666705164,0.0013499722749002,0.001989655857704
+Maharashtra,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016057857040781,0.0012992403306535,0.0019387033423687
+Maharashtra,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015621187109974,0.0012728027508454,0.0018791095166437
+Maharashtra,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015175415152684,0.0012450309669627,0.0018288155977459
+Maharashtra,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014736412617772,0.0012087949138988,0.0017690900128585
+Maharashtra,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014324331734949,0.0011747035266577,0.0017374321759255
+Maharashtra,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013962086928107,0.0011384193760505,0.0016876152857069
+Maharashtra,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013667206312357,0.0011187345141449,0.0016504301093505
+Maharashtra,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013422632381416,0.0011025878964464,0.0016094377517436
+Maharashtra,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013200241846362,0.0010811359294009,0.0015907300589658
+Maharashtra,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012965942357051,0.0010612401267164,0.0015613696164846
+Maharashtra,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012684484492416,0.0010278772147304,0.0015447159408309
+Maharashtra,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012178472682586,0.0009907723637115,0.0014728859216463
+Maharashtra,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011419042538216,0.0009337904193813,0.0013826434567369
+Maharashtra,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010592310060012,0.000870399627326,0.0012758936079454
+Maharashtra,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009886831616528,0.0008119225332693,0.0011955372441214
+Maharashtra,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009491799641719,0.0007755316150563,0.001158998963683
+Maharashtra,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009351041285025,0.0007676566423032,0.0011323535585063
+Maharashtra,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009261157199504,0.0007609550956137,0.0011152615673739
+Maharashtra,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009189859415217,0.0007529553807016,0.0011164075125413
+Maharashtra,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009102819644388,0.0007437306368373,0.0011170260153885
+Maharashtra,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008716454916711,0.0007050060413154,0.0010738810761579
+Maharashtra,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008866780870452,0.0007192022362414,0.0010802392000149
+Manipur,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017680099805036,0.0014261740899956,0.0021930606152909
+Manipur,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017252551035768,0.0014024630256656,0.0021330107178274
+Manipur,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016829627069552,0.0013661394251869,0.0020696883547787
+Manipur,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001642357947978,0.0013289438797866,0.0020241264991926
+Manipur,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016048138922127,0.0013044214732485,0.0019797338543908
+Manipur,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001571785388657,0.0012750126557571,0.0019431746789967
+Manipur,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015425338098345,0.0012478169890185,0.0019050810840948
+Manipur,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015144290595176,0.0012266478952365,0.0018775458424302
+Manipur,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014866076773183,0.0011978988943989,0.0018593388942442
+Manipur,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014580292219655,0.0011752963532889,0.0018330358999716
+Manipur,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.00142764001015,0.001145679327591,0.0017948751443601
+Manipur,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013838832487073,0.0011073837520583,0.0017377687737992
+Manipur,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013237104819545,0.001066251014043,0.0016483024330484
+Manipur,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012578541861549,0.0010141470896557,0.0015526489610279
+Manipur,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.00119758398199,0.0009682295015649,0.0014780021382033
+Manipur,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011546911002784,0.0009275690136396,0.0014332470041568
+Manipur,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011275024405388,0.0009038373765877,0.0013922398278385
+Manipur,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001105144483342,0.000886606913905,0.0013685238374384
+Manipur,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010860142256109,0.0008697067454146,0.0013495275093002
+Manipur,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010681859002388,0.0008433539868594,0.001331118346024
+Manipur,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010494677836509,0.0008237686611972,0.001307468661102
+Manipur,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010276127474764,0.0008124168289582,0.0012832256919687
+Manipur,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010038378305419,0.0007963800427398,0.0012488616494374
+Manipur,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009810634496146,0.0007782778137304,0.0012142015016221
+Manipur,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009623411949732,0.0007702987979217,0.0011947439731374
+Manipur,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009507312599924,0.0007633042227775,0.001184043768536
+Manipur,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009465050059252,0.0007631114045848,0.0011668465858937
+Manipur,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009456787981599,0.0007628415240941,0.0011563079007993
+Manipur,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000944908169462,0.0007608135253306,0.0011538581293248
+Manipur,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009407365508879,0.000753614872407,0.0011525481045508
+Manipur,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008855264689979,0.0007114155518716,0.0011014171291658
+Manipur,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008908701009016,0.0007084626501042,0.0011299522027673
+Meghalaya,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017077312971912,0.0013331616828365,0.0021263042391072
+Meghalaya,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016691397871036,0.0013122506442579,0.0020624936835179
+Meghalaya,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016294075183223,0.001286230823643,0.0019973252885919
+Meghalaya,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015892646330272,0.001253867444352,0.0019585738356724
+Meghalaya,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015497443868684,0.0012410392861049,0.0019303355143845
+Meghalaya,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015118913537953,0.0012020508746296,0.0019006194693084
+Meghalaya,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014759071159222,0.0011691517105383,0.0018328768019536
+Meghalaya,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014412562992642,0.0011487056337413,0.0017837021563218
+Meghalaya,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001407664592923,0.0011236463287955,0.0017492257762602
+Meghalaya,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013744898995102,0.0011009153239175,0.0017102386035316
+Meghalaya,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013409832832231,0.0010654119455092,0.0016766906068648
+Meghalaya,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013034559653598,0.0010359461767439,0.0016411886210729
+Meghalaya,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012609006038077,0.0009997769651634,0.0015902784469866
+Meghalaya,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012164942557009,0.0009631096590399,0.0015427525807808
+Meghalaya,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.00117381973167,0.0009298739076677,0.0015050810270267
+Meghalaya,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001136701172075,0.0008936019869892,0.0014639216463315
+Meghalaya,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011061653469759,0.0008749624234374,0.0014161650870943
+Meghalaya,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010794173434633,0.0008522831427451,0.0013622559910181
+Meghalaya,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001054173655521,0.0008299219847143,0.0013224389723482
+Meghalaya,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010278937464263,0.0008056509045452,0.0012813967291061
+Meghalaya,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009983310048448,0.0007891488659158,0.0012425137910655
+Meghalaya,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009592146952009,0.000764297065188,0.0012013628118233
+Meghalaya,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009118890468697,0.0007344251669901,0.001143878352813
+Meghalaya,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008651826401705,0.000685984897321,0.0010911172545094
+Meghalaya,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008278675866242,0.0006517977871658,0.0010460533985805
+Meghalaya,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008086976376316,0.0006409940733923,0.0010248102199988
+Meghalaya,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008043213509546,0.0006423939196241,0.0010065344632595
+Meghalaya,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008037216770145,0.0006416200991143,0.0010083850956808
+Meghalaya,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008038970236576,0.0006445444235904,0.0009997205854489
+Meghalaya,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000801778041191,0.0006331750367557,0.0009969770769338
+Meghalaya,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007593837687134,0.0006046879590829,0.0009391910539176
+Meghalaya,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007654504195217,0.0006062744688249,0.0009753063576687
+Mizoram,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018425732635558,0.0014874879240403,0.0023060037093131
+Mizoram,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017985464942529,0.0014492963975432,0.0022378190338439
+Mizoram,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017542283410935,0.0014120756348773,0.002166296371316
+Mizoram,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017100477148659,0.0013825871384799,0.0020966762045
+Mizoram,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016666781133841,0.0013405595352447,0.0020339820919755
+Mizoram,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016246211956323,0.0012968453565874,0.0019870053241608
+Mizoram,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015821067787968,0.0012694674651782,0.0019464452732457
+Mizoram,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015377262072569,0.0012314803659355,0.001908318350042
+Mizoram,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014927854341882,0.0011859050764786,0.0018742933848011
+Mizoram,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014483469709115,0.0011441525732512,0.0018373481637017
+Mizoram,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001405503380596,0.001110364125881,0.001798990679518
+Mizoram,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013585723835106,0.0010754442355958,0.0017240077427354
+Mizoram,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013058757637525,0.0010409019007745,0.0016301397922129
+Mizoram,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012543365839025,0.0010047119037308,0.0015484478913287
+Mizoram,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012111710954086,0.0009771118801924,0.0014915462442497
+Mizoram,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011838614677405,0.0009528495622665,0.0014621549293538
+Mizoram,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001171385352046,0.0009456200513346,0.0014423882254613
+Mizoram,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011653023445582,0.0009394540369299,0.0014326033818585
+Mizoram,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011617782237362,0.0009321983123825,0.0014355264216923
+Mizoram,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011569085237533,0.000923117694574,0.001435557786132
+Mizoram,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011466950141101,0.0009037263319438,0.0014238456104259
+Mizoram,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001123749017617,0.000893029220061,0.0013960667304458
+Mizoram,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010888691172664,0.000865231774334,0.0013405519702813
+Mizoram,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010511799759974,0.0008384505580772,0.0012882744659859
+Mizoram,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010196305393329,0.0008125143335931,0.0012504036504937
+Mizoram,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010042367637256,0.000797849828457,0.0012353202515804
+Mizoram,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010035249021964,0.0007978299962874,0.0012205504580054
+Mizoram,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010070026778301,0.0007997378225915,0.0012241829704336
+Mizoram,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010120553749265,0.0008022270507237,0.0012410711219192
+Mizoram,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010154560152752,0.0008025408585012,0.0012536748324281
+Mizoram,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009747583496276,0.000780956700435,0.0011999700144409
+Mizoram,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009847660405451,0.0007794399997792,0.0012102345791305
+Nagaland,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001845621379109,0.0014774281092917,0.0022501144217717
+Nagaland,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001803966413775,0.0014461835650631,0.002205635317079
+Nagaland,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017586518356773,0.0014155282290859,0.0021452494097853
+Nagaland,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017119801347109,0.0013823500987674,0.0020898103173363
+Nagaland,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016658616824225,0.0013377933306613,0.0020487498319122
+Nagaland,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016219558789087,0.0012941445687421,0.0020137957438809
+Nagaland,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015801618997213,0.001262461322031,0.0019616440836875
+Nagaland,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015396172116028,0.0012296331848372,0.0019154907713003
+Nagaland,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015005839166283,0.0011991548656663,0.001868306433921
+Nagaland,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014633076583637,0.0011652924372051,0.0018270378730348
+Nagaland,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014278396487694,0.0011284866510541,0.0018088092189745
+Nagaland,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013907493565913,0.0011081104519693,0.0017536693107738
+Nagaland,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013494273545334,0.0010745183326642,0.0016954999039713
+Nagaland,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013054783700971,0.001037920311716,0.0016301492647209
+Nagaland,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012608944012815,0.0010054535939532,0.0015633244223593
+Nagaland,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012179583204949,0.0009733493818142,0.0015060548454068
+Nagaland,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011714025312673,0.0009372602768046,0.0014558361661197
+Nagaland,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011200526803905,0.0008967814166003,0.0013991225715121
+Nagaland,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010712762034541,0.0008551294619109,0.0013403019405353
+Nagaland,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010320369688598,0.0008163766574409,0.0012883280777421
+Nagaland,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010088924478412,0.0007984305959661,0.0012604308095162
+Nagaland,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009944561763487,0.0007939655106107,0.0012328459622182
+Nagaland,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009786305533759,0.0007825721074222,0.0012080819768569
+Nagaland,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009639351714281,0.0007744982226829,0.0011918983753996
+Nagaland,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009531188918019,0.000767937294402,0.0011771719537611
+Nagaland,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009490550177562,0.0007624672967808,0.0011722237788809
+Nagaland,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009537001050867,0.0007693819240785,0.0011610417644231
+Nagaland,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009640361029203,0.0007776984129243,0.0011681453702456
+Nagaland,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009753559523502,0.0007868379613193,0.0011786257629698
+Nagaland,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009826754964748,0.0007943341276464,0.0011992726910717
+Nagaland,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009433990303355,0.0007652947867557,0.001163526377268
+Nagaland,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009546570797415,0.0007539128993323,0.0011636794240323
+Odisha,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019639176072792,0.0015927571727639,0.0023870396742566
+Odisha,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019370852569286,0.0015832629836082,0.0023456589307267
+Odisha,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019083318372049,0.0015724191793254,0.002309097612328
+Odisha,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018785650509308,0.0015614655959235,0.0022747490484113
+Odisha,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018489161329032,0.0015355106754704,0.002253041065113
+Odisha,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018205345508338,0.0014953878724446,0.0022303046477935
+Odisha,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017908643272757,0.0014802836258644,0.0021674327401414
+Odisha,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017577710026297,0.0014530593737403,0.0021162581846977
+Odisha,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001722922916258,0.0014093219995321,0.0020636809481264
+Odisha,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016879117393024,0.0013765039783998,0.0020401738473237
+Odisha,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016540748304434,0.0013437952598149,0.0019980583396653
+Odisha,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016197679279407,0.0013250699341502,0.0019512281320393
+Odisha,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015832922331518,0.0013069240381676,0.0019121445131348
+Odisha,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015449445660064,0.0012709239939736,0.0018810723755801
+Odisha,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015052449363471,0.0012267995078906,0.0018402557610954
+Odisha,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014653939781009,0.0011864590318919,0.0018085024545779
+Odisha,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014246398140696,0.0011544233525505,0.0017403864741997
+Odisha,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013821104307217,0.0011302254534837,0.0016806495301853
+Odisha,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013393136753804,0.0010900126973003,0.0016397916931301
+Odisha,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012973982729773,0.0010405448486038,0.0015797811370108
+Odisha,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012570022639441,0.001001910691252,0.0015436770898278
+Odisha,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012119604496205,0.0009775289452463,0.0014788300423587
+Odisha,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011608001110296,0.0009394361835768,0.0014141492953597
+Odisha,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011110137453378,0.0008992899759662,0.0013587388116875
+Odisha,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010702207516608,0.0008676542214194,0.0013087549443991
+Odisha,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010462545210138,0.0008499837461037,0.0012742102427152
+Odisha,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010348743033094,0.0008463641747716,0.0012491278269977
+Odisha,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010264235195156,0.0008386291045244,0.0012422533038832
+Odisha,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010205924873101,0.0008303411019322,0.0012508814053022
+Odisha,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010170182752901,0.0008183502616772,0.0012603838466679
+Odisha,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000969648496598,0.0007799441271922,0.0011756515571962
+Odisha,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009825537486217,0.0007896133982927,0.0011982093405813
+Punjab,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013964260247051,0.0011410689606977,0.001706727492046
+Punjab,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013875689384906,0.0011391333738219,0.0016939198748728
+Punjab,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013740469803788,0.0011265833754679,0.0016762600951629
+Punjab,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013565438084608,0.0011099236577197,0.0016610023081592
+Punjab,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013361124117176,0.0010883470086902,0.0016363294869867
+Punjab,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013139341752751,0.0010646543437704,0.0016184347897651
+Punjab,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012872473125008,0.0010471955593874,0.0015924665035869
+Punjab,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012541062866868,0.0010209113332486,0.0015586667049136
+Punjab,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012169615210119,0.0009837606169831,0.0015198297659259
+Punjab,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011782725834015,0.0009482631444495,0.0014715203508954
+Punjab,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011406975622493,0.0009147550514837,0.0014363693553667
+Punjab,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010998746131679,0.0008876345922634,0.0013736457871846
+Punjab,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010538116366535,0.0008545416666005,0.0013068849986149
+Punjab,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010081858746387,0.000820323401033,0.0012529175353736
+Punjab,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009687172452631,0.0007880813919211,0.0012075327710258
+Punjab,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009412626188858,0.0007606843826151,0.0011769840760405
+Punjab,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009250225697543,0.000749759010266,0.0011391347387963
+Punjab,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009137866982281,0.000742300141934,0.0011207696302887
+Punjab,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009054127574284,0.00073567607924,0.0011127310950816
+Punjab,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008975920551419,0.0007303972662208,0.0011017370552416
+Punjab,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008880020671143,0.0007179400746022,0.0010905443155786
+Punjab,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008728928169289,0.0007076140086563,0.0010702901982268
+Punjab,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008529840123042,0.000686779395989,0.0010466160835287
+Punjab,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008326181573072,0.000668355260822,0.001021160388908
+Punjab,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008162897342663,0.0006495598375639,0.0010012798625213
+Punjab,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008084348516563,0.0006417898553858,0.0009941972158208
+Punjab,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008092504874787,0.0006536434697117,0.0009909093363667
+Punjab,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008140035517506,0.0006649986235486,0.0009906397113646
+Punjab,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008194208065178,0.0006706762981506,0.000998533724864
+Punjab,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008221147029272,0.000673324889923,0.0010066903588733
+Punjab,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007914022702763,0.0006418221020485,0.0009698082588576
+Punjab,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000804408217741,0.0006470724008188,0.0009924935088473
+Rajasthan,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017993999925928,0.0014271403941793,0.0022565102704126
+Rajasthan,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017694682051135,0.0014190564883282,0.0022055338257272
+Rajasthan,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001737017674196,0.0014109433819685,0.0021559961762485
+Rajasthan,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017060969917866,0.0013886691239566,0.0021198170190147
+Rajasthan,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016806828312895,0.0013607481110699,0.0020819821870159
+Rajasthan,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016644708561671,0.0013397448407898,0.0020634955752404
+Rajasthan,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016522980603416,0.0013382139593129,0.0020381097607509
+Rajasthan,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016373205230751,0.0013242409416179,0.0020133358571789
+Rajasthan,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016208131984414,0.0013077390342993,0.0019860498981013
+Rajasthan,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016036856455183,0.0012937767011584,0.0019515757222369
+Rajasthan,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015864789098704,0.0012805261300784,0.0019439616215918
+Rajasthan,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015611769580188,0.0012566284362982,0.0018899758063176
+Rajasthan,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015231990492795,0.0012264475075307,0.0018684698200209
+Rajasthan,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001477858732812,0.0011879798794412,0.0018348237792109
+Rajasthan,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014308182636979,0.0011461119749863,0.0017957556809732
+Rajasthan,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013882020775918,0.001104555544002,0.0017368119569528
+Rajasthan,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013489956252356,0.0010846565628844,0.001675953199721
+Rajasthan,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013096514460398,0.001061254674322,0.0016189886922468
+Rajasthan,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012724989044621,0.0010294360037912,0.0015579194781757
+Rajasthan,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012397840474561,0.0010069692925475,0.0015165857543739
+Rajasthan,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012135560483298,0.000976504723511,0.0014891554409389
+Rajasthan,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011916163362372,0.0009668805966551,0.0014453324389143
+Rajasthan,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001171395764206,0.0009520394629619,0.0014248743383859
+Rajasthan,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011539276859986,0.0009394402928322,0.0014083196841625
+Rajasthan,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011403044772607,0.0009213747664651,0.001389593040283
+Rajasthan,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011316033670958,0.0009083643474264,0.0013783996251246
+Rajasthan,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011285439788278,0.0009231925323937,0.0013704822243878
+Rajasthan,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011288039495097,0.0009244122278366,0.0013632285032708
+Rajasthan,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011292036969206,0.0009219563195653,0.0013645502454825
+Rajasthan,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011266896526741,0.0009089029208494,0.0013707376339089
+Rajasthan,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010757057034279,0.0008856441543298,0.0012901780515809
+Rajasthan,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010881250930983,0.000894284593947,0.0013183196707013
+Sikkim,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0025672779496737,0.0020574718505042,0.0031552065361565
+Sikkim,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0024848745959571,0.0020116653516853,0.0030496845409249
+Sikkim,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0024007617275628,0.0019597089056543,0.0029546242615025
+Sikkim,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0023172302079422,0.0018897413786084,0.0028080470431707
+Sikkim,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0022361717776669,0.0018227438802295,0.0026883621570965
+Sikkim,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0021593883706772,0.0017538049294561,0.0026177607089031
+Sikkim,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0020878363862173,0.0017021088746448,0.002535233420479
+Sikkim,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0020205443689108,0.0016624763281454,0.0024358830395196
+Sikkim,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019563171487301,0.0016208941197597,0.0023648876987149
+Sikkim,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018940682485413,0.0015400760839484,0.0023145580234054
+Sikkim,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018326253759114,0.0014856113040001,0.0022515128640771
+Sikkim,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017706691316727,0.0014400146459312,0.0021744573655698
+Sikkim,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017084065905355,0.0013971762207611,0.0021136096196487
+Sikkim,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016466929743272,0.0013396601383539,0.0020353604168391
+Sikkim,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015870507788292,0.0012769878943753,0.0019671254018344
+Sikkim,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015315735624738,0.0012191147000118,0.0018943366021239
+Sikkim,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014810397064502,0.0011891245316357,0.0018099594857484
+Sikkim,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014344309314,0.0011591824694573,0.0017298779036928
+Sikkim,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013910477172409,0.0011268534280126,0.0016772853084672
+Sikkim,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013496491178177,0.0010930789835264,0.0016305135977084
+Sikkim,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013086586963408,0.0010608783379998,0.0015853040381205
+Sikkim,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012615216693447,0.0010205679180423,0.0015215436668629
+Sikkim,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012085060714319,0.0009736740416999,0.0014524092824439
+Sikkim,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011575621087551,0.0009325015725876,0.0013869545500431
+Sikkim,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011167453381315,0.0008967243015711,0.0013494762134798
+Sikkim,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010944454601284,0.0008729511753491,0.0013361336467138
+Sikkim,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010858196608517,0.0008789053415226,0.0013149161003533
+Sikkim,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.00107975757701,0.0008771701969185,0.0012984410411928
+Sikkim,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010752399995935,0.0008690368924895,0.0012953147233382
+Sikkim,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010710486469441,0.0008574360232361,0.0012906791837485
+Sikkim,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010233228862612,0.0008398326801907,0.0012493761652984
+Sikkim,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010352220697419,0.0008403797956349,0.0012618834311694
+Tamil Nadu,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015462851833477,0.0012409424304955,0.0019048189367247
+Tamil Nadu,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015104551476382,0.001211524179905,0.0018670159493285
+Tamil Nadu,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014728570980256,0.0011864484581204,0.0018068577863278
+Tamil Nadu,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014343098068606,0.0011581326574649,0.0017584002065644
+Tamil Nadu,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013956379887082,0.0011317862516608,0.0016998566592612
+Tamil Nadu,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001357600079954,0.0010997987601686,0.0016539639900836
+Tamil Nadu,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013193622220219,0.0010748492130777,0.0016060809909156
+Tamil Nadu,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012800603586035,0.0010506447540194,0.0015642081938326
+Tamil Nadu,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012404571099211,0.0010106276917638,0.0015224736182617
+Tamil Nadu,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012011315702979,0.0009734910730724,0.0014762731016839
+Tamil Nadu,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011625818523099,0.0009376365567183,0.0014273092194086
+Tamil Nadu,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011228568187,0.0009083578673714,0.0013807326627539
+Tamil Nadu,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010819985852992,0.0008700605498073,0.001330045085143
+Tamil Nadu,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010429584331729,0.0008362683242863,0.0012761823596598
+Tamil Nadu,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010091280581106,0.0008101788865394,0.0012357662080878
+Tamil Nadu,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009841777578284,0.0007877389429162,0.0012063959319623
+Tamil Nadu,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.00096737110627,0.0007779336721691,0.0011780589637912
+Tamil Nadu,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009542777986713,0.0007670003544135,0.0011648394720961
+Tamil Nadu,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000943018972759,0.0007559123546256,0.0011481444223972
+Tamil Nadu,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009315935583556,0.0007440516465583,0.0011344662145808
+Tamil Nadu,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009180214705867,0.000734732641558,0.0011163332713359
+Tamil Nadu,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008979408181032,0.0007236572081494,0.0010848738679729
+Tamil Nadu,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008719831938828,0.0007113221943477,0.0010508044321176
+Tamil Nadu,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008457614906518,0.0006929847846891,0.0010144259431545
+Tamil Nadu,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008246975153093,0.0006685545912056,0.0009980895687143
+Tamil Nadu,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000813945415265,0.000655186259485,0.0009913694963223
+Tamil Nadu,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008099970814774,0.0006578663217183,0.0009733032795369
+Tamil Nadu,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008063512345155,0.0006614894513695,0.0009624678887178
+Tamil Nadu,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008034751990228,0.000659284758205,0.0009618360794528
+Tamil Nadu,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008019375617872,0.000658187993128,0.0009712409978017
+Tamil Nadu,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007685826873008,0.0006232935071203,0.0009402284447261
+Tamil Nadu,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007793922398864,0.000629662455656,0.0009513948972073
+Telangana,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013271618064483,0.0010161622329433,0.0016638665811462
+Telangana,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012838992952157,0.0009973820112299,0.0016128027407706
+Telangana,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012416524351011,0.000972262705582,0.0015601663161843
+Telangana,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001201215552729,0.0009455258491151,0.0015125075757127
+Telangana,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011634103329452,0.0009137591025897,0.0014676409741563
+Telangana,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011289665791035,0.000881066188115,0.0014411795384036
+Telangana,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010979860676691,0.0008585388423759,0.0013948047238294
+Telangana,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010693374315834,0.0008337395437819,0.0013537507351351
+Telangana,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010418975443371,0.0008110165501439,0.00131799546981
+Telangana,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010144837240622,0.0007868352470598,0.0012820083009526
+Telangana,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009860139473569,0.0007589627328895,0.0012431975033626
+Telangana,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009558675304437,0.0007368960500552,0.0012026340860824
+Telangana,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009245585431027,0.0007145588687069,0.0011568889705082
+Telangana,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008923455565338,0.0006848397350152,0.0011155336348766
+Telangana,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008597024491021,0.0006586997930039,0.0010739336225634
+Telangana,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0008272903920111,0.0006376937620167,0.0010458407552037
+Telangana,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007953623119347,0.0006118174782828,0.001005680473424
+Telangana,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007636855877375,0.0005846412916512,0.0009651069554093
+Telangana,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007324549314187,0.0005555565512541,0.0009257397847475
+Telangana,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0007017164894465,0.0005327704458079,0.0008906315467658
+Telangana,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0006712837186487,0.0005105484018173,0.0008574433755599
+Telangana,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0006371873728313,0.0004827535448786,0.0008113637583669
+Telangana,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0005996736583271,0.000457336708688,0.0007631113080734
+Telangana,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0005644203164759,0.000433631039832,0.0007211432973253
+Telangana,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0005370801504268,0.0004135026302111,0.0006836832855577
+Telangana,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0005233797627668,0.0004028412042344,0.0006662148839884
+Telangana,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0005195943556539,0.0004014496061454,0.0006582205803137
+Telangana,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0005174443766448,0.0003987121523395,0.0006551834006167
+Telangana,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0005158614035036,0.0003988843076764,0.000651164947175
+Telangana,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0005137696864123,0.000397433697428,0.0006485937746717
+Telangana,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000498962068292,0.0003852946852602,0.0006414919497115
+Telangana,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000501572294873,0.0003829150579222,0.000638166414195
+Tripura,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0024034295497097,0.0019368817658819,0.0029455810820289
+Tripura,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.002360730611346,0.00191763427043,0.0028803215509347
+Tripura,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.002311227577158,0.0018847839497418,0.002808687732122
+Tripura,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0022566120596029,0.0018218008131646,0.0027275589090114
+Tripura,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0021985497035786,0.0017548752629301,0.002666615515627
+Tripura,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0021387475338871,0.0017053064748157,0.002598857240903
+Tripura,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0020731518116877,0.0016586054907249,0.0025205370179591
+Tripura,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019990651721438,0.0016184617047753,0.0024223796840283
+Tripura,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019204635148352,0.0015648335058285,0.0023359631679953
+Tripura,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001841465471594,0.0014951830859652,0.0022486750370789
+Tripura,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001766367822432,0.0014286429500323,0.002165486812819
+Tripura,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016894273507287,0.0013719973389662,0.0020653326108069
+Tripura,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016071089608016,0.0013058646315904,0.001967353911807
+Tripura,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001526667264081,0.0012397773281376,0.0018707290685937
+Tripura,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014555364867359,0.0011769329963713,0.0017878091866615
+Tripura,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014010051666033,0.0011349506370665,0.0017317870720815
+Tripura,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013615779370227,0.0011100989643677,0.0016628624231428
+Tripura,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013290486411522,0.0010888628238674,0.001615069205104
+Tripura,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013004604645468,0.0010685026072609,0.0015850373348909
+Tripura,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012727993534406,0.0010385189121298,0.0015520872705638
+Tripura,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012429216179669,0.001013782973984,0.0015251386670387
+Tripura,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012047088094958,0.000981124805818,0.0014748841354111
+Tripura,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011593460759061,0.0009382218298795,0.0014146719099989
+Tripura,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011149065503301,0.000897134546585,0.0013640441896221
+Tripura,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010795070526657,0.0008551711193425,0.001334771742067
+Tripura,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010619325703494,0.0008353088294436,0.0013181638459616
+Tripura,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010580276812749,0.0008369950454085,0.0013081861176978
+Tripura,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010571950802786,0.000841345009288,0.001300957313013
+Tripura,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010581071403539,0.000842324780916,0.0012978809983241
+Tripura,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010592786913916,0.0008411181220625,0.0013041926294542
+Tripura,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010148230190365,0.0008041488283161,0.0012683331293763
+Tripura,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010238471529348,0.0008165054595464,0.0012587721517094
+Uttar Pradesh,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0019448358223804,0.0015552055287534,0.0024538442264708
+Uttar Pradesh,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018986047750454,0.001525635089262,0.0023573234596541
+Uttar Pradesh,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018514800042034,0.0014892085595561,0.0022671147606245
+Uttar Pradesh,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0018049730290357,0.00145657152657,0.0022140572297096
+Uttar Pradesh,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017606936258182,0.0014217913689573,0.0021629985950284
+Uttar Pradesh,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017201402279707,0.001391706195425,0.0021152784520562
+Uttar Pradesh,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016833596781449,0.0013638152183209,0.0020840805969643
+Uttar Pradesh,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016489479743006,0.0013290199249988,0.0020442407882956
+Uttar Pradesh,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016158906548928,0.0012908800975386,0.0019947360992694
+Uttar Pradesh,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001582831699425,0.0012544293544941,0.0019672024135776
+Uttar Pradesh,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015483345955977,0.0012131642308441,0.0019266795943333
+Uttar Pradesh,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015076329905038,0.0011922188736342,0.0018797816149362
+Uttar Pradesh,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014599462946797,0.0011548886101386,0.001812972098505
+Uttar Pradesh,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014094058014156,0.0011159785664316,0.00173513612525
+Uttar Pradesh,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013607195291267,0.0010739524469075,0.0016960790614928
+Uttar Pradesh,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013189109654088,0.0010283899094705,0.0016364519406142
+Uttar Pradesh,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012834962867304,0.0010233197755957,0.0015792605236496
+Uttar Pradesh,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012504648485449,0.0010071404724355,0.0015332099254271
+Uttar Pradesh,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001219828042805,0.0009820434509355,0.0014938472181895
+Uttar Pradesh,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011910076157963,0.0009637789638964,0.0014568799914733
+Uttar Pradesh,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011629532496176,0.0009423228539781,0.0014240682965735
+Uttar Pradesh,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011330773292962,0.0009246310399763,0.0013710005983086
+Uttar Pradesh,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011015390300847,0.0008954711259718,0.0013352488601363
+Uttar Pradesh,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010708713017527,0.0008634445126101,0.0012882630056001
+Uttar Pradesh,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010440496812305,0.0008396821564612,0.0012654336100501
+Uttar Pradesh,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010243177644367,0.0008216083677651,0.0012531072460939
+Uttar Pradesh,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010102097089604,0.0008247079297941,0.0012169932804821
+Uttar Pradesh,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.00099839835617,0.0008220943944452,0.0012013589057964
+Uttar Pradesh,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009894349135991,0.0008169376991458,0.0011892460550483
+Uttar Pradesh,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009837373363561,0.0008062132700219,0.0011863458553702
+Uttar Pradesh,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009487677757321,0.0007657417737819,0.0011658349806534
+Uttar Pradesh,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009662070802128,0.000782131457138,0.0011687135885027
+Uttarakhand,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001690438106447,0.0013455190070046,0.0020703735365809
+Uttarakhand,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001664923334554,0.0013364996471356,0.0020310644256488
+Uttarakhand,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016363964099319,0.0013282398813547,0.0019903908348677
+Uttarakhand,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016066629679761,0.0013137562504906,0.001959836303216
+Uttarakhand,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015775307487122,0.001281693232769,0.0019317548041019
+Uttarakhand,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015507045740812,0.0012592568219881,0.0018973122055432
+Uttarakhand,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001525283288771,0.0012407737243926,0.001873933857181
+Uttarakhand,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014995947171937,0.0012177191201451,0.0018509662708852
+Uttarakhand,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014738927494998,0.0011954325833214,0.0018322204622103
+Uttarakhand,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014484969793577,0.0011619729400865,0.0018068588009865
+Uttarakhand,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0014237373590582,0.0011317302623161,0.0017979299194036
+Uttarakhand,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013973348556485,0.0011265181088871,0.0017464593661004
+Uttarakhand,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013688412176778,0.0011106000761476,0.0016988964196386
+Uttarakhand,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013400546010242,0.0010847618921822,0.00164562451526
+Uttarakhand,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013126551175135,0.0010682578396417,0.0016071828089392
+Uttarakhand,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001288221498626,0.0010465788002643,0.0015839388964638
+Uttarakhand,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001266378063482,0.0010301382243382,0.0015377140391435
+Uttarakhand,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012448896649997,0.0010109349778486,0.0015124513926947
+Uttarakhand,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001223226103393,0.0009966017568578,0.0014756620343605
+Uttarakhand,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012005315247828,0.0009707541194423,0.0014518577235139
+Uttarakhand,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011757824239968,0.0009476431725427,0.0014309794777502
+Uttarakhand,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011434503832321,0.0009260674323267,0.0013836771117999
+Uttarakhand,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011030164389983,0.0008896812869214,0.0013362177626496
+Uttarakhand,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010608564520564,0.0008636721201697,0.0012833864130693
+Uttarakhand,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010236347753844,0.0008399724045176,0.0012624047125199
+Uttarakhand,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009980695665122,0.0008183437596697,0.0012356446591609
+Uttarakhand,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009814146633974,0.0008075503909965,0.0012053025295903
+Uttarakhand,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009672757022413,0.000795780086556,0.0011782382500356
+Uttarakhand,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009564973812143,0.0007885122569213,0.001163961309026
+Uttarakhand,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009498291242134,0.0007794056018804,0.001149138718534
+Uttarakhand,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009115536160627,0.0007391275197212,0.0011046177153509
+Uttarakhand,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009229498205749,0.0007522169382851,0.0011261668734906
+West Bengal,1990,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017428020017352,0.001407424930476,0.0021468061437978
+West Bengal,1991,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017258196282481,0.0013909569859366,0.002134653922772
+West Bengal,1992,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0017084069257187,0.0013886874611718,0.0021307426607959
+West Bengal,1993,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016925318867476,0.0013815608596263,0.0021048134127862
+West Bengal,1994,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016801068858071,0.0013624499448211,0.0020943588370013
+West Bengal,1995,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016728750752531,0.0013544462411788,0.0020948658391478
+West Bengal,1996,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016653424870247,0.0013493801788014,0.0020780780873612
+West Bengal,1997,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016524604778367,0.0013393098653092,0.0020395405530077
+West Bengal,1998,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016362404437284,0.0013317894058551,0.0020080185976313
+West Bengal,1999,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016185352159664,0.0013158706430406,0.0019687269254155
+West Bengal,2000,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0016013029810019,0.0012921800388202,0.0019496054942855
+West Bengal,2001,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001570849324764,0.0012764136433832,0.0019107174208978
+West Bengal,2002,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0015189398695682,0.0012322625907823,0.0018657407118996
+West Bengal,2003,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001455775344023,0.0011816645179909,0.0017757642857401
+West Bengal,2004,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013917457837096,0.0011372994490892,0.001705532233285
+West Bengal,2005,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0013371082876165,0.0010873680445461,0.0016551287520912
+West Bengal,2006,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.001292157148744,0.0010566216809214,0.0015759516833948
+West Bengal,2007,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012498904263531,0.0010327851533635,0.0015173924109057
+West Bengal,2008,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0012092375603162,0.0010036685028467,0.0014850176998881
+West Bengal,2009,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011689810251394,0.0009606010467961,0.001443353812216
+West Bengal,2010,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0011279731085592,0.0009216837661834,0.0013942505639852
+West Bengal,2011,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010797203536091,0.000887117053677,0.0013335468816282
+West Bengal,2012,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0010252658162635,0.0008464475533308,0.0012577038476303
+West Bengal,2013,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.000974651219187,0.000804509956361,0.0011900661339984
+West Bengal,2014,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009377281697552,0.0007797250413701,0.0011358773781136
+West Bengal,2015,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009241442971086,0.0007612755619,0.0011201098734987
+West Bengal,2016,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009309443923013,0.0007673883771808,0.0011257803346151
+West Bengal,2017,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009445244016127,0.0007808905369031,0.0011352463679887
+West Bengal,2018,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009583961212465,0.0007914757700739,0.0011430123226889
+West Bengal,2019,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009660749867013,0.0007926114181134,0.0011620732291147
+West Bengal,2020,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009316999754159,0.0007575227363681,0.0011212038151753
+West Bengal,2021,5-14 years,Female,Lower respiratory infections,Percent of total prevalent cases,0.0009513501362226,0.0007943286663021,0.0011388869217921
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2021. Seattle, WA: IHME, University of Washington, 2023. Available from http://vizhub.healthdata.org/gbd-compare. (Accessed 7/24/2024)."
+"For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"

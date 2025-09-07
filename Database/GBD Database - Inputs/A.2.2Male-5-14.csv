@@ -1,0 +1,964 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+Andhra Pradesh,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014051125038245,0.0010869871171409,0.0017676922523824
+Andhra Pradesh,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013789935731311,0.0010726980829269,0.001728245023295
+Andhra Pradesh,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013519731338133,0.0010594811431598,0.0016840330495366
+Andhra Pradesh,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013245707490774,0.0010356874099798,0.0016518248551196
+Andhra Pradesh,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012972753699268,0.0010204445059798,0.0016169267561179
+Andhra Pradesh,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012706889463615,0.0009946946090191,0.0015876218261746
+Andhra Pradesh,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012450985992033,0.000978859477072,0.0015451020372296
+Andhra Pradesh,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012201349665929,0.0009605155961401,0.0015102506956317
+Andhra Pradesh,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011954686832142,0.0009412558877632,0.0014929053948396
+Andhra Pradesh,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011707264482915,0.0009196835178751,0.0014619448900871
+Andhra Pradesh,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011456618669517,0.0008991130751882,0.0014313259380912
+Andhra Pradesh,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011192885457547,0.0008853742859886,0.0014025064142753
+Andhra Pradesh,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010919348238379,0.0008593167475904,0.0013602212541957
+Andhra Pradesh,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010648168341426,0.0008395031386378,0.0013334870849439
+Andhra Pradesh,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010395013485038,0.0008232812476984,0.0013105522835286
+Andhra Pradesh,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010178553962032,0.0008057922623519,0.0012869892099957
+Andhra Pradesh,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009997341588457,0.0007871956840945,0.0012555414298714
+Andhra Pradesh,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009834902724975,0.0007649899672632,0.0012281973572217
+Andhra Pradesh,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009688750816044,0.0007541921552786,0.0012046651445654
+Andhra Pradesh,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009552808443739,0.0007382075658684,0.0011937632201952
+Andhra Pradesh,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009418101920022,0.0007248808686762,0.0011848386964671
+Andhra Pradesh,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.000926792883329,0.000719400799518,0.0011672657158815
+Andhra Pradesh,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009108517685201,0.0007117368166875,0.0011584317626755
+Andhra Pradesh,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008960269735344,0.0006996194688888,0.0011371140983039
+Andhra Pradesh,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008844298438427,0.0006919634001051,0.0011226856160516
+Andhra Pradesh,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008781598173079,0.000680591245798,0.0011027175467976
+Andhra Pradesh,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.000878403171967,0.0006896415539698,0.001103066649905
+Andhra Pradesh,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008825285314889,0.0006911022006926,0.0011062850572153
+Andhra Pradesh,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008865823552756,0.0006921787155767,0.0011194281097747
+Andhra Pradesh,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008863071428794,0.0006870558334823,0.0011244014277624
+Andhra Pradesh,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008148805062738,0.0006383063355281,0.0010123893677473
+Andhra Pradesh,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008363293617048,0.0006479168774396,0.0010586416607855
+Arunachal Pradesh,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016737800261644,0.0013173848496303,0.0020909793292345
+Arunachal Pradesh,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016295740418279,0.0012912322022355,0.0020366767824973
+Arunachal Pradesh,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015865650829083,0.0012631642937151,0.0019757661060728
+Arunachal Pradesh,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015457046964835,0.0012326033025882,0.0019220198941419
+Arunachal Pradesh,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015078101583236,0.0012069167469764,0.0018679474351688
+Arunachal Pradesh,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001473951758765,0.0011749223401414,0.0018286361282295
+Arunachal Pradesh,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001441741375944,0.0011552025626846,0.0017846357222482
+Arunachal Pradesh,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014090170115701,0.0011302983106617,0.001746916640162
+Arunachal Pradesh,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013765989537967,0.0010970739959181,0.0017134131421519
+Arunachal Pradesh,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013452293385129,0.0010646795665215,0.0016758149823762
+Arunachal Pradesh,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013159144220489,0.001037000731858,0.0016446978412944
+Arunachal Pradesh,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012848088445403,0.001018054044363,0.0015981431988858
+Arunachal Pradesh,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012505490951537,0.0009933067740962,0.0015452359824877
+Arunachal Pradesh,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012178999090098,0.0009696134831749,0.0015041598694386
+Arunachal Pradesh,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011917218597999,0.0009487198678481,0.0014735435419861
+Arunachal Pradesh,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011771571827713,0.000938258677682,0.0014548418695989
+Arunachal Pradesh,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011743332547808,0.0009361082700747,0.0014453733245366
+Arunachal Pradesh,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011775229810663,0.0009413425587723,0.0014520593166765
+Arunachal Pradesh,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011832993838716,0.0009464463830099,0.0014601137868918
+Arunachal Pradesh,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011878443359922,0.0009465257656901,0.0014744124512253
+Arunachal Pradesh,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011864553670804,0.0009421807218941,0.0014838482136359
+Arunachal Pradesh,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011691759877029,0.0009301360942118,0.0014535636138224
+Arunachal Pradesh,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011356723504577,0.0009071515458204,0.0014100437731229
+Arunachal Pradesh,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010961366880274,0.000873508757801,0.0013643864548054
+Arunachal Pradesh,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010609405014712,0.0008439125511647,0.0013162764774273
+Arunachal Pradesh,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010408906651758,0.0008261575180541,0.0012917088384562
+Arunachal Pradesh,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010338107344612,0.0008226151130912,0.0012830971795787
+Arunachal Pradesh,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010298241659868,0.000824063684686,0.0012806149770519
+Arunachal Pradesh,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010276122300873,0.0008294219603549,0.0012745835484462
+Arunachal Pradesh,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010257723235518,0.0008212616623777,0.0012758968960334
+Arunachal Pradesh,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009667839429504,0.0007763527195079,0.0012138960254661
+Arunachal Pradesh,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009813549494583,0.0007869896391132,0.0012113652248189
+Assam,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018189423063024,0.0014370881327388,0.0022882551299794
+Assam,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017865757505979,0.0014242108546207,0.0022151042097111
+Assam,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017531550015808,0.0014041185223296,0.0021605686108616
+Assam,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017195045312578,0.0013704549813319,0.0021100718473854
+Assam,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016867156014035,0.0013498057279875,0.0020706481162526
+Assam,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016561424059995,0.0013190452597947,0.0020363241171934
+Assam,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016219934266848,0.0013037170902407,0.001987576480163
+Assam,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015816397449017,0.001268734055051,0.0019333890948754
+Assam,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015408207032145,0.0012397205740748,0.0018828822482824
+Assam,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015052436679302,0.0012026265708166,0.0018465778323984
+Assam,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001480666338571,0.0011777284843916,0.0018295343596282
+Assam,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014659279682914,0.0011879981782451,0.0018166987096261
+Assam,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014553769812054,0.0011838648475344,0.0017869371444159
+Assam,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014477920590492,0.0011835034635553,0.0017843725108557
+Assam,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014418681449224,0.0011824151175797,0.0017949702948573
+Assam,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014361462813143,0.0011644961998336,0.001807397314057
+Assam,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014321595990461,0.0011639583198171,0.0017762124713747
+Assam,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014310280333348,0.0011655707249892,0.0017662210390405
+Assam,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014302892179563,0.0011596524257798,0.001766737581436
+Assam,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014272664573913,0.0011539162724426,0.0017686755397588
+Assam,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001419125052712,0.0011233530790674,0.0017643760027183
+Assam,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013958545970947,0.0011110050236752,0.0017169429894299
+Assam,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013557059711329,0.0010762533477368,0.0016564375384369
+Assam,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013083224223074,0.0010379865624639,0.0016002190415323
+Assam,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012634551614443,0.0010041128927913,0.0015433608268536
+Assam,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012309085024869,0.0009827487755152,0.001498830608142
+Assam,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012093709425381,0.0009791476220817,0.0014668494140127
+Assam,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011902595922299,0.0009577525903272,0.001447683945833
+Assam,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011719684242785,0.0009452438682256,0.001423725882976
+Assam,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011529280154572,0.0009263907510015,0.0014070403204588
+Assam,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001090393671417,0.000870949989192,0.0013669272113163
+Assam,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010992737874469,0.0008912699932502,0.001358542567279
+Bihar,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0019103209820734,0.0015210074245142,0.0024121217192913
+Bihar,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018615343666671,0.0014891317322883,0.0023360847372658
+Bihar,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018142810939377,0.0014655817102732,0.0022419638861226
+Bihar,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017718796760529,0.0014325094038374,0.0021948910472037
+Bihar,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017374809581694,0.0014063466135836,0.002156527285658
+Bihar,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017141113620623,0.0013795152950169,0.0021417518639382
+Bihar,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017001492055831,0.0013834057363933,0.0021155924243716
+Bihar,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016913761984274,0.0013762960217234,0.0020963159936169
+Bihar,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016864733948765,0.0013663762010687,0.0020808534677133
+Bihar,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016837397000225,0.0013407714036555,0.0020741843398278
+Bihar,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016811811127222,0.0013131451329197,0.0020740886442128
+Bihar,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016773240814183,0.00133238659496,0.0020629393370936
+Bihar,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016719320620961,0.0013415956637894,0.0020430695759695
+Bihar,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016644157169832,0.0013251870373853,0.0020564353626629
+Bihar,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016548100912696,0.0013169364066597,0.0020554895046314
+Bihar,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016435610377408,0.0012906144237884,0.0020583298418755
+Bihar,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016336866848518,0.001300096746527,0.0020355239399034
+Bihar,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016260360012733,0.0012996883026894,0.0020092956304298
+Bihar,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016179016212696,0.0013020490535081,0.0019990558537103
+Bihar,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016061904973506,0.0012992726826025,0.0019825678437953
+Bihar,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015874831914282,0.0012823757092996,0.0019641166635381
+Bihar,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015476441865793,0.0012619603108083,0.0018999903111191
+Bihar,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014839841351423,0.0012167917644376,0.0018191246633593
+Bihar,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014099143902342,0.0011577197087957,0.0017195582608977
+Bihar,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013389811051743,0.0010934903842291,0.0016381308011405
+Bihar,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012847888026864,0.0010259706651445,0.0015792128060258
+Bihar,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012494157877383,0.0010086793030723,0.0015238847585425
+Bihar,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012210595783277,0.0009908179114987,0.0014941314196857
+Bihar,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001192076857003,0.0009582256970788,0.0014574805085891
+Bihar,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011546265963371,0.0009145692546788,0.0014218505018346
+Bihar,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010717528424814,0.0008703157432659,0.0013407752814639
+Bihar,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010836530373333,0.0008554143062073,0.0013466048722129
+Chhattisgarh,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015484471695525,0.0012109652158284,0.002000294666809
+Chhattisgarh,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014973548676087,0.0011756231549424,0.0019135218475725
+Chhattisgarh,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014480188788832,0.0011349938193239,0.0018351494220243
+Chhattisgarh,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001402655617602,0.0010988687569866,0.001757464918878
+Chhattisgarh,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013632624615171,0.0010679300668911,0.0017156739522312
+Chhattisgarh,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013317019525084,0.001041955153629,0.001682662493445
+Chhattisgarh,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013066358559454,0.0010245391731923,0.0016361598114591
+Chhattisgarh,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001285003989107,0.001020594245069,0.001599845741825
+Chhattisgarh,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012657982649676,0.0010053022621455,0.0015635162217777
+Chhattisgarh,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012480602138688,0.0009861684154941,0.0015561019382271
+Chhattisgarh,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012309011868135,0.0009805521253669,0.0015540803081874
+Chhattisgarh,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001214312677749,0.0009686093916538,0.001515004099129
+Chhattisgarh,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011988274806121,0.000968010686698,0.0014891856322154
+Chhattisgarh,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011837012245747,0.0009555057870742,0.0014627025339458
+Chhattisgarh,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011683659064063,0.0009403071842258,0.0014588094404005
+Chhattisgarh,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011525164516748,0.0009151792003812,0.0014514241818276
+Chhattisgarh,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011366113126044,0.0009126121374808,0.0014119597380286
+Chhattisgarh,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011206731163343,0.0008967162475621,0.0013862315898794
+Chhattisgarh,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011040084892066,0.0008842131756579,0.0013739608546519
+Chhattisgarh,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010855898362325,0.0008598453576852,0.0013704393333236
+Chhattisgarh,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010641213338378,0.0008380970903011,0.0013544430752581
+Chhattisgarh,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010347540363365,0.0008083193747318,0.0013034609383451
+Chhattisgarh,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009975470574532,0.0007816727276208,0.0012560725329678
+Chhattisgarh,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009583994550911,0.0007534898992481,0.0011982246592481
+Chhattisgarh,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009232953300657,0.0007218012200327,0.0011533996145661
+Chhattisgarh,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008985165960372,0.0006963883379228,0.0011158915663198
+Chhattisgarh,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008839444863594,0.0006915199365733,0.001105189375298
+Chhattisgarh,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008735074559552,0.0006943528252048,0.0010870735803601
+Chhattisgarh,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008643965268175,0.0006843798303057,0.0010795794535375
+Chhattisgarh,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008536513689972,0.0006787098678899,0.0010783467033739
+Chhattisgarh,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008022836996312,0.0006412871836517,0.0009885384180746
+Chhattisgarh,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008097554408515,0.0006462373335741,0.0010189320157752
+Delhi,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016749302109993,0.0013361603581849,0.0020601276209939
+Delhi,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016448127359364,0.0013311058400037,0.0020280678916725
+Delhi,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016139484659825,0.0013123535532866,0.0019953767555162
+Delhi,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015837358635458,0.0012840439214451,0.0019360168233633
+Delhi,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015553647673713,0.0012596134399878,0.0018918575855435
+Delhi,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015298242120732,0.0012248044635307,0.0018704115901484
+Delhi,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015034110543391,0.0012114482570677,0.0018245167390631
+Delhi,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001473063885587,0.0011930963288501,0.0017929162454128
+Delhi,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014408079865392,0.0011661621563134,0.0017652675367519
+Delhi,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014087089348238,0.0011379574321088,0.0017282023544985
+Delhi,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013788114474707,0.0011104327837086,0.0016976173190224
+Delhi,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013483711021367,0.0010878084119377,0.0016589625964868
+Delhi,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013151462871757,0.0010686936481328,0.0016166678499932
+Delhi,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012816906881621,0.0010420881597037,0.0015745333759058
+Delhi,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012511186066628,0.0010077533966759,0.0015384365654774
+Delhi,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012268047886024,0.0009726934169631,0.0015182251090845
+Delhi,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012080211645968,0.0009586183036868,0.0014978860004445
+Delhi,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011912415295535,0.0009484922081778,0.0014726263261258
+Delhi,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011758613115631,0.0009404008399738,0.0014555507987951
+Delhi,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011613147589447,0.0009282772557859,0.0014378851411704
+Delhi,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001147178609922,0.0009148916117077,0.0014195634895075
+Delhi,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011330096208892,0.0009041667839454,0.0013993356003422
+Delhi,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011194112704957,0.0008892497378181,0.0013737566062064
+Delhi,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011072540664597,0.0008769395900195,0.0013667765438583
+Delhi,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010971430627591,0.000865284621779,0.0013432047698843
+Delhi,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010894417083207,0.0008557343040376,0.0013337752247025
+Delhi,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010850546580172,0.0008559481170247,0.0013409496715668
+Delhi,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010836602602883,0.0008599115733383,0.0013398485993685
+Delhi,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010835814698376,0.0008543747124344,0.0013557405058534
+Delhi,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001082951386582,0.0008477369982938,0.0013689471727347
+Delhi,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010184154692867,0.0008078458043519,0.0012764803421457
+Delhi,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010283712798886,0.0007908516405362,0.001292615177849
+Goa,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016699807785347,0.0013154221805395,0.0020819028129836
+Goa,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016264504419066,0.0013035085023278,0.0020313506020003
+Goa,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015839801202946,0.001279416201597,0.0019635611012267
+Goa,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015444975832504,0.0012541732688993,0.0019089089979477
+Goa,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015097867578658,0.0012199906275556,0.001856307608086
+Goa,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001481476318924,0.0011957103090371,0.0018262767715619
+Goa,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014551288803488,0.0011758348306079,0.0017936289841798
+Goa,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014265342740779,0.0011581344276028,0.0017637790952068
+Goa,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013983328992664,0.0011368322059201,0.0017233811072588
+Goa,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013730960290204,0.0011137958589322,0.0017024782076785
+Goa,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013529181057835,0.0010980241221429,0.0016883419510989
+Goa,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013372118889014,0.0010891235785939,0.0016675258037589
+Goa,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013243856176335,0.0010782197916793,0.0016630243472182
+Goa,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013153478847739,0.0010678542735116,0.0016504287730088
+Goa,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013104270081941,0.0010521283436195,0.0016397926505347
+Goa,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013101376542127,0.0010369903778567,0.0016387311507546
+Goa,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013170638088492,0.0010524638984047,0.0016497334702895
+Goa,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013307413988793,0.0010710443366616,0.0016602443739937
+Goa,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013466741558816,0.0010851265705747,0.0016718290072035
+Goa,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013597934827204,0.001088042118625,0.001692903717417
+Goa,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001364350274698,0.0010828948091509,0.0017091985743581
+Goa,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013538676458126,0.0010767545751446,0.0016856268199758
+Goa,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013308348837978,0.0010561907771145,0.0016599077998072
+Goa,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013030765731415,0.0010340571130429,0.0016198513676108
+Goa,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012786534487786,0.0010138468979612,0.0015800638737523
+Goa,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012658721506209,0.0010033337477158,0.0015635194837825
+Goa,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012668506298602,0.0010072773949178,0.0015558524789535
+Goa,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012750124295492,0.0010149224940709,0.0015627195601567
+Goa,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012837530168638,0.0010195472611108,0.0015685833467635
+Goa,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001286107774432,0.0010222349391328,0.0015781551372168
+Goa,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011941361720174,0.0009578574154652,0.0014740837068901
+Goa,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012170101616039,0.0009655575334105,0.0015032363592628
+Gujarat,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017177961459788,0.0013920713708577,0.0021035728473088
+Gujarat,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017053193256126,0.0013877421368457,0.002077032235929
+Gujarat,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016893221716485,0.0013743474920836,0.0020586253544632
+Gujarat,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001670861931218,0.0013579547702421,0.0020329306394273
+Gujarat,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016510700919955,0.0013279076165708,0.0020057888524215
+Gujarat,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016311022095546,0.0012981872520658,0.0019958417757638
+Gujarat,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016069425381862,0.0012979613621097,0.0019744493610848
+Gujarat,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015763124937771,0.0012731082167951,0.0019346517443011
+Gujarat,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015428609534083,0.0012421885055254,0.0018832525906949
+Gujarat,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015103067385457,0.0012121971748059,0.0018553514272478
+Gujarat,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014824832835453,0.0011770363237993,0.0018427304956291
+Gujarat,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014563761257612,0.0011683141576416,0.0017890957445811
+Gujarat,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014285313365891,0.0011603875640985,0.0017274417043654
+Gujarat,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014013327798786,0.0011457742806305,0.0016954526750669
+Gujarat,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013774942840218,0.0011265164938183,0.0016705391506246
+Gujarat,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013602777191875,0.0011036543615992,0.0016526140048116
+Gujarat,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013510679677607,0.0011042023263741,0.0016370704714759
+Gujarat,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013472308808534,0.0010999947724375,0.0016327752179795
+Gujarat,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013455757128499,0.0010979451821665,0.0016319599636483
+Gujarat,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013425996011845,0.0010871837621533,0.0016321065721264
+Gujarat,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013346366474871,0.0010726401934738,0.0016382594623001
+Gujarat,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013150250736442,0.0010551089071778,0.0016076963942133
+Gujarat,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012850057015209,0.0010409578149265,0.0015655443482544
+Gujarat,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012521022353493,0.0010105320564382,0.0015179264254359
+Gujarat,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012239440256281,0.0009832308097123,0.00148846488975
+Gujarat,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012080864125515,0.0009674957894497,0.001475084503205
+Gujarat,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012035646282631,0.0009768742782192,0.0014676249311421
+Gujarat,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012024726165845,0.0009747596721542,0.0014642234640677
+Gujarat,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012026053612072,0.0009703178484848,0.001455245556594
+Gujarat,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012012744843029,0.0009651008540814,0.0014672227365037
+Gujarat,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011241898034555,0.0008997905541516,0.0013686819732236
+Gujarat,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011364106696655,0.0009081725733938,0.0014146065702413
+Haryana,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012985260659291,0.0010352082761039,0.0016076301086726
+Haryana,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013045482419146,0.001044347654901,0.0016240800056259
+Haryana,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013047519055869,0.0010487184236598,0.0016378108945267
+Haryana,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001300824259763,0.0010473957407763,0.0016451878471675
+Haryana,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012944295415703,0.001033939143909,0.0016387220154359
+Haryana,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012872154046816,0.0010209713786427,0.0016268584154115
+Haryana,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012720601973156,0.0010089906228412,0.001608297054935
+Haryana,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012458085264474,0.0009851691631392,0.0015815247408754
+Haryana,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012158668640293,0.0009615487252121,0.001551557249264
+Haryana,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011893982502951,0.0009488259916057,0.0015214858225356
+Haryana,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011736669234307,0.0009253578410729,0.0014902259032746
+Haryana,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011662408359126,0.000916409846826,0.0014665939742717
+Haryana,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011598282527028,0.000924488399405,0.0014602039695203
+Haryana,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011540827912919,0.000914600374363,0.0014558394218743
+Haryana,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001148819243893,0.0009065823907631,0.0014516791995167
+Haryana,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001144150451872,0.0009069278797637,0.0014265036566899
+Haryana,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011445455228983,0.0009128822904039,0.0014339589718938
+Haryana,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011514072234777,0.0009227102165159,0.0014307260621164
+Haryana,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011600257594083,0.0009345385961405,0.0014293593583367
+Haryana,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011655441182203,0.0009383213387594,0.0014353408948185
+Haryana,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011628876708557,0.0009366474519063,0.001436069992547
+Haryana,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011493418612044,0.0009207005621694,0.0014186423595147
+Haryana,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011289440317369,0.0009016621365395,0.0013939961310089
+Haryana,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011060994679802,0.0008817789006538,0.0013674972868291
+Haryana,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010853498647994,0.0008534050024205,0.0013352338422346
+Haryana,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001071426852597,0.0008313821612022,0.0013166215136065
+Haryana,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001064184245836,0.0008356693669845,0.0013108540576969
+Haryana,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010601194102349,0.0008314305980595,0.0013067128988145
+Haryana,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010583874245065,0.0008294201778066,0.0013110142604007
+Haryana,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010578964742894,0.0008250190429615,0.001315333182485
+Haryana,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009926894623771,0.000791128643765,0.0012357265496943
+Haryana,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010114908692599,0.000799144433855,0.0012527945946566
+Himachal Pradesh,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015517470946294,0.0012333212340217,0.0019770192123048
+Himachal Pradesh,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015126496289936,0.0012073664130057,0.0019034458380303
+Himachal Pradesh,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014687117128164,0.0011785101630985,0.0018516205824284
+Himachal Pradesh,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014211815246036,0.0011403304065989,0.0017744049329894
+Himachal Pradesh,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013714473715964,0.0010949050839294,0.0017059707880915
+Himachal Pradesh,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013207741798915,0.0010380046929395,0.001641350083779
+Himachal Pradesh,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012605977896194,0.0009951251492432,0.0015579283746677
+Himachal Pradesh,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011903994444591,0.0009440523583022,0.0014716571674831
+Himachal Pradesh,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011228325608846,0.0008929792801978,0.0013829457965048
+Himachal Pradesh,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010703384281844,0.00084693233564,0.001328178238196
+Himachal Pradesh,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010453179699297,0.0008196977782944,0.0013030779971135
+Himachal Pradesh,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010417695888052,0.0008235940955511,0.0013023256498334
+Himachal Pradesh,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001043804189272,0.0008258081478794,0.0013171985370939
+Himachal Pradesh,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010487294071497,0.0008315111766958,0.001326659613843
+Himachal Pradesh,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001053950813751,0.0008362052352909,0.0013337660085091
+Himachal Pradesh,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010567786269687,0.0008362700170398,0.0013438493952183
+Himachal Pradesh,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010555736800554,0.0008373623350195,0.0013471019231392
+Himachal Pradesh,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010511460141362,0.0008361903311163,0.0013386007440621
+Himachal Pradesh,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010442615310594,0.0008330940120927,0.0013125683811093
+Himachal Pradesh,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010352730522649,0.0008191625445592,0.0012938853434159
+Himachal Pradesh,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010248521135072,0.0008072879799779,0.0012815108371819
+Himachal Pradesh,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010096319687638,0.0007960415567172,0.0012547018364436
+Himachal Pradesh,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.000989330926199,0.0007798067719819,0.0012260825015121
+Himachal Pradesh,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009684521905157,0.0007678334989664,0.0012026208485869
+Himachal Pradesh,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009516004144636,0.000759397353496,0.0011838513776279
+Himachal Pradesh,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009434870962107,0.000753499629881,0.0011710772008063
+Himachal Pradesh,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009450092172771,0.0007573977102782,0.0011668816836797
+Himachal Pradesh,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.000951136034373,0.0007643862801715,0.0011646828720654
+Himachal Pradesh,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.000957398204095,0.0007664049056246,0.001178075940243
+Himachal Pradesh,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009591662463613,0.0007684604229029,0.0011827192411477
+Himachal Pradesh,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008988961045894,0.0007208303492211,0.0010992709329273
+Himachal Pradesh,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009088401854834,0.0007118725038104,0.0011272868782579
+Jammu & Kashmir and Ladakh,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.002071746012682,0.0016475880033666,0.0025864072011924
+Jammu & Kashmir and Ladakh,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.002024146413145,0.0016234865771967,0.0025182424138651
+Jammu & Kashmir and Ladakh,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0019755117261539,0.0015890399965712,0.0024387422938011
+Jammu & Kashmir and Ladakh,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0019273883099145,0.0015459396560778,0.0023655315117827
+Jammu & Kashmir and Ladakh,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018815067947766,0.0015072701570241,0.0022920471449292
+Jammu & Kashmir and Ladakh,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018394883251563,0.0014708163933411,0.0022414363866734
+Jammu & Kashmir and Ladakh,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017956603880495,0.0014355451485795,0.0021932437094109
+Jammu & Kashmir and Ladakh,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017466005066116,0.0014028803606204,0.0021310697962144
+Jammu & Kashmir and Ladakh,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016972221392287,0.0013627503393244,0.0020718375565271
+Jammu & Kashmir and Ladakh,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016525603804614,0.0013215583579916,0.002031001442245
+Jammu & Kashmir and Ladakh,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016183907001198,0.001286126425356,0.0020108188283939
+Jammu & Kashmir and Ladakh,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015938952856652,0.0012663983456588,0.0019668595997874
+Jammu & Kashmir and Ladakh,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015741015834103,0.001252936675119,0.0019393962000596
+Jammu & Kashmir and Ladakh,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015597221538011,0.0012507572731337,0.0019371751091988
+Jammu & Kashmir and Ladakh,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015506578571317,0.0012321083353752,0.0019445961965188
+Jammu & Kashmir and Ladakh,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015469386420904,0.0012304871292721,0.0019280055960752
+Jammu & Kashmir and Ladakh,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001551078608936,0.0012312312897798,0.0019310101521591
+Jammu & Kashmir and Ladakh,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015622609716797,0.0012444457230222,0.001924219338005
+Jammu & Kashmir and Ladakh,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015751943659652,0.001257833300741,0.001929190260542
+Jammu & Kashmir and Ladakh,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015844285937268,0.001268191177869,0.0019470886463274
+Jammu & Kashmir and Ladakh,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015838829572452,0.0012708407377377,0.0019545005356201
+Jammu & Kashmir and Ladakh,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015544049879972,0.0012525743546354,0.0019109772447106
+Jammu & Kashmir and Ladakh,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014933649273443,0.0012152158161373,0.0018239381911174
+Jammu & Kashmir and Ladakh,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014217001130646,0.0011667743247325,0.0017199785964752
+Jammu & Kashmir and Ladakh,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013595253981301,0.0011123570762783,0.0016446846928481
+Jammu & Kashmir and Ladakh,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013259154569318,0.0010802698329445,0.0015942635098467
+Jammu & Kashmir and Ladakh,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013213020173095,0.001086736823636,0.0016037504044577
+Jammu & Kashmir and Ladakh,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013299670155354,0.0010967618751936,0.0016121797297223
+Jammu & Kashmir and Ladakh,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013427642959898,0.0011080749290923,0.0016334362785013
+Jammu & Kashmir and Ladakh,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013508881897125,0.0011040659606879,0.0016605798655888
+Jammu & Kashmir and Ladakh,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012615141582743,0.0010290066821428,0.0015517052377118
+Jammu & Kashmir and Ladakh,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012814807078994,0.0010339789411692,0.0015681721427429
+Jharkhand,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017194636638682,0.0013637352163114,0.0021377815942946
+Jharkhand,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017466425510606,0.0013895922393282,0.0021438807137358
+Jharkhand,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017703138390852,0.0014194216272795,0.0021620442471136
+Jharkhand,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017897825646888,0.0014244398992077,0.0021827792263526
+Jharkhand,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018042937745317,0.0014518805703375,0.0021993477587215
+Jharkhand,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018130794369778,0.0014616169092578,0.002183997268309
+Jharkhand,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018219457632419,0.0014818023040806,0.0022000305929121
+Jharkhand,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018352282666823,0.0014899584324192,0.0022175036267681
+Jharkhand,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018496103792541,0.0015186202368343,0.0022646723623867
+Jharkhand,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018618730617337,0.0015146930322317,0.0022858990065423
+Jharkhand,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018688059574362,0.0015043999958182,0.0022942140862967
+Jharkhand,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018685318002165,0.0015139883762466,0.0022832158663541
+Jharkhand,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018624954375351,0.0015224769347093,0.0022868280856833
+Jharkhand,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018512820634556,0.0015125616996961,0.002277562765204
+Jharkhand,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018357651519452,0.0015019122561248,0.002251744438555
+Jharkhand,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018172694599431,0.0014851389466176,0.0022501516575056
+Jharkhand,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017934720600943,0.0014652052831134,0.0021927062567904
+Jharkhand,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017619614204261,0.0014418830043961,0.0021440795289007
+Jharkhand,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017248738281739,0.0014058513805508,0.0020952216876802
+Jharkhand,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016841191853705,0.0013712809572488,0.0020597992916586
+Jharkhand,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016411590202275,0.0013367254649454,0.0020152076312027
+Jharkhand,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015903837941828,0.0012979091224906,0.0019413108446953
+Jharkhand,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015288046842765,0.001246488743604,0.0018581021668798
+Jharkhand,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001461177723344,0.001186887708673,0.0017714617865892
+Jharkhand,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013923420014023,0.0011149255864942,0.0016960640944778
+Jharkhand,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013270538697237,0.0010603305842564,0.0016235623693965
+Jharkhand,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012578596573088,0.0010055782535739,0.0015301905500578
+Jharkhand,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011805063422503,0.000944336144122,0.0014436893384321
+Jharkhand,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001104341416501,0.0008774912640594,0.0013768305013872
+Jharkhand,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010390110176566,0.0008157724819112,0.0013063591944567
+Jharkhand,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009657372930013,0.0007598431151304,0.0012150182706983
+Jharkhand,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009786961631502,0.0007593789493489,0.0012312661424954
+Karnataka,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013253135977358,0.001055699192309,0.0016715763863643
+Karnataka,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012971300210649,0.001039465335663,0.0016288164527498
+Karnataka,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012679335863217,0.0010168855600906,0.0015907638831676
+Karnataka,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012387016700888,0.0009910769081275,0.0015449186780356
+Karnataka,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012103892888883,0.0009646328631015,0.0015080353964404
+Karnataka,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011839397778226,0.0009425841745416,0.0014705880674611
+Karnataka,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011574093608604,0.0009224045999518,0.0014382218324472
+Karnataka,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011295267196053,0.0009027080737874,0.0014084160714322
+Karnataka,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011022045538227,0.0008808791694583,0.0013825925737028
+Karnataka,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010772227557615,0.0008530320793603,0.0013617448877894
+Karnataka,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010563347639642,0.0008316321626739,0.0013390920814368
+Karnataka,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010383213560645,0.0008196969323989,0.001321285734153
+Karnataka,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010219516702471,0.0008057276428833,0.0012985776840474
+Karnataka,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001008422517632,0.0007915699428309,0.0012785177034729
+Karnataka,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009991207974574,0.0007803471784385,0.0012605053726422
+Karnataka,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009955713353792,0.000768973533865,0.0012522240185334
+Karnataka,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010010739493555,0.0007863469064069,0.0012547671169646
+Karnataka,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010145552114451,0.0008022432254983,0.0012722848013635
+Karnataka,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010307578381136,0.0008183528730177,0.0012899046229099
+Karnataka,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001044205620788,0.0008352733349345,0.001301235801732
+Karnataka,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010493228847283,0.0008340155407565,0.0013015112581974
+Karnataka,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010450864142821,0.0008325313837371,0.0012906959556977
+Karnataka,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010360917229144,0.0008268972939325,0.0012758370222825
+Karnataka,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010249074519455,0.000820492937399,0.0012545774727537
+Karnataka,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010141915527292,0.0008151699271767,0.0012269861913133
+Karnataka,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010067655127897,0.0008038044983006,0.0012277976011522
+Karnataka,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010014879763073,0.0007994100931729,0.001223060635315
+Karnataka,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009962246480185,0.0007958107296813,0.0012085535507666
+Karnataka,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.000992364670489,0.0007925285414585,0.0012027270717197
+Karnataka,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009912400441843,0.0007829146132534,0.0012137457500948
+Karnataka,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009475229017705,0.0007569950715937,0.0011998057775031
+Karnataka,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009570936079679,0.000751568055474,0.001194598881974
+Kerala,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001601207207628,0.0012776554922762,0.0019927543059318
+Kerala,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015778605370171,0.0012747397338368,0.0019589526439915
+Kerala,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015535649805745,0.0012617697615605,0.0019178297399266
+Kerala,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015291011213631,0.0012466277352041,0.0018807213594967
+Kerala,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015048990186099,0.0012225829202374,0.001849717392676
+Kerala,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014815665658921,0.0011936415298737,0.0018255048640367
+Kerala,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014543776881894,0.0011783305374112,0.0017822214883965
+Kerala,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014208133284796,0.0011653518357945,0.0017339547250364
+Kerala,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013850603896008,0.0011295152816833,0.0016893257549216
+Kerala,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013514336282257,0.0010973320069537,0.0016485065115519
+Kerala,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013240754269391,0.0010632114226605,0.0016167242405299
+Kerala,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001303577950365,0.0010578738565057,0.0015897540379917
+Kerala,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012874305467213,0.0010373099515142,0.0015820181172311
+Kerala,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012742863425216,0.0010283051853143,0.0015655460985377
+Kerala,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012633590630611,0.0010153091803035,0.0015643609334333
+Kerala,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012541231200993,0.0009940195396283,0.001566361907667
+Kerala,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012491154849008,0.0009843322037268,0.0015553492094696
+Kerala,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012494629879671,0.0009816330592631,0.0015495135401669
+Kerala,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012520334290589,0.0009727042852981,0.0015483486081248
+Kerala,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012531157022883,0.0009702474849958,0.0015504637557745
+Kerala,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012486064463506,0.0009579524526019,0.0015524846634433
+Kerala,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012348947599075,0.0009530539554217,0.0015297552409453
+Kerala,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012140635436904,0.0009411990620219,0.0015067340610624
+Kerala,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011907196798261,0.0009181217744681,0.0014814270272123
+Kerala,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011696685258306,0.0009069471084454,0.0014576439371286
+Kerala,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011561677465447,0.000893372438697,0.0014432482083983
+Kerala,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011526332553716,0.0008943496729333,0.0014411299460604
+Kerala,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011548246360041,0.0008956199215042,0.0014465111251303
+Kerala,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001158425415697,0.0008950765108945,0.0014502279016646
+Kerala,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001159385729222,0.0008974567671554,0.0014566201010886
+Kerala,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010855596232845,0.0008399833094256,0.0013564927054326
+Kerala,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010959562188809,0.0008601283431297,0.0013720630444587
+Madhya Pradesh,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018197008495702,0.0014636313103711,0.0022475937774367
+Madhya Pradesh,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001781399452261,0.0014371554844905,0.002197721535988
+Madhya Pradesh,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017426203962166,0.0014007800596208,0.0021518805075232
+Madhya Pradesh,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017046621242613,0.0013548746944957,0.0020885453992114
+Madhya Pradesh,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016687703200736,0.0013225199678733,0.0020403369778233
+Madhya Pradesh,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016362911497676,0.0012971969934684,0.0019913751626243
+Madhya Pradesh,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016051197707657,0.0012817878740946,0.0019633850527899
+Madhya Pradesh,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015734129948322,0.0012690217074338,0.0019172161143607
+Madhya Pradesh,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015426441233654,0.0012418039522516,0.0018773265220892
+Madhya Pradesh,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015141451143153,0.0012143978623409,0.0018664308167953
+Madhya Pradesh,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014892535443872,0.0011962789697989,0.0018494862509741
+Madhya Pradesh,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014638925812955,0.0011827520963776,0.0018097760575369
+Madhya Pradesh,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014357230167334,0.0011611983289657,0.0017815497367112
+Madhya Pradesh,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014083985249898,0.0011387601289082,0.001738454440568
+Madhya Pradesh,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013857513448556,0.0011162090542941,0.0017033311708493
+Madhya Pradesh,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013716043122826,0.0010960526592074,0.0016735535922917
+Madhya Pradesh,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013711248129793,0.0011046927018068,0.0016657212972518
+Madhya Pradesh,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013821988004282,0.0011266812377855,0.0016844040178059
+Madhya Pradesh,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013975655461566,0.0011400439061208,0.0016889724719614
+Madhya Pradesh,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014095899271971,0.0011418632139855,0.0017158286990315
+Madhya Pradesh,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014102002013227,0.0011414101910325,0.0017281561287405
+Madhya Pradesh,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013971160239249,0.0011353305433749,0.0017051314033679
+Madhya Pradesh,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013762741751617,0.0011186989462175,0.0016803147632509
+Madhya Pradesh,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013513323436972,0.0010962239587521,0.0016503869310596
+Madhya Pradesh,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001326018311128,0.001075165012659,0.0016106449912727
+Madhya Pradesh,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001304232767314,0.0010563591551188,0.0015854828267916
+Madhya Pradesh,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012845503836253,0.001050699125089,0.0015530394706952
+Madhya Pradesh,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012636217096921,0.0010316110751226,0.0015298470076713
+Madhya Pradesh,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012423978178887,0.0010183770796772,0.0015260864498823
+Madhya Pradesh,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012217293981322,0.00098304311628,0.0015314213790857
+Madhya Pradesh,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011554836433414,0.0009429606119738,0.0014320835132316
+Madhya Pradesh,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011794203485071,0.0009486236421863,0.0014576180974034
+Maharashtra,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018150982256564,0.0014580845099371,0.0022459255110183
+Maharashtra,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017878994564871,0.0014396624365075,0.0022132236394234
+Maharashtra,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017561271147842,0.0014249374919312,0.0021803859930493
+Maharashtra,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017209365264125,0.0013948309491053,0.0021374646401113
+Maharashtra,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001683760411206,0.0013569537310817,0.002085435582414
+Maharashtra,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016460945889063,0.0013220140671825,0.0020395913176851
+Maharashtra,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016031106120985,0.0013006202741384,0.0019820453595648
+Maharashtra,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015534997497054,0.001267608128185,0.0019114627811717
+Maharashtra,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015036060081412,0.0012235908092574,0.0018376390026255
+Maharashtra,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014597685462852,0.001184411819037,0.0017849203937195
+Maharashtra,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014279613226951,0.001157750274829,0.0017595853832625
+Maharashtra,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014073693027361,0.0011398736793934,0.0017166113873761
+Maharashtra,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001392880065397,0.0011308167854434,0.0017134368373287
+Maharashtra,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013832889299536,0.0011164141388742,0.0017078848879173
+Maharashtra,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013775394522773,0.0011110205450011,0.0016950147775882
+Maharashtra,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013742306760107,0.0011031758402601,0.0016948405882284
+Maharashtra,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001378262069417,0.0011137602718529,0.0016918997686846
+Maharashtra,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013917234500061,0.0011243802172854,0.0017098948689211
+Maharashtra,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014089480197528,0.0011324612895672,0.0017307771912144
+Maharashtra,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014231042444618,0.0011401139952973,0.0017357635130878
+Maharashtra,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014276445703696,0.0011409998594935,0.0017534690275737
+Maharashtra,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001405351144663,0.0011269887809474,0.0017233211383642
+Maharashtra,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001355248119914,0.0010953380391262,0.0016580668681437
+Maharashtra,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012948718834926,0.0010468742196744,0.0015790725189775
+Maharashtra,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012422182792751,0.0010025336367616,0.0015167667620448
+Maharashtra,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012155670465195,0.0009819545983079,0.0014853510247784
+Maharashtra,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012099660875379,0.0009794387803362,0.001479168327772
+Maharashtra,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012072630555972,0.0009804994082167,0.0014640109358767
+Maharashtra,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012058531606079,0.0009807947610655,0.0014701479621106
+Maharashtra,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012040338047899,0.000973669177761,0.001480065384217
+Maharashtra,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011336348315767,0.0009106003713542,0.0013887651438431
+Maharashtra,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011620623008264,0.0009262219162279,0.0014354594776512
+Manipur,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016874926202906,0.0013632060989024,0.0020996950250377
+Manipur,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016514341649871,0.0013367230794592,0.0020401164524386
+Manipur,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016161115739975,0.0013066063846408,0.0019817038661047
+Manipur,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015824009447021,0.0012848291778017,0.0019439037905312
+Manipur,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015516166303477,0.0012588611896915,0.0019200140532947
+Manipur,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001524968527679,0.0012367975240174,0.0018875885121417
+Manipur,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015011367167843,0.0012250030235403,0.0018644652852038
+Manipur,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014777685673652,0.0012004107886252,0.001827985785458
+Manipur,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001454843220737,0.0011868397227616,0.0017926139386192
+Manipur,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014319837586147,0.0011472144778098,0.0017684040214401
+Manipur,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014090143619067,0.0011222586486715,0.0017434940577572
+Manipur,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013815002944859,0.0011051466934457,0.0017068431338159
+Manipur,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013485873176571,0.0010817977015404,0.0016766409813532
+Manipur,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013147590672944,0.0010540692009102,0.0016308402615622
+Manipur,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001284745121256,0.0010266978028739,0.0015879780984905
+Manipur,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012634928978776,0.0010001758112611,0.001570465029157
+Manipur,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012500592531702,0.0009989411084721,0.0015537675280143
+Manipur,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012396423191131,0.0009871674546056,0.0015365154530225
+Manipur,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012314852668252,0.0009764240618664,0.0015282368313986
+Manipur,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012246725431066,0.0009693657084672,0.0015214997393958
+Manipur,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012180369602391,0.0009560547805115,0.0015059095109281
+Manipur,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012122898047467,0.0009523317710267,0.0015066698522804
+Manipur,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012087874605235,0.000954082904634,0.0015100058987158
+Manipur,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012067219219427,0.0009558792279668,0.0015136411249674
+Manipur,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012052184571321,0.0009524882648078,0.0015002794990097
+Manipur,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012033092450987,0.0009486019796759,0.0015057770044906
+Manipur,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012034336125826,0.0009514598245342,0.0014945022426907
+Manipur,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012065042952026,0.000954766351084,0.0014741027371628
+Manipur,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012095847787885,0.0009556343885512,0.0014731016369761
+Manipur,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012096100636044,0.0009613822972714,0.0014761725190973
+Manipur,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011437519733515,0.0009078620377704,0.0014140459639604
+Manipur,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011588429643373,0.0009332318225802,0.0014553665257459
+Meghalaya,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001742272305446,0.0013437773857409,0.0022213714860151
+Meghalaya,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017082875295013,0.0013242646064872,0.0021750792118211
+Meghalaya,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016717408770425,0.0013053139621831,0.0021088655093974
+Meghalaya,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016334984497681,0.0012816798195362,0.0020626009505898
+Meghalaya,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015947043111478,0.0012472172771353,0.0020029757519202
+Meghalaya,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015565143639941,0.0012140052364267,0.0019480347898765
+Meghalaya,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015180049836581,0.0011864361169278,0.0019025014777209
+Meghalaya,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014786321512429,0.0011664041216004,0.0018533628247564
+Meghalaya,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001439432091216,0.0011328030243694,0.0017957968672048
+Meghalaya,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014012063289971,0.0010962728416551,0.0017498423499561
+Meghalaya,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013647731404192,0.0010665324370934,0.0017138465406539
+Meghalaya,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013299106075457,0.001042601216261,0.0016607554454455
+Meghalaya,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012958755528628,0.0010232779080117,0.0016240330185546
+Meghalaya,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012626979657492,0.001002582158782,0.0015884375900813
+Meghalaya,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012306741605871,0.0009749663114474,0.0015577359893921
+Meghalaya,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012002222573686,0.0009442729813271,0.0015271684950833
+Meghalaya,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011714016724526,0.0009301844803577,0.0014872967073418
+Meghalaya,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011439962919847,0.000907536769449,0.0014556295686703
+Meghalaya,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011177423374457,0.000881469947941,0.0014315329450371
+Meghalaya,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010921708454596,0.000856497008887,0.0013982433747657
+Meghalaya,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010675802927021,0.0008350925618896,0.0013624056699109
+Meghalaya,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010406140291087,0.0008189323994294,0.0013226329248718
+Meghalaya,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010114748586875,0.0008051883317258,0.0012760566127893
+Meghalaya,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009846008023025,0.0007868032121844,0.0012311201710559
+Meghalaya,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009642883368728,0.0007744709265711,0.001198886664417
+Meghalaya,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009550745355825,0.0007626024844352,0.0011830374660961
+Meghalaya,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009576338110321,0.000769037633921,0.0011845410777748
+Meghalaya,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009659709733306,0.0007735282723491,0.0011982584381159
+Meghalaya,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009742213269728,0.0007761918524836,0.0012048505635379
+Meghalaya,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009764286686616,0.0007783150419521,0.0012065367859159
+Meghalaya,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009187893200823,0.0007301169342811,0.00115264206294
+Meghalaya,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009264886736005,0.0007350843968783,0.0011656165456612
+Mizoram,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016082669549302,0.0012781579219797,0.0020038326438835
+Mizoram,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015823060388763,0.0012632645624036,0.0019610209685511
+Mizoram,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015555400702153,0.0012426838413851,0.0019280698546597
+Mizoram,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015284886703055,0.0012205221926017,0.0019002113527779
+Mizoram,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015017239349961,0.0012011734168371,0.0018760233240779
+Mizoram,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014756867577484,0.0011738231744668,0.0018446865386478
+Mizoram,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014466509348838,0.0011573791182762,0.0017976298351105
+Mizoram,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014128432644319,0.0011223936368438,0.001759780796264
+Mizoram,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013777168026617,0.0010897571753315,0.0017256914052685
+Mizoram,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013447059508342,0.0010609897879081,0.0016828333659254
+Mizoram,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013174433736192,0.0010383035498127,0.0016489040681401
+Mizoram,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012945764589292,0.0010277556787637,0.0016226085220869
+Mizoram,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012735664127399,0.0010122462034818,0.0015923639430191
+Mizoram,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012560279655561,0.0010025349142049,0.0015714381054328
+Mizoram,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012436564963523,0.0009929171438504,0.0015635974377714
+Mizoram,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012382248347924,0.0009925691464674,0.0015694040121524
+Mizoram,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012435713791445,0.0009959795408386,0.0015692312552686
+Mizoram,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012583475279342,0.0009974587573679,0.0015806067142298
+Mizoram,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012762993493056,0.0010083022687959,0.0015910051677114
+Mizoram,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012912446714434,0.0010177045950461,0.0016044479163992
+Mizoram,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012971280988896,0.0010102869359015,0.0016112362765806
+Mizoram,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012899620414516,0.0010048494225361,0.0015957718450524
+Mizoram,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012731040856439,0.0009927513241612,0.0015718030674095
+Mizoram,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012527572002887,0.0009746129621693,0.0015552875969657
+Mizoram,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012344706351391,0.0009546084732034,0.0015367471292409
+Mizoram,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012263473887004,0.000945240055614,0.0015289452451313
+Mizoram,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012335206005041,0.0009632966229774,0.0015300400239171
+Mizoram,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.00124899027721,0.0009852271847305,0.0015369868013932
+Mizoram,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012652214136142,0.0010081716859384,0.0015568955350631
+Mizoram,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001273233588161,0.0010136090872413,0.0015687741943331
+Mizoram,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012002838539007,0.0009520336468011,0.0014788138143035
+Mizoram,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012202292916049,0.0009628011692734,0.0015074520517859
+Nagaland,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018607547529759,0.0014761667113373,0.0023144684996381
+Nagaland,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018244406761731,0.0014431596081338,0.0022733564196589
+Nagaland,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001782513879117,0.0014068562536607,0.0022092385304117
+Nagaland,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001737658640123,0.0013698522786298,0.0021635948948608
+Nagaland,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016921117451751,0.0013448600949226,0.0021084661564349
+Nagaland,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016476646009367,0.0013170898675813,0.0020728723997921
+Nagaland,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016034221637178,0.0012851700650394,0.0020036526432341
+Nagaland,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015589941870238,0.0012378994929096,0.0019313653446089
+Nagaland,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015162503069672,0.0011999437166868,0.0018766680629799
+Nagaland,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014771394297821,0.0011749241157396,0.0018372650068365
+Nagaland,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014435479922113,0.0011542101035088,0.0018043454820606
+Nagaland,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001416984959478,0.0011225405357363,0.0017556885364679
+Nagaland,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013959500927616,0.0011119486841519,0.0017411526677823
+Nagaland,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013777319165643,0.0010927411978891,0.0017331902489802
+Nagaland,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001359859164217,0.00108291727317,0.0017076874968844
+Nagaland,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001340100766476,0.0010635658663799,0.0016815507353033
+Nagaland,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001313734272358,0.0010561316174329,0.0016363466232343
+Nagaland,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.00128266326838,0.0010451377531836,0.0015875144128818
+Nagaland,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012535885615858,0.0010299043810639,0.0015500613762741
+Nagaland,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001232974113541,0.0010043022913529,0.0015213298760707
+Nagaland,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012268524667003,0.0009908006461006,0.0015105845493072
+Nagaland,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012298001911195,0.0009987728304558,0.001518275486653
+Nagaland,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012328151137551,0.0009966254241899,0.0015295198554844
+Nagaland,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012362563477404,0.0009996404437508,0.0015391779489874
+Nagaland,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012405664918003,0.0009971350896155,0.0015522298323586
+Nagaland,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001246230528636,0.0009936132230834,0.0015504345561882
+Nagaland,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012619114405038,0.001011582316173,0.0015628178503933
+Nagaland,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012886983613242,0.0010445013443956,0.0015768769133344
+Nagaland,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001315771121716,0.0010679262232895,0.0016099291169653
+Nagaland,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013318318142163,0.001078161673752,0.0016224268431349
+Nagaland,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012591501051036,0.0010107894126774,0.0015588313867397
+Nagaland,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012840161831256,0.001032223574898,0.0016026868048477
+Odisha,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018782137919939,0.0015135880442598,0.0023090617445
+Odisha,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018561585802948,0.0015051728590853,0.0022585701570412
+Odisha,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018308397992575,0.0014800838211305,0.0022222279950101
+Odisha,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018033328574971,0.0014598488686047,0.0021959048544629
+Odisha,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017749189739627,0.0014354853562295,0.0021849499979757
+Odisha,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001747005293963,0.0013990739306435,0.0021700604159385
+Odisha,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017156546906246,0.0013807230524634,0.0021172296470327
+Odisha,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001678817665767,0.0013576638352472,0.002071271194591
+Odisha,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016404150499593,0.0013310474717622,0.0020275062290473
+Odisha,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016043034375241,0.0013032662222196,0.0019931445642491
+Odisha,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015742361626179,0.0012713738712389,0.0019682428798433
+Odisha,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015497399761461,0.0012553712587364,0.0019168890207261
+Odisha,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001527651730605,0.0012420046485828,0.0018841016092424
+Odisha,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015069125259406,0.0012283391123276,0.0018608907864112
+Odisha,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014866078447198,0.0012072807877224,0.0018439669140159
+Odisha,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014662160066314,0.0011765805845403,0.0018358450576727
+Odisha,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014456938574666,0.001163027811123,0.0018045710132778
+Odisha,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014254334554342,0.0011554972621458,0.0017628538535218
+Odisha,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014057652245545,0.0011356151454293,0.0017279641634095
+Odisha,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001386665569218,0.0011209502279859,0.0017055662762814
+Odisha,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013676649012508,0.0010994844024281,0.0016884084606372
+Odisha,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001344339382796,0.0010921409352305,0.0016444163903092
+Odisha,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013161857157748,0.0010682398406944,0.0015986346881293
+Odisha,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012883410237339,0.0010425258705032,0.0015657914425895
+Odisha,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012659155529055,0.0010222061664426,0.0015537845704941
+Odisha,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012543236359911,0.0010063354740376,0.0015398376283217
+Odisha,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012518780889437,0.0010166355366772,0.0015370825140089
+Odisha,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012517581633845,0.00102530913865,0.0015333086353528
+Odisha,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012518127510601,0.0010213373998592,0.0015319120387867
+Odisha,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012498982596208,0.0010131268931326,0.001532564882742
+Odisha,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011819605473279,0.0009524857584736,0.0014394732686556
+Odisha,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011919643484385,0.0009514576715296,0.0014758869561301
+Punjab,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012763498910109,0.0010273085054304,0.001602363014292
+Punjab,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001249328906236,0.0010064926336908,0.0015664224008394
+Punjab,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012230600079841,0.0009821113954291,0.0015274096163859
+Punjab,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011998620094702,0.0009555065084036,0.0014906153548263
+Punjab,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011821138948858,0.0009330204210963,0.0014681173193874
+Punjab,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011719471646379,0.0009237886578158,0.0014659303385241
+Punjab,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011643731276487,0.0009167261797537,0.00145360066368
+Punjab,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011539091762927,0.0009102389656368,0.0014421096512495
+Punjab,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001141713433016,0.0008973731573581,0.0014268095845176
+Punjab,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011291527473379,0.0008867577140058,0.0014106313506223
+Punjab,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011178680745266,0.0008781047450885,0.0013905381907232
+Punjab,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011048520468608,0.0008630419945583,0.0013779888052085
+Punjab,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001088521055461,0.0008530380100506,0.0013524712351726
+Punjab,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010725775938547,0.0008394993083615,0.0013372289312442
+Punjab,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.00106078900855,0.0008315040840162,0.0013140699397498
+Punjab,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010570973070201,0.000828805990425,0.0013175347322337
+Punjab,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010668322772673,0.0008422367347746,0.0013249153703448
+Punjab,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010879445799822,0.0008667912358164,0.0013409760004435
+Punjab,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011131680457482,0.0008894115010771,0.001357679263493
+Punjab,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011349155688426,0.0009106884371594,0.001384174546925
+Punjab,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011455868355068,0.0009171977691971,0.00140441813954
+Punjab,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011349564462,0.0009091521833578,0.0013891951274142
+Punjab,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011056093581702,0.00088314002996,0.0013492779724279
+Punjab,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010688258946376,0.0008501408379131,0.0013051795445423
+Punjab,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010365370470139,0.0008232429677968,0.0012685008478552
+Punjab,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010207892008565,0.0008130027199012,0.0012516969952313
+Punjab,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010195838882441,0.0008038220647315,0.001249918963305
+Punjab,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010214657028091,0.0008046762552172,0.0012526718822538
+Punjab,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010239452781676,0.0008093613204448,0.0012581916894779
+Punjab,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010244934100796,0.0008124857654245,0.0012557811958283
+Punjab,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009598829020718,0.0007686636145135,0.0011757276500414
+Punjab,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009742283247894,0.0007650572495394,0.0012189111213541
+Rajasthan,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017769602013893,0.0013711664576739,0.0022037753192019
+Rajasthan,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017244741693699,0.0013469132473784,0.0021384223028994
+Rajasthan,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016736773804393,0.0013157895498009,0.0020851080877113
+Rajasthan,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016275838434445,0.0012866264278957,0.0020277662807153
+Rajasthan,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015888990992226,0.0012426216221006,0.0019889727379969
+Rajasthan,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015599721887045,0.0012235214901515,0.0019766828193942
+Rajasthan,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001540573173125,0.0012167771231998,0.0019269773587201
+Rajasthan,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015274869589539,0.0012197945604088,0.0019203671382054
+Rajasthan,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015179994652669,0.0012171160033525,0.0018954832684884
+Rajasthan,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015089374416051,0.0012170616357068,0.0018784874900386
+Rajasthan,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014968955545763,0.0011886139464092,0.0018626636283342
+Rajasthan,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014797308196543,0.0011799952398738,0.0018360424860067
+Rajasthan,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014589968152901,0.0011718805213222,0.0018080349213916
+Rajasthan,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014367069807684,0.0011560775147195,0.0017730883250285
+Rajasthan,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014151919671632,0.0011517265350958,0.0017382427193981
+Rajasthan,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001397117285745,0.0011309110317188,0.0017226058967051
+Rajasthan,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013828012036713,0.0011287932240382,0.0017006107053261
+Rajasthan,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013710162324069,0.0011128768800591,0.0016748196326364
+Rajasthan,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013619648285366,0.0010938642584372,0.001679630368982
+Rajasthan,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013556110136432,0.0010797769356102,0.0016821937018297
+Rajasthan,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001351596188204,0.0010658225624694,0.0016865325390755
+Rajasthan,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013444543172114,0.0010744524174418,0.0016589118176034
+Rajasthan,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013315426935051,0.0010714692845234,0.0016339453079341
+Rajasthan,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013161073901946,0.0010627237985417,0.0016166153290295
+Rajasthan,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001301582073267,0.0010524812451137,0.0016008663448861
+Rajasthan,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012916721258842,0.0010432524563473,0.0015715623185893
+Rajasthan,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012857495099807,0.0010463577424866,0.001565819749334
+Rajasthan,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012808128764976,0.001051226769462,0.001547707595133
+Rajasthan,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012771509887858,0.0010499959136,0.0015430859193532
+Rajasthan,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012751296229423,0.0010345327604596,0.0015512844173396
+Rajasthan,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012083884290732,0.0009841387468314,0.0014903651285876
+Rajasthan,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012335619222197,0.0009831945003082,0.0015020266262614
+Sikkim,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0023977060844769,0.0019074518744222,0.0029819707837607
+Sikkim,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0023218100300983,0.0018750591322469,0.0028537573544303
+Sikkim,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0022464409315784,0.0018234249984247,0.0027324860175556
+Sikkim,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0021743158771883,0.0017636953722071,0.0026393011775828
+Sikkim,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0021075231529182,0.0017038634585748,0.0025576174077767
+Sikkim,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0020477924474757,0.0016342007782005,0.0024972541290383
+Sikkim,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0019936593365815,0.0016151625003489,0.0024297638212187
+Sikkim,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0019427173040615,0.0015776169496749,0.0023918109770578
+Sikkim,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018952392795099,0.0015403921797234,0.0023273422780814
+Sikkim,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018514793485199,0.0014956527025921,0.0022908041737507
+Sikkim,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018118668152553,0.0014430968809226,0.0022560467887129
+Sikkim,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017790502619065,0.0014312378199863,0.0021978341539037
+Sikkim,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017535786842508,0.0014085754010727,0.0021633793954918
+Sikkim,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017320253417298,0.0014057766249562,0.002130264304553
+Sikkim,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017110078626041,0.0013909049361848,0.0020878104351474
+Sikkim,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016871612617096,0.0013706132202878,0.0020681121356972
+Sikkim,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016616197525801,0.0013444242937225,0.0020466977085276
+Sikkim,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016379467054487,0.0013296455986406,0.0019987170176303
+Sikkim,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016154259624925,0.0013211907744249,0.0019744582793086
+Sikkim,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001592796970039,0.0013005301315136,0.0019485080490037
+Sikkim,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015682271084902,0.001271862470294,0.0019279094200067
+Sikkim,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001534302827834,0.0012517079013503,0.0018725035701969
+Sikkim,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014908801180632,0.0012151638692269,0.001784319789444
+Sikkim,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014462873427802,0.0011735335311491,0.0017568328697189
+Sikkim,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014088151711347,0.0011426808187668,0.001722731766295
+Sikkim,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001387445875889,0.001118449477605,0.0017141414713918
+Sikkim,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013796186284942,0.0011261392153395,0.001683996990349
+Sikkim,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013756878897042,0.0011225305472867,0.0016787010708593
+Sikkim,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013736801947081,0.0011230126972835,0.0016739179601609
+Sikkim,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013713181886154,0.0011259730343582,0.0016725570178924
+Sikkim,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012956260338183,0.0010669762566764,0.0015524779678452
+Sikkim,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013208725344716,0.0010712384411875,0.0016190351247789
+Tamil Nadu,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015928866959615,0.0012871094221083,0.001995785342231
+Tamil Nadu,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015597649549546,0.0012662258122094,0.001945973184256
+Tamil Nadu,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015244398748041,0.0012410092032101,0.0018921878013786
+Tamil Nadu,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014876733571026,0.0012089606168766,0.0018359801437787
+Tamil Nadu,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014502176264849,0.0011729393611773,0.0017935873901004
+Tamil Nadu,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014127938075782,0.0011389302785024,0.0017684797566336
+Tamil Nadu,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013748299067693,0.0010989491051814,0.0016975411427105
+Tamil Nadu,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013362447278305,0.0010717975200634,0.0016325437437455
+Tamil Nadu,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012982350592514,0.0010439807377577,0.0015894016833021
+Tamil Nadu,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012618145771009,0.0010114035898474,0.0015492216929808
+Tamil Nadu,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012279799028593,0.0009794880951374,0.0015230719742902
+Tamil Nadu,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011969308394219,0.0009558909796831,0.001479322500781
+Tamil Nadu,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011688760536297,0.0009388495802263,0.0014372139723848
+Tamil Nadu,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011445043134522,0.000920477347106,0.0014031359901861
+Tamil Nadu,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001125218642016,0.0009163332040125,0.0013857587550964
+Tamil Nadu,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011128659365203,0.0009093300413625,0.0013721592006932
+Tamil Nadu,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001109044883243,0.000904529450552,0.0013683043601177
+Tamil Nadu,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011114091511156,0.000900157565285,0.0013656049851726
+Tamil Nadu,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011157276323381,0.0008968632693305,0.0013650672691942
+Tamil Nadu,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011174971326587,0.0008933169386094,0.0013686619988346
+Tamil Nadu,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011121120325291,0.0008815701984686,0.0013728827233278
+Tamil Nadu,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010919325163714,0.0008673554364789,0.0013441931716924
+Tamil Nadu,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010587854153596,0.0008380640413028,0.0013053125592787
+Tamil Nadu,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010220700849182,0.0008098447903352,0.0012598827379314
+Tamil Nadu,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009909807194309,0.0007856367346502,0.0012274544901949
+Tamil Nadu,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009744662507097,0.0007704966447237,0.0012116689164675
+Tamil Nadu,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009715469002601,0.0007751200702596,0.001192182219241
+Tamil Nadu,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009726817396437,0.0007777765130392,0.0011819115710625
+Tamil Nadu,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009736720753286,0.0007803644723263,0.0011900130802147
+Tamil Nadu,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.000970500163168,0.0007752497678356,0.0011972179758693
+Tamil Nadu,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009031433942224,0.0007185894067986,0.0011191248899774
+Tamil Nadu,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009186903904289,0.0007254535237744,0.0011456096364318
+Telangana,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013474807931012,0.0010489797783274,0.0016914037337867
+Telangana,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013084343883932,0.0010249115332994,0.0016408084783131
+Telangana,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012705440746106,0.0009980846971235,0.0015916749448607
+Telangana,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012346383906746,0.0009691671685301,0.0015441123579301
+Telangana,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012014830460885,0.0009446008000986,0.001501069727264
+Telangana,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011717448928477,0.0009096186889423,0.0014684560691822
+Telangana,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011459137819703,0.0008951179360215,0.001427161874187
+Telangana,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011230695198998,0.0008813525753229,0.0013994862717759
+Telangana,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001101691809171,0.0008589859667344,0.0013713084467569
+Telangana,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010802239254286,0.0008408865904012,0.0013589804608971
+Telangana,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010572435008682,0.0008228014637697,0.0013530100109095
+Telangana,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010331831173557,0.0008059399880956,0.0013194541831138
+Telangana,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010092770527492,0.0007896703335063,0.0012958898896187
+Telangana,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009848487207939,0.0007645659463024,0.0012587824695695
+Telangana,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009593664455491,0.0007337485867337,0.0012291192175633
+Telangana,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009325356480524,0.0007043303286666,0.0011953321531017
+Telangana,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0009032166147259,0.0006855492810321,0.0011574607900077
+Telangana,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008718347941594,0.0006612241379886,0.0011197647995919
+Telangana,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008404637972565,0.0006339993276952,0.0010803477296271
+Telangana,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0008109033573675,0.0006102843597935,0.0010483720912962
+Telangana,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0007846577802686,0.0005912623334264,0.0010115811814545
+Telangana,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0007588969186609,0.0005728475722757,0.0009660200431598
+Telangana,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0007322042474972,0.0005570123078151,0.0009282162280769
+Telangana,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0007079001082243,0.0005390986806935,0.0008916001103806
+Telangana,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0006892564892378,0.0005290388280188,0.0008653256537967
+Telangana,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0006796260169102,0.0005251903631552,0.0008520068588026
+Telangana,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0006779052841865,0.0005269943624457,0.0008510015323048
+Telangana,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.000679431150932,0.0005311306525958,0.0008573997677148
+Telangana,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.000682069888211,0.0005321106408912,0.0008588300284229
+Telangana,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0006838004864419,0.0005346864336075,0.0008697709551899
+Telangana,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0006738735512492,0.0005301473024774,0.0008589615323965
+Telangana,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0006767039768366,0.0005254421189289,0.000852323949025
+Tripura,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0023661106985994,0.0019079181374674,0.0028902118306036
+Tripura,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0023233199446828,0.0018978264263971,0.0028196834487877
+Tripura,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0022740894717242,0.0018583321261869,0.0027423528506761
+Tripura,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0022203690220358,0.0018104094708032,0.0026940454432667
+Tripura,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0021640512796681,0.0017465511947699,0.0026443127103757
+Tripura,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0021069387545631,0.0017002422994272,0.0025637404016274
+Tripura,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0020432595937386,0.0016500375546751,0.0024545317283593
+Tripura,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0019704907502781,0.0015944135903596,0.0023671803474731
+Tripura,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0018949503601963,0.0015289465358549,0.0022792279817448
+Tripura,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001823131468802,0.0014864141878828,0.0022072677157367
+Tripura,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017618210475072,0.0014223787652809,0.0021470743059994
+Tripura,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017095102599248,0.0013884511812153,0.0020781413037214
+Tripura,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016612221019264,0.0013536876899236,0.0020232878649903
+Tripura,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016183330161317,0.0013277037154038,0.0019684166972369
+Tripura,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015826525745201,0.0013102521809262,0.0019509537680421
+Tripura,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015554462683401,0.0012871937884419,0.0019335309562468
+Tripura,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015373460678682,0.0012625052857826,0.0018951333785157
+Tripura,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015258266780171,0.0012433131989699,0.0018754424818802
+Tripura,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015172413093422,0.0012243696529893,0.0018582278323329
+Tripura,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015078968948281,0.0011986511033508,0.0018553630431029
+Tripura,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014936600165743,0.0011816476171438,0.0018482508245056
+Tripura,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014694902300909,0.0011726542435146,0.0018192779961236
+Tripura,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014378788415115,0.0011395680585123,0.0017679721045544
+Tripura,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014056653293164,0.0011136425303172,0.0017281206055553
+Tripura,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013794665453617,0.0010937481981852,0.0016943778023447
+Tripura,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013679213318806,0.0010869870447012,0.0016776446019182
+Tripura,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013713738680063,0.0010854331475063,0.0016804973001312
+Tripura,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013814525213842,0.0010918705516536,0.0016954579858174
+Tripura,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013922029309189,0.0011104126155324,0.0017209334354513
+Tripura,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013972279101778,0.0011184887443533,0.0017299930296855
+Tripura,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013114740727212,0.0010287234299533,0.0016162267228471
+Tripura,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013399828366341,0.0010650887857744,0.0016720144272427
+Uttar Pradesh,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017367565242038,0.0013654714931284,0.0021445426948873
+Uttar Pradesh,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001700247963896,0.0013380015282312,0.0020743982041909
+Uttar Pradesh,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016628103984561,0.0013189379476605,0.0020126199033658
+Uttar Pradesh,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016259342742058,0.0012989718923216,0.0019617582272619
+Uttar Pradesh,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015910716514984,0.0012774818233681,0.0019301829348571
+Uttar Pradesh,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015595430975726,0.0012424134693024,0.0019074798661643
+Uttar Pradesh,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001530458165756,0.0012284897354577,0.0018646832046774
+Uttar Pradesh,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015025528142591,0.001208209034828,0.0018359519527939
+Uttar Pradesh,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014762268893076,0.0011783803505452,0.001805299959501
+Uttar Pradesh,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014516465647125,0.0011535292912631,0.0017915749590224
+Uttar Pradesh,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014289754400146,0.0011249962587306,0.0017926056033538
+Uttar Pradesh,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014077070204544,0.0011269371197178,0.0017556938787677
+Uttar Pradesh,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013876825488899,0.0011084920869456,0.0017298564028549
+Uttar Pradesh,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013689726184217,0.0010847612474932,0.0017028504277509
+Uttar Pradesh,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013519238568576,0.0010671873249369,0.0016917768372764
+Uttar Pradesh,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013370822745785,0.0010459821104086,0.0016636822647857
+Uttar Pradesh,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013253601615349,0.001045320028714,0.0016446718447895
+Uttar Pradesh,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013159145409649,0.0010510186647834,0.0016308745563195
+Uttar Pradesh,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013068626037234,0.0010532124098788,0.0016007952685178
+Uttar Pradesh,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001295916460145,0.0010512769162745,0.0015689300440976
+Uttar Pradesh,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012802940171612,0.0010377391515076,0.0015494771983341
+Uttar Pradesh,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012496044703235,0.0010141211612549,0.0015144275756994
+Uttar Pradesh,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012029518353262,0.0009781542762592,0.0014666383842745
+Uttar Pradesh,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011513462539428,0.0009353470992163,0.0014041353180158
+Uttar Pradesh,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011062013860107,0.0008904863394337,0.0013576677790651
+Uttar Pradesh,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010792552141362,0.0008585150419378,0.0013307438704629
+Uttar Pradesh,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010697704099307,0.0008541138024345,0.0013071094635862
+Uttar Pradesh,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010664717099129,0.0008612820983571,0.0012982576954914
+Uttar Pradesh,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010650960713921,0.0008596517314109,0.0012977495674898
+Uttar Pradesh,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010611908344762,0.0008498077122428,0.0013130671103438
+Uttar Pradesh,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.000994567260351,0.0007998474481476,0.0012338276200321
+Uttar Pradesh,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010131329846214,0.0008108803419228,0.0012665308544992
+Uttarakhand,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017439687562047,0.001380704249015,0.002188294831181
+Uttarakhand,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017237462922985,0.0013777544878267,0.0021472267516528
+Uttarakhand,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017015496038142,0.0013638738784306,0.0020870351405053
+Uttarakhand,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016788711674233,0.0013474768053592,0.0020637374642698
+Uttarakhand,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016572278376631,0.0013320637986078,0.0020232720498975
+Uttarakhand,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016381328847276,0.0013096190211629,0.0020056591191194
+Uttarakhand,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001618375473014,0.0013014656879941,0.001975760084547
+Uttarakhand,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015953871386474,0.001286100277681,0.0019403204213257
+Uttarakhand,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015712429023953,0.0012620971141208,0.001919258553373
+Uttarakhand,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015481821109588,0.0012549287204939,0.0018947139053391
+Uttarakhand,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015284496765775,0.0012231936718034,0.001876030941155
+Uttarakhand,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015112424745654,0.0012258727951611,0.0018539797108557
+Uttarakhand,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001496410829429,0.0012272193083562,0.0018492781516441
+Uttarakhand,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014858794327843,0.0012181816391249,0.0018433767256362
+Uttarakhand,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014805411793832,0.0012048333814401,0.0018354069375848
+Uttarakhand,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014797793665316,0.0012050447048318,0.0018298325233295
+Uttarakhand,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014839868017069,0.0012111047186447,0.0018275247424772
+Uttarakhand,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014921704854831,0.0012180469536946,0.0018279500007624
+Uttarakhand,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015016343741197,0.001220786367096,0.0018352667909859
+Uttarakhand,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015091548571053,0.0012212783079674,0.001847841366473
+Uttarakhand,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015113867975993,0.0012227768086093,0.00185814036551
+Uttarakhand,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014990542473649,0.0012163342809232,0.0018331819043061
+Uttarakhand,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014711219101349,0.0011938506851967,0.0017916894105201
+Uttarakhand,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014362855088243,0.0011590736735649,0.0017424126080892
+Uttarakhand,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014036333648217,0.0011350848014731,0.0017089992878035
+Uttarakhand,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013825100785137,0.0011171509023661,0.0016806223866299
+Uttarakhand,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013721694668669,0.0011214275406744,0.0016580187259442
+Uttarakhand,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013658757223667,0.0011187644841415,0.0016597883947658
+Uttarakhand,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013628148584987,0.0011139356837198,0.0016451727502976
+Uttarakhand,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013619887215231,0.0011144172186663,0.0016709108236629
+Uttarakhand,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012899051246644,0.0010661951784153,0.0015687109356087
+Uttarakhand,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013067473711601,0.0010586874976132,0.0015741058665697
+West Bengal,1990,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017463049230248,0.001400964435357,0.0021370205463807
+West Bengal,1991,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017370866626082,0.001393383880705,0.0021088981505302
+West Bengal,1992,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017225633995231,0.001384697838529,0.0020956124969657
+West Bengal,1993,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0017046576458744,0.0013859269338185,0.0020865023235023
+West Bengal,1994,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016852661037108,0.0013802140701324,0.0020698540232389
+West Bengal,1995,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.001666235845905,0.0013566677395908,0.0020505539120663
+West Bengal,1996,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016444006567578,0.0013540491734293,0.0020172230998738
+West Bengal,1997,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0016171787235024,0.0013353626621489,0.0019806136799217
+West Bengal,1998,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015866076245456,0.0012985779899231,0.0019393769719017
+West Bengal,1999,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015547160680685,0.0012620961046785,0.0019047248505308
+West Bengal,2000,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0015237936773602,0.0012245390450571,0.0018781053731466
+West Bengal,2001,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014890007251729,0.0012011172030575,0.0018271312017532
+West Bengal,2002,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.00144728551023,0.0011839834034599,0.0017782399292565
+West Bengal,2003,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0014038120614553,0.0011346207344112,0.0017240573559795
+West Bengal,2004,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013639612971516,0.0011029970925691,0.001679038615148
+West Bengal,2005,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013329798437862,0.0010673442748985,0.0016579653543643
+West Bengal,2006,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0013105251463135,0.001051032932624,0.0016100300722984
+West Bengal,2007,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012915859881404,0.0010443342108786,0.0015870942797066
+West Bengal,2008,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012739787682703,0.0010384746387495,0.0015585000468225
+West Bengal,2009,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012554101905031,0.0010186738041783,0.0015336453818284
+West Bengal,2010,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012336491747742,0.0009843827747688,0.0015089205000249
+West Bengal,2011,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0012028670749692,0.0009696536822748,0.001466764656335
+West Bengal,2012,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011645575044501,0.0009368862413705,0.001429669288335
+West Bengal,2013,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011272905986113,0.0009110879249203,0.0013812976411853
+West Bengal,2014,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010995702328618,0.0008858326198073,0.0013585430869971
+West Bengal,2015,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010898412481262,0.0008744846810125,0.001350874820038
+West Bengal,2016,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010946902050859,0.0008815327009494,0.0013556314493781
+West Bengal,2017,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011033709531281,0.0008908566162753,0.0013601353364215
+West Bengal,2018,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011129023820287,0.000898654027184,0.0013598767620065
+West Bengal,2019,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0011201462533824,0.0009025860870835,0.0013665073768091
+West Bengal,2020,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010679240956907,0.0008484842502817,0.0013208573989017
+West Bengal,2021,5-14 years,Male,Lower respiratory infections,Percent of total prevalent cases,0.0010900542383731,0.0008730516798852,0.0013514886132292
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2021. Seattle, WA: IHME, University of Washington, 2023. Available from http://vizhub.healthdata.org/gbd-compare. (Accessed 7/24/2024)."
+"For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"

@@ -1,0 +1,964 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+Andhra Pradesh,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000019658620599,4.6866771e-8,0.0000105951580648
+Andhra Pradesh,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000058266343311,9.67816738e-8,0.0000361134261209
+Andhra Pradesh,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000098189629214,2.201363985e-7,0.0000644387762325
+Andhra Pradesh,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000138319138004,3.712686417e-7,0.0000812953661744
+Andhra Pradesh,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000177544808023,5.583099133e-7,0.0001006743276244
+Andhra Pradesh,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000214794625014,6.260260902e-7,0.0001148208483743
+Andhra Pradesh,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000256554285861,0.0000014214217812,0.0001296443295785
+Andhra Pradesh,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000305731949606,0.0000022467042819,0.0001451519429354
+Andhra Pradesh,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000355870289172,0.0000031736752916,0.0001419731304314
+Andhra Pradesh,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000400514254676,0.0000038336027671,0.0001501895207123
+Andhra Pradesh,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000432858827818,0.0000041853970198,0.0001627314573511
+Andhra Pradesh,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000045599132918,0.0000053904714203,0.0001548816464092
+Andhra Pradesh,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000476472970264,0.0000066195537948,0.0001410731845683
+Andhra Pradesh,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000492678492171,0.0000075020362265,0.0001484580985571
+Andhra Pradesh,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000503159973148,0.0000077755959219,0.0001419751208293
+Andhra Pradesh,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000506458485496,0.000007213611963,0.0001591961169294
+Andhra Pradesh,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000498570057428,0.000008594470634,0.0001453137514925
+Andhra Pradesh,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.00004796771693,0.000009180123833,0.000132833449232
+Andhra Pradesh,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000454200496421,0.000009072874189,0.0001380271557002
+Andhra Pradesh,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000042654947736,0.0000081864894499,0.0001257044245425
+Andhra Pradesh,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000401200478849,0.0000060979287614,0.0001283238912298
+Andhra Pradesh,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000374855232482,0.0000065272248001,0.0001121442838183
+Andhra Pradesh,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000343620117381,0.0000061057980661,0.0001004013361132
+Andhra Pradesh,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000311590705625,0.0000055226321792,0.0000910783188548
+Andhra Pradesh,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000283816284258,0.0000046980780034,0.0000803895037863
+Andhra Pradesh,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000265409091063,0.0000041066586139,0.0000878073957377
+Andhra Pradesh,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000253537952836,0.0000037708811371,0.0000815907419766
+Andhra Pradesh,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000243052217329,0.0000035980759385,0.000078817005057
+Andhra Pradesh,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000235478381139,0.0000030599153225,0.0000827024514046
+Andhra Pradesh,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000232493865097,0.0000024419498467,0.0000898099157914
+Andhra Pradesh,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000237280352086,0.0000021598313265,0.0000902036125391
+Andhra Pradesh,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000232679648538,0.0000018981802499,0.0000945989088746
+Arunachal Pradesh,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000015909602809,3.89113923e-8,0.0000108880176691
+Arunachal Pradesh,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000064422960035,1.051583094e-7,0.0000560996311038
+Arunachal Pradesh,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000119579079017,2.999389146e-7,0.0000930059459047
+Arunachal Pradesh,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000179312632939,5.697606207e-7,0.0001259190368375
+Arunachal Pradesh,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000241482281348,8.668794713e-7,0.0001606711445786
+Arunachal Pradesh,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000303960438258,0.0000010576960684,0.0001904972482273
+Arunachal Pradesh,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.00003815383833,0.0000020723286458,0.0002059914634101
+Arunachal Pradesh,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000480253637118,0.000003910791122,0.0002329073998319
+Arunachal Pradesh,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000584665221116,0.0000058753087025,0.0002528639596055
+Arunachal Pradesh,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000679085060242,0.0000072356138061,0.0002728981116431
+Arunachal Pradesh,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000074740557149,0.0000069864317039,0.0002867942785787
+Arunachal Pradesh,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000797340621023,0.0000088964690588,0.0002939021348359
+Arunachal Pradesh,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000844369984269,0.0000104530706729,0.0002959705730556
+Arunachal Pradesh,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000883567142683,0.0000115335302307,0.00029390079103
+Arunachal Pradesh,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000910644982488,0.0000118538210074,0.0003099025488682
+Arunachal Pradesh,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000921933544608,0.0000096819881179,0.0003247092790898
+Arunachal Pradesh,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000915244883096,0.0000110407361609,0.000305789383414
+Arunachal Pradesh,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000894187797316,0.0000099192545583,0.0002784881397732
+Arunachal Pradesh,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000864122546459,0.0000090975974437,0.0002906048568463
+Arunachal Pradesh,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000830469622101,0.0000075926728186,0.0003104035635318
+Arunachal Pradesh,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000798850988696,0.000006875265274,0.000335629984393
+Arunachal Pradesh,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000762553266785,0.0000071476807841,0.0003065894827444
+Arunachal Pradesh,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000716821739699,0.0000067084769392,0.0002951680230937
+Arunachal Pradesh,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000670592560309,0.0000058764632959,0.0002799529923042
+Arunachal Pradesh,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000063346201918,0.0000045424702985,0.000281604896461
+Arunachal Pradesh,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000061542131351,0.000003541864069,0.0002757940309456
+Arunachal Pradesh,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000612709882472,0.0000039345725357,0.0002821273627874
+Arunachal Pradesh,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000614188191155,0.0000035178992203,0.0002684438286071
+Arunachal Pradesh,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000618495216882,0.0000032059138205,0.0002686875560936
+Arunachal Pradesh,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000062418149292,0.0000030685159214,0.0002968223588837
+Arunachal Pradesh,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000647376181941,0.0000030950617029,0.0003103142591989
+Arunachal Pradesh,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000627574668961,0.0000030700191168,0.0002842432417454
+Assam,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000026005927397,5.79142478e-8,0.0000151034827073
+Assam,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000094739231604,1.432817918e-7,0.0000564694698301
+Assam,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000165835797777,3.722755963e-7,0.0000971134431519
+Assam,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.00002379038872,7.241997974e-7,0.0001344412913216
+Assam,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000309570358018,0.0000010937838776,0.0001669140489925
+Assam,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000379660619332,0.0000014711863034,0.0002130390373312
+Assam,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000460309118231,0.0000026214602244,0.0002260547959631
+Assam,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000555120707528,0.0000036774509979,0.0002418094341611
+Assam,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000649676295598,0.0000051227536834,0.0002703403255338
+Assam,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000729374723492,0.0000063893718326,0.0002981251313769
+Assam,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000779889539617,0.0000066842808684,0.0003220574408411
+Assam,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000806051357793,0.0000086918282185,0.0003116009914982
+Assam,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000082262818512,0.0000111549328479,0.0002950876503916
+Assam,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000083053836863,0.0000130720776494,0.0002812497687059
+Assam,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000830916230942,0.0000140807018016,0.0002670896415945
+Assam,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000824948225175,0.0000130671365487,0.0002646959498992
+Assam,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000808526576917,0.0000154794329991,0.000224511225611
+Assam,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000779825635614,0.0000155484961298,0.0002120737846822
+Assam,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000743161555431,0.0000141596099211,0.000213043397986
+Assam,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000703229188481,0.0000130652976526,0.0001995284057035
+Assam,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000664831569401,0.00001182568128,0.0002057324802838
+Assam,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000620734775536,0.0000117715953809,0.0001717101655962
+Assam,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000567355114291,0.0000112367384768,0.0001548706626739
+Assam,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000515000610417,0.0000097576384849,0.0001455463237713
+Assam,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000474433468358,0.0000084658973862,0.0001532460010515
+Assam,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000456712770257,0.0000069207571187,0.0001612064782619
+Assam,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000460364143305,0.0000076666464886,0.0001502046990515
+Assam,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000473210042907,0.0000070700419582,0.0001543920325029
+Assam,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000489961445751,0.0000064341289004,0.0001518224789003
+Assam,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000050526538795,0.0000052575604298,0.0001851595289465
+Assam,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000525028063918,0.000005404276564,0.0001998970908508
+Assam,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000512714180362,0.0000047224029057,0.0002039445749982
+Bihar,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000018352985322,5.49546756e-8,0.0000097176726013
+Bihar,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000074152805193,1.334112208e-7,0.0000394960169195
+Bihar,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000133328317408,3.656634731e-7,0.0000753230252913
+Bihar,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000194669163194,6.788936795e-7,0.0000992181180608
+Bihar,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000257295639917,0.0000010946938895,0.0001245590690997
+Bihar,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000320488309491,0.0000012254869629,0.0001438485039081
+Bihar,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000393634654353,0.0000027089016271,0.0001596063188694
+Bihar,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000479777227069,0.0000045045479906,0.0001949977628626
+Bihar,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000568545506868,0.0000064810593014,0.0002112578112182
+Bihar,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000649476622488,0.0000080539194132,0.0002380958098453
+Bihar,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000711853093165,0.0000084800250288,0.0002556649675766
+Bihar,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000762962104636,0.0000132367166518,0.0002657602331158
+Bihar,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000813203630694,0.0000169728573244,0.0002498076450438
+Bihar,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000856761214186,0.0000207692225147,0.0002321325123012
+Bihar,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000888281474659,0.0000218223284718,0.0002257816555124
+Bihar,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000902243348595,0.0000202294219589,0.000229099413733
+Bihar,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000905441546157,0.0000242304267882,0.0002186896650999
+Bihar,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000907958356078,0.0000239911001979,0.0002213301457134
+Bihar,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000908497562891,0.0000240823371947,0.0002164546927323
+Bihar,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000906037885304,0.0000215254599152,0.0002158091250487
+Bihar,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000900394994924,0.0000185347646178,0.0002322005257168
+Bihar,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000087672158271,0.0000224686465553,0.000213434539349
+Bihar,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000829981759011,0.0000216260667425,0.0001983286195776
+Bihar,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000774365509929,0.0000192254638652,0.0001868821107727
+Bihar,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000724713317962,0.0000175118575666,0.0001849165718651
+Bihar,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000697167373798,0.0000153184221791,0.0001915797294917
+Bihar,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000689519980952,0.0000157927684791,0.0001891653999974
+Bihar,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000687587611481,0.000014000034513,0.0001919224614173
+Bihar,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000689691748565,0.0000128699992097,0.000202360353885
+Bihar,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000069437489283,0.0000104971221946,0.0002087478732212
+Bihar,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000710912334942,0.0000102526122574,0.0002151339071919
+Bihar,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000651418401483,0.0000086211143367,0.0002058696424179
+Chhattisgarh,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000003338917711,7.80473433e-8,0.0000199052629935
+Chhattisgarh,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000118169998715,1.739423743e-7,0.000081700795426
+Chhattisgarh,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000204410232824,4.473870432e-7,0.0001374813932615
+Chhattisgarh,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000289833816602,8.667560188e-7,0.0001950462779644
+Chhattisgarh,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000372209504454,0.0000014156177044,0.0002368417571533
+Chhattisgarh,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000449245522505,0.0000016789702909,0.0002817933534418
+Chhattisgarh,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000536042590736,0.000003201572896,0.0003045031154734
+Chhattisgarh,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000063862245889,0.0000050869864123,0.0003204296037183
+Chhattisgarh,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000740845231113,0.0000064142181997,0.0003421130732433
+Chhattisgarh,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000826411150303,0.0000078180618355,0.0003767397515976
+Chhattisgarh,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000878310303948,0.0000082313423234,0.0004157008421432
+Chhattisgarh,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000902578131398,0.0000109402803286,0.0003863131923555
+Chhattisgarh,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000091691373787,0.000013488253325,0.0003564926645773
+Chhattisgarh,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000922352035405,0.000015273167979,0.0003034534936746
+Chhattisgarh,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000920339013747,0.0000161984887632,0.0003035699575912
+Chhattisgarh,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000091242376707,0.0000154573042054,0.0002890257221606
+Chhattisgarh,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000893856476717,0.0000174667749668,0.0002558005551133
+Chhattisgarh,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000862422380755,0.0000175778107713,0.0002282131870056
+Chhattisgarh,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000822869599958,0.0000176683306571,0.0002236558004425
+Chhattisgarh,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000780344934189,0.0000163455772547,0.000228982514023
+Chhattisgarh,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000740494978842,0.0000127457795486,0.0002314929406489
+Chhattisgarh,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000700400990986,0.0000133501512775,0.0002134776428931
+Chhattisgarh,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000655884046961,0.0000133827204453,0.0001957441916129
+Chhattisgarh,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000610470836451,0.0000123687058787,0.0001930113578559
+Chhattisgarh,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000568394310179,0.0000102367476898,0.0001910481026854
+Chhattisgarh,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000053477602483,0.0000081257139477,0.0001857647199129
+Chhattisgarh,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000506092590719,0.0000082458552165,0.0001654774932419
+Chhattisgarh,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000478198634736,0.0000076884528824,0.0001720211420433
+Chhattisgarh,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000455847374942,0.0000060080700606,0.0001574667273018
+Chhattisgarh,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000044389145834,0.0000048841871744,0.0001577746897415
+Chhattisgarh,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000449675872599,0.0000041511273279,0.0001758553578555
+Chhattisgarh,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000429415681952,0.0000038658483939,0.0001667048413397
+Delhi,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000019327304363,5.55167256e-8,0.0000108493774646
+Delhi,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000007158947412,1.162265783e-7,0.0000464006978916
+Delhi,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000129447917461,3.174947309e-7,0.0000855083949734
+Delhi,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000190824364751,5.374321099e-7,0.0001112353743427
+Delhi,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000253731927117,7.548003361e-7,0.0001397285700467
+Delhi,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000315927207803,0.0000010248825618,0.0001730260851172
+Delhi,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000390705723785,0.0000020387530358,0.0002193708462495
+Delhi,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000482974667837,0.0000035064889417,0.0002373655842723
+Delhi,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000578047304936,0.0000053675567248,0.0002715467559487
+Delhi,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000066145309012,0.0000067332694932,0.0002950652517634
+Delhi,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000718685484608,0.0000073320821553,0.0003245996936621
+Delhi,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000075797063198,0.0000101643702875,0.0002932143241755
+Delhi,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000794057860539,0.000012974892868,0.0002791859166939
+Delhi,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000822498635007,0.0000147532649129,0.0002610659920037
+Delhi,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000839438959886,0.0000154500084819,0.0002756776960591
+Delhi,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000841350086541,0.0000140660277868,0.0002735381828143
+Delhi,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000825946305259,0.0000145656041755,0.0002615984325655
+Delhi,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000797012172114,0.0000151172766466,0.0002563033956528
+Delhi,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000759985138864,0.000014648489744,0.0002213987469524
+Delhi,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000720375619142,0.0000139521017458,0.0002278604059652
+Delhi,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000683728000433,0.0000120495953221,0.0002286754250164
+Delhi,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000642328455607,0.0000134927662182,0.000205191652995
+Delhi,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000591322185799,0.0000125414068427,0.0001818783193147
+Delhi,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000541098652171,0.0000114435308197,0.0001647356390349
+Delhi,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000502821854483,0.0000096114125101,0.0001520360318568
+Delhi,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000487881448342,0.000007128401383,0.0001574426492086
+Delhi,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000502849081653,0.0000075332519665,0.0001609244932835
+Delhi,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000538694885892,0.0000080090600649,0.0001761020899507
+Delhi,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000583058150631,0.0000077920184137,0.0002066561758184
+Delhi,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000623276736263,0.0000066269662512,0.0002364110911364
+Delhi,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000660457003202,0.0000061482160322,0.0002568483684028
+Delhi,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000646464346582,0.0000059114253222,0.0002583114615672
+Goa,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000012822804423,3.08431236e-8,0.0000079459106211
+Goa,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000035940472077,6.80098258e-8,0.0000219206475507
+Goa,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000063346286891,1.601779022e-7,0.0000326352045483
+Goa,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000093833918256,2.919080429e-7,0.000044678799478
+Goa,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000126229161068,4.273960047e-7,0.0000657339566923
+Goa,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000015947223084,6.379625581e-7,0.0000876615752545
+Goa,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000200972448163,0.0000011959869828,0.0000920685655101
+Goa,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000253278024215,0.0000020538718534,0.0001040669702074
+Goa,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000308419569933,0.0000028481821799,0.0001326154406414
+Goa,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000358676755719,0.0000035243765294,0.0001508211482327
+Goa,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000396139194598,0.0000040355303293,0.0001682524488881
+Goa,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000425441618284,0.0000053905425889,0.0001611228095712
+Goa,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000453980068512,0.000006368281188,0.0001642870570205
+Goa,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000478213964394,0.0000066331187701,0.0001799488337589
+Goa,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000494670185623,0.0000065944656654,0.0001803094426737
+Goa,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000500199449145,0.0000056398357749,0.0001813611381796
+Goa,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000490709158657,0.0000062785444725,0.0001795559005833
+Goa,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000467866675141,0.0000059009919376,0.0001682205492582
+Goa,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000437205057201,0.000005133470292,0.0001511192806115
+Goa,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000404482851418,0.000004436673418,0.0001478109028628
+Goa,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000037556686393,0.0000030106888275,0.0001600291094937
+Goa,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000348869342393,0.0000027285129192,0.000138375807859
+Goa,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000320273979118,0.0000024792297734,0.0001281598024931
+Goa,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000291952812088,0.0000021804027123,0.0001185401893636
+Goa,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000266638001299,0.0000018129343165,0.000111411682091
+Goa,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000247231929701,0.0000014448464135,0.0001091469514943
+Goa,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000231785437462,0.0000014924313376,0.0000993440650268
+Goa,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000217788534371,0.0000014915746566,0.0000900957230169
+Goa,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000207004381455,0.0000014689993765,0.0000910188534294
+Goa,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000201412512561,0.0000011691903663,0.0000932884561322
+Goa,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000202252538604,0.0000012465063915,0.0000903990813096
+Goa,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000193915845211,0.0000010537041421,0.0000944817278611
+Gujarat,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000020677327522,5.83489206e-8,0.0000117313841168
+Gujarat,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000070100150935,1.519520089e-7,0.0000461315930069
+Gujarat,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000123254349715,4.162401814e-7,0.000076230893753
+Gujarat,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000178704534397,7.405136496e-7,0.0000928879819426
+Gujarat,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000235116085149,0.0000011038877217,0.0001234507603498
+Gujarat,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000291229414574,0.0000012212275886,0.0001622925192401
+Gujarat,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000357078149933,0.0000021460144646,0.0001789799906957
+Gujarat,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000436289616294,0.0000035906845822,0.000198856606336
+Gujarat,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000517716905405,0.0000049060623535,0.0002258440587906
+Gujarat,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000589929710388,0.0000059837273891,0.0002438507547456
+Gujarat,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000641272607272,0.0000068057498664,0.000284650368892
+Gujarat,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000678000799066,0.000009629599204,0.0002458161456494
+Gujarat,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000712303919831,0.0000114325935401,0.0002393177568686
+Gujarat,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000740111686179,0.0000143320405529,0.0002366539005345
+Gujarat,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000758194759592,0.0000153716267985,0.0002247642264965
+Gujarat,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000763593903103,0.0000146036184707,0.0002420233670123
+Gujarat,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000752439559128,0.0000168961523172,0.000228770895439
+Gujarat,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000726804085852,0.0000166135693702,0.000199398976286
+Gujarat,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000692164180415,0.0000152081731314,0.00019573329877
+Gujarat,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000065421724077,0.0000150042537312,0.0001994115046382
+Gujarat,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000619026513867,0.0000127940726106,0.0002033331678561
+Gujarat,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000578057367008,0.0000137467232196,0.000168820533288
+Gujarat,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000525376062631,0.0000117501873615,0.0001444609341423
+Gujarat,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000471100498102,0.0000105331081339,0.0001305543703271
+Gujarat,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000426688250698,0.000008627800267,0.0001189652527539
+Gujarat,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000404254399755,0.000006772265059,0.00011990506312
+Gujarat,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000400774073315,0.0000068638012752,0.0001182874333453
+Gujarat,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000403836720281,0.0000062450057826,0.000121738235455
+Gujarat,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000411183872202,0.0000059644320027,0.0001368251583628
+Gujarat,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000420386104252,0.0000050797905954,0.0001504457035204
+Gujarat,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000445306643654,0.0000046168515515,0.0001556098691385
+Gujarat,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000043112698304,0.0000038630685079,0.0001556565516204
+Haryana,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000011462749446,2.70452177e-8,0.0000066662421895
+Haryana,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000016973481334,4.98300846e-8,0.0000113163779524
+Haryana,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000028148458183,9.91823556e-8,0.0000181371028984
+Haryana,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000043858864038,1.628953083e-7,0.0000267198548058
+Haryana,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000063011775673,2.526209381e-7,0.0000392019477927
+Haryana,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000084547376886,3.21938971e-7,0.0000502146689936
+Haryana,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000118094454078,7.22022237e-7,0.0000586930742764
+Haryana,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000169000319728,0.0000014321345086,0.0000677531544216
+Haryana,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000229731796606,0.0000023449552306,0.0000824412336493
+Haryana,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000292703598641,0.0000027202934019,0.0001052531787759
+Haryana,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000350146034127,0.0000024206352909,0.0001395166591818
+Haryana,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000410283202745,0.0000042101296239,0.0001504451834362
+Haryana,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000478304805737,0.0000055952533905,0.0001553587149278
+Haryana,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000541985387079,0.000006623100072,0.0001774452878669
+Haryana,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000589123040422,0.0000074115489834,0.0001854465147691
+Haryana,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000607591083094,0.0000071885592301,0.0001972092252656
+Haryana,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000603568323488,0.0000081882878372,0.0001891914383705
+Haryana,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000593027251423,0.0000084323083968,0.0001809607128773
+Haryana,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000578281461672,0.0000085124432905,0.0001649409661333
+Haryana,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000561777947903,0.0000073141749176,0.0001635436422267
+Haryana,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000546042005949,0.0000061752782358,0.0001701366715384
+Haryana,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000527447579882,0.000007136824344,0.0001626825422608
+Haryana,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000503354183171,0.0000069513514446,0.0001495217168791
+Haryana,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000477334051295,0.0000069705697794,0.0001480648167855
+Haryana,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000452733553329,0.0000056552672892,0.000146211573055
+Haryana,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000043381914558,0.0000047722267011,0.0001525821355852
+Haryana,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000041932097645,0.0000046324616526,0.0001405408375074
+Haryana,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000040610439408,0.000004231663578,0.0001337801230808
+Haryana,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000395885139611,0.000003396191607,0.0001431486772482
+Haryana,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000389916538433,0.0000023416127513,0.0001437850253971
+Haryana,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000396136122247,0.0000020585653411,0.0001585705178958
+Haryana,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000371739166195,0.0000016488185995,0.0001517774836905
+Himachal Pradesh,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000023708555471,4.44148673e-8,0.0000164948934115
+Himachal Pradesh,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000109613462311,1.779207648e-7,0.000079179663897
+Himachal Pradesh,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000019066114555,3.689291317e-7,0.0001551483003222
+Himachal Pradesh,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000264850381916,6.296930624e-7,0.0001851816063875
+Himachal Pradesh,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000033024380838,8.901369685e-7,0.0002060581871432
+Himachal Pradesh,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000384612022841,0.0000010004917332,0.000239841754696
+Himachal Pradesh,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000436371087415,0.0000016179487163,0.0002560023001732
+Himachal Pradesh,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000490307116765,0.0000023898374011,0.0002649522663432
+Himachal Pradesh,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000538936999948,0.0000029765759728,0.0002840477840981
+Himachal Pradesh,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000574697520515,0.0000035782263369,0.0002846153398229
+Himachal Pradesh,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000590006319709,0.0000037473523707,0.0002964318399502
+Himachal Pradesh,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000577467651033,0.0000046826433952,0.00027540162944
+Himachal Pradesh,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000542658164252,0.0000055929839604,0.0002363337537703
+Himachal Pradesh,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000049767498586,0.0000059326563354,0.0002050360872143
+Himachal Pradesh,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000454456705231,0.0000054429500185,0.0001789728363692
+Himachal Pradesh,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000425063314194,0.0000048830728374,0.000164784118802
+Himachal Pradesh,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000040576883865,0.0000052608332622,0.000138513194021
+Himachal Pradesh,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000385353174746,0.0000054088723389,0.0001209267667419
+Himachal Pradesh,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000364574686806,0.0000052980043419,0.0001241490422928
+Himachal Pradesh,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000344284252275,0.0000050034989134,0.0001273191123734
+Himachal Pradesh,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000325577418704,0.0000041339655836,0.0001315760563125
+Himachal Pradesh,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000306692659055,0.0000042714815255,0.000123219965833
+Himachal Pradesh,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000286664485647,0.0000040792777921,0.0001054955146143
+Himachal Pradesh,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000267966643737,0.0000038581046795,0.0000955061536278
+Himachal Pradesh,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000253414244741,0.0000035650436407,0.0000917711833743
+Himachal Pradesh,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000246006311439,0.0000027736699791,0.0000900685437582
+Himachal Pradesh,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000244575578643,0.0000027125499348,0.0000978754642142
+Himachal Pradesh,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000024544728326,0.0000024590467981,0.0000992328809912
+Himachal Pradesh,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000247680636671,0.0000023414741724,0.0001043991817296
+Himachal Pradesh,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000250223252286,0.0000018883598364,0.0001124169808444
+Himachal Pradesh,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000254795891353,0.0000017794902002,0.0001225084179528
+Himachal Pradesh,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000241220477201,0.0000015491532957,0.0001282069887457
+Jammu & Kashmir and Ladakh,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000012014598789,3.36609572e-8,0.0000070730742541
+Jammu & Kashmir and Ladakh,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.00000273127479,5.11197242e-8,0.0000157657096494
+Jammu & Kashmir and Ladakh,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000041873550076,9.62366369e-8,0.0000242351057761
+Jammu & Kashmir and Ladakh,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000055369396826,1.421086568e-7,0.0000321206565174
+Jammu & Kashmir and Ladakh,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000067409240274,1.93694051e-7,0.0000401430420688
+Jammu & Kashmir and Ladakh,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000077650910722,2.2923562e-7,0.0000445140418179
+Jammu & Kashmir and Ladakh,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000087524706622,3.934696837e-7,0.0000476817887184
+Jammu & Kashmir and Ladakh,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000097906015726,6.367642799e-7,0.000049177274112
+Jammu & Kashmir and Ladakh,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000107579687462,8.173684974e-7,0.0000516364356984
+Jammu & Kashmir and Ladakh,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000115276581304,0.0000010150769376,0.0000570403892776
+Jammu & Kashmir and Ladakh,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000011964806785,0.0000010609045671,0.0000600312701287
+Jammu & Kashmir and Ladakh,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000121395340346,0.0000013672740158,0.000055479115568
+Jammu & Kashmir and Ladakh,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000122163331509,0.0000014393451222,0.0000522115176414
+Jammu & Kashmir and Ladakh,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000122127897137,0.0000014279238375,0.0000466040130345
+Jammu & Kashmir and Ladakh,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000121490317579,0.0000014099770282,0.0000494785559707
+Jammu & Kashmir and Ladakh,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000012039216559,0.0000012824848944,0.0000492945216578
+Jammu & Kashmir and Ladakh,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000114704501926,0.0000014126058074,0.0000439664822867
+Jammu & Kashmir and Ladakh,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000102531133572,0.0000013287991766,0.0000409585962885
+Jammu & Kashmir and Ladakh,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000087437666712,0.000001014199024,0.0000353826180049
+Jammu & Kashmir and Ladakh,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000073145632945,7.781902715e-7,0.0000301186051151
+Jammu & Kashmir and Ladakh,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000063487078351,5.530817601e-7,0.0000269978270728
+Jammu & Kashmir and Ladakh,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000057777750564,4.967407925e-7,0.000024944085923
+Jammu & Kashmir and Ladakh,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000052786139566,4.344820321e-7,0.0000259369509749
+Jammu & Kashmir and Ladakh,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000048543492874,3.640364631e-7,0.0000238403229718
+Jammu & Kashmir and Ladakh,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000045155913413,3.167296627e-7,0.0000201502509839
+Jammu & Kashmir and Ladakh,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000042771837779,2.661629799e-7,0.0000213485361279
+Jammu & Kashmir and Ladakh,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000041070311043,3.001198836e-7,0.0000203329450962
+Jammu & Kashmir and Ladakh,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000039687943227,2.682336427e-7,0.0000209529236863
+Jammu & Kashmir and Ladakh,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000038672473529,2.502308833e-7,0.0000215263666753
+Jammu & Kashmir and Ladakh,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000038087830952,1.847590474e-7,0.0000213418793895
+Jammu & Kashmir and Ladakh,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000003868130872,1.798420646e-7,0.0000226778163008
+Jammu & Kashmir and Ladakh,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000036421783066,1.498529789e-7,0.0000213622384623
+Jharkhand,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000020154091321,5.03136237e-8,0.0000135596903796
+Jharkhand,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000071901766928,1.085527636e-7,0.0000543404178222
+Jharkhand,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000126063235481,2.570304559e-7,0.0000815558570792
+Jharkhand,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000181052083211,4.892526063e-7,0.0001217066025532
+Jharkhand,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000235338393204,8.315746915e-7,0.0001586887933819
+Jharkhand,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000287463031863,0.0000010466955422,0.0001822781925581
+Jharkhand,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000346503185899,0.0000019890275406,0.0001928661402654
+Jharkhand,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000416683296,0.0000032315464954,0.0001999496200534
+Jharkhand,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000489332865965,0.0000042585343814,0.0002121916645585
+Jharkhand,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000555761054633,0.0000057900296037,0.0002284632013547
+Jharkhand,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000606695022933,0.0000058404480098,0.0002389150485766
+Jharkhand,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000647831386801,0.0000083561167413,0.0002306464719222
+Jharkhand,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000687907828103,0.0000115875176588,0.0002271978557564
+Jharkhand,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000722195420669,0.0000125639165266,0.0002187821788198
+Jharkhand,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000074609103347,0.0000134823670765,0.0002106384706894
+Jharkhand,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000754798357667,0.0000136069517471,0.00021585964977
+Jharkhand,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000750601559102,0.0000154561331033,0.000208116147014
+Jharkhand,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000739904591011,0.00001483450691,0.0002087963434137
+Jharkhand,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000072415908442,0.0000156848896107,0.0002032817871887
+Jharkhand,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000705315667582,0.0000148919428166,0.0002056988805079
+Jharkhand,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000685541757237,0.0000131309849387,0.0002032396738234
+Jharkhand,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000651711294041,0.0000151475356274,0.00017903804157
+Jharkhand,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000598821023007,0.0000155879943558,0.0001545746373295
+Jharkhand,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000540765241564,0.0000128516207331,0.0001462369572923
+Jharkhand,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000492339115562,0.0000109399729781,0.0001383841475208
+Jharkhand,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000469453687549,0.0000089400789695,0.0001409265975456
+Jharkhand,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000046926370712,0.0000090973582674,0.0001334651313518
+Jharkhand,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000476386801095,0.0000083219989979,0.0001331588234253
+Jharkhand,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000487998310845,0.000007935529416,0.0001525709869967
+Jharkhand,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000501041877963,0.0000064690409949,0.0001759778978138
+Jharkhand,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000521471580895,0.0000061051277513,0.0001883041685374
+Jharkhand,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000507064729965,0.0000050391824519,0.000186447115761
+Karnataka,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,6.782547427e-7,1.8796466e-8,0.0000037161126481
+Karnataka,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000014171340106,3.48302118e-8,0.0000088117713513
+Karnataka,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000022874739708,6.94907326e-8,0.0000136981544746
+Karnataka,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000032577827431,1.21760678e-7,0.0000199815372601
+Karnataka,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000004298508773,1.558616485e-7,0.0000239525776205
+Karnataka,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000053821161287,1.942661325e-7,0.0000300340121542
+Karnataka,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000067526212965,4.214464149e-7,0.0000301204850537
+Karnataka,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000084859481633,7.19511774e-7,0.0000349002670832
+Karnataka,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000102991989303,0.0000010106919026,0.0000420218271635
+Karnataka,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000119178781103,0.0000011970001089,0.0000499161620235
+Karnataka,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000130706820524,0.0000010912187463,0.0000593570893847
+Karnataka,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000139278494924,0.0000014272599414,0.0000582489610643
+Karnataka,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000147742571873,0.0000016063956792,0.0000584356205637
+Karnataka,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000155043357162,0.0000015210200693,0.0000619557341558
+Karnataka,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000160148680956,0.000001493582573,0.0000607813401853
+Karnataka,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000162083501819,0.0000015379368396,0.0000657922163866
+Karnataka,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000157803404708,0.0000018402484676,0.000061076138717
+Karnataka,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.00001470946548,0.0000018855671727,0.0000571263925217
+Karnataka,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000133090297614,0.0000017106584868,0.0000512278785707
+Karnataka,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000118912288544,0.0000014377766195,0.00004365137689
+Karnataka,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000107695874242,0.0000011908830388,0.0000434550848411
+Karnataka,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000097916462917,0.0000011179978537,0.0000354373090554
+Karnataka,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000087072730916,9.931984721e-7,0.0000318440106668
+Karnataka,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000076886723421,7.705169631e-7,0.0000290320836909
+Karnataka,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000069293001963,6.55162656e-7,0.0000305139806062
+Karnataka,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000066404601995,5.066095231e-7,0.0000294368864179
+Karnataka,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000006825235065,5.407815847e-7,0.0000300937808508
+Karnataka,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000072477496346,5.270303649e-7,0.0000339152163878
+Karnataka,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000077672740676,4.855559773e-7,0.0000394708130504
+Karnataka,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000082406801282,4.609416912e-7,0.0000454025765072
+Karnataka,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000088269926522,4.775324448e-7,0.0000483897631718
+Karnataka,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000089226888414,4.450073995e-7,0.0000523686468253
+Kerala,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,7.882423367e-7,1.96398431e-8,0.0000049750061178
+Kerala,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000025037189768,4.53067042e-8,0.0000170237197591
+Kerala,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000042915538474,1.056252998e-7,0.0000306512106604
+Kerala,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000060916700694,1.845718009e-7,0.0000399502879218
+Kerala,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000007848045356,2.822374218e-7,0.0000478732915444
+Kerala,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000095030148372,3.35259989e-7,0.0000543868031323
+Kerala,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000113807296791,6.144685717e-7,0.0000571492433205
+Kerala,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000136353111082,0.0000011127114088,0.0000618652541906
+Kerala,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000159444121558,0.0000014623244949,0.0000669217787214
+Kerala,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000179823025829,0.0000018054312639,0.0000682575342769
+Kerala,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000194078575029,0.00000180960516,0.000073980376574
+Kerala,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000204030240061,0.0000028882282058,0.0000732738950543
+Kerala,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000213184144218,0.0000035822375026,0.000073653335974
+Kerala,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.00002206461754,0.0000036911550923,0.0000687451122256
+Kerala,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000225513706963,0.0000039015180019,0.0000677790458009
+Kerala,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000227084338088,0.0000036608291472,0.000072421624755
+Kerala,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000224531321198,0.0000042802286912,0.0000674816478594
+Kerala,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000218055187834,0.0000044574450452,0.0000620668678532
+Kerala,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000208653000682,0.0000044770669898,0.0000586844811442
+Kerala,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000019765745817,0.0000040369261024,0.0000621243823193
+Kerala,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000186704398773,0.0000031612779081,0.0000629276539805
+Kerala,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000173597946158,0.0000031046608385,0.0000580649950402
+Kerala,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000015728145558,0.0000029921689521,0.0000498091510737
+Kerala,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000141050620885,0.0000026230570515,0.000043910758029
+Kerala,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000128200366017,0.0000024004118985,0.0000397216508862
+Kerala,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000121923441206,0.0000018308213939,0.000039032970228
+Kerala,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000120435981907,0.0000019036491857,0.0000386766501215
+Kerala,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000119859470811,0.0000017839997337,0.0000391605706976
+Kerala,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000120259734636,0.0000015707557492,0.0000426255446772
+Kerala,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000121639299412,0.000001225560061,0.0000464562869244
+Kerala,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000127277194098,0.0000012598090527,0.0000501654145441
+Kerala,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000130759677153,0.000001112964363,0.0000522666266569
+Madhya Pradesh,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000021439498998,4.60562399e-8,0.0000128034282596
+Madhya Pradesh,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000091579116074,1.176751001e-7,0.0000554147903633
+Madhya Pradesh,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000016455633374,3.247951328e-7,0.0000890169941297
+Madhya Pradesh,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000238472776755,6.22333996e-7,0.0001094737327423
+Madhya Pradesh,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000311468908247,9.584418284e-7,0.0001440631965254
+Madhya Pradesh,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000038169265872,0.0000013588297996,0.0001816278158259
+Madhya Pradesh,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000463109841812,0.0000028240795248,0.0002127889290703
+Madhya Pradesh,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000560858156689,0.0000045583645057,0.000233367599749
+Madhya Pradesh,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000659619384973,0.0000071817765467,0.0002798221558372
+Madhya Pradesh,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000743983641454,0.0000087899405828,0.0003147145918961
+Madhya Pradesh,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000797992669663,0.0000091691687502,0.0003165846296993
+Madhya Pradesh,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000827896869636,0.0000122218018747,0.0002987536888016
+Madhya Pradesh,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000850058230903,0.0000146788556804,0.000291420713906
+Madhya Pradesh,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000863635874431,0.0000175828692521,0.0002628650392654
+Madhya Pradesh,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000868254149309,0.0000177081632732,0.0002592437275391
+Madhya Pradesh,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000863657220561,0.0000164873842263,0.0002470150656248
+Madhya Pradesh,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000844947764402,0.0000192283399818,0.0002165035051633
+Madhya Pradesh,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000811808779701,0.0000199758035831,0.0002035602345916
+Madhya Pradesh,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000770281658291,0.0000191787327306,0.00019067998152
+Madhya Pradesh,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000072688626253,0.000017255102144,0.0001836842063822
+Madhya Pradesh,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000688689463694,0.0000155502205826,0.0001902062776873
+Madhya Pradesh,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000649812458989,0.0000158657336522,0.0001629833437374
+Madhya Pradesh,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000605141141006,0.0000155589797832,0.0001482391088686
+Madhya Pradesh,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000562840517975,0.0000142483888728,0.0001365621949686
+Madhya Pradesh,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.00005314016879,0.0000122513759851,0.0001383702941137
+Madhya Pradesh,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000519757917396,0.0000098370358542,0.0001436279495243
+Madhya Pradesh,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000053729399083,0.0000101138372009,0.0001546121555653
+Madhya Pradesh,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000576246391222,0.0000105926731419,0.0001668356894047
+Madhya Pradesh,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000619802987015,0.0000094934665245,0.0001852551821066
+Madhya Pradesh,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000652283255762,0.0000072369152013,0.0002143156180729
+Madhya Pradesh,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000067466316809,0.0000067776053606,0.0002258633866912
+Madhya Pradesh,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000063840543597,0.0000058931088177,0.0002256521599253
+Maharashtra,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000026119067909,6.48233264e-8,0.0000179508000261
+Maharashtra,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000116022036474,1.690500652e-7,0.0000795888248424
+Maharashtra,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000209172402251,4.802946412e-7,0.0001309071860539
+Maharashtra,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000302620568318,9.472097465e-7,0.0001694399983023
+Maharashtra,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000039397776073,0.0000014327301485,0.0002118641019221
+Maharashtra,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000480890841507,0.0000019208451121,0.0002466840934284
+Maharashtra,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000580405176472,0.0000037005270557,0.0002592508922178
+Maharashtra,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000699679161034,0.0000057552537987,0.00029740193886
+Maharashtra,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000821284911183,0.0000080314795111,0.0003193312695086
+Maharashtra,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000927211794855,0.0000108501817129,0.0003360966347079
+Maharashtra,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000998799647133,0.0000124329445923,0.0003622832779853
+Maharashtra,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001042591452681,0.0000176683013714,0.0003465083298162
+Maharashtra,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001077146685327,0.0000213869931251,0.0003045308264547
+Maharashtra,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000110226296227,0.000025348158697,0.0002827931979028
+Maharashtra,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001117707918653,0.0000278650158956,0.0002722697983598
+Maharashtra,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001123117428502,0.00002652653533,0.0002691786641607
+Maharashtra,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001121559984838,0.0000289815127871,0.0002429250503432
+Maharashtra,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001116430370774,0.0000317552156172,0.0002292620423249
+Maharashtra,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001107057065209,0.0000331135757167,0.000233693498392
+Maharashtra,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000109381009377,0.0000322868296205,0.0002546007959483
+Maharashtra,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001078181180215,0.0000297799610831,0.0002611292041888
+Maharashtra,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001045585943385,0.0000325320974262,0.0002514587681122
+Maharashtra,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000989617163414,0.0000309346655001,0.0002433173783156
+Maharashtra,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000092399648464,0.0000282060257407,0.0002193716162917
+Maharashtra,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000086551734936,0.000023297904586,0.0002157205572459
+Maharashtra,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000833156916193,0.0000177766334124,0.0002205889446563
+Maharashtra,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000824206071749,0.0000192705767074,0.0002111776790127
+Maharashtra,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000822189555307,0.0000186039476118,0.0002135244508631
+Maharashtra,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000824395705459,0.0000158755596375,0.000222757655531
+Maharashtra,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000827585890153,0.0000136692679174,0.0002393646860199
+Maharashtra,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000833756743188,0.0000138033478256,0.000250227557648
+Maharashtra,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000789669262458,0.0000132920501298,0.0002556497619116
+Manipur,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000002379716754,5.80688025e-8,0.0000160063517217
+Manipur,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000089940712823,1.295147502e-7,0.0000716232626219
+Manipur,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000161840140788,2.859555565e-7,0.0001211764351044
+Manipur,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000023662888187,5.716365274e-7,0.0001563953309488
+Manipur,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000031150606785,8.70551313e-7,0.0001948557148415
+Manipur,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000383770336709,0.0000011383909892,0.0002267755574758
+Manipur,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000470689448616,0.0000023440279536,0.0002405732969312
+Manipur,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000057953362723,0.0000040836399089,0.0002780958935374
+Manipur,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000692630031984,0.0000062237734559,0.0003172791437928
+Manipur,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000792100698773,0.0000077281103956,0.0003228044865239
+Manipur,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000859812515546,0.0000076393493737,0.0003294003335731
+Manipur,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000090360711226,0.0000105516078363,0.0003502150642373
+Manipur,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000941649857613,0.0000111602243155,0.0003296090829118
+Manipur,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000971349567396,0.0000127125836004,0.0003287539225246
+Manipur,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000099064272122,0.0000129163659993,0.0003312734812717
+Manipur,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000997673578763,0.0000126224868781,0.0003487037375237
+Manipur,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000980559444431,0.0000136753038677,0.0003326511720939
+Manipur,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000093670860881,0.0000134001993959,0.0003355403981292
+Manipur,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000878214077639,0.0000113910447381,0.000321891651503
+Manipur,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000817748681714,0.0000092549277323,0.0003077088859627
+Manipur,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000076913698854,0.0000068379676518,0.0003023806963121
+Manipur,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000729611600317,0.0000067384958402,0.0002903034329391
+Manipur,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000689013590725,0.0000062976151448,0.0002900261730865
+Manipur,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000649956155314,0.0000059593173997,0.0002537990962457
+Manipur,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000616088018064,0.0000051667415259,0.0002517594763061
+Manipur,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000591550082904,0.0000040657735052,0.0002534962271371
+Manipur,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000573409417864,0.0000042376331669,0.0002419866059608
+Manipur,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000557218550635,0.0000038394200043,0.000244526321081
+Manipur,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000544934708113,0.00000334978428,0.0002434493174073
+Manipur,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000538574793146,0.0000028484597862,0.0002491789959389
+Manipur,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000054352810062,0.0000029121899407,0.0002487990381106
+Manipur,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000506731941829,0.0000026582966895,0.000231431284472
+Meghalaya,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000016321721139,4.86025697e-8,0.0000100385606024
+Meghalaya,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000022695303805,9.36737121e-8,0.0000126886166262
+Meghalaya,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000037448732154,1.769072256e-7,0.0000196383819165
+Meghalaya,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000005886461443,3.01323599e-7,0.0000304626713767
+Meghalaya,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000085268490282,4.381960297e-7,0.0000434292324201
+Meghalaya,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.00001150469756,5.268902484e-7,0.0000559767415606
+Meghalaya,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000162936804524,0.0000010193717571,0.0000696086593007
+Meghalaya,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000237208283459,0.0000020390894059,0.0000985149069472
+Meghalaya,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000326399082973,0.0000028358958129,0.0001272080462174
+Meghalaya,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000041898781955,0.0000038326172306,0.000155182532506
+Meghalaya,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000503496842644,0.0000046369790151,0.0002073142510334
+Meghalaya,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000592971207057,0.0000065789791141,0.0002203879309752
+Meghalaya,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000695415817272,0.0000085000307758,0.0002532756345738
+Meghalaya,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000791832765899,0.0000104816347927,0.0002815527146086
+Meghalaya,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000863502539076,0.0000109956499375,0.0002992116303015
+Meghalaya,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000892321635687,0.0000104743133954,0.0003140313123034
+Meghalaya,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000886705587843,0.0000126600320896,0.0003048173246323
+Meghalaya,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000869941519518,0.000013083886886,0.000284315453413
+Meghalaya,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000845641703171,0.0000130835660523,0.000299340946531
+Meghalaya,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000817547529099,0.0000110840215042,0.0002800487797951
+Meghalaya,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000790265379351,0.0000084553496042,0.0002903876584052
+Meghalaya,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000758933432874,0.0000100602204906,0.0002521333738185
+Meghalaya,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000719478877481,0.0000111212455147,0.0002301701438379
+Meghalaya,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000676822764233,0.000009221859072,0.0002254895936535
+Meghalaya,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000636646462158,0.00000776135263,0.0002149480304096
+Meghalaya,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000605134004676,0.0000058460563825,0.0002163652394634
+Meghalaya,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000579121295616,0.0000059298874784,0.0002176731551241
+Meghalaya,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000553400263692,0.0000052873707657,0.0002070869950591
+Meghalaya,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000531367962632,0.0000041768985104,0.0002132937184487
+Meghalaya,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000516358748708,0.000003090408639,0.0002227035939883
+Meghalaya,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000513194801246,0.0000030624084037,0.0002305110552705
+Meghalaya,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000049185862598,0.0000030722180996,0.0002229177503507
+Mizoram,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000018501612884,5.02336315e-8,0.0000095217684038
+Mizoram,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000059634552696,1.144165869e-7,0.0000374736892491
+Mizoram,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000107328308513,2.907661495e-7,0.0000626349201117
+Mizoram,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000159846094801,5.305401228e-7,0.0000927613933598
+Mizoram,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000215527550243,7.769926901e-7,0.0001192554252184
+Mizoram,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000272681098979,0.0000010742539035,0.000156896702347
+Mizoram,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000343761439454,0.0000022658053335,0.0001662517823298
+Mizoram,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000043384890776,0.0000036136997398,0.0001814079582399
+Mizoram,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000529844470637,0.0000053022743982,0.0001974788711188
+Mizoram,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000618829319566,0.0000066024575226,0.0002236413089522
+Mizoram,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000688016419642,0.0000060927866968,0.0002560363679257
+Mizoram,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000744855267677,0.000009128297586,0.0002632036899137
+Mizoram,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000800807327382,0.0000111935399399,0.0002615476831344
+Mizoram,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000848913852164,0.0000118378810764,0.0002706089453544
+Mizoram,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000882511762412,0.0000126216791782,0.0002815252075243
+Mizoram,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000895263704816,0.000011516426698,0.0003008778299835
+Mizoram,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000880663694587,0.0000128790697566,0.0002858920709414
+Mizoram,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000842940736584,0.0000123130652916,0.0002577633780007
+Mizoram,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000791830564573,0.0000111126861387,0.0002599762682329
+Mizoram,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000073775176712,0.000009178208371,0.0002715228547336
+Mizoram,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000069191348561,0.000007158321675,0.0002805738912287
+Mizoram,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000653631181776,0.000006247641172,0.0002580146241067
+Mizoram,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.00006148187232,0.0000057216801345,0.0002382297253386
+Mizoram,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000576586419159,0.0000051277751791,0.000224317681905
+Mizoram,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000540103927746,0.0000038432137127,0.0002146095688186
+Mizoram,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000050837438241,0.0000032094013309,0.0002238880142731
+Mizoram,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000476855076304,0.0000029608788062,0.0002006881256573
+Mizoram,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000443239508713,0.0000028801209031,0.0001868821052153
+Mizoram,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000415266099951,0.0000026653271162,0.0001821797393874
+Mizoram,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000040037485269,0.0000024508089274,0.0001747199224102
+Mizoram,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000400362778705,0.0000024330280325,0.0001846578886562
+Mizoram,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000382238188823,0.0000023561098254,0.0001727810832926
+Nagaland,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000030092343385,8.01258285e-8,0.0000167099354554
+Nagaland,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000092582365117,1.566473124e-7,0.0000538773844992
+Nagaland,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000161541318426,3.933424626e-7,0.0000849440379067
+Nagaland,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000234647869314,8.235945689e-7,0.0001224174174576
+Nagaland,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000309795966007,0.0000012998064289,0.0001519942804449
+Nagaland,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000385012826892,0.0000015023243359,0.0001913403906566
+Nagaland,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000475845725141,0.0000031738392503,0.0002321351053205
+Nagaland,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000058753602145,0.000005503753075,0.0002431131930572
+Nagaland,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000702676428261,0.000008085544774,0.0002906884488796
+Nagaland,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000804147939046,0.0000102765049114,0.0003149980915351
+Nagaland,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000087564974989,0.00001086634536,0.0003308025727401
+Nagaland,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000092757280293,0.0000140518720795,0.0003049736480209
+Nagaland,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000977673877756,0.000017124532107,0.0003180436372607
+Nagaland,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001020270195079,0.0000193687749308,0.000322410011554
+Nagaland,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000104957388645,0.0000199674833293,0.0003140909317888
+Nagaland,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000106004559644,0.0000183808732149,0.0003129757918675
+Nagaland,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001050814539077,0.000019452835086,0.000290789715046
+Nagaland,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001027721759021,0.000019553849316,0.0002864266402017
+Nagaland,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000995164596929,0.0000187793656785,0.0002728955322058
+Nagaland,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000957976950593,0.000018366359852,0.0002855099968783
+Nagaland,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000921589804161,0.0000159946548915,0.0002943679032991
+Nagaland,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000088213001348,0.0000178919596603,0.0002682895026788
+Nagaland,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000083494046143,0.0000176543792851,0.0002460884404199
+Nagaland,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000784776631889,0.0000160960453234,0.0002307777562866
+Nagaland,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000737467027815,0.0000136203989621,0.000226788528182
+Nagaland,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000699297520451,0.0000097327508903,0.0002322478142952
+Nagaland,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000667707430794,0.0000102362361745,0.0002150875276388
+Nagaland,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000063791639048,0.0000090797846636,0.0002119459530966
+Nagaland,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000612910795579,0.0000083163354052,0.0002120283838697
+Nagaland,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000595905100626,0.0000065059244337,0.0002188486371215
+Nagaland,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000589252291857,0.0000057964427608,0.0002252740810844
+Nagaland,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000546035945907,0.0000047376903695,0.0002189436884526
+Odisha,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000010304839344,2.24195552e-8,0.0000062983874015
+Odisha,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000018158192663,4.20227508e-8,0.0000132860598117
+Odisha,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000031679115451,9.73641103e-8,0.0000202888857565
+Odisha,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000049619110707,1.837733541e-7,0.0000306604063068
+Odisha,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000070788214749,2.869704292e-7,0.0000425130699716
+Odisha,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000094054067823,3.964173607e-7,0.0000535529987763
+Odisha,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000126848967254,9.596868428e-7,0.0000615403286883
+Odisha,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000173526089882,0.0000016554102494,0.0000695048407617
+Odisha,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000228277732867,0.0000025702080264,0.000092881087551
+Odisha,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000285202053696,0.0000029365806543,0.0001067517002363
+Odisha,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000033812122238,0.0000028101597904,0.0001411237311241
+Odisha,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000395016646852,0.0000041099428671,0.0001530988253103
+Odisha,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000459988597753,0.0000056335015061,0.0001599284488867
+Odisha,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000052112363531,0.0000070350831819,0.0001696332351532
+Odisha,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000566669596538,0.0000075880747062,0.0001896189534588
+Odisha,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000584911258784,0.0000074739259215,0.0002127311675287
+Odisha,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000057864985539,0.0000090754370763,0.0001963060457302
+Odisha,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000561332428537,0.0000098413275148,0.0001774685523171
+Odisha,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000536956128807,0.0000092201445746,0.000171919170191
+Odisha,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000050974311742,0.0000081395608182,0.0001738337172802
+Odisha,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000484124990247,0.0000071731608355,0.0001844306559835
+Odisha,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000453660047428,0.0000073201148035,0.0001586965575212
+Odisha,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000414397141945,0.0000070677500249,0.0001358389210042
+Odisha,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000374716910948,0.0000064781534692,0.0001171878190081
+Odisha,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000343497757131,0.0000054980901298,0.0001093093009383
+Odisha,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000329963891921,0.0000040558935773,0.0001155104832754
+Odisha,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000334805125896,0.0000042141030734,0.0001091924215609
+Odisha,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000349849709678,0.00000385421104,0.0001216827710228
+Odisha,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000370803920603,0.0000033677368459,0.0001361608616579
+Odisha,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000393151699474,0.0000023685430269,0.0001676363997075
+Odisha,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000422429055139,0.0000022009491103,0.0001890996533912
+Odisha,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000424568135516,0.000002084063375,0.0001967955594049
+Punjab,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000013171377825,3.60200529e-8,0.0000081150976132
+Punjab,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000046524538308,7.86097937e-8,0.0000280703177229
+Punjab,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000082034151306,1.77342214e-7,0.0000432062417744
+Punjab,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000119083759182,3.165944798e-7,0.0000636202276195
+Punjab,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000157033622663,5.3498368e-7,0.0000760469861353
+Punjab,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000195211214087,7.209781169e-7,0.0001013156312999
+Punjab,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000239590230579,0.000001408368929,0.0001132655869575
+Punjab,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000291769186662,0.0000020688798584,0.0001227407476964
+Punjab,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000344550667286,0.0000028909274444,0.0001544064125752
+Punjab,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000390732665156,0.00000348203171,0.0001673376148977
+Punjab,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000422806647033,0.0000035653387613,0.0001690389790945
+Punjab,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000044437410643,0.0000047391135749,0.0001732788577084
+Punjab,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000462966486788,0.0000055708676177,0.0001639740360812
+Punjab,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000047715853835,0.0000062848077354,0.0001514437915794
+Punjab,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000486008234277,0.0000064782017711,0.0001598026115861
+Punjab,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000488463993928,0.0000061697731187,0.0001652226360664
+Punjab,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000480514919357,0.0000068523045926,0.000151240099018
+Punjab,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000046183329432,0.0000074090323279,0.0001295596910998
+Punjab,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000436552480419,0.0000071195653844,0.0001251795763597
+Punjab,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000409201291599,0.000006784536739,0.000123324290163
+Punjab,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000384609482665,0.0000056837169718,0.0001213574880433
+Punjab,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000358713133937,0.0000059693829314,0.0001179902517519
+Punjab,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000327903524753,0.0000056251655661,0.0001092723645312
+Punjab,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000297958111667,0.0000051446096639,0.0001025731151395
+Punjab,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000275210493725,0.0000044457794925,0.0000959496277676
+Punjab,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000266143503755,0.000003426507663,0.0000939690131358
+Punjab,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000271084987027,0.0000037686553194,0.0000922534154461
+Punjab,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000283301361053,0.0000038598118077,0.0001005357099595
+Punjab,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000298586292298,0.0000038565057224,0.0001170489785617
+Punjab,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000312632921816,0.0000033700840508,0.0001360436189981
+Punjab,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000032828159583,0.0000030506741775,0.0001374860693802
+Punjab,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000323064827429,0.0000025633594498,0.0001411939268997
+Rajasthan,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000028240243275,7.58599156e-8,0.0000162835958309
+Rajasthan,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000088472936035,1.964214363e-7,0.0000586435494149
+Rajasthan,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000015498785786,5.045062479e-7,0.0000870421381933
+Rajasthan,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000224964666523,9.012560492e-7,0.0001298537180786
+Rajasthan,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000295754226921,0.0000012393540543,0.0001495388956951
+Rajasthan,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000364919561511,0.0000016221779161,0.0001783826024729
+Rajasthan,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000448437971652,0.0000036540669283,0.0002024957897545
+Rajasthan,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000553519570961,0.0000060104731389,0.0002325459877978
+Rajasthan,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000664717064446,0.0000080812021521,0.0002588416857148
+Rajasthan,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000766495582597,0.0000097822152473,0.0002792429490088
+Rajasthan,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000843123379965,0.0000098716166085,0.0002854266403068
+Rajasthan,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.00009004275073,0.0000130156580107,0.0002796773793408
+Rajasthan,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000953127380451,0.0000164428772139,0.0002756806955612
+Rajasthan,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000998773763695,0.00001944516857,0.0002923969354896
+Rajasthan,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001035309863394,0.0000200068538745,0.0002985441026192
+Rajasthan,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001060826235322,0.0000200665539584,0.0002926344824881
+Rajasthan,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001082357436229,0.0000244308036235,0.0002836785208179
+Rajasthan,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001105544679277,0.0000276024391682,0.0002878356200138
+Rajasthan,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001125912204683,0.000029102990831,0.0002988125393991
+Rajasthan,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001139557654502,0.000027681239306,0.0003112071973632
+Rajasthan,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001143224662716,0.0000250181667497,0.0003334574581359
+Rajasthan,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001107376015853,0.0000278448810081,0.0003032061102041
+Rajasthan,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001024984774095,0.0000281819654991,0.0002655810321523
+Rajasthan,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000925762540455,0.0000239422229811,0.0002403893088122
+Rajasthan,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000840732655903,0.000019108874075,0.0002304060918338
+Rajasthan,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000803367285308,0.0000153239018526,0.0002303347815682
+Rajasthan,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000823458338257,0.0000159175297993,0.0002237378492642
+Rajasthan,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000873588107672,0.0000158970014756,0.0002370502076472
+Rajasthan,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000932991636922,0.0000156739083132,0.0002775108481492
+Rajasthan,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000982293937333,0.000014010124826,0.0003259857771951
+Rajasthan,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001024023978677,0.0000149174072311,0.0003571231881102
+Rajasthan,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000951725499073,0.0000117514037248,0.0003506231815314
+Sikkim,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000027622606416,5.85700423e-8,0.000016672563031
+Sikkim,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000095791348847,1.574028074e-7,0.000060630245822
+Sikkim,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000171701178625,4.035777656e-7,0.0001050797920807
+Sikkim,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000252588828994,8.400698484e-7,0.0001479194786783
+Sikkim,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000336340539338,0.0000012595674221,0.0001906847494831
+Sikkim,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000421072344965,0.0000017051699266,0.0002256922963772
+Sikkim,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000525238334199,0.0000032691037805,0.0002375065545122
+Sikkim,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000656620068875,0.0000054560649289,0.0002694722282511
+Sikkim,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000796978431138,0.0000080059927126,0.0003040486700149
+Sikkim,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000928253132435,0.0000102600598363,0.0003454483230031
+Sikkim,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001030981332926,0.0000110474016915,0.0003904156036179
+Sikkim,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001114495525978,0.0000144464406225,0.0003637140956214
+Sikkim,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001196518997524,0.0000187683174845,0.0003422407383955
+Sikkim,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001269407439401,0.0000218287079045,0.0003504174584136
+Sikkim,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000132552803813,0.0000227616180811,0.0003821042897085
+Sikkim,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001357698602576,0.000020470844568,0.0003925037349302
+Sikkim,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001374130251524,0.0000227263199687,0.0003807034421217
+Sikkim,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001387185431109,0.0000268980496054,0.0003675869219116
+Sikkim,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001395504711643,0.0000262320018683,0.0003593372511996
+Sikkim,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001398844963209,0.0000229025697606,0.0003755978870666
+Sikkim,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001397694019625,0.0000222678921609,0.0004028533424731
+Sikkim,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001380539753457,0.0000260368743959,0.0003543400369818
+Sikkim,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.00013420847219,0.0000277826462594,0.0003482330505072
+Sikkim,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001293144777058,0.0000273046300349,0.0003362264564507
+Sikkim,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001246653401395,0.0000227663030253,0.0003292165141495
+Sikkim,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001216949271884,0.0000186870683667,0.0003392325923152
+Sikkim,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001204807463104,0.0000183249300572,0.0003245395662117
+Sikkim,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001199610195244,0.0000168934173384,0.0003293363360156
+Sikkim,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001199816632941,0.0000160363029821,0.0003575704817755
+Sikkim,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001204301188727,0.0000138289011882,0.0003833516296547
+Sikkim,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001224974127392,0.0000142342150931,0.0003983538033664
+Sikkim,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001175189538589,0.0000127765819073,0.0003917312573767
+Tamil Nadu,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000018058112329,4.55684912e-8,0.0000099135151971
+Tamil Nadu,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000077272632246,1.107426058e-7,0.0000463541760484
+Tamil Nadu,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.00001363883786,2.680578765e-7,0.0000783688523705
+Tamil Nadu,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000193772950032,4.777120863e-7,0.0001051457813349
+Tamil Nadu,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000247876637691,7.47160779e-7,0.0001390320387926
+Tamil Nadu,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000297247364557,0.0000010658780782,0.0001651445286209
+Tamil Nadu,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000352183875577,0.0000020658200392,0.0001738246511593
+Tamil Nadu,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000416780831615,0.0000032706498735,0.0001896544608661
+Tamil Nadu,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000480015949113,0.000004571304754,0.0001953831336918
+Tamil Nadu,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000053074366819,0.0000057780552972,0.0001950325610613
+Tamil Nadu,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000557887447606,0.0000061863213243,0.0002163805788071
+Tamil Nadu,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000568228237397,0.0000076014614048,0.0001994789631577
+Tamil Nadu,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000575845922438,0.0000089960347053,0.0001763045772359
+Tamil Nadu,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000580448192663,0.0000101180390961,0.0001718369229324
+Tamil Nadu,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000581467167075,0.0000107914623368,0.000174850523822
+Tamil Nadu,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000578374119631,0.0000109765154133,0.0001730313340097
+Tamil Nadu,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000567686066238,0.0000122398273885,0.0001609079615258
+Tamil Nadu,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000548270118998,0.0000128637891634,0.0001430599500448
+Tamil Nadu,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000523343350732,0.000012506654562,0.0001415471545029
+Tamil Nadu,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000496269645217,0.0000113279237597,0.0001326430603037
+Tamil Nadu,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000470602437306,0.0000094883751755,0.0001340945007658
+Tamil Nadu,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000440872340828,0.0000102282829506,0.0001216693240711
+Tamil Nadu,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000040419104944,0.000010613782385,0.0001107375150109
+Tamil Nadu,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000368007548546,0.0000103504824488,0.0000964333093179
+Tamil Nadu,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000340290528201,0.00000851339372,0.0000937132126037
+Tamil Nadu,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000329230297458,0.000006789466885,0.0000971034857486
+Tamil Nadu,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000335903229181,0.0000072640597129,0.0000978604907188
+Tamil Nadu,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000352380256473,0.0000065748944785,0.0001025383107196
+Tamil Nadu,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000373254566564,0.0000056273803411,0.0001087749480722
+Tamil Nadu,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000392944232177,0.0000050269209718,0.0001213542690347
+Tamil Nadu,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000414492348043,0.0000048284907013,0.0001443080364166
+Tamil Nadu,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000402628376874,0.0000041852956201,0.0001481561495951
+Telangana,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,7.100361968e-7,1.99460071e-8,0.0000042008639578
+Telangana,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000011543974752,4.54432735e-8,0.000007357186095
+Telangana,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000020656339064,1.109703543e-7,0.0000133134831055
+Telangana,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000003351344634,2.062139395e-7,0.0000192815488702
+Telangana,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000049222634646,3.278121277e-7,0.0000279673424807
+Telangana,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000006691490216,3.514691418e-7,0.0000370464297259
+Telangana,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000094987364949,6.665160048e-7,0.0000450963211843
+Telangana,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000138370650698,0.0000012009390948,0.0000540574761279
+Telangana,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000191028662063,0.0000017610595301,0.0000650928376306
+Telangana,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000247006285485,0.0000023721691742,0.0000888188712092
+Telangana,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000300076810547,0.0000027212095735,0.0001130050643157
+Telangana,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000356403079731,0.0000040567809931,0.0001254096731301
+Telangana,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000420222868623,0.0000051277960508,0.0001383272891963
+Telangana,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000482028797539,0.0000062680164912,0.000155338942704
+Telangana,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000532149682557,0.0000069943643832,0.0001751474673308
+Telangana,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000056121483285,0.0000065947245203,0.0001922092565729
+Telangana,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000575859506294,0.0000080712460165,0.0001870327506837
+Telangana,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000588325530181,0.0000089096218256,0.0001886681868972
+Telangana,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000597467189192,0.0000092448120149,0.0001954959394164
+Telangana,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000601965869508,0.0000096151174048,0.0001935295896369
+Telangana,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000600949782241,0.0000074465281545,0.0001946059734983
+Telangana,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000581508775982,0.0000085933930961,0.000164924451725
+Telangana,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000540230196549,0.0000085709512017,0.0001486702288923
+Telangana,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000491016908355,0.0000075865263554,0.0001427052129481
+Telangana,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000448640427688,0.0000067272251669,0.0001323268026488
+Telangana,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000428343066928,0.0000055012797699,0.0001417483572067
+Telangana,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000426186709644,0.0000052099532339,0.0001355054330313
+Telangana,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000427309220759,0.000004960229048,0.0001338387389282
+Telangana,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000430358024261,0.0000045788539259,0.0001428008010368
+Telangana,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000433862567522,0.0000041304560348,0.0001541905868412
+Telangana,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000444025549101,0.0000035695292415,0.000156624127661
+Telangana,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000427968419699,0.0000026202747068,0.0001509629499462
+Tripura,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000013656504938,2.78290807e-8,0.0000081558165475
+Tripura,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000044672547135,5.0616028e-8,0.0000304110682886
+Tripura,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000007753630911,1.198824229e-7,0.0000544293948018
+Tripura,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000111190894866,2.206596955e-7,0.0000749677130645
+Tripura,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000144573329827,3.467459405e-7,0.0000850633823357
+Tripura,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000176670918913,4.675405271e-7,0.000100312023782
+Tripura,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000214029806146,0.0000010680621413,0.0001089022418869
+Tripura,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000259153666573,0.0000016154780973,0.0001218890719227
+Tripura,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000304935044179,0.0000022890480717,0.0001230826601234
+Tripura,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000344358629978,0.0000027844845744,0.0001377321832803
+Tripura,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000370491772847,0.0000030190205477,0.0001514738545295
+Tripura,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000386173566606,0.000003779924874,0.0001483184843706
+Tripura,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000398572078369,0.0000042662010984,0.0001426893813796
+Tripura,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000407222352148,0.0000045276077444,0.000131708221752
+Tripura,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000411802077842,0.0000046331088838,0.0001373625507914
+Tripura,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000412076596538,0.0000043399665856,0.0001433989025765
+Tripura,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000040090522653,0.0000047219271864,0.0001346471948391
+Tripura,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000375681541153,0.0000043278168695,0.0001220686419736
+Tripura,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000342951650776,0.0000038664363693,0.0001195083137829
+Tripura,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000309464255002,0.0000031264375038,0.0001192780731789
+Tripura,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000282194264023,0.0000024317769201,0.0001217473790198
+Tripura,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000026042487839,0.0000026133965847,0.0001074703762589
+Tripura,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000023918790176,0.0000024523491361,0.0000990283085753
+Tripura,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000219156226141,0.0000019024347209,0.0000946319287013
+Tripura,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000020117234278,0.0000014621371983,0.0000862101152078
+Tripura,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000186517154755,0.0000010831115799,0.0000822557872199
+Tripura,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000173535053227,0.0000011324465091,0.0000726574880875
+Tripura,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000161217138917,0.0000011465823988,0.0000681330444548
+Tripura,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000151596063067,0.0000010431400794,0.0000630814297738
+Tripura,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000146684845136,9.304710164e-7,0.0000654841312171
+Tripura,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000147792062856,9.150421674e-7,0.0000619332006138
+Tripura,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000150272475017,7.935833644e-7,0.0000646453825658
+Uttar Pradesh,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000022959308984,7.38343749e-8,0.000012037423069
+Uttar Pradesh,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000008112550327,1.998876758e-7,0.0000474587830089
+Uttar Pradesh,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000148339192753,5.131282469e-7,0.0000865632823849
+Uttar Pradesh,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000222279876023,0.0000010223979811,0.0001242378069443
+Uttar Pradesh,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000300816277186,0.0000014608251937,0.0001635631077956
+Uttar Pradesh,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000381876031005,0.0000019231824931,0.0001962173778258
+Uttar Pradesh,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000483575524029,0.0000039983751058,0.0002213339065295
+Uttar Pradesh,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000612552040177,0.0000063597138106,0.000239021098064
+Uttar Pradesh,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000749454808784,0.0000097493485553,0.0002798885595713
+Uttar Pradesh,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000874608180127,0.0000124496603498,0.0002990048919351
+Uttar Pradesh,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000967481962132,0.0000133635533221,0.0003488450148462
+Uttar Pradesh,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001033323281804,0.0000181708744448,0.0003287268381969
+Uttar Pradesh,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001091403136884,0.0000239628481747,0.0003331117630155
+Uttar Pradesh,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001142395914956,0.000028807314493,0.000308984297318
+Uttar Pradesh,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001187893609218,0.0000338881857054,0.0002843178802127
+Uttar Pradesh,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001229718160842,0.0000353357644391,0.0002937782327727
+Uttar Pradesh,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001275358403862,0.0000405252452753,0.0002771785515539
+Uttar Pradesh,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001326430571409,0.0000467104910609,0.0002766355923082
+Uttar Pradesh,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001374736723152,0.0000467544641344,0.0002845396768462
+Uttar Pradesh,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001412209646696,0.0000476235506054,0.0003146272556384
+Uttar Pradesh,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001430508716029,0.0000427085668179,0.0003398033304806
+Uttar Pradesh,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001415818613731,0.0000482210695051,0.0003185658835904
+Uttar Pradesh,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001371998328971,0.0000456100347704,0.0002959076598741
+Uttar Pradesh,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001316857504789,0.0000416683297208,0.0002874862554903
+Uttar Pradesh,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001268834634524,0.0000370892226719,0.0002859918248166
+Uttar Pradesh,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001246695605712,0.0000294448500976,0.0002956369652672
+Uttar Pradesh,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001261822431178,0.0000304070117361,0.0002939951067383
+Uttar Pradesh,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000130089787852,0.000029221275702,0.0003102014048928
+Uttar Pradesh,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001345818150023,0.0000272265657973,0.0003462838920276
+Uttar Pradesh,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001377465670376,0.0000249213692659,0.0003770928103794
+Uttar Pradesh,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001389397749873,0.000024232692247,0.0003895124252723
+Uttar Pradesh,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001278643089078,0.0000209694479597,0.0003486445247586
+Uttarakhand,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000039505190291,9.66120272e-8,0.0000249023869095
+Uttarakhand,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000113505436677,1.956966925e-7,0.0000679731758609
+Uttarakhand,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000195561229701,4.838440459e-7,0.0001222208866006
+Uttarakhand,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000282893866832,8.668244606e-7,0.0001636265082299
+Uttarakhand,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000372778129059,0.0000014010901585,0.0002128088898861
+Uttarakhand,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000462411757482,0.0000018513752085,0.0002430845009905
+Uttarakhand,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000567734239502,0.0000037362739883,0.0002755342550658
+Uttarakhand,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000696560297085,0.000005716789945,0.0002968287105799
+Uttarakhand,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000833412784578,0.0000080320373069,0.0003338369388797
+Uttarakhand,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000962972913556,0.000010191610254,0.0003663306959552
+Uttarakhand,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001070071963764,0.0000112486744219,0.0003938154677543
+Uttarakhand,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001167366201306,0.0000160409922279,0.0003770536309541
+Uttarakhand,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001267437070167,0.000019414508899,0.0003641193926371
+Uttarakhand,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001355031257421,0.0000225799222699,0.0003704705832347
+Uttarakhand,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001416631109958,0.0000243060658795,0.000386264285011
+Uttarakhand,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000144006234088,0.0000233961559387,0.0004095291707108
+Uttarakhand,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000143618891364,0.0000279846964126,0.0003703903296496
+Uttarakhand,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001424783477636,0.0000307804753642,0.0003635509851492
+Uttarakhand,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001405889959666,0.0000278380101245,0.0003763695845088
+Uttarakhand,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001380575282968,0.000027942276701,0.0003790344610064
+Uttarakhand,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001351413058491,0.0000249573099169,0.0003927470871558
+Uttarakhand,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001301554537545,0.0000251264205423,0.0003449527927811
+Uttarakhand,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001222042278195,0.0000241189595497,0.0003046951813844
+Uttarakhand,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0001127331533856,0.0000212294981404,0.0002854685670048
+Uttarakhand,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000103373369328,0.0000187502681842,0.0002715197237953
+Uttarakhand,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000958119881894,0.000015944859244,0.0002602590713885
+Uttarakhand,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000894294269026,0.0000158279738313,0.0002496585166503
+Uttarakhand,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000831682548208,0.0000134039305231,0.00022808770125
+Uttarakhand,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000780278296485,0.0000113895772572,0.0002269340687885
+Uttarakhand,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000750075821884,0.0000087127844141,0.0002404644870082
+Uttarakhand,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000744721828832,0.0000076398784451,0.0002383255936608
+Uttarakhand,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000690169350194,0.0000062859836616,0.000241316053963
+West Bengal,1990,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000010771427051,2.48513892e-8,0.0000073774442078
+West Bengal,1991,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000003567366559,5.75012213e-8,0.0000274810846136
+West Bengal,1992,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000006312734202,1.434591988e-7,0.0000457272331709
+West Bengal,1993,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000092004459693,2.833879896e-7,0.0000602084507576
+West Bengal,1994,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000121147079104,4.114643976e-7,0.0000745499116739
+West Bengal,1995,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000149424145205,5.266498551e-7,0.0000872420960121
+West Bengal,1996,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000018351820562,0.0000012102974082,0.0000932599157789
+West Bengal,1997,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000226458149441,0.0000021722052516,0.0000946481007614
+West Bengal,1998,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000271525897046,0.0000030050328336,0.0000953873502448
+West Bengal,1999,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000311891034544,0.0000034084501323,0.0001113734370587
+West Bengal,2000,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000340746699713,0.0000034043971426,0.000120952221561
+West Bengal,2001,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000036224374824,0.0000044737729618,0.0001217051435062
+West Bengal,2002,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000383553490245,0.0000056435958753,0.0001196185128784
+West Bengal,2003,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000402359932049,0.0000061112033935,0.0001187621642119
+West Bengal,2004,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000416132458666,0.0000064299048613,0.0001233498797364
+West Bengal,2005,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.00004223030984,0.0000054737669442,0.0001325684615565
+West Bengal,2006,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000417600797905,0.0000060970549732,0.0001246269576279
+West Bengal,2007,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000402902806976,0.0000066068076395,0.0001228482726666
+West Bengal,2008,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000381773256541,0.0000066370962865,0.0001084256416191
+West Bengal,2009,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000358143797326,0.0000057163501692,0.0001066330779766
+West Bengal,2010,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.000033633986451,0.0000053211323926,0.0001030389892178
+West Bengal,2011,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000311745241474,0.0000059554226995,0.0001033583020901
+West Bengal,2012,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000281082447076,0.0000056860798512,0.0000895286979601
+West Bengal,2013,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000250774768382,0.0000050841767476,0.0000795735571195
+West Bengal,2014,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000227478347776,0.0000044884617472,0.0000749666801085
+West Bengal,2015,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000218049762006,0.0000033213110529,0.0000737201084546
+West Bengal,2016,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000221193952483,0.0000036328271296,0.0000700742124064
+West Bengal,2017,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000229478179653,0.0000037752302742,0.0000728890487269
+West Bengal,2018,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000240475266653,0.0000034480760022,0.0000862205109238
+West Bengal,2019,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000251736893572,0.0000026329754893,0.0001055391263936
+West Bengal,2020,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000268708268157,0.0000025102372151,0.0001162112055441
+West Bengal,2021,<5 years,Female,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total prevalent cases,0.0000265422127377,0.0000022008312727,0.0001123432364193
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2021. Seattle, WA: IHME, University of Washington, 2023. Available from http://vizhub.healthdata.org/gbd-compare. (Accessed 7/24/2024)."
+"For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"

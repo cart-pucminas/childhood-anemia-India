@@ -1,0 +1,964 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+Andhra Pradesh,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136062619935004,0.0107164369495219,0.0171982040675531
+Andhra Pradesh,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135999364536908,0.010722453679388,0.0170629189908804
+Andhra Pradesh,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135905391951765,0.0107634588969402,0.0170124954823552
+Andhra Pradesh,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135802575796794,0.0107878666071791,0.0169992263334733
+Andhra Pradesh,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135699569768881,0.0107618080339477,0.0170228503929905
+Andhra Pradesh,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135601779918847,0.0107717173205411,0.0170196511455613
+Andhra Pradesh,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013547816416749,0.0107426810639327,0.0169427062336775
+Andhra Pradesh,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135322854209601,0.0106883831328816,0.0168428188229782
+Andhra Pradesh,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135153303850691,0.0106195879469369,0.016795301917415
+Andhra Pradesh,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135002960572832,0.0105484142353942,0.0167273006744229
+Andhra Pradesh,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134894817597479,0.0105221973812641,0.0167118516779014
+Andhra Pradesh,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134879243809605,0.0105848352992999,0.0167428357008735
+Andhra Pradesh,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134837084228546,0.0106502527791705,0.0167609997057005
+Andhra Pradesh,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134782759569199,0.0106985145706697,0.0168219910529656
+Andhra Pradesh,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134727885913632,0.0107164201542299,0.0168211417080383
+Andhra Pradesh,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134691417032474,0.0106826936253238,0.0168459926159328
+Andhra Pradesh,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134648841385122,0.0107330165449442,0.0167875927248818
+Andhra Pradesh,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134618201701658,0.0107011287724595,0.0168496461274636
+Andhra Pradesh,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134598740301194,0.0106680754772706,0.0168648344644368
+Andhra Pradesh,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134581383380296,0.0106321447275327,0.0168764352058547
+Andhra Pradesh,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134564236788963,0.0106447904357945,0.0168677970633773
+Andhra Pradesh,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013447364249857,0.0106861305295758,0.0168892642844224
+Andhra Pradesh,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013433897236652,0.0107422124240678,0.0168280777023488
+Andhra Pradesh,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013420279658643,0.0107155046604527,0.0167603710285762
+Andhra Pradesh,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134091553355649,0.0106232901525704,0.0167089568493028
+Andhra Pradesh,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134043891088407,0.0105327674582917,0.0167013812604708
+Andhra Pradesh,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134009726780372,0.0105538971476216,0.016716388936073
+Andhra Pradesh,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134032230577633,0.0105286011491002,0.016759844518029
+Andhra Pradesh,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134081789364155,0.0105547199260786,0.0168200154919893
+Andhra Pradesh,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134140892466458,0.0104375919119887,0.0168515516556431
+Andhra Pradesh,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134479733511375,0.0105524155400199,0.0166755417195117
+Andhra Pradesh,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134517983106067,0.010658330956145,0.0168665062457902
+Arunachal Pradesh,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137620937545994,0.0107900435722153,0.0173998843589176
+Arunachal Pradesh,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137530301145547,0.0108253639610285,0.0173232730849395
+Arunachal Pradesh,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137420114055379,0.0107866847731537,0.0171830213221481
+Arunachal Pradesh,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137307756488651,0.0107758233933607,0.0171276855975008
+Arunachal Pradesh,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137203453213006,0.0107895814318441,0.017106414208472
+Arunachal Pradesh,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137116599157624,0.0108302996360894,0.0171299194408334
+Arunachal Pradesh,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137051452380441,0.0109294356840509,0.0171450499967338
+Arunachal Pradesh,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137032905189917,0.0109135263334421,0.0172226420030607
+Arunachal Pradesh,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137023455145067,0.0108596310553721,0.0173007993355709
+Arunachal Pradesh,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137005924760064,0.0108181363673914,0.0173200303548073
+Arunachal Pradesh,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136952073643092,0.0108324657392907,0.0173167174119105
+Arunachal Pradesh,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013692003782063,0.0108812263988865,0.0172893845865493
+Arunachal Pradesh,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136783526746999,0.0109369616304799,0.0172878696889813
+Arunachal Pradesh,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136614994161715,0.0108568446335402,0.0172303672661587
+Arunachal Pradesh,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136475549256378,0.0107916325864197,0.0171966434259712
+Arunachal Pradesh,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136433994381441,0.0107105871952389,0.0171950588704483
+Arunachal Pradesh,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136458578377396,0.0107613009957161,0.0171660517002192
+Arunachal Pradesh,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136516457163977,0.0108135520615569,0.0172690919683051
+Arunachal Pradesh,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136609051409588,0.0107380808769046,0.0173788135579024
+Arunachal Pradesh,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136713281918745,0.0107471460248059,0.0175153307107693
+Arunachal Pradesh,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136809200496704,0.0107120704596014,0.0175729122377326
+Arunachal Pradesh,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136757615522177,0.0108013865256939,0.0175377510848247
+Arunachal Pradesh,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013657906837908,0.0108557871850502,0.017486783020611
+Arunachal Pradesh,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136363366955694,0.0108332952392671,0.0174316116087915
+Arunachal Pradesh,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136184719609741,0.0107704572169004,0.0174190169513444
+Arunachal Pradesh,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136124656515801,0.010683009717786,0.0174549916173253
+Arunachal Pradesh,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136196811485785,0.0107189769113715,0.0174000128257104
+Arunachal Pradesh,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136409392245458,0.0107370445079707,0.0173670915679007
+Arunachal Pradesh,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136626440083033,0.010868538540661,0.0173903071894677
+Arunachal Pradesh,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136724696584792,0.0107937387902811,0.0174273739023323
+Arunachal Pradesh,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136318983257859,0.0107031098418483,0.0173545777047461
+Arunachal Pradesh,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136559548012523,0.0107356969486609,0.0172813718460198
+Assam,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136244904022228,0.0108373384966925,0.0169692047095957
+Assam,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136163388701972,0.0108421289920654,0.0169777288172359
+Assam,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136082519895784,0.0108341980818886,0.0170163352005714
+Assam,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136013776970609,0.0108214857565909,0.017051393209591
+Assam,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135964701422606,0.0107423569176726,0.0170977203887996
+Assam,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135937286745208,0.0107046066914928,0.0171051813987344
+Assam,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135919525514811,0.0107868485758924,0.017090760396001
+Assam,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135940183435374,0.0108174429868581,0.0170628683303303
+Assam,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135950858826076,0.0107860617917943,0.0170089835400548
+Assam,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135939847186106,0.0107042432417897,0.0169543190915379
+Assam,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135893334096002,0.0106065721922698,0.0169532371091786
+Assam,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135910079968347,0.0106415502438538,0.0170071004123069
+Assam,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135889290434826,0.010684871926444,0.0170439231052619
+Assam,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135859644048054,0.0106866369370828,0.0170789317230267
+Assam,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135841628906264,0.0107157053261766,0.0171398128909565
+Assam,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135862780115791,0.0106832021417596,0.0172860276710621
+Assam,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013587892284286,0.0106891841579722,0.0172152996329956
+Assam,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135887175182004,0.0107024378575206,0.0172205535218207
+Assam,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135906903529938,0.0107089181206196,0.0172326026564777
+Assam,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135931325499534,0.0107191987389572,0.017217749945474
+Assam,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013597148736724,0.0106875852068176,0.0172324049096292
+Assam,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135965897789064,0.0107007953548218,0.0172007119504091
+Assam,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135948178499052,0.0107414052788175,0.01720240364783
+Assam,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135943641595293,0.0107540821687836,0.0171393879833415
+Assam,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135953521570937,0.0107409487505334,0.0171782557053912
+Assam,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135985292138861,0.0107071164949647,0.0171125490997799
+Assam,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135975580237184,0.0107473998785293,0.0171250938718196
+Assam,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136003203675498,0.0107899692460371,0.0171643854406249
+Assam,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136024479382346,0.0108182204815492,0.016998852275959
+Assam,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136016208985494,0.0107630710189956,0.0170643803835226
+Assam,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135681871909249,0.0107047824244266,0.0170886824244032
+Assam,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136005620019015,0.0107404960061082,0.0173617948230471
+Bihar,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135721520862823,0.0107362106845448,0.0170991587998187
+Bihar,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135649529740916,0.0107081302788104,0.0170787260789388
+Bihar,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135555819217835,0.0108236540792216,0.0170309515477031
+Bihar,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135459718074859,0.0108473141167075,0.0169935656940246
+Bihar,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135372856480198,0.0108001731168397,0.0169173154229854
+Bihar,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013529946912546,0.0107052010368018,0.0168998750661588
+Bihar,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135251878603436,0.0107494959844391,0.0169103171992051
+Bihar,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135218452598901,0.0107873081711068,0.0168823439776763
+Bihar,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135198772321692,0.0107191836827246,0.0169559582116917
+Bihar,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135174789115343,0.0106728696987514,0.0170361240316149
+Bihar,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135119953274809,0.0106407505151935,0.0170582985715863
+Bihar,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135079500577162,0.0106737921807321,0.0169816255493813
+Bihar,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134949436429061,0.0106932498253879,0.016969274164345
+Bihar,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134776394863844,0.0107130809973344,0.0169369946577563
+Bihar,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134606793158238,0.0106597405677717,0.0169755809873465
+Bihar,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134491528709047,0.0105797626399215,0.0169818520115524
+Bihar,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134362625032923,0.0106247608737238,0.0169074032586949
+Bihar,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134212464639176,0.0106711609530632,0.0168879082954635
+Bihar,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134061666829017,0.0106627880217733,0.016844037643206
+Bihar,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133933863500146,0.0106704134428525,0.0167052013837744
+Bihar,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133856491635931,0.010676225653675,0.0166793456402048
+Bihar,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133736544733432,0.0106589195873769,0.016656725138965
+Bihar,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133604741493807,0.0106369723891029,0.0166522786851027
+Bihar,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133483660723107,0.0106105868690356,0.0166143497183619
+Bihar,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133398550616489,0.0105163074836796,0.0165852458936713
+Bihar,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133378815868563,0.0105107553610551,0.0166024896678777
+Bihar,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133424184503322,0.0105380530238357,0.0165444419897328
+Bihar,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133596707445879,0.0105520596244661,0.0166099157874642
+Bihar,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133803439522137,0.0106247880877135,0.0166959356085132
+Bihar,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013395203421827,0.0106733627658517,0.0168341010640641
+Bihar,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133756806013237,0.0106899837720228,0.0168967408366376
+Bihar,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134406166357813,0.0106677146560305,0.0169539311591853
+Chhattisgarh,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135391666847968,0.0106204880189842,0.0169460212379316
+Chhattisgarh,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135260494517085,0.0107035608662274,0.0168673815332643
+Chhattisgarh,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135108986965912,0.0107048650529481,0.0169330230415264
+Chhattisgarh,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134958078563576,0.0107411887658512,0.0168786990454107
+Chhattisgarh,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013481942607813,0.0108525750782139,0.0169093107511173
+Chhattisgarh,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134701896059246,0.0108588862289296,0.0167457583245835
+Chhattisgarh,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134601862624177,0.0108307183945727,0.0168055847025699
+Chhattisgarh,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134534815190917,0.0108038686990722,0.0166783044324862
+Chhattisgarh,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134480418063922,0.0107421284752555,0.0167004688070207
+Chhattisgarh,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013443721375977,0.0107082612871703,0.0167709422117282
+Chhattisgarh,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134402286912635,0.0107069215192091,0.0168301225847052
+Chhattisgarh,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134439524622023,0.0107144963326746,0.0168063602136214
+Chhattisgarh,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134480792813281,0.0107417789255585,0.0167994385041763
+Chhattisgarh,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134522764658183,0.0107584635242846,0.0168298911059606
+Chhattisgarh,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013456376911285,0.0107521699737351,0.0168346941571766
+Chhattisgarh,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134597175303876,0.0107102977428268,0.0168552873207528
+Chhattisgarh,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134542456446135,0.0107279312163347,0.0168069176097196
+Chhattisgarh,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134417965440854,0.0107600044554267,0.0168237667183795
+Chhattisgarh,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013428738179882,0.0107149540523181,0.0168030432919468
+Chhattisgarh,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134194923971524,0.0106906747729449,0.0168060817519892
+Chhattisgarh,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013418466941624,0.0106574243664247,0.016763345385433
+Chhattisgarh,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134188307935941,0.0106248141569279,0.016869226310799
+Chhattisgarh,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134180820734888,0.0106793468090592,0.0168555550791287
+Chhattisgarh,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013418453670037,0.0106002858006161,0.0168471232502617
+Chhattisgarh,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134206276743225,0.0106192427136546,0.0167839359578198
+Chhattisgarh,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134252959061555,0.0106720048543223,0.0168309782833855
+Chhattisgarh,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134361738531693,0.0107868219470717,0.0168543951622465
+Chhattisgarh,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134593316896909,0.0107163682425157,0.0168696121200059
+Chhattisgarh,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134824128213843,0.0107236416906372,0.0169548833889656
+Chhattisgarh,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134935919994201,0.0106386888779874,0.0169341396785657
+Chhattisgarh,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134258307589559,0.0104902614719215,0.0170579476784313
+Chhattisgarh,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.01347255697786,0.0106192402313874,0.0170145643965012
+Delhi,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138669689338068,0.0108245292225244,0.0174682231406982
+Delhi,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138340485006617,0.0108631308088871,0.0174478532261233
+Delhi,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013800960277202,0.0108594173015386,0.0174260667561467
+Delhi,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137710223176388,0.0108067210854209,0.0174569945601117
+Delhi,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137462995243284,0.01085442338668,0.0175567131127409
+Delhi,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137283796657046,0.0108316979268223,0.0175519345230499
+Delhi,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137114924438829,0.0108229215489969,0.0174105629507294
+Delhi,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136970861603722,0.0108046533690789,0.017282920324613
+Delhi,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136823087067153,0.0108069917503763,0.017232761107727
+Delhi,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013669129725686,0.0107612714103546,0.0172415311920275
+Delhi,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136589339149262,0.0107678782193889,0.0172349396393019
+Delhi,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136522325386446,0.0107538315382488,0.0171821755264288
+Delhi,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136377808844351,0.0107562235791549,0.0171715775301619
+Delhi,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136217212299809,0.0107302316057984,0.0171614476153913
+Delhi,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136095085042656,0.0107193065224536,0.0171045842047381
+Delhi,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136069672090004,0.0107131017528415,0.0172591571584264
+Delhi,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136138025504868,0.0108227923966801,0.0170973270923263
+Delhi,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136253592354361,0.0107819542048755,0.0171699178014902
+Delhi,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.01363895217723,0.0107727936741611,0.0172488747585198
+Delhi,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013649214205852,0.0108372078481538,0.0172982140742071
+Delhi,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136523069989163,0.0108432331570697,0.0174433775834357
+Delhi,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013642881901048,0.0108591943316017,0.0173229161626707
+Delhi,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136247202664256,0.0108093762091918,0.0171497960100941
+Delhi,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136049287388228,0.0107973027156934,0.0170559454112481
+Delhi,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135876312540389,0.0107859033578415,0.0170296861592473
+Delhi,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135778489442527,0.0107282511988488,0.0170964648112808
+Delhi,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135766749824107,0.0108901492964358,0.0170321751759035
+Delhi,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135877607557593,0.0108985412202774,0.0170794298033007
+Delhi,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135982260055434,0.0108497597598142,0.0170979525143297
+Delhi,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135980681461556,0.0108288832197871,0.0171522528810472
+Delhi,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135308198479659,0.0107404293814419,0.0169122497049052
+Delhi,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013589706349373,0.010825679235026,0.0168123478900319
+Goa,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135139800875792,0.0106385039864494,0.0169229484027378
+Goa,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013490327530746,0.0106352179445541,0.0168404078538502
+Goa,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134654006169052,0.0105928433520355,0.0168068743044279
+Goa,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134433927152443,0.010584760259973,0.0167548596336926
+Goa,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134257070050235,0.0105658454093237,0.0168310888799999
+Goa,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134133610822236,0.0105745790749928,0.0168118645227392
+Goa,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134033448278414,0.0105813030916603,0.016812366100407
+Goa,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133980094232623,0.0105475332000179,0.0168281692450001
+Goa,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133934084416162,0.0105364789104672,0.0168312045706701
+Goa,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013389336336957,0.0105255234100305,0.0168196012795229
+Goa,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133845744383524,0.0105279822937532,0.0168098227119413
+Goa,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133856247043353,0.0105902326215671,0.0167686253937828
+Goa,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133874807090899,0.0105661794463446,0.0167973301072097
+Goa,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133895430348039,0.010686019555492,0.0167960222107124
+Goa,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133908566935756,0.0106609112010567,0.0168094059775149
+Goa,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013391423287688,0.0106597839681582,0.0168285831621192
+Goa,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133872404999234,0.0107243355662417,0.0167841501253348
+Goa,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133787261553456,0.0107193612579303,0.016695272718293
+Goa,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013369376582904,0.0106973062328938,0.0167280039377981
+Goa,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133612267481768,0.0106456464788558,0.0166819743028304
+Goa,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133572727634534,0.010647436731575,0.01677640855927
+Goa,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133548249202385,0.0106887435915145,0.0167305363540845
+Goa,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133507198618893,0.0106687371146635,0.0168211718609724
+Goa,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133476705843844,0.0106675587828015,0.0168706115567606
+Goa,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133449735744391,0.0105697351463983,0.0168633842797169
+Goa,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133427798079296,0.0105175900791121,0.0168377097720672
+Goa,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013334344010744,0.0105573617175666,0.016767415479527
+Goa,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133267039684476,0.0106074562130991,0.0166604772397713
+Goa,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133196008386922,0.0106215250865652,0.0165231374071459
+Goa,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133153198963182,0.0107067338213157,0.0165463269573733
+Goa,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133232277527948,0.0105533309455037,0.0166447669606688
+Goa,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133721321953272,0.0105687017504257,0.0168122003824795
+Gujarat,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136403829219846,0.0106348898305241,0.0171026322233404
+Gujarat,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136261236710582,0.0106405857926072,0.0170374685609285
+Gujarat,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013611051021009,0.0106001719188288,0.0170164486924343
+Gujarat,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135967437426811,0.0106331980014193,0.0169994609381878
+Gujarat,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135841551628604,0.0106135923875251,0.0169617484179436
+Gujarat,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135736164791188,0.0106368532714292,0.0169343464949416
+Gujarat,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135650675851273,0.0106544452536166,0.0169145219977241
+Gujarat,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135605296636471,0.0106574257637622,0.0169112002477446
+Gujarat,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135577542809436,0.0106367463767175,0.0169021117134187
+Gujarat,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135550760879226,0.0106186056256827,0.0168940927665
+Gujarat,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135504280498359,0.0106099705250607,0.0169103750482917
+Gujarat,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135525417385941,0.0106669865063577,0.0169294901425237
+Gujarat,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013550839780875,0.0106806361952342,0.0169518078538019
+Gujarat,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135482690373809,0.0107151191341745,0.0170103830580662
+Gujarat,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013548154414929,0.0107080551278952,0.0170380017046867
+Gujarat,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135540147536505,0.010694307293113,0.0170344149041892
+Gujarat,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135622406205413,0.0107205012261307,0.0170764966348335
+Gujarat,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135745566669868,0.0107420390428614,0.0171057892204236
+Gujarat,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135886842182706,0.0108117897698976,0.0171486225711681
+Gujarat,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136015261353374,0.0108544696335859,0.017176498459347
+Gujarat,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013611056436291,0.010836707947615,0.0172926036974081
+Gujarat,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136096647902089,0.0108798331426054,0.0172165080436075
+Gujarat,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136029504026281,0.0108303787825419,0.0172127660383654
+Gujarat,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135942851095223,0.0107135573148455,0.0172225547562325
+Gujarat,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135853216421461,0.0106194060199612,0.0172313113442693
+Gujarat,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013578701502945,0.0106102205296281,0.017246054547763
+Gujarat,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135680589689424,0.0106674908830476,0.0171293146152637
+Gujarat,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135604008634305,0.0107185353486668,0.0170726170278724
+Gujarat,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135540779476168,0.0107271105143399,0.0170547074713336
+Gujarat,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135485103050276,0.0106769242676626,0.0170201458119215
+Gujarat,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135538418988784,0.0108598940709647,0.0171181913755482
+Gujarat,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135454787425217,0.0107229677534954,0.017057007265658
+Haryana,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136821722875038,0.0107085890354497,0.0172180384860164
+Haryana,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136795559640875,0.0107943763165904,0.017203034104781
+Haryana,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136749526938706,0.0108332150795896,0.0172037807609192
+Haryana,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136714899644326,0.0109071807342602,0.0172121536385054
+Haryana,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136693933786956,0.0109298083796375,0.0171497400806066
+Haryana,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136686441361595,0.0109369019355614,0.0171017008409126
+Haryana,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136687938841537,0.0109214002794271,0.0171735259131089
+Haryana,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136725467642362,0.0108940309136057,0.0171723782385217
+Haryana,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013675070749323,0.010932523161078,0.017151459205612
+Haryana,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136753667292932,0.0109496230155127,0.0171261999295247
+Haryana,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136718548402498,0.0109163539047125,0.0171129012320454
+Haryana,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136735804093705,0.0109467342388559,0.0171116940124162
+Haryana,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136701851048037,0.0109316387927222,0.0170809102069503
+Haryana,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136643227513729,0.0109320847694924,0.0171551604545792
+Haryana,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136580527077611,0.0108963515971563,0.0171340713368102
+Haryana,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136546618347,0.0108684671153742,0.0170982506813633
+Haryana,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136496649374161,0.010872979522655,0.0170940713160627
+Haryana,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136424422587352,0.0109058977234742,0.0170967932275455
+Haryana,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136351595002631,0.0109081892527068,0.0170543995565522
+Haryana,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136279434797202,0.0109273420952033,0.0171276669445104
+Haryana,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136230668068105,0.0108813292844282,0.0171432124678646
+Haryana,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136102284125898,0.0109057345710042,0.0170484799705276
+Haryana,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135902665163529,0.0109049115352422,0.0170235503292991
+Haryana,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013570462179423,0.0108773753412897,0.016987879059296
+Haryana,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135552733897106,0.0107275417251226,0.0169250109681576
+Haryana,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135498213087323,0.0106882883473172,0.0169123110409845
+Haryana,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135468859368133,0.0106873914045416,0.0169790207759911
+Haryana,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135534390266931,0.0106854845423862,0.0170242992031547
+Haryana,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135627108271679,0.0107286324270144,0.0170298908421708
+Haryana,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135707966028948,0.010648415755082,0.0170928983824807
+Haryana,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135965704767399,0.0108367868744204,0.0171184682435552
+Haryana,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013630579511233,0.0107722029324882,0.017208009268697
+Himachal Pradesh,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135841705558352,0.0106280309569971,0.0168875788282432
+Himachal Pradesh,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135786942910339,0.010660047325817,0.0169491876772294
+Himachal Pradesh,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135697104239886,0.0107041304076484,0.0168705156491137
+Himachal Pradesh,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135607490586399,0.0107185816952352,0.0169518688154193
+Himachal Pradesh,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135529970298984,0.0107126691420814,0.0169971915328824
+Himachal Pradesh,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013546727618912,0.0106936733691765,0.0170442576618756
+Himachal Pradesh,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135383108571364,0.0107922529020789,0.0170308494659924
+Himachal Pradesh,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135277464689875,0.0108355551114163,0.0169956862144781
+Himachal Pradesh,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135160632867081,0.0107548140494652,0.0168755498773455
+Himachal Pradesh,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135054157158654,0.0107743470078337,0.0168190763336299
+Himachal Pradesh,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134977738119569,0.0107709585407365,0.0168821248914456
+Himachal Pradesh,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135017255791462,0.0107817190641883,0.016860020063705
+Himachal Pradesh,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135036206796923,0.0109123440179556,0.0168482337432795
+Himachal Pradesh,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135035132871246,0.0109006597509681,0.0168706274889557
+Himachal Pradesh,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135029549228733,0.0108791448436993,0.0169280811629962
+Himachal Pradesh,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135049515630386,0.0108212812639116,0.0170662634748305
+Himachal Pradesh,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135048642430455,0.0108124435142715,0.0170513926390535
+Himachal Pradesh,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135042406383264,0.0107583864386515,0.0170191979646307
+Himachal Pradesh,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135042820310542,0.0106808146461106,0.0169981953596899
+Himachal Pradesh,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135050163194683,0.0106168795125922,0.0169955996878688
+Himachal Pradesh,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135074886471071,0.0105460990824178,0.0169773953653974
+Himachal Pradesh,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134998476975693,0.01056033280537,0.0169329253127225
+Himachal Pradesh,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134846789901324,0.0105685485290428,0.0168668550081082
+Himachal Pradesh,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134676730087387,0.0105514524564543,0.0167627537744678
+Himachal Pradesh,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134529543773212,0.0106065261119775,0.0167456700097351
+Himachal Pradesh,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134454192257541,0.0106650366027764,0.0167571459673471
+Himachal Pradesh,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134401620845647,0.0106142137794047,0.0167162892703582
+Himachal Pradesh,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134422874010255,0.0106656487854247,0.0168106610245341
+Himachal Pradesh,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134472223898428,0.0106977780083681,0.0168209692811912
+Himachal Pradesh,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134512392392193,0.0106250615408987,0.0169103004774121
+Himachal Pradesh,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134659902072827,0.0107194748078512,0.0169519135083095
+Himachal Pradesh,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134912015683823,0.0106108363854083,0.0169248156459904
+Jammu & Kashmir and Ladakh,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137846306957028,0.0107801254053175,0.0173387078761181
+Jammu & Kashmir and Ladakh,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137797027550822,0.0108392490069747,0.0172717671113777
+Jammu & Kashmir and Ladakh,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137720509726575,0.0108604152898637,0.0172908151443471
+Jammu & Kashmir and Ladakh,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137631744452512,0.0108956654577841,0.0173510130339356
+Jammu & Kashmir and Ladakh,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137535043603262,0.0109358059697492,0.0173285646642499
+Jammu & Kashmir and Ladakh,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137432692574578,0.0108803631544787,0.0173514280647464
+Jammu & Kashmir and Ladakh,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137310596834437,0.0109003321503027,0.0173060772880116
+Jammu & Kashmir and Ladakh,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137195647404467,0.010890941106343,0.0173262069391439
+Jammu & Kashmir and Ladakh,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137070453892451,0.0108279191521417,0.0173230122884173
+Jammu & Kashmir and Ladakh,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136945207445752,0.0107860640525186,0.017235405801202
+Jammu & Kashmir and Ladakh,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136823440959709,0.0107613621563378,0.0171982161290237
+Jammu & Kashmir and Ladakh,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136766320915079,0.0107155966614151,0.0171492644900285
+Jammu & Kashmir and Ladakh,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136707302471537,0.0106918106713719,0.0170965624603295
+Jammu & Kashmir and Ladakh,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136660217193834,0.0107013972633225,0.0170787293409467
+Jammu & Kashmir and Ladakh,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013663824353193,0.0106718797571223,0.0170905202353577
+Jammu & Kashmir and Ladakh,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136662399155459,0.0106857829516709,0.0171132506134938
+Jammu & Kashmir and Ladakh,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013672400609406,0.0106949493320826,0.0171243591796548
+Jammu & Kashmir and Ladakh,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136821848214917,0.0107311357169517,0.0170941672905057
+Jammu & Kashmir and Ladakh,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136942404640556,0.0107752387168359,0.0170777730520652
+Jammu & Kashmir and Ladakh,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137050851698515,0.0108164628390807,0.01714461610502
+Jammu & Kashmir and Ladakh,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137122945967202,0.0108181878690549,0.017205379172728
+Jammu & Kashmir and Ladakh,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137078917050776,0.0108561938913148,0.0171105844138355
+Jammu & Kashmir and Ladakh,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013693758117426,0.0108082983249078,0.017122843195724
+Jammu & Kashmir and Ladakh,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136773916303824,0.0107745533743072,0.0171466173068858
+Jammu & Kashmir and Ladakh,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136633111378907,0.0108453629438085,0.0170901172836501
+Jammu & Kashmir and Ladakh,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136568713056669,0.0107976379691061,0.0171158191003818
+Jammu & Kashmir and Ladakh,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136521047617682,0.0108601619047479,0.0170974735730254
+Jammu & Kashmir and Ladakh,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136517308076928,0.0109046804430142,0.0170679448560781
+Jammu & Kashmir and Ladakh,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136536069997369,0.0108649277702757,0.0170854051694235
+Jammu & Kashmir and Ladakh,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136574854874843,0.0107800366677193,0.0170697331151515
+Jammu & Kashmir and Ladakh,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136830417089211,0.0108593879438086,0.0172022130307906
+Jammu & Kashmir and Ladakh,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137396476930539,0.0108637495602956,0.0173036903507278
+Jharkhand,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135390590457611,0.0107284494971602,0.0171363007910472
+Jharkhand,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135323728386873,0.010689371093276,0.0169499125854512
+Jharkhand,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135210396031498,0.0107069941650311,0.0168274503801291
+Jharkhand,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135084108950632,0.0106581823279665,0.0167614476529205
+Jharkhand,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134964547732611,0.0106147061416147,0.0168684744374601
+Jharkhand,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134868170530554,0.0105693794785598,0.0169206273363952
+Jharkhand,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134756020042576,0.010626909211053,0.0169067283954763
+Jharkhand,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134614468735804,0.0106466767884851,0.0168578859110626
+Jharkhand,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134463838509282,0.0106589744295077,0.0168522373135683
+Jharkhand,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134334726675215,0.0107229421236305,0.0168675253199789
+Jharkhand,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134254718265845,0.0107801937855519,0.0168884222221351
+Jharkhand,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134305422008903,0.010765348761843,0.0168718489099418
+Jharkhand,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134291631136243,0.0107355553608212,0.0168440971184145
+Jharkhand,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134244470511614,0.0107061679716492,0.0168115419105882
+Jharkhand,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134193275509433,0.0106290000553744,0.0167844101288987
+Jharkhand,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134168780155409,0.0106092219082279,0.0168075656258673
+Jharkhand,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134133361122525,0.0105878581080304,0.0167713939360569
+Jharkhand,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134138450058226,0.0106128983672194,0.0168212989209687
+Jharkhand,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134161003680772,0.010585303160734,0.016853329063336
+Jharkhand,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134173672499159,0.0105622484524518,0.0168587736310872
+Jharkhand,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134167436588966,0.0105479808054613,0.0168822243772557
+Jharkhand,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134018470476157,0.0105797375942596,0.0168126464267751
+Jharkhand,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133808130528625,0.0105949316841194,0.0167490732006874
+Jharkhand,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133593684667137,0.0105669293933247,0.0166750352515849
+Jharkhand,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133414823231471,0.0105838504495373,0.0167038153945102
+Jharkhand,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133326836900563,0.010563836174984,0.0166856594317273
+Jharkhand,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133274056350706,0.0106326901620025,0.0166900323999433
+Jharkhand,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133335929202403,0.0105900977796571,0.0166927754893733
+Jharkhand,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133444606005027,0.0106061670034683,0.0166735912771279
+Jharkhand,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133542152387821,0.0106130262312581,0.0167444668806912
+Jharkhand,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133768748055443,0.0105687682282007,0.0167611478720225
+Jharkhand,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134004282910704,0.0106352461797992,0.01673775446913
+Karnataka,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013645960805509,0.0107002644135126,0.0173676431636858
+Karnataka,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136320632016189,0.0107950624453594,0.0173108213501301
+Karnataka,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136177255680899,0.0107721020823096,0.0172488937928638
+Karnataka,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136050611220846,0.0107456289196564,0.0172188165024379
+Karnataka,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135952979912551,0.0107354814151115,0.017214344581105
+Karnataka,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135890648342995,0.0107417996077469,0.0173006495139249
+Karnataka,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135853554967312,0.0107626767696247,0.0172147142297626
+Karnataka,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013581610720227,0.0107181340517308,0.0170792608159624
+Karnataka,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135775536679926,0.0106776015869866,0.0169953732433845
+Karnataka,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135728814336007,0.0106748316322869,0.0169480025954415
+Karnataka,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135672240800864,0.0106883063952389,0.0169407460764227
+Karnataka,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135652613135528,0.010708695699971,0.0168683692338182
+Karnataka,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013561174041664,0.0107425547982169,0.0169053920751065
+Karnataka,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135552851960149,0.0107707304536747,0.0168944275366348
+Karnataka,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135485810095144,0.0107657994805682,0.0169335866249605
+Karnataka,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013543731129566,0.0106951167317424,0.0169387039359252
+Karnataka,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135350303318035,0.0107555292468309,0.0169683405163964
+Karnataka,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135218202546351,0.0106917951037935,0.0169739488415736
+Karnataka,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135070250435744,0.0106561903507317,0.0170211409246106
+Karnataka,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013494261443043,0.0106776153173975,0.0171131512322182
+Karnataka,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134873016201928,0.010748294946834,0.0171598178065489
+Karnataka,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134798841558908,0.0106532538569632,0.0170230098145474
+Karnataka,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134718112632429,0.010623010918804,0.0168876630703358
+Karnataka,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134648941226866,0.0106346351948576,0.0167915235979185
+Karnataka,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134601779310459,0.0105663214912233,0.0167984640027314
+Karnataka,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134598895888825,0.0105801428177984,0.0167355261580324
+Karnataka,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.01346582423104,0.010607182288724,0.0167539690138797
+Karnataka,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134811318672044,0.0105481080370641,0.0167440412213869
+Karnataka,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134980105729634,0.0105592706255593,0.016765993413001
+Karnataka,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135086613443429,0.0105912710114447,0.0167889699035891
+Karnataka,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135024208735742,0.0106704032549818,0.0168801927153767
+Karnataka,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135462700593075,0.0107303072945892,0.0172223525837867
+Kerala,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136443677651526,0.0107725584622383,0.0171591090161591
+Kerala,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.01363928540691,0.0107939107676573,0.017087196926589
+Kerala,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136318480904785,0.0108107766235215,0.0170659504566725
+Kerala,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136238974722992,0.0108581527969258,0.0170114040819058
+Kerala,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136157875273774,0.0109038771892063,0.0169580815596779
+Kerala,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136079259343393,0.0109199023827732,0.0169114649299605
+Kerala,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013602096973611,0.0108765333404316,0.0170192658276442
+Kerala,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136000617183551,0.0108294222134354,0.0170306242063271
+Kerala,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135998086382742,0.0108185427576654,0.0170370892927588
+Kerala,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135996813684813,0.0108431105229804,0.0170473159851736
+Kerala,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135968165413649,0.0108343725355329,0.0170541676216518
+Kerala,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135927593780146,0.0108049011243026,0.0170324882813731
+Kerala,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135787074202889,0.0107740577562263,0.0169775251902628
+Kerala,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135610549421338,0.0106466591743721,0.0168852537107712
+Kerala,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135464059149922,0.0105589306728894,0.0168819230454603
+Kerala,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135418885747344,0.0104849697853429,0.0169580053221479
+Kerala,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135402914084593,0.0104911801208804,0.016887364048391
+Kerala,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013536103040615,0.0105755678037818,0.0168823661271985
+Kerala,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013531070962389,0.0105598545241436,0.016953055013255
+Kerala,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135264454035263,0.010530079695275,0.0170507291860769
+Kerala,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135247617860658,0.0105628943747065,0.0171426661826361
+Kerala,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135183165411686,0.0105642247505842,0.0170494034990802
+Kerala,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135082007804306,0.0106585172005363,0.016965599162948
+Kerala,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134981073687784,0.0106082413171025,0.0169579710271932
+Kerala,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013489309400577,0.0106631212003368,0.016975688795183
+Kerala,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134834924631208,0.0106649678718755,0.0170240272470539
+Kerala,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134767972070782,0.0107290000814737,0.0168956209535485
+Kerala,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134757529443305,0.0107486438468189,0.0168190628407228
+Kerala,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013474860412591,0.0107140087387626,0.0168635980242644
+Kerala,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134702259388831,0.0106757877546982,0.0168107731338484
+Kerala,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134457748453093,0.010565630105951,0.0166675015867049
+Kerala,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013460255396326,0.010715144134359,0.0167889339142639
+Madhya Pradesh,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137350023399904,0.0107606427782872,0.017401719679203
+Madhya Pradesh,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137166110743248,0.0108044325159222,0.0173172039619586
+Madhya Pradesh,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136972182769937,0.0107419675082845,0.0172667641344319
+Madhya Pradesh,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013678751986015,0.0107486984351383,0.0172435457195727
+Madhya Pradesh,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136630999244852,0.0107656529674677,0.0172676424695754
+Madhya Pradesh,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136512250026743,0.0108010917780327,0.0173259273020094
+Madhya Pradesh,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136420173266534,0.0107821979260249,0.0172964827723713
+Madhya Pradesh,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136379952790007,0.0108164037783212,0.0172418663924808
+Madhya Pradesh,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136349171248187,0.010843322279863,0.0172040855518826
+Madhya Pradesh,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136300434619167,0.0108357095633788,0.0171794728993354
+Madhya Pradesh,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013621212146426,0.0107518138260292,0.0171235807165235
+Madhya Pradesh,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136203293969696,0.010827987164599,0.0170751924732323
+Madhya Pradesh,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136078067740802,0.0108629092441468,0.0169617952371576
+Madhya Pradesh,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135904809917917,0.0108323946744018,0.0169234132386736
+Madhya Pradesh,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135744183921996,0.010833905629824,0.0170139886845976
+Madhya Pradesh,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135661038874957,0.0108148142475891,0.0170323873691423
+Madhya Pradesh,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013558673119313,0.0108418062983077,0.0169925932922471
+Madhya Pradesh,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135497758717943,0.0108357477921292,0.0169760565539666
+Madhya Pradesh,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135425188714388,0.0108123141467274,0.0169949543301184
+Madhya Pradesh,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135383672885468,0.0107998782356667,0.016982416809437
+Madhya Pradesh,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135392513420649,0.010790786916294,0.0170127114759052
+Madhya Pradesh,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135324903561389,0.01071932525321,0.0169453159625508
+Madhya Pradesh,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135225770611598,0.0106554902805664,0.0169367045780798
+Madhya Pradesh,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013514245558096,0.0106072602787989,0.0169490361247312
+Madhya Pradesh,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135094192086504,0.0105927017043019,0.0169034421174305
+Madhya Pradesh,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013511820725913,0.0106175137806367,0.0169311548133717
+Madhya Pradesh,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135198869190694,0.0106142670559907,0.016992205796411
+Madhya Pradesh,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135467491487971,0.0107014677303994,0.0170523739646857
+Madhya Pradesh,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135756261097855,0.0107834833684497,0.0170718240544064
+Madhya Pradesh,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135920440184332,0.0108360889480533,0.0170803176849034
+Madhya Pradesh,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135484187556005,0.0106583631493277,0.0169097574245453
+Madhya Pradesh,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135439585625264,0.0107507507638636,0.016898068116718
+Maharashtra,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136005966169287,0.0108105705948197,0.0171447962056721
+Maharashtra,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135875731996645,0.0108521690885882,0.0169785171938566
+Maharashtra,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135728749177443,0.010845115840738,0.0169267223807477
+Maharashtra,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135590434664215,0.0108141629552178,0.0168733019697018
+Maharashtra,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135469250114269,0.0107413028633,0.0168367146397888
+Maharashtra,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135375466207391,0.0107455249939984,0.0168240181835178
+Maharashtra,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135287868582275,0.0107346276402556,0.0167703923634297
+Maharashtra,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135207655071191,0.0107395974730083,0.0167644226792077
+Maharashtra,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135117950472973,0.0107045875983499,0.0167804984650551
+Maharashtra,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135022342666265,0.0106917049745906,0.0167903642775791
+Maharashtra,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013492518009397,0.0107130003286777,0.0168898023440052
+Maharashtra,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134879642612749,0.0107180478582246,0.0168036511071262
+Maharashtra,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134754100433384,0.0107328181918645,0.016762411211305
+Maharashtra,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013459929575247,0.0106065047910221,0.016739644014755
+Maharashtra,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134459515895368,0.0105606828060576,0.0167857075058914
+Maharashtra,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134386907439162,0.0105483503113595,0.0168476734398343
+Maharashtra,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134362054986057,0.0105907329016501,0.0168525164758038
+Maharashtra,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013437431216211,0.0106165609558311,0.0167787774284827
+Maharashtra,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134420656068298,0.0106456592342839,0.0167624868259404
+Maharashtra,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134481309030301,0.0107400241652126,0.016769473760159
+Maharashtra,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134544416335827,0.0107301628419006,0.0168576208220916
+Maharashtra,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134549861366944,0.0107833449236945,0.0168612700798384
+Maharashtra,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134531020860641,0.0107674241732266,0.0168324453180564
+Maharashtra,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134516356981286,0.0107150743236363,0.0168247616295695
+Maharashtra,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134508555294999,0.0106584968135364,0.0168368199715956
+Maharashtra,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134523288900538,0.0106374754129853,0.0168296892479123
+Maharashtra,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134528321364346,0.0106342173856229,0.0169245934490006
+Maharashtra,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134607621645816,0.0106474543958818,0.0169238581254119
+Maharashtra,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134685355895757,0.0105854381640615,0.016962493856749
+Maharashtra,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134706993850091,0.0105270515282451,0.0169989471052159
+Maharashtra,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013430843236696,0.0105065137713776,0.0168483501821798
+Maharashtra,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134731399676326,0.0106949958828046,0.0168488974359914
+Manipur,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137984970570387,0.0109103641423076,0.0173081484410891
+Manipur,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137899800947506,0.0108928460142973,0.0172733000584137
+Manipur,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137799985506507,0.0108950951297164,0.0171846456671071
+Manipur,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137701459165403,0.010875123599765,0.017175996263548
+Manipur,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137613835779895,0.010873063904114,0.0172109359260442
+Manipur,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137543373046067,0.0108725582221511,0.0172523453739617
+Manipur,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137479553030438,0.0108890884743142,0.017185718329323
+Manipur,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137436461815429,0.0108899532967713,0.0171550962939419
+Manipur,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137402739836375,0.0109378861166183,0.017134284225444
+Manipur,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137376494297002,0.0109318866966026,0.01717386548803
+Manipur,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013734620587614,0.0108148157268933,0.0171711956234852
+Manipur,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013738592587774,0.0109023812969605,0.0173058555357926
+Manipur,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137341002474088,0.0108499920967786,0.0173250880950688
+Manipur,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137263244839014,0.0108100426535486,0.0173690648672019
+Manipur,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137195468800625,0.0108040359948482,0.0173421215019684
+Manipur,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137186084805383,0.0107409378548505,0.017291982782675
+Manipur,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137163477984902,0.0107609923320869,0.0173007809015202
+Manipur,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013711640757191,0.0107889352630034,0.0172033987335639
+Manipur,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137074152122926,0.0108091923378592,0.0172828915648461
+Manipur,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137049420278141,0.0107581405479933,0.017300622829258
+Manipur,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137061923563134,0.0107843407121799,0.0173380237300932
+Manipur,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136992923583382,0.0107592881993351,0.0173336610406582
+Manipur,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136864635992282,0.0107701584298787,0.0173660295848386
+Manipur,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136722692771423,0.0108190026610526,0.0173765466936078
+Manipur,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136599849687835,0.0107842535456151,0.0172857130071577
+Manipur,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136539543922632,0.0107396255624527,0.0171806820703424
+Manipur,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136487114244429,0.0107355200833246,0.0172200004241725
+Manipur,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136501397367415,0.0107251284182636,0.0171405389120881
+Manipur,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136528829032831,0.0107231034138097,0.0172892042446381
+Manipur,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136525993132664,0.0107710692349527,0.0172413481736902
+Manipur,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136331442298389,0.0108032326080552,0.0173587063094694
+Manipur,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136690560949129,0.0108059128648614,0.0170093769751804
+Meghalaya,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0139188229300052,0.0109619187264108,0.0175243261833181
+Meghalaya,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0139105960042091,0.0109714998038273,0.0174645467836079
+Meghalaya,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138985343544922,0.0110291074224806,0.017475968020677
+Meghalaya,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138848063805826,0.0110152971343312,0.0174617172134848
+Meghalaya,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138710382318472,0.0109499212335938,0.0174763973919201
+Meghalaya,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138587453340518,0.0110024486348004,0.0174781511418329
+Meghalaya,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013846616193688,0.0109678112918226,0.0173926143221542
+Meghalaya,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138331862853478,0.0109586355155477,0.017374670951496
+Meghalaya,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138203521159617,0.0109571261174919,0.0173660634382272
+Meghalaya,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138094738099802,0.0109776193360002,0.0173645606335265
+Meghalaya,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138010130091973,0.0110047716666717,0.0173872158778893
+Meghalaya,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137998523593623,0.0110007378465778,0.0173980590459806
+Meghalaya,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137918755989972,0.0109864400791941,0.0172694113359723
+Meghalaya,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137817875635352,0.0109618203140215,0.0172199638320802
+Meghalaya,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.01377368177969,0.010958623449694,0.0174069849446738
+Meghalaya,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137721949447644,0.0108236354064839,0.0174321730594044
+Meghalaya,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137700505362458,0.0108925530295076,0.0174638801153077
+Meghalaya,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137669181713871,0.0108871724055257,0.0174338799277374
+Meghalaya,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137648613631512,0.0108528477287688,0.017421886460319
+Meghalaya,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137649564381901,0.0108343753422962,0.0174469499779701
+Meghalaya,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137688182841765,0.0107713950695816,0.0174593661344118
+Meghalaya,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137671103198248,0.0107552752353817,0.0174564606825128
+Meghalaya,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137615348468116,0.010780229182199,0.0174343212566587
+Meghalaya,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137543176049826,0.0107977443182453,0.0173529663222922
+Meghalaya,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137474316300848,0.0107595093640282,0.0173605681668851
+Meghalaya,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013743613863532,0.0107321542227632,0.0173362788573141
+Meghalaya,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013735761229833,0.0107935474609217,0.0173161870733952
+Meghalaya,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137280645344752,0.0107686311488972,0.017285846836584
+Meghalaya,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137213288698707,0.0107855723484657,0.0172544803640693
+Meghalaya,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137167539124834,0.0107466080290539,0.0172799230478852
+Meghalaya,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.01372329107273,0.0108747007906272,0.0174645474444867
+Meghalaya,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137689019091543,0.0108731442572273,0.0175212259044279
+Mizoram,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0139100067850461,0.01087581741183,0.0175646513331693
+Mizoram,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013900489778232,0.0109236224471359,0.0174407595995231
+Mizoram,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013890277831131,0.0110100700772356,0.0173865246732677
+Mizoram,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138809256710106,0.0110283943332236,0.0173357686295624
+Mizoram,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138734277389357,0.0110836837654019,0.0172991978508409
+Mizoram,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138685269290087,0.011002887134947,0.0172914980584778
+Mizoram,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138658939798019,0.0109933228216459,0.0174181015308689
+Mizoram,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013864838252477,0.0109469477922633,0.0174322659396751
+Mizoram,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138644056959511,0.0109736682943598,0.0173885083797945
+Mizoram,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138642985354494,0.0110104840055509,0.0173489005571775
+Mizoram,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138632101443701,0.0109667192631818,0.0173543691599461
+Mizoram,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138676569026437,0.0109641793215058,0.0173236112747718
+Mizoram,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013872752403947,0.0109450587714363,0.0173152364835064
+Mizoram,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138782584716359,0.0109267905459497,0.0173246121948884
+Mizoram,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013883096550394,0.0109174709089078,0.0173756518854562
+Mizoram,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013886948274186,0.0109181306632722,0.017415852847985
+Mizoram,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138836763125959,0.010907473866035,0.0174246672233821
+Mizoram,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138744217336511,0.0109099112218433,0.017469443471391
+Mizoram,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138628614542994,0.0109353417349674,0.0175021321464829
+Mizoram,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138522650712516,0.0108813757707531,0.0174415101347015
+Mizoram,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138465726908566,0.0108232432429778,0.0174452246602643
+Mizoram,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013835499302557,0.0109202197979933,0.0174294111680527
+Mizoram,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138161422328934,0.0109581719104253,0.0174577934000176
+Mizoram,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137947231841138,0.0109906719085413,0.0174424772124574
+Mizoram,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013776547221881,0.011017509428352,0.0173977210371847
+Mizoram,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137677732164256,0.010984024264433,0.0173304117721306
+Mizoram,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013770074361938,0.0110233032359583,0.0172844239861514
+Mizoram,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137825928669569,0.011024948886577,0.0171593429269348
+Mizoram,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137951521991843,0.0109720416796203,0.0172277611847784
+Mizoram,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137981697172846,0.0109158895096327,0.0173324423371472
+Mizoram,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137468817299804,0.0108377747734528,0.0171599497845847
+Mizoram,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137954062202677,0.0109297659216429,0.0175407932923547
+Nagaland,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137576054987933,0.0107582159797736,0.0173684264675955
+Nagaland,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137405226101736,0.0107250216824518,0.0174009222011368
+Nagaland,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137218073333518,0.0107294851380212,0.0173659233821176
+Nagaland,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137052797316725,0.0107454217823534,0.0172698069060017
+Nagaland,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136927482541807,0.0107536624651872,0.0171457055340778
+Nagaland,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136853749421909,0.0107631482628604,0.0171020466450584
+Nagaland,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013678928324004,0.0107896301056875,0.0171026317707652
+Nagaland,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136725525060208,0.0107636407254258,0.0171922506475696
+Nagaland,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136657813364898,0.010729992213045,0.0172989127165514
+Nagaland,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136604654954922,0.0107471353727499,0.0174183306138728
+Nagaland,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136576134135128,0.0107923274604021,0.0174872992724036
+Nagaland,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136543176798577,0.0107376972870979,0.0174737266066604
+Nagaland,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136481319031283,0.0106547380162502,0.0174442273459175
+Nagaland,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013641313126274,0.0106355337284596,0.0173805208006055
+Nagaland,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136358411368303,0.0106355778732765,0.0172986605940933
+Nagaland,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136342783761096,0.0106305665756731,0.0172120837357487
+Nagaland,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136361315543793,0.010614772863411,0.017270279304408
+Nagaland,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013636739401537,0.0106030885113959,0.0172361572080231
+Nagaland,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013637136941102,0.0106867918671645,0.0171365999530617
+Nagaland,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136366399759098,0.0107147053678802,0.0170633878843929
+Nagaland,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136354076571106,0.0106729475883723,0.0170607157260483
+Nagaland,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136288491224484,0.0107445481409476,0.0170136283256197
+Nagaland,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136128711681891,0.0107520992693322,0.0170823187412657
+Nagaland,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135938613764771,0.0107278268082945,0.0171339717426505
+Nagaland,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135765038760074,0.0107007110243121,0.0171195857240537
+Nagaland,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135667385807453,0.010689559945455,0.017120690274757
+Nagaland,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135675855709877,0.0107179798345666,0.0171606156747509
+Nagaland,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013576981656794,0.0107086536757648,0.0172596282533654
+Nagaland,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135886414763752,0.0106886383045406,0.0173494441210307
+Nagaland,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135971036866718,0.0107001159624463,0.0173548693187367
+Nagaland,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013591321522005,0.0108057052319734,0.0171423120723251
+Nagaland,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136432768651925,0.0107977673034906,0.0172682745166382
+Odisha,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136131194931333,0.0106759377969187,0.01719993626555
+Odisha,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135965539983833,0.0107591744785597,0.0171397770250173
+Odisha,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135787197025505,0.0107927278439382,0.0171207252000568
+Odisha,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135613484469841,0.010766061396356,0.0170890282711075
+Odisha,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135455502526028,0.0107261834564957,0.0170290126649497
+Odisha,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135320621121779,0.0107078947239693,0.0170774301417997
+Odisha,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135211962939445,0.0107282917020359,0.0170221471016173
+Odisha,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135143547987104,0.0107892370435412,0.0170106675661497
+Odisha,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135090279597495,0.0108003949696338,0.0169595091802289
+Odisha,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013503730760574,0.0107815310914357,0.016976175350234
+Odisha,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134968706440738,0.0107182291855141,0.0169657979386022
+Odisha,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134940319853035,0.0106921431930851,0.0169577558391405
+Odisha,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134808056802117,0.010698789257743,0.0169210200878581
+Odisha,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134639449186739,0.010700412732542,0.0168518878570989
+Odisha,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134496645388151,0.0106096188721562,0.0168535895231384
+Odisha,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134450151749731,0.0105729410395342,0.0168498960243736
+Odisha,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134414113971743,0.0106867435532744,0.0167738146387304
+Odisha,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134349916747748,0.010725035694328,0.0166954956194328
+Odisha,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134287743739319,0.0107016363268496,0.0166983057291072
+Odisha,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134254086760117,0.0106878212033424,0.016730117011181
+Odisha,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134284761460274,0.0106790504517965,0.0166691664896408
+Odisha,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134335912703792,0.0107036158618317,0.0166818648657723
+Odisha,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134439675879597,0.0107426453837315,0.016714212560338
+Odisha,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134565613909637,0.0107635939995668,0.0167543978943582
+Odisha,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134671211289099,0.0107914570762959,0.0167568123901636
+Odisha,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134723940789338,0.0107394364376272,0.0167833191723103
+Odisha,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134614460667379,0.0107670401830754,0.0167582575086508
+Odisha,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134482855316345,0.0107369436464322,0.0167930471463376
+Odisha,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134362084583091,0.0106606497332226,0.016762346836217
+Odisha,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134290257971725,0.010537410819674,0.0167810143429362
+Odisha,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134561952387012,0.0105963399000397,0.0170111889977762
+Odisha,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135004259854031,0.0106839620165133,0.0169297518355747
+Punjab,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135043211068358,0.0107203182252188,0.0168830961744941
+Punjab,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134990957340875,0.0106789382821928,0.0168969826139366
+Punjab,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134886305965968,0.0106767678737199,0.0169076655225691
+Punjab,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134768648027169,0.010689426012816,0.0168608981918604
+Punjab,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134651724067257,0.0106630118742401,0.0167216508123857
+Punjab,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013454511192362,0.0106208293141145,0.0167427996014169
+Punjab,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134414344024703,0.0106556318481409,0.0166942696128435
+Punjab,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134275640717339,0.0106664764580371,0.0166471616440444
+Punjab,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134125149866503,0.0106843016537454,0.0166549087274853
+Punjab,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133986202687321,0.0107081327276032,0.0166559953087393
+Punjab,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133872256975257,0.0106961735945619,0.016724179161268
+Punjab,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133895326604571,0.0106273908074319,0.0166617037271103
+Punjab,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133886755698078,0.0106082144864867,0.0166223123202429
+Punjab,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133866374705107,0.0106114732206757,0.0165791969149511
+Punjab,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133862157971097,0.0106141831129046,0.0165453682142452
+Punjab,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133907472542804,0.0106147988418516,0.0165328998344536
+Punjab,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133937767391216,0.0106706374848605,0.0166262790002042
+Punjab,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133965982160111,0.0107125464354278,0.0167201979267415
+Punjab,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133998708204759,0.010821514547342,0.0167734531314157
+Punjab,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134033351562641,0.0107500535105471,0.0167644385853808
+Punjab,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134084190247543,0.0107427839763571,0.016810500977663
+Punjab,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134032842522023,0.0107112672546766,0.0167212680752275
+Punjab,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133897807228819,0.0106541867862315,0.0167238756109618
+Punjab,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133752590781685,0.0105748842016408,0.0166709899313571
+Punjab,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133636210324496,0.0105070910211524,0.0167388705863662
+Punjab,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133591339552642,0.0105152769322356,0.0167101448171598
+Punjab,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133512857687617,0.0105308038256934,0.0166516768189735
+Punjab,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133512646694037,0.0105934096642407,0.0166973900979026
+Punjab,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133540599154444,0.010527584047069,0.0166210676213797
+Punjab,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133572570410443,0.0105927667734118,0.0165609212204897
+Punjab,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133958369838039,0.0108031800424089,0.0166447202726646
+Punjab,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0133622201647147,0.0106184763852087,0.0168981286809413
+Rajasthan,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137515031371012,0.0109650328783067,0.0172315639043932
+Rajasthan,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137440615246683,0.010920449695121,0.0171612553996813
+Rajasthan,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137351762337213,0.0108695139272698,0.0170795395457011
+Rajasthan,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137267513986267,0.0108171061659472,0.0170458829231348
+Rajasthan,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137195485089672,0.0108446285972216,0.0170552009663787
+Rajasthan,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137141371146253,0.0108407552839429,0.0170521669829314
+Rajasthan,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137104585407155,0.0108748377189237,0.0170605291430243
+Rajasthan,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137080828933566,0.0108481819233903,0.0170834948788487
+Rajasthan,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137053361998325,0.0108040837164781,0.0170977659912452
+Rajasthan,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137017690392516,0.0108137193899223,0.0171300349853494
+Rajasthan,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136965416967472,0.0108136521339888,0.0171839064716702
+Rajasthan,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136926570989163,0.0108736250839197,0.0170781816429546
+Rajasthan,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136838387658423,0.0109368198519909,0.0170367570053805
+Rajasthan,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136734555196124,0.0109708212034809,0.0169454366913361
+Rajasthan,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136642253707205,0.0109089781697246,0.016944395418138
+Rajasthan,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136590100967686,0.0108820081149507,0.0170209608433299
+Rajasthan,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136511977485444,0.0108885047973691,0.0170424945788923
+Rajasthan,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013639880381773,0.0108337728306092,0.0170020666766986
+Rajasthan,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136285342805858,0.0108112958183765,0.0170724694025973
+Rajasthan,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136195091194685,0.0107694738873956,0.0170787833949016
+Rajasthan,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136161467020335,0.0107181467250081,0.0172143453047317
+Rajasthan,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136097851144619,0.0107072125461757,0.0171194855152758
+Rajasthan,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135974540653694,0.0107132316338131,0.0170114281314893
+Rajasthan,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135833611631281,0.0107162113175333,0.0169766756570486
+Rajasthan,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135711468395203,0.0107162438314161,0.0169723710040363
+Rajasthan,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135661660773453,0.0107154961729323,0.0169578963508516
+Rajasthan,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135716630422645,0.0107081172848778,0.0169864646544074
+Rajasthan,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135901923583284,0.0106747408752391,0.0169684713646655
+Rajasthan,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136109059710045,0.0106281955213042,0.0170660241874137
+Rajasthan,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136234469089309,0.010608711299499,0.0172429456001421
+Rajasthan,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136058508076673,0.0107550949351323,0.0172888297107913
+Rajasthan,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.01365342754068,0.0107556685068837,0.0172072949026142
+Sikkim,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137855476419064,0.0108270548947888,0.0174407423039443
+Sikkim,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137536866233057,0.0108188145232999,0.0173733898059338
+Sikkim,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137241150214735,0.0108001862983791,0.0173444509896714
+Sikkim,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136992901782829,0.0108131130484919,0.0172565387144246
+Sikkim,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136804755595946,0.0107877967269783,0.017204783291218
+Sikkim,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013668529274345,0.0107498873575801,0.0171880200604976
+Sikkim,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136645056448074,0.0107911986187514,0.0171455319018205
+Sikkim,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136708692778764,0.0108081617173885,0.0171578345484674
+Sikkim,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136802034824774,0.0108256731494029,0.0171335595502914
+Sikkim,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136880210857087,0.0107900495314809,0.0171873991657958
+Sikkim,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136891251497646,0.0108384839599276,0.0172565181428565
+Sikkim,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136821778334912,0.0108211577164692,0.0173333878505399
+Sikkim,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136645980975732,0.0107808078832038,0.0172823448207923
+Sikkim,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136439767092925,0.0107892927046222,0.0172673478701385
+Sikkim,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136266985846303,0.0108502605108111,0.0172869530940793
+Sikkim,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136194483262255,0.0108063996408083,0.0173118558065726
+Sikkim,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136157293120497,0.0108196447891495,0.0173136099264946
+Sikkim,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136071424569252,0.0107548700356867,0.0171748691789982
+Sikkim,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135984271610754,0.0107178143185328,0.017207577704854
+Sikkim,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135919251086939,0.0106845348711341,0.0173378260330771
+Sikkim,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135905990100736,0.0106711286605141,0.0173154731188773
+Sikkim,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013590015053767,0.0106848821928821,0.0173320969039801
+Sikkim,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135849540543587,0.0107205992169962,0.0173047547203841
+Sikkim,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135783636911618,0.0107298068816424,0.0172854493567127
+Sikkim,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135711578318338,0.0107296876648027,0.017236658092001
+Sikkim,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135655878571379,0.0107132622154406,0.0171881652509191
+Sikkim,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135610931297865,0.0107210303262458,0.017173525943589
+Sikkim,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135614640425797,0.0107709311036624,0.0170061004605049
+Sikkim,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135619240221808,0.0108036616177117,0.0169601778236195
+Sikkim,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013560362609493,0.0106735210455932,0.0170089654209002
+Sikkim,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013560164846776,0.0106696950254677,0.0170142851309699
+Sikkim,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135682842041285,0.0107845762088034,0.0169277824280019
+Tamil Nadu,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136428114699341,0.0109957922979395,0.0173264378686785
+Tamil Nadu,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136236479028704,0.010937337330646,0.0172060639285549
+Tamil Nadu,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136022601223934,0.0108928858773221,0.0171071225951471
+Tamil Nadu,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135817852085763,0.0107097359267979,0.0170332335781802
+Tamil Nadu,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135639108344832,0.0107224038053736,0.017016969119246
+Tamil Nadu,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135501142197522,0.010680969034793,0.0169342747529711
+Tamil Nadu,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135352661440802,0.0107243034351827,0.0168556463185824
+Tamil Nadu,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135181647094877,0.0107511947446041,0.0168002473329375
+Tamil Nadu,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135001974864338,0.0106993666979923,0.0168563998963388
+Tamil Nadu,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134848627404474,0.0106584645642153,0.0167799318954915
+Tamil Nadu,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134742751603423,0.010555582207195,0.0167756553223419
+Tamil Nadu,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134772790089382,0.0106052871652206,0.016761732182544
+Tamil Nadu,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134813754823318,0.0106329901561068,0.0168113147181807
+Tamil Nadu,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134860191127639,0.0106483447700204,0.0168522333645887
+Tamil Nadu,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134907029256668,0.0106470139177069,0.0169216317940795
+Tamil Nadu,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013495493834503,0.0105971883993049,0.0170528255390555
+Tamil Nadu,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134954934183031,0.0106312813709075,0.0169278274082492
+Tamil Nadu,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134924800437471,0.010642393998933,0.0169272233981953
+Tamil Nadu,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134883465885678,0.0106371897167025,0.0169761694330165
+Tamil Nadu,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134840104815199,0.0105142374920163,0.0170565658245356
+Tamil Nadu,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134822030372695,0.0104852754745319,0.017149372951987
+Tamil Nadu,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134715205588179,0.0105765573501898,0.01708588063932
+Tamil Nadu,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013451567694314,0.0106084410394397,0.0169722990518062
+Tamil Nadu,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.01343006576111,0.010695341573641,0.0168739839929982
+Tamil Nadu,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134121767362951,0.0107112913202036,0.0168535261887938
+Tamil Nadu,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134036708148602,0.010728473042495,0.0169021201188304
+Tamil Nadu,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134047104904059,0.0107261178646677,0.016817016433791
+Tamil Nadu,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134202445106127,0.0107208326769575,0.0168020261026569
+Tamil Nadu,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134382841639064,0.0107686661461001,0.0167809400939251
+Tamil Nadu,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134485402134591,0.0107170613778093,0.0167696475958009
+Tamil Nadu,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134431210497675,0.0105105687413698,0.0168116743857603
+Tamil Nadu,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134568236814963,0.0105448869336558,0.0167652882684862
+Telangana,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136209131428559,0.010747900812002,0.0171044949288176
+Telangana,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136043667750451,0.0107852111505595,0.0170529947554855
+Telangana,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013587233016546,0.0108170191676325,0.0169652944381613
+Telangana,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135720773992167,0.010833393798376,0.0168978326275959
+Telangana,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135600584909362,0.0107391867691364,0.0168963775383305
+Telangana,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135518718573822,0.0107413422351049,0.0169006236396626
+Telangana,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135466096190636,0.0106986434348628,0.0168547536810359
+Telangana,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135423645050325,0.0106756675883705,0.0168221528310127
+Telangana,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135388974320071,0.0106829768174753,0.0168348260254791
+Telangana,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135356669897325,0.0107715413634126,0.0168565263319698
+Telangana,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135312252838027,0.0107908842046517,0.0168889016896528
+Telangana,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135310960162656,0.0107682194747017,0.0169063195552722
+Telangana,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135256272685299,0.0107289866170851,0.0169658233920945
+Telangana,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135175293720461,0.0107309418523307,0.0169406892123034
+Telangana,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135096892130985,0.0106774219489852,0.0168894994745931
+Telangana,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135054204682499,0.0105898713433179,0.0168956139469359
+Telangana,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135025655216904,0.010649277868694,0.0168364918272975
+Telangana,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135035938121463,0.0107149178816516,0.0169285473719168
+Telangana,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135062556739358,0.0107455611253739,0.0169510768783296
+Telangana,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135081916409559,0.0107780622388724,0.0169838701370177
+Telangana,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135077255026367,0.0107601606814683,0.0170568025487838
+Telangana,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134982379707866,0.010800117577487,0.0170095682860485
+Telangana,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134859396283202,0.0107947614350023,0.0169229802939834
+Telangana,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134741375452815,0.0107874048614254,0.0168258406974709
+Telangana,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134651767168421,0.0107488384443107,0.016844566085748
+Telangana,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134627867273002,0.0107222148128016,0.0167891837751104
+Telangana,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134656450244921,0.0107468119031514,0.0167581496070103
+Telangana,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134790114846981,0.0107745798774723,0.0167870796709887
+Telangana,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0134955124494326,0.0108069365676485,0.016891512093806
+Telangana,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135081162809851,0.0108182695569521,0.017049513130493
+Telangana,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135052767876736,0.0107381261674864,0.0168709268233695
+Telangana,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135216932048834,0.0107360487196653,0.0171194805562822
+Tripura,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.01380377256012,0.0108951318512219,0.0172789918221822
+Tripura,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013801535262242,0.0108991961510573,0.0172478093061961
+Tripura,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137967761492117,0.0109391858338768,0.0173324685162966
+Tripura,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137911105695099,0.0109917289144946,0.0173939269738548
+Tripura,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137857429178475,0.0109785495128658,0.017428332531857
+Tripura,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137817065510756,0.0109394043194361,0.0174900133845697
+Tripura,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137762065933083,0.0109313082219221,0.0173972922981516
+Tripura,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137683086010685,0.0109319235410684,0.0173288364824535
+Tripura,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137589331831361,0.0109303703879381,0.0172688814323996
+Tripura,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137499734156033,0.0108443009061742,0.0172294062920263
+Tripura,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137427004227702,0.010862594738145,0.0171557191106516
+Tripura,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137441019930074,0.0108256126237755,0.0171634364494632
+Tripura,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137425889267467,0.0108796290111651,0.0171670755403407
+Tripura,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013740362370554,0.0109379670909419,0.0171874187499878
+Tripura,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137388514338218,0.010929999668737,0.0172322893341102
+Tripura,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137402231251637,0.0108390318809679,0.017270184085806
+Tripura,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137397975687273,0.0108780919898569,0.0172495345971724
+Tripura,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137387213922829,0.0109019062783443,0.0172252259452132
+Tripura,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137380424682374,0.0108651430223049,0.0172235122014143
+Tripura,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137374585566527,0.0107909191694533,0.0172980877441938
+Tripura,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137371123392145,0.0108114646578154,0.0173820729289964
+Tripura,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137226383603209,0.0107904632520902,0.017314248289344
+Tripura,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136941385564164,0.0107703087944624,0.0171985329210073
+Tripura,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136617130489664,0.0107484945102282,0.0170942833108152
+Tripura,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136343817105118,0.0107365932466188,0.0170956700657112
+Tripura,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136221518295666,0.0107167479672995,0.0171264157283019
+Tripura,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136241579444325,0.0107531446931196,0.0170588237719893
+Tripura,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136380313979583,0.0107722866637463,0.0170453177278846
+Tripura,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.01365358211301,0.0107244480626438,0.0169985260231889
+Tripura,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136612390919962,0.010740183386012,0.0170066937524516
+Tripura,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136440701607973,0.0108418657986048,0.01719212528911
+Tripura,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136571377221081,0.0108010811944347,0.0171924785446656
+Uttar Pradesh,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137169993781375,0.0106431215365314,0.0172344491278581
+Uttar Pradesh,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137061612048768,0.0106344775491592,0.0171897246436433
+Uttar Pradesh,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136935563213079,0.0106961845920737,0.0170813120959098
+Uttar Pradesh,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136816790355933,0.010778460755915,0.0170313989719645
+Uttar Pradesh,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136712046748902,0.0107443824821255,0.0170300134720693
+Uttar Pradesh,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.01366263157915,0.0106986213682805,0.0169909594178769
+Uttar Pradesh,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.01365563275816,0.0107571384524801,0.0169766001853065
+Uttar Pradesh,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136495431795163,0.0107649591912371,0.0169911426093911
+Uttar Pradesh,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136440789425157,0.010714395758773,0.0169873266652581
+Uttar Pradesh,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136388874024967,0.0107669918656868,0.0170408394703501
+Uttar Pradesh,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136330961187914,0.0108468513401887,0.0170929702980303
+Uttar Pradesh,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136294418286857,0.0108660339512533,0.0171070130591691
+Uttar Pradesh,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136178305353781,0.0108247738145705,0.0170791688951547
+Uttar Pradesh,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136019703390255,0.0107777522612122,0.017047588626507
+Uttar Pradesh,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135863311529778,0.0107822056993668,0.0170064655987207
+Uttar Pradesh,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135762438725677,0.0107634215601327,0.0169937859015145
+Uttar Pradesh,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135651379015266,0.0107872981116735,0.0169434084598605
+Uttar Pradesh,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013552181257758,0.0107989640513882,0.0169463897809205
+Uttar Pradesh,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013539737455145,0.010820658058853,0.0169098089102723
+Uttar Pradesh,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135299058251917,0.010823709407967,0.0168775831669191
+Uttar Pradesh,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135257480359752,0.0108518389682508,0.0168640845742535
+Uttar Pradesh,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135220865834518,0.0108347780385445,0.0168707135598979
+Uttar Pradesh,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013519846687866,0.0107767549748592,0.0169121831454708
+Uttar Pradesh,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135189651815468,0.010740254285553,0.0169040674315528
+Uttar Pradesh,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135196612484308,0.0107097845890699,0.016895421552682
+Uttar Pradesh,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135225986015695,0.0106828651541606,0.016917660674329
+Uttar Pradesh,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135232976192129,0.0106727043866673,0.0168971098959344
+Uttar Pradesh,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135308920197003,0.010776091724819,0.0169361774581855
+Uttar Pradesh,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135423752521512,0.0108579591137585,0.0169604874361102
+Uttar Pradesh,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135541024616526,0.0108581366974278,0.0169501375115118
+Uttar Pradesh,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135689072948023,0.0106705637370704,0.0172146014339094
+Uttar Pradesh,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135747646226219,0.0107740298749528,0.0171290665582237
+Uttarakhand,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136999703044222,0.0106785272427557,0.0172887453934853
+Uttarakhand,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136700758274846,0.0106821854353838,0.0171752123370459
+Uttarakhand,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136412545044805,0.0106439822679159,0.0170719226692002
+Uttarakhand,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136158931689463,0.0106072550265685,0.0169875885823266
+Uttarakhand,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135952561741209,0.0105735609085246,0.0169690059338467
+Uttarakhand,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135799878031587,0.0105623013422141,0.0169508704670214
+Uttarakhand,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135698774079804,0.0106619837020063,0.0169312111098569
+Uttarakhand,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135632533595504,0.0107057557284895,0.0169481871266963
+Uttarakhand,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135585192267815,0.0107258296546697,0.0170493378352948
+Uttarakhand,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135544831093775,0.0107636991235223,0.0170928573383697
+Uttarakhand,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135492211607295,0.010785507305531,0.0171748947340921
+Uttarakhand,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135442925064235,0.0108212907436224,0.0171015163344418
+Uttarakhand,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135393172655601,0.0108038724917767,0.0169968009088525
+Uttarakhand,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135349118029044,0.0108354704233384,0.0169787865322181
+Uttarakhand,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135327790367892,0.0108491926119743,0.0169422651622298
+Uttarakhand,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135350863805908,0.0108725617052935,0.0169056794376999
+Uttarakhand,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135412956515,0.0109022883961523,0.0169142043214142
+Uttarakhand,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135500033403482,0.0108005373137779,0.016946887269235
+Uttarakhand,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013558719260616,0.0107990884929115,0.0168592294179633
+Uttarakhand,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013564848441379,0.0108173503896254,0.01688447287718
+Uttarakhand,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135669604624653,0.0107673931802294,0.0169412637471711
+Uttarakhand,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135605597505729,0.0107619771857459,0.0169028200954308
+Uttarakhand,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135479144423294,0.0108557322812925,0.0168230129717332
+Uttarakhand,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135339818812791,0.0108865829090364,0.0167790898341478
+Uttarakhand,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135222737150133,0.0107608514681079,0.0168285658399989
+Uttarakhand,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135171646088066,0.0107276663600075,0.016869780296264
+Uttarakhand,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135197372870253,0.0107768168695479,0.0169143664875412
+Uttarakhand,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013528758157746,0.0107634384811591,0.0169835806046069
+Uttarakhand,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135393160520818,0.010710332268243,0.0169653184990319
+Uttarakhand,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0135466574632487,0.0106474532569055,0.0170649695168949
+Uttarakhand,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013538383551961,0.0107215346760809,0.017115493914461
+Uttarakhand,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136028687155814,0.0107368441840301,0.0170698374154906
+West Bengal,1990,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138351489599198,0.0109124132692079,0.0173731359999754
+West Bengal,1991,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138287284907363,0.0109611936246196,0.0173895091138451
+West Bengal,1992,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138194479711197,0.0110159803494342,0.0173502728055803
+West Bengal,1993,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138094166512535,0.0110705022319204,0.0173353081965327
+West Bengal,1994,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0138000325899522,0.011002017505578,0.0173416728219447
+West Bengal,1995,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137920533585817,0.0109971401754724,0.0172564168728273
+West Bengal,1996,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137815881432659,0.0110025749148432,0.0173160477351717
+West Bengal,1997,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137688782315362,0.0109619881357682,0.0172514313075135
+West Bengal,1998,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137543802211242,0.0109267665819896,0.0171471914480515
+West Bengal,1999,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013741012003445,0.0109110014963935,0.0171268226081878
+West Bengal,2000,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137308597895672,0.0108413604436561,0.0171270685717184
+West Bengal,2001,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137327857446478,0.0109116882923877,0.0171254775302745
+West Bengal,2002,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137334983884777,0.0109342473347278,0.0171244875479662
+West Bengal,2003,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137343764658142,0.0109297524315144,0.0171932930208834
+West Bengal,2004,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137362175161628,0.0109859738047524,0.0172195614137067
+West Bengal,2005,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137402361247138,0.0110081146896573,0.0173120476437757
+West Bengal,2006,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137413079265964,0.0110474031869103,0.0172501693418746
+West Bengal,2007,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137405257918811,0.0110631043537343,0.0172653144403343
+West Bengal,2008,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013739563671802,0.0110298234887875,0.0172369393023511
+West Bengal,2009,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137383571309582,0.0110156187654672,0.0172114914339747
+West Bengal,2010,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137383111250904,0.0109568743140268,0.0172210036587935
+West Bengal,2011,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137317142106758,0.0110196157771921,0.0172000836010631
+West Bengal,2012,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137208513038561,0.0110139478146336,0.017268584244464
+West Bengal,2013,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0137093237095527,0.0109636191875409,0.0172847157300121
+West Bengal,2014,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136985374409247,0.0109517495275812,0.0173030058096675
+West Bengal,2015,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136915185826509,0.0108872475643703,0.0173153114030319
+West Bengal,2016,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136838683948446,0.0109379072088487,0.017190756368035
+West Bengal,2017,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136824566467861,0.0109933935106671,0.0171569893539023
+West Bengal,2018,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136817509128898,0.0109132875112979,0.017140245214367
+West Bengal,2019,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136780907177361,0.0109163888647246,0.0172249441334005
+West Bengal,2020,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.013664906028707,0.0108876808861769,0.0172154101958118
+West Bengal,2021,50-69 years,Male,Upper respiratory infections,Percent of total prevalent cases,0.0136726229368816,0.0109336027727678,0.0171277040666745
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2021. Seattle, WA: IHME, University of Washington, 2023. Available from http://vizhub.healthdata.org/gbd-compare. (Accessed 7/24/2024)."
+"For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"

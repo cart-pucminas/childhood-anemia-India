@@ -1,0 +1,964 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+Andhra Pradesh,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4465651215755463,0.3607870672862406,0.5228322800541793
+Andhra Pradesh,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4313867982850861,0.3469722728497365,0.5082867340128561
+Andhra Pradesh,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4161790373972805,0.3319280276784712,0.4959203760195629
+Andhra Pradesh,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4010604165825682,0.316869894618397,0.4803921642526532
+Andhra Pradesh,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3861212318448164,0.2999200796520479,0.4680350525208614
+Andhra Pradesh,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3714686619185761,0.284997731168279,0.453213347207987
+Andhra Pradesh,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3553933432979073,0.2734955890425838,0.4384565095053433
+Andhra Pradesh,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3376265154997602,0.2598908493744995,0.423941852068125
+Andhra Pradesh,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3204114064147034,0.2476681611084743,0.4015837261681141
+Andhra Pradesh,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3059487601554018,0.233850968426943,0.3853899432835316
+Andhra Pradesh,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2964668268783376,0.2240487818014672,0.3760872435721013
+Andhra Pradesh,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2908834195696125,0.2211997674395558,0.3690393936061963
+Andhra Pradesh,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2863435572363575,0.2193092383939723,0.3633865118345202
+Andhra Pradesh,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2824151516495839,0.2179949601342655,0.356412205642014
+Andhra Pradesh,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.278633331852532,0.2144242771728413,0.3488583475918472
+Andhra Pradesh,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2745649031392354,0.2102211896870885,0.3452261416300517
+Andhra Pradesh,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2701538807314464,0.2073728422548621,0.3373339801578067
+Andhra Pradesh,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2656322442046157,0.2049337638378917,0.3291873066111871
+Andhra Pradesh,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2608282785447458,0.2009601066483914,0.3241286702888813
+Andhra Pradesh,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2555728919053206,0.1964572280981579,0.3189899130040626
+Andhra Pradesh,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2496900672345958,0.1909676055667532,0.3149383787477069
+Andhra Pradesh,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2425038545631752,0.1848890726335662,0.3048540295479814
+Andhra Pradesh,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2339593207535042,0.1782668474049804,0.2957185407524019
+Andhra Pradesh,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2248108542318135,0.1711943545744655,0.2852330417343742
+Andhra Pradesh,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2158589435662318,0.1652856396173333,0.2749947811446587
+Andhra Pradesh,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.207931029988984,0.1592885725818536,0.2650557408113249
+Andhra Pradesh,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2011344304885456,0.1537307463032133,0.2547793408506923
+Andhra Pradesh,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.194859533514475,0.1492762584191966,0.2460065316959568
+Andhra Pradesh,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1887980453718682,0.1446480853599046,0.2377736279853153
+Andhra Pradesh,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1826440570552432,0.1389997186897103,0.2304778424428774
+Andhra Pradesh,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1759512445296073,0.1341333535932228,0.2206254591132035
+Andhra Pradesh,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1702671064926977,0.131494828182872,0.2127346395078725
+Arunachal Pradesh,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2799122160606125,0.1900697926204574,0.3949281389222929
+Arunachal Pradesh,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2808455441988915,0.1976674035634034,0.3818735951830538
+Arunachal Pradesh,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2810736761475662,0.2032293040180861,0.375685715683674
+Arunachal Pradesh,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2807493074907868,0.2068414641296053,0.3661777053879917
+Arunachal Pradesh,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2799604131526034,0.209518987393663,0.3604587888399749
+Arunachal Pradesh,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2789608671182358,0.2110644931371934,0.3541820423006562
+Arunachal Pradesh,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2759619860648326,0.2125373749430112,0.3463210542405596
+Arunachal Pradesh,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2703571159431007,0.2104891261635214,0.3345393763385291
+Arunachal Pradesh,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2639684121613509,0.2040214533613533,0.3288174696975932
+Arunachal Pradesh,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2585534235526741,0.1999020524503486,0.3212369523078727
+Arunachal Pradesh,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2559073285085168,0.1992830615353684,0.3170495883290922
+Arunachal Pradesh,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2558948148585732,0.1990409778226223,0.3163885088703918
+Arunachal Pradesh,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2569705415581423,0.2003660689431997,0.314849885868703
+Arunachal Pradesh,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.258682257773038,0.2032250197291455,0.3158018524742175
+Arunachal Pradesh,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.260632753450872,0.2056383003853745,0.3195574432548074
+Arunachal Pradesh,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.262563328170452,0.2085053323730646,0.3221578533712275
+Arunachal Pradesh,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2668118124090897,0.2107786026070977,0.3284213303117805
+Arunachal Pradesh,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.274296577483206,0.2149906228975838,0.3412362868364471
+Arunachal Pradesh,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2827805886253721,0.2179827798294656,0.3551223558838878
+Arunachal Pradesh,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.289906322140625,0.2208563564941475,0.3693036099702651
+Arunachal Pradesh,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2931249975750114,0.2225905160058228,0.3762175103285194
+Arunachal Pradesh,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2930227000972065,0.2224074751367591,0.3769658726621273
+Arunachal Pradesh,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2921339431383414,0.2229199107702022,0.3747773390792382
+Arunachal Pradesh,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2909860500293117,0.223807469624599,0.3726263459699158
+Arunachal Pradesh,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2901187868205284,0.2223604809247419,0.3714453560030378
+Arunachal Pradesh,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.290096272388572,0.2218995330151502,0.367918280628224
+Arunachal Pradesh,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2928845640144875,0.2241029284860161,0.3712419122910062
+Arunachal Pradesh,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2984438268914758,0.2282906594039269,0.376391746517498
+Arunachal Pradesh,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3042189202886219,0.2340939601019266,0.3872811373852522
+Arunachal Pradesh,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3076247215227362,0.2361996149107794,0.3930745069879651
+Arunachal Pradesh,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3082284080395636,0.2362044342101103,0.387986199490326
+Arunachal Pradesh,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3056202138229873,0.2355664511746325,0.3854765082356106
+Assam,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2741755034669942,0.178754429503348,0.3982390464329703
+Assam,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2766299240481715,0.1880141039359321,0.3877745891199123
+Assam,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2780846478081957,0.1968142699372653,0.3818305137439499
+Assam,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2786788208962134,0.2026184447829729,0.3750018299164741
+Assam,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2785146823419004,0.2079699458963995,0.3690113674776785
+Assam,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2778247235444537,0.2098290781256492,0.3634532072911852
+Assam,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2748332216396674,0.2090611690995597,0.3556987843276404
+Assam,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2689799305124484,0.2044394259718677,0.3462429504790139
+Assam,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2621015221769426,0.1979853755667069,0.3363909725839096
+Assam,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.255986961744156,0.1933980921590264,0.3289956357086711
+Assam,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2524648359069545,0.1897363460933638,0.3238830105310364
+Assam,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2513296663803646,0.1922027891419856,0.317145948690524
+Assam,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2509885962173455,0.1944900284239364,0.3127614355067476
+Assam,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2512825800043931,0.1988027680978285,0.3092023166069252
+Assam,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2520240484601662,0.1987769292259896,0.3065692399243231
+Assam,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2530235034499199,0.1969594218157249,0.3074967101778336
+Assam,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2544970945735398,0.2002140897648134,0.3080447974827681
+Assam,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2565590202407833,0.2031804714044277,0.3106216659097442
+Assam,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2587304589743114,0.2036018138822905,0.3136875099676985
+Assam,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2606141520362815,0.2042942643279416,0.3164539497304296
+Assam,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2617115396526405,0.2051073968964443,0.3201411708512507
+Assam,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2602347223474182,0.2044332468393937,0.3177799628473796
+Assam,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2560064172068165,0.2017301729270293,0.3119941398825087
+Assam,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.250912944334123,0.1986070412412388,0.3048459272637748
+Assam,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2467894429166704,0.1958688866030239,0.300724249157186
+Assam,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2455000223301862,0.1944127653040445,0.2983807586002429
+Assam,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2527684821159487,0.1996523150022755,0.3067446878724864
+Assam,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2680047100566868,0.2107700361363613,0.3271552337992329
+Assam,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2834962581041659,0.2224429284336884,0.3501491405911463
+Assam,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2914850493063864,0.2261735315965911,0.3660374517615424
+Assam,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2918723825936907,0.2224391902040239,0.3733763717807973
+Assam,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2901980413836309,0.2219847853686049,0.3671874045963075
+Bihar,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2776946414366739,0.1826296351513552,0.4025075398158016
+Bihar,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.27987090602324,0.1929545578969993,0.3885453139451992
+Bihar,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2809525412927298,0.202499912830662,0.3818317757862953
+Bihar,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.281107546082836,0.208023634074765,0.3721408346520966
+Bihar,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2805159792217397,0.2125054706756363,0.3683761854168673
+Bihar,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2793351507212994,0.210594020349589,0.3598265588576121
+Bihar,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2755815766981723,0.2094209491239029,0.3491753235410259
+Bihar,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2686807375708667,0.2054471831098952,0.3350670371480582
+Bihar,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2608880036961528,0.1986422823040316,0.3256970673904866
+Bihar,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2544713002377948,0.1939731522500313,0.3199427979101412
+Bihar,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2516931459970848,0.1906535718361256,0.316143908292494
+Bihar,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2525096099349527,0.1926646107523264,0.3160409059975259
+Bihar,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2548065618239002,0.196366307105296,0.3158499402894043
+Bihar,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.257768846636886,0.2020022060192528,0.3158761797418424
+Bihar,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.260588212549298,0.2084145303511627,0.3168825270077519
+Bihar,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2624551187243067,0.2121893237399778,0.3191817907449297
+Bihar,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2639769812021153,0.2132287986511246,0.3219365377475031
+Bihar,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2660348184858032,0.21485914539733,0.3249712323787503
+Bihar,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2681826846800588,0.2158279268984187,0.3301626277197168
+Bihar,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2699589027788452,0.2163539420449158,0.3365030601305123
+Bihar,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2709125593872653,0.2167396621258763,0.3400460850306141
+Bihar,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2693585618838225,0.2144431324945612,0.336155339576054
+Bihar,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2651253428730752,0.2102973685375371,0.3279379266375402
+Bihar,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2600092340290646,0.2073230784889263,0.3204057143743269
+Bihar,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2558335821175826,0.204394879470341,0.3143348607688836
+Bihar,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2544445249714912,0.2019681952266801,0.3119399722532754
+Bihar,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2599951454761773,0.2057560383100411,0.3206384310317363
+Bihar,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2715065447909439,0.21251095817001,0.3375598628400579
+Bihar,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2830797157416664,0.2183676243262946,0.3531627665672038
+Bihar,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2888118969291681,0.2204551677154793,0.3693561607251022
+Bihar,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2870199808314144,0.2201155810080925,0.3620168640223488
+Bihar,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2867447023550063,0.2203381594195294,0.3616794406573717
+Chhattisgarh,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4573265957575266,0.3647626287626849,0.5362768444822659
+Chhattisgarh,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4431562206462576,0.3508192766884309,0.5255594224986826
+Chhattisgarh,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4288829967648459,0.3377875959972981,0.508491394452025
+Chhattisgarh,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4146139972448007,0.3240893731748266,0.4951038992634902
+Chhattisgarh,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4004581054654717,0.3124837097026395,0.4861858639164588
+Chhattisgarh,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3865341574847364,0.2991357632083151,0.4761941586688138
+Chhattisgarh,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3705358163368581,0.2872175511041319,0.460233766384436
+Chhattisgarh,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3522212486408559,0.2738346127835864,0.4439460598422813
+Chhattisgarh,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3347332151883922,0.258864387554114,0.4214703389122495
+Chhattisgarh,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3212091998658495,0.245743155496752,0.406611904702348
+Chhattisgarh,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3147584821933307,0.2415806783875739,0.3988557067611802
+Chhattisgarh,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.313577298735481,0.2396905269792298,0.3976041467759478
+Chhattisgarh,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3133924035681245,0.2397150076756343,0.3966510493256453
+Chhattisgarh,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3136555388228903,0.2407703806990166,0.397494519199686
+Chhattisgarh,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.313791613103279,0.2391714064703846,0.3975935826074248
+Chhattisgarh,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3132435636529619,0.2382124275258605,0.3954738818858909
+Chhattisgarh,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3119962944754065,0.2367025945859705,0.3920328145135094
+Chhattisgarh,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3104085617762442,0.2355130018589059,0.3895383737182325
+Chhattisgarh,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3084074422776549,0.2356674350729051,0.388046904267468
+Chhattisgarh,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.305910925220436,0.235053765482225,0.3842257584941214
+Chhattisgarh,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3028446156789779,0.2342524657689808,0.3809817538016775
+Chhattisgarh,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2978706495788641,0.2309717470723901,0.3761999396333003
+Chhattisgarh,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2903996503600601,0.2243140646750382,0.3707805634463278
+Chhattisgarh,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2814679053191835,0.2170277321885156,0.3591549238736402
+Chhattisgarh,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2721046424135122,0.2094542334837464,0.3464750374429588
+Chhattisgarh,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2634059888147332,0.2028467561837366,0.3388958663664209
+Chhattisgarh,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2555248093199495,0.1973612357798723,0.3262630619370114
+Chhattisgarh,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2477339398595056,0.1918443764608801,0.3151553377991731
+Chhattisgarh,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2398011787590937,0.185123907736761,0.2999008037546944
+Chhattisgarh,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2314774117814987,0.1777049126855801,0.292286172449975
+Chhattisgarh,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2219998300867922,0.1694221135631425,0.2819041521221912
+Chhattisgarh,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2131888891307471,0.1606390542151425,0.2709071296395408
+Delhi,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2884035901366324,0.1974266916685703,0.3930060903310004
+Delhi,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2981536733268023,0.2122916072758707,0.3901632919178628
+Delhi,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3057582286733908,0.2237581123733073,0.3908619089248988
+Delhi,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.311262324800961,0.2333302389866218,0.3926393492426354
+Delhi,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3146619575706403,0.2406741733488139,0.3908869527984136
+Delhi,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3159277364354182,0.2426286054316894,0.3911570461569987
+Delhi,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3135618638934405,0.2418002039306026,0.387768792332409
+Delhi,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3075187367746707,0.2367012391791522,0.3804448945768972
+Delhi,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2998189584087386,0.2317714550249031,0.3719811432161696
+Delhi,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2925387026394463,0.2276516133462985,0.3641640090640639
+Delhi,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2877309085881548,0.2228876022800552,0.3601174012830089
+Delhi,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2848618763798988,0.2237095290922365,0.3495337132859808
+Delhi,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2820242976553132,0.2262135988129186,0.3419120301466635
+Delhi,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2792756772583704,0.2260649472776633,0.3370934958930463
+Delhi,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2766454920017958,0.2254361938266422,0.332224130386043
+Delhi,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2741622767148914,0.221824211156724,0.3301779471648987
+Delhi,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2719247530537553,0.2201015012722796,0.3270866889451581
+Delhi,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2699153954785727,0.2171794664852276,0.3240721352673636
+Delhi,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2679394868339312,0.2144951098102115,0.323056293608131
+Delhi,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2658080265782241,0.2119978825421053,0.3211815613131152
+Delhi,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2633176680315582,0.2084391462051897,0.3217667007082283
+Delhi,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2596948532100974,0.2063996968958362,0.313541420181718
+Delhi,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2550339090028329,0.2031995884411285,0.3082554276587032
+Delhi,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2504538061086049,0.1992480356551218,0.3032386476060894
+Delhi,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2470654251661678,0.196517801087029,0.3003707267456633
+Delhi,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2459550311907978,0.1940261129264829,0.3007447089018771
+Delhi,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2557629102296415,0.199834387592499,0.3144276852227193
+Delhi,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.277076090954221,0.2141586300438384,0.3441801383673922
+Delhi,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2988134595202443,0.226621822990635,0.37433001798602
+Delhi,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3098470608852512,0.2345256391457244,0.3911407790055927
+Delhi,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3104183308121943,0.2389951659820153,0.3933848220205795
+Delhi,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3077224520299159,0.2311819292177242,0.3968541084043442
+Goa,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3778203417026218,0.2897166456533542,0.4593053678717973
+Goa,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3596519735248173,0.2755356885167541,0.4392190930462818
+Goa,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3421229284547378,0.2611374800690937,0.423949719494513
+Goa,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3254592850126904,0.2500703028564853,0.4072828969600602
+Goa,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3099421601362196,0.2363404804756341,0.39179917698199
+Goa,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2958178559996743,0.2265435064468609,0.3766458170965723
+Goa,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2816535611035861,0.2163561870642793,0.3568749017359057
+Goa,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2668456118831916,0.2038650315309137,0.3365323194151343
+Goa,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2529913609881566,0.1922915381058908,0.317320132099573
+Goa,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2416539976822692,0.1834916620489016,0.3053927257755439
+Goa,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2342390147686656,0.1778961855623646,0.2969011639523546
+Goa,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2299474375859452,0.1734875694679385,0.2903286802855633
+Goa,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2266329209730974,0.1706123763768922,0.2884127580490325
+Goa,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2239672865166002,0.1686762983757705,0.2858984329636982
+Goa,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2214720938559539,0.1674817116906934,0.28426425237396
+Goa,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2187763417491115,0.1654836309380383,0.2807745877843828
+Goa,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2159069812398357,0.1636071864901115,0.2748709633488
+Goa,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2130157344777145,0.1614058525499869,0.2716751329414939
+Goa,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2100030812481719,0.1594443267388025,0.2678075542343155
+Goa,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2067357419921939,0.1568474447433385,0.2634759336551588
+Goa,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.202966613872362,0.1545831438064969,0.260514997025839
+Goa,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1984865163991277,0.1521824368978105,0.2540379355740214
+Goa,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.193352763021162,0.1478391096618567,0.2472177817204301
+Goa,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1877939601004808,0.1431049809795913,0.2413422797402211
+Goa,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1820983107738598,0.1399115638912481,0.2337498833060566
+Goa,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.176560616485487,0.1348766177092673,0.227062633511038
+Goa,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1710526923453122,0.1313762224400212,0.2199432176186785
+Goa,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1655080630170292,0.1279295985150492,0.2120025709998581
+Goa,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1600929660918,0.1238777919633443,0.2029679999859825
+Goa,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1550129382563854,0.1193781900228037,0.1959726714338607
+Goa,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1499997569760759,0.1162340870334888,0.1890551097959427
+Goa,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1454508220701341,0.110396285695784,0.1843639294212013
+Gujarat,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2020948326816397,0.1194840064720693,0.3194585077850183
+Gujarat,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2024579236690451,0.1272302044301292,0.302537590379747
+Gujarat,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2021548552826071,0.1350965783244463,0.291374941703904
+Gujarat,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2012724841258325,0.1420849597001603,0.2778754221215443
+Gujarat,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1999140537044258,0.1446775877881821,0.2717161455744462
+Gujarat,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1981642995181159,0.1453255584160401,0.2625097624889478
+Gujarat,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1943780795916894,0.1439172300066831,0.2571894293740947
+Gujarat,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1881058213003005,0.1401754869922857,0.2504013281406004
+Gujarat,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1811810248728318,0.13456453776493,0.2389066865247598
+Gujarat,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1754346170320575,0.1312131238426639,0.2314937340087116
+Gujarat,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1727309123034158,0.1291953353150652,0.2284472576336617
+Gujarat,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1728604506373308,0.129821818403947,0.2236896360159156
+Gujarat,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1742152320526513,0.1329217446539763,0.2209880956261355
+Gujarat,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1760842775948207,0.1366811954406847,0.2196569296928786
+Gujarat,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1778504809658328,0.1389554809843095,0.2208634478279604
+Gujarat,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1789665873705381,0.1399180625234746,0.222392370535673
+Gujarat,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1797594619297483,0.1403719625272089,0.2227555582712355
+Gujarat,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1807529752453777,0.1399590974239728,0.224936872511704
+Gujarat,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1817265550696895,0.1391125862279732,0.2272881539969503
+Gujarat,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1824445596388458,0.1377599662823448,0.2302253546889759
+Gujarat,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.182681345875099,0.1379670964675047,0.2332874706820066
+Gujarat,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1813400278960939,0.1363807383318344,0.2300646718518529
+Gujarat,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1782778866878543,0.1348055255402198,0.2261834329815847
+Gujarat,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1746729129900505,0.1334630758761842,0.2217947098380042
+Gujarat,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1717194959795582,0.1327606811554935,0.2170394117930186
+Gujarat,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1706183872248802,0.1318488174807096,0.2154304261782669
+Gujarat,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1735024291258725,0.1334507079890066,0.2195942712792065
+Gujarat,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1796799010604058,0.1388564248965237,0.2285223851691554
+Gujarat,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1860696930357062,0.1428968520306472,0.2353940062852511
+Gujarat,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1895561931069913,0.1452760768056855,0.2404147899172707
+Gujarat,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1897014550742815,0.145467730911922,0.2412519322729009
+Gujarat,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1892113847787246,0.1457470965443313,0.2400213942336339
+Haryana,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4226952654030516,0.3322528806782668,0.5047050257029028
+Haryana,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4077297533763204,0.3202126895115746,0.4895242255910097
+Haryana,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3929311709185255,0.3067092169772321,0.4732862889326156
+Haryana,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3784654081460312,0.292570192282536,0.4585065082402929
+Haryana,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3644732162901484,0.280176012446663,0.445251908935622
+Haryana,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3510851653343246,0.2675984462425795,0.4375984827330949
+Haryana,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3365415677767367,0.2553974682714767,0.4231575984729834
+Haryana,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3205363749098801,0.2450451684099594,0.4036122145272083
+Haryana,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.305309649074996,0.2319761334746083,0.3874431257117545
+Haryana,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.29308213243274,0.2216457984252052,0.3705986845616444
+Haryana,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2861395539060909,0.2164898961122793,0.3617568951143837
+Haryana,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2831111296396885,0.2152476980064104,0.3588166671630112
+Haryana,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2808543089365693,0.2145032226813805,0.3572844244642765
+Haryana,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2789904132578125,0.2132895564516169,0.3550334305368986
+Haryana,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2770968965639188,0.2131525770943501,0.3538408641709485
+Haryana,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2747858103286765,0.2127513800435482,0.3517281368671295
+Haryana,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.271680693124489,0.2109603541651284,0.3473910300170252
+Haryana,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2677933426238482,0.2083308846938306,0.3402669417535305
+Haryana,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2632582132207576,0.2039031966870581,0.3334503343031784
+Haryana,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.258229944325506,0.1995453367878783,0.3269846524351699
+Haryana,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2528310706164968,0.194663016332473,0.3184884150257648
+Haryana,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2465571371671015,0.1902711459261743,0.3112733662050018
+Haryana,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2392006523915684,0.1839831083505823,0.3027603481993268
+Haryana,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2312642096760988,0.1775829469960214,0.2912090535858812
+Haryana,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2232403303262365,0.1712073256283363,0.2811356227072616
+Haryana,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.215694239113512,0.164358432153554,0.2713403629297587
+Haryana,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2088819461126937,0.1595174355376869,0.2631333677324641
+Haryana,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2024570908451126,0.1555191304073852,0.2558540090972915
+Haryana,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1960787570661459,0.1495224542784414,0.2499038292215468
+Haryana,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1893778235775432,0.1430459368681502,0.2414257843209179
+Haryana,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1814641712528283,0.1366008111396694,0.2296802249590538
+Haryana,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1751977428736322,0.1340948833489758,0.2241999301404399
+Himachal Pradesh,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2603804382789054,0.1717058220484553,0.3722045106934314
+Himachal Pradesh,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2730219768475516,0.1911071488620963,0.3692850633401231
+Himachal Pradesh,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2829396500687861,0.2053907193004929,0.3751475529414392
+Himachal Pradesh,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2901100495693629,0.2143665324013948,0.3812880739891374
+Himachal Pradesh,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2946130939945794,0.2218018720858917,0.3801564473049181
+Himachal Pradesh,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2963340739998955,0.2225967040721811,0.3789010536788959
+Himachal Pradesh,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.293623030472378,0.2218097974444692,0.3762327070019777
+Himachal Pradesh,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2863550595927763,0.2157125574831155,0.3677669014921209
+Himachal Pradesh,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2769933163288506,0.2079823052464935,0.3557594385664783
+Himachal Pradesh,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2680293928906888,0.201564338072377,0.3426977702076637
+Himachal Pradesh,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2620282356471881,0.1962465728110629,0.3336856006281414
+Himachal Pradesh,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2584920708719552,0.196547614900888,0.3233792173759066
+Himachal Pradesh,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2553052281595065,0.1983336201453339,0.3154175557307075
+Himachal Pradesh,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2525885015548814,0.1981821382692632,0.3112586495340328
+Himachal Pradesh,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.250371030439747,0.1985134151919732,0.3077454788542469
+Himachal Pradesh,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2487223420287018,0.1978784498382648,0.3089673436801717
+Himachal Pradesh,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2477711040794663,0.1969979501894874,0.3063326311386346
+Himachal Pradesh,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2473952567753089,0.1962720460122741,0.3053365157940026
+Himachal Pradesh,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2472265589011879,0.1952967903477455,0.3039377852014292
+Himachal Pradesh,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2468916847688407,0.192860960034305,0.3052697322630921
+Himachal Pradesh,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.245991036560725,0.1912906204956871,0.3106951212380572
+Himachal Pradesh,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2440172695981664,0.188025347332062,0.3067169348450103
+Himachal Pradesh,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.241265880642725,0.1869825985758239,0.3018814441652278
+Himachal Pradesh,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2385541090084831,0.1854362838256148,0.2992033705036538
+Himachal Pradesh,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2366551849329388,0.1840925012579663,0.2977058339258911
+Himachal Pradesh,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2363299090548958,0.1834290978490695,0.2986661414081348
+Himachal Pradesh,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2434271518737658,0.1890890203687885,0.3086486380824693
+Himachal Pradesh,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2582141740743823,0.1996723108155265,0.3304220117822555
+Himachal Pradesh,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2731349110512177,0.2108439174482362,0.3519975745560725
+Himachal Pradesh,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2806114096593141,0.2143521202918212,0.3637689064679218
+Himachal Pradesh,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2806434920589783,0.2126848554250759,0.3594933646488494
+Himachal Pradesh,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.283413956851712,0.218871972352053,0.3607588298214369
+Jammu & Kashmir and Ladakh,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4029404497530659,0.3122035141814521,0.4856582789840283
+Jammu & Kashmir and Ladakh,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3867970952665098,0.2994558651107492,0.4707101709753905
+Jammu & Kashmir and Ladakh,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3709345335725413,0.2841765537606023,0.4547361054134466
+Jammu & Kashmir and Ladakh,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3554768783382296,0.2710065850190776,0.4414367681888091
+Jammu & Kashmir and Ladakh,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3404962173046988,0.2564646316587097,0.4292470079529874
+Jammu & Kashmir and Ladakh,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.326300805860318,0.2436059232017783,0.4165244859181966
+Jammu & Kashmir and Ladakh,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3110699565678699,0.233875545026702,0.3976249081286953
+Jammu & Kashmir and Ladakh,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2944322797220459,0.2241514029337745,0.3762180057922965
+Jammu & Kashmir and Ladakh,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2785859021079861,0.2131412104222807,0.3558489052192384
+Jammu & Kashmir and Ladakh,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2657243925766855,0.2018156070651139,0.3421954577871681
+Jammu & Kashmir and Ladakh,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2580214088063299,0.1954501964794389,0.3347417097503948
+Jammu & Kashmir and Ladakh,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2542125054518513,0.1928124101923342,0.3275997392170322
+Jammu & Kashmir and Ladakh,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2513015276594917,0.1907033836595745,0.3220240355800767
+Jammu & Kashmir and Ladakh,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2490376874489438,0.1894754614193519,0.3180985343572834
+Jammu & Kashmir and Ladakh,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2470899641611968,0.1865919123431877,0.3146580784289329
+Jammu & Kashmir and Ladakh,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2451306238492397,0.1846064847806089,0.3115239060785348
+Jammu & Kashmir and Ladakh,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.243181329408002,0.183318311019979,0.3098863488072307
+Jammu & Kashmir and Ladakh,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2413857139543322,0.182951436039036,0.3091315135898193
+Jammu & Kashmir and Ladakh,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2395086440116629,0.1820926812431029,0.3057522897951249
+Jammu & Kashmir and Ladakh,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2373013916187693,0.1805583820910655,0.30273492964337
+Jammu & Kashmir and Ladakh,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2344609166063859,0.1780089641873961,0.3005821908455028
+Jammu & Kashmir and Ladakh,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.230800794420091,0.1762861713469449,0.2964141209313307
+Jammu & Kashmir and Ladakh,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2263672395483675,0.172355099423556,0.2899115161968696
+Jammu & Kashmir and Ladakh,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2213407502104094,0.1659345295890789,0.2835822031082011
+Jammu & Kashmir and Ladakh,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2159382668068161,0.1628539634999893,0.2760971792111809
+Jammu & Kashmir and Ladakh,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2104204268860942,0.1588512731576172,0.2676082493387476
+Jammu & Kashmir and Ladakh,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2046272355843491,0.1540166076836595,0.2569233300953603
+Jammu & Kashmir and Ladakh,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.198423338352773,0.1502528072467993,0.2483942447733758
+Jammu & Kashmir and Ladakh,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1918627556644892,0.1447728538095159,0.2403916590076751
+Jammu & Kashmir and Ladakh,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1850557519825616,0.1398971032079028,0.2325053093085946
+Jammu & Kashmir and Ladakh,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1773030901190322,0.1365831452189741,0.2228532555340059
+Jammu & Kashmir and Ladakh,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.171600315213675,0.1313733501203908,0.2211158183123046
+Jharkhand,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3029562268049261,0.2049252463078417,0.430168226769652
+Jharkhand,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3002704596891131,0.2091417255259265,0.4132016711769066
+Jharkhand,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2972722928779081,0.2137949502608622,0.397193344793722
+Jharkhand,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2941247571574273,0.2167778617458585,0.3853914965559596
+Jharkhand,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2909812064470704,0.2170083305931268,0.375642958699935
+Jharkhand,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2879966800432764,0.2172159804366439,0.3689332662350637
+Jharkhand,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2834402843072227,0.214863565608039,0.3576388536133679
+Jharkhand,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2767189257016852,0.2112663279456358,0.3499496053824717
+Jharkhand,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2696670170251909,0.2064068618266406,0.3403280116071593
+Jharkhand,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2641165139253102,0.2028032808288709,0.3328515291127544
+Jharkhand,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2618991898981169,0.2012663091876324,0.330719110788581
+Jharkhand,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2631162959219007,0.2037148284474106,0.3303745781659447
+Jharkhand,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2661516802930266,0.2084518250632789,0.3271933259049728
+Jharkhand,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2702699543616524,0.214579875967415,0.3279310173356834
+Jharkhand,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2747197754375729,0.2193005344969784,0.3305335164272998
+Jharkhand,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2787579088985213,0.2245434145106734,0.3366652381289345
+Jharkhand,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2839171304133446,0.229173732901196,0.3393701334527913
+Jharkhand,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2910531140928369,0.235117070675984,0.3491905897293976
+Jharkhand,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.298423281569443,0.2398706725643948,0.3615876417158145
+Jharkhand,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3043105849821876,0.2430445462538727,0.3739863800137124
+Jharkhand,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3069831251771487,0.2425447109077124,0.3801117353132215
+Jharkhand,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3046789700699561,0.2412803150176144,0.3753704952048834
+Jharkhand,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2985520351718584,0.2377127669061847,0.3665589600745103
+Jharkhand,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2911329271153174,0.2320431891365509,0.3556637699270332
+Jharkhand,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2850261018293333,0.2272263683850934,0.3489813504111148
+Jharkhand,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2828522687188301,0.2252931263443666,0.3456860422914882
+Jharkhand,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2889438735529286,0.2292789735934458,0.3566034835715836
+Jharkhand,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3017955495434872,0.2380170810876661,0.3738028800207689
+Jharkhand,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3152097999800247,0.2444875098198857,0.3943125743019621
+Jharkhand,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3229653881427641,0.2469083420273875,0.4049316754536669
+Jharkhand,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3243545376994695,0.2505230950102813,0.4095463691184924
+Jharkhand,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3225323624307392,0.2505073508735189,0.4089388053311796
+Karnataka,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3928894991331204,0.3163716110703615,0.4680017973134454
+Karnataka,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3839670397277935,0.3133144731576466,0.4560036934112645
+Karnataka,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3751620630869218,0.3106141207812478,0.4445290928719243
+Karnataka,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3667563505622022,0.3039322521356052,0.4329645631245415
+Karnataka,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.359038381903227,0.2987287270159929,0.4238532238085853
+Karnataka,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3523025022702329,0.2920848684919886,0.417556737620001
+Karnataka,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3450440460666875,0.2873764840240239,0.4088713723008078
+Karnataka,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.336457535165638,0.2794292882474374,0.3997172515658513
+Karnataka,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3277411255265786,0.2701416545126244,0.3919401450605335
+Karnataka,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3201404078329297,0.2633904724105254,0.3843639262823118
+Karnataka,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3149958097411008,0.2583781265558512,0.3778710291283393
+Karnataka,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3120092131616767,0.2584053937692591,0.3714280925722976
+Karnataka,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3100679908707111,0.2590652550463357,0.3673136323546376
+Karnataka,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3093131761604852,0.2604652112693342,0.3636047930582635
+Karnataka,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3097953824247728,0.2604422499736161,0.3634890351253843
+Karnataka,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3114818813118038,0.2616554137975699,0.3643796075276697
+Karnataka,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.314411987486346,0.2645631378245741,0.3693226934938571
+Karnataka,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3182388820701945,0.2683702804428457,0.3753133538072589
+Karnataka,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3221948428426158,0.2709072405006582,0.3810515616584135
+Karnataka,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3254836248103754,0.2738138791276567,0.3864921257576106
+Karnataka,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3272404534537569,0.2748817265208649,0.3916324292835434
+Karnataka,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3271665773766906,0.2740880698792372,0.3882616733406554
+Karnataka,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.326094521819185,0.2718056196408946,0.3891444579575067
+Karnataka,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3248836428248798,0.2689935248625696,0.3870125622415534
+Karnataka,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3244540779446517,0.2658483159870255,0.3880423936255158
+Karnataka,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3257934120526448,0.2652589010826757,0.3908096817166337
+Karnataka,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.338143047877666,0.2731166683622769,0.4063496618295323
+Karnataka,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3621149734161782,0.2908820449607568,0.4396577653652824
+Karnataka,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.385847403218546,0.3070344061027211,0.4733631306195878
+Karnataka,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3975146821351604,0.3136231185185658,0.4879783845465685
+Karnataka,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3962270837960944,0.3067744979832034,0.4825074519562969
+Karnataka,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3969311269033201,0.3059504462274826,0.48475984558805
+Kerala,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3043980116378029,0.2162637496619282,0.4158212549824891
+Kerala,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3030290907664079,0.220754701881201,0.4008024627777386
+Kerala,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3012811478612876,0.2261367405424725,0.3869103027678247
+Kerala,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2993736141583185,0.2306688393500021,0.3776779158007258
+Kerala,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2974829969901549,0.2320642153024615,0.3712814441411629
+Kerala,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2957912868179997,0.233399563951618,0.3623555704687939
+Kerala,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2926245106057504,0.2326298653162207,0.3594968444745469
+Kerala,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.28739216985502,0.2278807072099777,0.3505160740533387
+Kerala,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.281636542209646,0.2222284723359092,0.3448703035169974
+Kerala,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.277048631817723,0.2171009760805033,0.3406299757191773
+Kerala,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2753548482591949,0.2151974323172636,0.3413691735977385
+Kerala,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2775826320454391,0.2183204888422875,0.3396762768681372
+Kerala,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2826768392517348,0.2257199911110071,0.3424407849640988
+Kerala,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2892606342252142,0.2342598060984262,0.3488027146117153
+Kerala,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2958540900501721,0.2413344723015219,0.3569991729611809
+Kerala,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3011240151210386,0.2479870006245696,0.3631612256801679
+Kerala,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.306186424340524,0.2509656893410306,0.368756973331954
+Kerala,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.312432826647857,0.2555413000005568,0.3773899845345302
+Kerala,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3187603342950968,0.2591398945184641,0.3833878593018106
+Kerala,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3238914466309636,0.2613867933975833,0.3887986846312211
+Kerala,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3263983250269862,0.2613782242758199,0.3957259250146169
+Kerala,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3252392555326636,0.2611688176453768,0.3934036386401048
+Kerala,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3214749745416296,0.2586419900154828,0.3883668525471477
+Kerala,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3167820141162084,0.2550838465651309,0.3811294796302261
+Kerala,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3129108217900593,0.2497145901877611,0.3763998131804309
+Kerala,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3116599956130255,0.2488524499621467,0.3766601872026813
+Kerala,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3162993008411408,0.2522995561521521,0.3842194771820719
+Kerala,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3257063517543994,0.2571335715032699,0.3990746853660919
+Kerala,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3354780056038388,0.2627858540269226,0.4147628465418714
+Kerala,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3409735195027293,0.2646946639433815,0.4251119788890305
+Kerala,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3413461489999458,0.2655918343311649,0.4298313342887643
+Kerala,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3403123122058054,0.2644992368896235,0.4223989858833559
+Madhya Pradesh,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2613517856757824,0.1734569700477101,0.3796922830423333
+Madhya Pradesh,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2687209323028002,0.1868845160099643,0.3779128441311332
+Madhya Pradesh,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2742891204380792,0.195291186993175,0.3749827554376173
+Madhya Pradesh,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2781853145350408,0.2024168668303637,0.3722058248069908
+Madhya Pradesh,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2805114889924306,0.2075652243549667,0.368298736625541
+Madhya Pradesh,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2813575104165949,0.2075364005806121,0.366847322557437
+Madhya Pradesh,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2788779254700698,0.2067291898419087,0.3609793329414701
+Madhya Pradesh,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2726037741196963,0.2034268639496972,0.3504242454644315
+Madhya Pradesh,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2645950851989747,0.1976374529137091,0.3380122500023775
+Madhya Pradesh,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2569215823048555,0.1915526181981299,0.3269868923773645
+Madhya Pradesh,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2516803400645249,0.1864007466220824,0.3198112470604631
+Madhya Pradesh,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2479855945850307,0.1864601310725814,0.311568365916952
+Madhya Pradesh,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2439181457628623,0.1873214765683703,0.303183936881144
+Madhya Pradesh,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2400050916947521,0.1872183228363715,0.2973383609281609
+Madhya Pradesh,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2367849822428105,0.1881749950080159,0.293380043161159
+Madhya Pradesh,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2348076599788152,0.1865597398757512,0.2906898539980515
+Madhya Pradesh,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2339121108314864,0.1873340385304103,0.2907280748367238
+Madhya Pradesh,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2334196179028274,0.186082603350274,0.289499331099271
+Madhya Pradesh,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2330772620377239,0.1843416756163531,0.2901963370965398
+Madhya Pradesh,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2326204524906273,0.1836230167100906,0.289995077479492
+Madhya Pradesh,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2317833648901247,0.1811179393011577,0.2891399994688508
+Madhya Pradesh,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2295769761670285,0.1798130536203763,0.2865602985046628
+Madhya Pradesh,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2259349579528285,0.1769967679398464,0.2803507816055075
+Madhya Pradesh,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.221945052888948,0.1753448490110188,0.2720454572695583
+Madhya Pradesh,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2187251865729773,0.1723954780128511,0.2676265882380497
+Madhya Pradesh,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2174158281765557,0.1710168960748788,0.2698070073287477
+Madhya Pradesh,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2247817270825416,0.176868918754469,0.2811132953231605
+Madhya Pradesh,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2410173543068274,0.186227265776752,0.3023133471873696
+Madhya Pradesh,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2573942395732504,0.1973086371433029,0.326378165262663
+Madhya Pradesh,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2652861636036979,0.2023435903825308,0.3355724122938129
+Madhya Pradesh,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2648397949041959,0.2000990571146193,0.3410964918107385
+Madhya Pradesh,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2629966438507231,0.2008372384658547,0.3314735139192768
+Maharashtra,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2569396451095939,0.17349404179741,0.3661849963812671
+Maharashtra,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2676616215403862,0.1865767939034724,0.3660317145183211
+Maharashtra,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2760326278238291,0.2021441023174536,0.3649639498769058
+Maharashtra,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2819624333937104,0.2121233471259525,0.363189115746694
+Maharashtra,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2856529099194263,0.2182347480272393,0.3607682447233935
+Maharashtra,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2870143270904226,0.2193247293466248,0.3594473567982775
+Maharashtra,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2845102343081628,0.2178326761989081,0.3551932307042895
+Maharashtra,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2780971567571066,0.2133173690921062,0.3480675551875426
+Maharashtra,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2698940535700848,0.2071004876557404,0.3356835188847717
+Maharashtra,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2619585447375622,0.2019416304736948,0.3225257964295381
+Maharashtra,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2564295455810081,0.1980957607608274,0.3135226802479187
+Maharashtra,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2527918819796727,0.1981806269292537,0.3100990013952321
+Maharashtra,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2492387473576035,0.1978087169852887,0.3056382305613523
+Maharashtra,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2459694457470068,0.1978020366196474,0.2995335493697688
+Maharashtra,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2431030322229566,0.1979794600551284,0.2957670207489129
+Maharashtra,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2407465923553539,0.1978810639837225,0.2919438264946965
+Maharashtra,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2389393479024755,0.1958016523111056,0.2901389408860085
+Maharashtra,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2375395405486189,0.1936065591142772,0.2883663618442464
+Maharashtra,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2363060215386896,0.1915697629234666,0.2868840856656657
+Maharashtra,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2350101904493304,0.1903032294976765,0.2855182321619475
+Maharashtra,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2333971039188719,0.1875839695228509,0.286756294510722
+Maharashtra,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2308568100579897,0.1850033451985386,0.2830374896590922
+Maharashtra,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2275396792542587,0.181321607328213,0.2785962275255237
+Maharashtra,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2243553346702424,0.1783664044379359,0.2758340896257788
+Maharashtra,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2222041526018874,0.1765117131753915,0.2704044221860892
+Maharashtra,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2219221327873069,0.1769173723046703,0.2720109520853142
+Maharashtra,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2313320887206998,0.1843950147118213,0.2809457959510361
+Maharashtra,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2510185498438537,0.1968486160483401,0.3127099403222477
+Maharashtra,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.270858974836209,0.2100635157932677,0.3454343589049077
+Maharashtra,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2806139282544023,0.2155836912418413,0.3643301307823458
+Maharashtra,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2802093848859963,0.2148408109223278,0.3543164095348969
+Maharashtra,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2801138239042428,0.2147425234436897,0.3513458887778835
+Manipur,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.429303799504876,0.3406863882014843,0.5107722602293199
+Manipur,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4123879948853616,0.3256554090224298,0.4948993978593917
+Manipur,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3957622408522421,0.3111367824202745,0.4775602243645304
+Manipur,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3795351462534576,0.295048090759152,0.4671552492720119
+Manipur,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3638642211299759,0.2799339354533956,0.4492518390158357
+Manipur,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.348869516140681,0.2651775203436245,0.4394818959187931
+Manipur,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3328147554789087,0.2540515029696311,0.4197875959359019
+Manipur,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3153930626154226,0.2392368006192641,0.397640515632547
+Manipur,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2988304295370286,0.227034135987686,0.3770696169631822
+Manipur,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2853512169924074,0.2172856392136551,0.3615162095998203
+Manipur,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2772908964010821,0.2109183846404387,0.350191083037199
+Manipur,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2733464072909107,0.2073232910842609,0.3459684604356501
+Manipur,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2703771560909741,0.2050023543511363,0.3423457359533631
+Manipur,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2680423405801022,0.2036528089699305,0.3397766124744479
+Manipur,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2659513067010807,0.2025781889655584,0.3381212222317451
+Manipur,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2637595335090932,0.2015863934491875,0.3372847870957801
+Manipur,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2614851091427905,0.1992107243639844,0.3340299249718096
+Manipur,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2592607992285371,0.197397103168558,0.3311552745217689
+Manipur,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2569079365252276,0.1960808395603561,0.3284905689327613
+Manipur,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.254175273257234,0.1941969884092141,0.3243804932641244
+Manipur,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2507969666094112,0.189711914853966,0.3185399772384241
+Manipur,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2464572871373588,0.1866419396548665,0.3133422459447608
+Manipur,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2412465848130996,0.1833475336336466,0.3073140176709964
+Manipur,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2354884208054862,0.1790558659965714,0.2988554820231372
+Manipur,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.229523479862525,0.1747666690314659,0.2917413251344515
+Manipur,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2236895672724723,0.1703296155453119,0.2818793539024353
+Manipur,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2179462103294968,0.1666957525162186,0.2755847715551743
+Manipur,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2121024850870965,0.1621811994193532,0.267115592029863
+Manipur,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2062755436208858,0.1563751400225421,0.2577765360580708
+Manipur,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2005795075276603,0.151713399916443,0.2516109726662024
+Manipur,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1947001435687622,0.1480896087504023,0.2460258127675597
+Manipur,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1904872511115449,0.1464087535905154,0.2370259989331226
+Meghalaya,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4241870932000572,0.3326206637984682,0.5105625203297278
+Meghalaya,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4072163071935551,0.3210481931800601,0.494872338401215
+Meghalaya,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3906189532841389,0.3043552083246651,0.4740712363486661
+Meghalaya,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3745627395040578,0.2907097001265593,0.4587722826249029
+Meghalaya,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3591992249195373,0.2767262881592242,0.4448208155195272
+Meghalaya,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3446912884507734,0.2637911977186841,0.4295010283582122
+Meghalaya,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3293246173960373,0.2534452719765858,0.4115078411540638
+Meghalaya,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3127509565427782,0.2384961916927741,0.3932167439639385
+Meghalaya,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2970696328239522,0.2279844431287107,0.3760019805497357
+Meghalaya,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2844098480466743,0.2167139857343237,0.3639910323283849
+Meghalaya,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2769201526512315,0.2130917165583078,0.3556383162983345
+Meghalaya,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2732920856458493,0.2103511201244098,0.3498465322907457
+Meghalaya,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2705254756594235,0.2080222949378536,0.3458614866479121
+Meghalaya,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.268279853639005,0.2045281193803592,0.3397002001219388
+Meghalaya,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2661632270084968,0.2030011250356735,0.3363352361906477
+Meghalaya,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2639372320927086,0.2011715149710587,0.338306887378912
+Meghalaya,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2614609776093892,0.2002176332314972,0.3332038616198806
+Meghalaya,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2588049677848114,0.1976645461796632,0.3296361185530778
+Meghalaya,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2558668309113427,0.1947209720063686,0.3253061475439798
+Meghalaya,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2524688084396874,0.1907456529260005,0.3215612505475045
+Meghalaya,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2485602406793841,0.1870192716114466,0.3187626359550243
+Meghalaya,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2432229547601356,0.1828248496040903,0.3083119717043662
+Meghalaya,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2363595745014619,0.1780179168589204,0.3017361207076446
+Meghalaya,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2288552188411891,0.1721858193970543,0.2926862762095781
+Meghalaya,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2215780118390259,0.1680070356058308,0.2821297192117903
+Meghalaya,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2154568077137792,0.1637620395382754,0.2746372795137683
+Meghalaya,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2109232722703156,0.1617774789390515,0.2696825639331978
+Meghalaya,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2071271135643518,0.1583455754559453,0.2636729902343327
+Meghalaya,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.203139423103726,0.1549048193196771,0.2577032331722729
+Meghalaya,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1980111544796199,0.1488578960767077,0.2504621463977361
+Meghalaya,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.190118661625991,0.1445909632415195,0.2376553490216902
+Meghalaya,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1820492598152623,0.1367152839559872,0.2293528075777007
+Mizoram,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3877166657051201,0.2972397976121172,0.4689317181343949
+Mizoram,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3704032273206876,0.2824526105456453,0.4515998825602986
+Mizoram,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3536958849304856,0.2699795721890725,0.4363415305799969
+Mizoram,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3378530424082241,0.2562985934575731,0.4232504501310706
+Mizoram,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.323103498407837,0.244429714472198,0.4070386376684095
+Mizoram,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3096785093603123,0.2331878237985462,0.3973582427484897
+Mizoram,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2960759490950627,0.2251516415701346,0.3797760398871448
+Mizoram,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2817890956417569,0.2120169053888351,0.3591777282064927
+Mizoram,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2684316261857211,0.2020587507146547,0.3406985921390388
+Mizoram,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2576642901267605,0.1939001899760275,0.3270919634184804
+Mizoram,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2512559302255527,0.1888631235118494,0.3194918876651899
+Mizoram,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2481943695681099,0.1864128024641241,0.3156275382681746
+Mizoram,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2460587470061629,0.1852840290298826,0.3124124545390222
+Mizoram,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2444923888215945,0.1853294798261058,0.311690042773776
+Mizoram,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2430987896276429,0.184008377309518,0.3112130039501601
+Mizoram,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2415645921933454,0.1819452716990719,0.3107830117495558
+Mizoram,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2399514725586489,0.1829721080692047,0.3059342644222105
+Mizoram,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2383604159863689,0.181861360978045,0.3021658940129196
+Mizoram,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2365063739540942,0.1805807055271586,0.2989951728571683
+Mizoram,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.234149877606259,0.1783070991989444,0.2960226174962218
+Mizoram,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2310481546573175,0.175423422665249,0.290799030888776
+Mizoram,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2262173666580317,0.1719631253921669,0.2839736893239392
+Mizoram,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2194022686757422,0.1672205356248053,0.2782984153128967
+Mizoram,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2117947275861673,0.1612680619283635,0.2694491629855402
+Mizoram,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.204372973140644,0.1556280644921896,0.259420268473913
+Mizoram,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.198868411824128,0.1519698391737066,0.2526574725388849
+Mizoram,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1955407538512807,0.1497162019828763,0.2475605095825464
+Mizoram,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1926294510899253,0.1475117278009461,0.2428766856330306
+Mizoram,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1896587767979707,0.1448830740032194,0.2375110304954144
+Mizoram,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1857977526367653,0.1427316199552741,0.233643800000843
+Mizoram,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1795032880182955,0.136605121458902,0.2276501955582818
+Mizoram,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1728915786990993,0.1307044950822365,0.2220177566340755
+Nagaland,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4141392952951377,0.318847408612096,0.4952046941480706
+Nagaland,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3966294026627688,0.3036397705101763,0.4792938552731907
+Nagaland,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3797055437949707,0.2886348999091923,0.4659924043392199
+Nagaland,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3636086502037114,0.2763040122901657,0.4513167318155918
+Nagaland,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3485594394841839,0.2626845121571299,0.4380380090459767
+Nagaland,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3347428993550742,0.2483107873221734,0.4252458594143787
+Nagaland,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3206456294429656,0.2421861127847715,0.4051438228793583
+Nagaland,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3057767737935714,0.2314944512837369,0.3865804641340563
+Nagaland,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2917129420693428,0.2203451169522897,0.3719719057259508
+Nagaland,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2800988036159399,0.2113101760029541,0.3562600628029873
+Nagaland,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.272762988247418,0.2060675918957479,0.3478426226704313
+Nagaland,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2688197274077719,0.2035878677337786,0.3411793318449447
+Nagaland,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2658851548086148,0.2032013991891834,0.3374761011257808
+Nagaland,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.263597988913326,0.202112890954031,0.3368591324727502
+Nagaland,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.261517539541116,0.1996082048682307,0.333475078866601
+Nagaland,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.259284616374372,0.1966909579715594,0.3292270075745389
+Nagaland,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2568924726496319,0.194170586477569,0.3286989538594533
+Nagaland,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2545086093858016,0.1924616211383543,0.327834178930853
+Nagaland,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.25194113690469,0.1907437051320797,0.3244951998533498
+Nagaland,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2490176777149838,0.1877165084977572,0.3201541582808548
+Nagaland,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.245565072690136,0.1840482880341413,0.3139628004906936
+Nagaland,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2413578587894817,0.1810005471586347,0.3108234063760788
+Nagaland,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2365136009575317,0.1782792434652927,0.3045349604308972
+Nagaland,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2312713669699716,0.1751004357255992,0.2973183565913607
+Nagaland,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2258421413270444,0.1704140619722584,0.2881710702205684
+Nagaland,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2204265122756983,0.1660620943428846,0.2797081013573942
+Nagaland,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.21503341395911,0.1631702123463582,0.2722143939860161
+Nagaland,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.209500829223747,0.1620470083353209,0.2653858690388794
+Nagaland,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2037832924736636,0.1575052067972132,0.2588923037560318
+Nagaland,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1978099730173235,0.1526182650864284,0.2510543528603418
+Nagaland,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1908273122579702,0.1428951023061148,0.2453602108638232
+Nagaland,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1870069240121819,0.1421070028433531,0.2378622225591263
+Odisha,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3283102437884717,0.2284239672613564,0.4446481942235659
+Odisha,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3363764846701593,0.2433118662006477,0.4446835952311795
+Odisha,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3423738570558028,0.2575198823486628,0.4466804851521703
+Odisha,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3464566945986719,0.2645809183214406,0.4430291923522371
+Odisha,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3487770491827452,0.2702968659519428,0.4404096351515715
+Odisha,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.349482333938986,0.2725258549424045,0.440866499046608
+Odisha,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3462242325437507,0.2728659890799608,0.4313680593597846
+Odisha,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3385327380996688,0.2649042190015634,0.4181314719463258
+Odisha,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3293013484099983,0.2562341507970473,0.4044517541034612
+Odisha,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3214174094919385,0.2511982114352806,0.3959629426415804
+Odisha,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3177820351165241,0.2489059323522076,0.3901666151059111
+Odisha,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3181887586355071,0.2510905668645797,0.3875528553703184
+Odisha,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3200204172306325,0.2554459664713184,0.3887870929696142
+Odisha,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3225874939524826,0.2598224785758439,0.3899386558444928
+Odisha,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3251299646702772,0.2632778664231899,0.3913261551178413
+Odisha,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3268933055308781,0.2657316991680175,0.3917191825134092
+Odisha,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3282240465595294,0.2666725151830303,0.3924466174701732
+Odisha,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3298100703888091,0.2677585820913515,0.3948170740525579
+Odisha,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3313769756564135,0.266677165280042,0.3953374252334591
+Odisha,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3326638349666573,0.2657544642984615,0.3991384481796287
+Odisha,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3334058289068886,0.2631205750467013,0.4015218292520547
+Odisha,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3315931348013154,0.2626518644454584,0.3976922756657629
+Odisha,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3268564730844978,0.2614026556759012,0.3934502909994625
+Odisha,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3213105116683509,0.2584552215140436,0.3890053259206066
+Odisha,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3170161008612507,0.2556935193604657,0.3861278051990456
+Odisha,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3159630187011812,0.2551356239987864,0.3856135912207848
+Odisha,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3239437918034739,0.2588167873971941,0.3935456541720161
+Odisha,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3401274428749767,0.2694675069956337,0.4136658293626414
+Odisha,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3565113047294785,0.2785890195822339,0.4371170401592754
+Odisha,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3650115645679039,0.2831522151230868,0.4509901414776184
+Odisha,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3673512819956337,0.2853821208791008,0.4620954544181058
+Odisha,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3691143663017791,0.2872988179989655,0.4611928040987175
+Punjab,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3006921927553367,0.2101095307388194,0.4088608533021673
+Punjab,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3038878335276347,0.2191018106684035,0.3997685852920173
+Punjab,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3058123238680187,0.2268936110098742,0.3942004587098007
+Punjab,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3066596312399677,0.2338572258647593,0.3884540542789372
+Punjab,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.306636120763615,0.2384438557152705,0.3840805642124948
+Punjab,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3059125420426977,0.2383868295001257,0.379620317760601
+Punjab,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3024493715860666,0.2368180112881255,0.3755005312291876
+Punjab,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2956919828665841,0.2330006708728726,0.3655079772016953
+Punjab,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.28800495457422,0.2261300242401478,0.3557269885625083
+Punjab,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2817668753587514,0.2211562739240942,0.3495285922839631
+Punjab,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2794127068106498,0.2173287857311902,0.3455024746185602
+Punjab,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2809793288815336,0.2197239634622017,0.3467816862271088
+Punjab,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2842998185072425,0.226123706082909,0.3479169741099797
+Punjab,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2885314103798514,0.2306704486402239,0.3515449789587135
+Punjab,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2928070103269779,0.2368335677609707,0.3544419766664493
+Punjab,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2962583393624801,0.2398568704676186,0.3578540090056812
+Punjab,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2999506385136342,0.2437920839698545,0.3628444073529826
+Punjab,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3049299971029789,0.2479000543082763,0.3708227595777306
+Punjab,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3101738890610057,0.2501534985674506,0.3790727188131793
+Punjab,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3145944677142892,0.2519104346847101,0.3829463258749604
+Punjab,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3170321118919087,0.2512675827775642,0.38577664833805
+Punjab,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3160652974442389,0.2513383645420902,0.3838879406386825
+Punjab,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3122590206317973,0.2487403260672169,0.3796953112704909
+Punjab,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3073811579570688,0.245749045737486,0.3710859276922593
+Punjab,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3033456013502547,0.2427188949977333,0.3666164508231478
+Punjab,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3020734383376801,0.2416061859174438,0.3658214798772611
+Punjab,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3075195810228084,0.2459310277989934,0.3689031581376467
+Punjab,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3186726699689217,0.2508475782618522,0.3900954604887562
+Punjab,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3299045968467475,0.2568397430072697,0.4094166064910518
+Punjab,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3356385959442081,0.2594555595677804,0.416582222955322
+Punjab,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3367678012640103,0.2614556643117215,0.4140723509476716
+Punjab,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3364111811335856,0.2571069410015316,0.420090637147703
+Rajasthan,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3587899974251595,0.2687006853038601,0.4364938587921435
+Rajasthan,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3459363602987014,0.2646480136013427,0.4212523679543058
+Rajasthan,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3337323037322067,0.2588004077937497,0.4062866887172121
+Rajasthan,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3226690625259843,0.2528905194196625,0.3939701786817269
+Rajasthan,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3132138223044903,0.2470798689211913,0.383102139839989
+Rajasthan,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3058159824758821,0.2406982047372232,0.3769799864608095
+Rajasthan,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2992033606234461,0.2364599583417782,0.3690808553338033
+Rajasthan,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2922085244540705,0.2307161490070206,0.3591137592207649
+Rajasthan,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2854149994697321,0.2251936838660393,0.3487684217998533
+Rajasthan,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2793949352979396,0.220143608939165,0.3423351768207585
+Rajasthan,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2747240163014605,0.2166003990102551,0.3351744364145992
+Rajasthan,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2703636009236283,0.215870855887446,0.3296882161875279
+Rajasthan,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2655082425458296,0.2139703420319365,0.3197956110658113
+Rajasthan,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.261113306048806,0.2125919089556561,0.312914162806072
+Rajasthan,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.258121377627894,0.2113008419771113,0.3080578496608682
+Rajasthan,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2574659252043508,0.2085595377628067,0.3081953424191258
+Rajasthan,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2606783318930504,0.2120835479188226,0.3124670099306474
+Rajasthan,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.267178598403295,0.217230872827708,0.3220211594412278
+Rajasthan,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2746822256205181,0.2232456485037307,0.334802869285546
+Rajasthan,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2808933745597745,0.2283342213133037,0.3460040285794137
+Rajasthan,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2835043932988144,0.2291701236509087,0.3509793150406922
+Rajasthan,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2809143795408959,0.2256654395891464,0.3435152068178913
+Rajasthan,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2746796106037268,0.2199649030353111,0.3333928868524063
+Rajasthan,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2672535180144592,0.2145628446825562,0.3231924877537587
+Rajasthan,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2611359496601991,0.2106978687513351,0.3160050665651729
+Rajasthan,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2587933307009715,0.2063767349907445,0.3143231703477613
+Rajasthan,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2712330623145365,0.2160701688634335,0.3289088498685305
+Rajasthan,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2981604294427129,0.2353485258273281,0.3678961418108988
+Rajasthan,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3251637797514158,0.2525652258290869,0.4074596444898997
+Rajasthan,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3381276762582038,0.2597103483917893,0.4256698357911078
+Rajasthan,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3376960187783878,0.2630087786649757,0.4234708397508439
+Rajasthan,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3389346269661046,0.2656047395872789,0.4291776353599652
+Sikkim,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2734830348456338,0.1835914012601067,0.3891717641337965
+Sikkim,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2784398793848973,0.1935619602069319,0.3833870142492024
+Sikkim,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2818171728959701,0.2025657876407539,0.3771175370054695
+Sikkim,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2838582412768065,0.2102409158829182,0.3714602654444798
+Sikkim,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2848416019955394,0.2130983563728651,0.36371456724115
+Sikkim,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2850016679037842,0.2150825839667375,0.3607371963226968
+Sikkim,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2822253366202121,0.2152400117556109,0.3533516052624106
+Sikkim,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2759040878917231,0.2129923664897836,0.3462617103586276
+Sikkim,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2683120965115976,0.2097523990620501,0.3371149494740943
+Sikkim,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2619011884441704,0.2061482507589238,0.3280036763132027
+Sikkim,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2590510842451528,0.2049138574817527,0.3217688192488125
+Sikkim,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2595561069925707,0.2066316309679354,0.3201685304990042
+Sikkim,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2613845129506412,0.2079744006726507,0.3203011671215926
+Sikkim,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2642411657041669,0.2111813163709605,0.3217066058359116
+Sikkim,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2677079356414369,0.2141485009317752,0.3249752381719527
+Sikkim,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2713903721709158,0.2167544796114479,0.3291468726240445
+Sikkim,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2766531987182548,0.2212279238241446,0.3345786962729683
+Sikkim,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2842460513646799,0.2280323882476528,0.3423251185072263
+Sikkim,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2927180809379245,0.2328679418696449,0.3556437651684987
+Sikkim,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.300574564566132,0.2373286485873219,0.367371686799072
+Sikkim,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3061731408532794,0.2406452308206686,0.3762640039754248
+Sikkim,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3096780340042079,0.2446522291598558,0.3792246408554494
+Sikkim,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3126213598485413,0.2467812743174892,0.3807861873280864
+Sikkim,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3153003186966982,0.2464236035668348,0.382997820123347
+Sikkim,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3180892079467143,0.2460645854925232,0.3897295480520345
+Sikkim,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3213977950575176,0.2503541742356563,0.3946139542035982
+Sikkim,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3276454693607808,0.2551390945009856,0.4002237353745256
+Sikkim,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3369898474428169,0.2643018272113295,0.4082693675592908
+Sikkim,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3463787385855027,0.2741159688749927,0.4202471270126466
+Sikkim,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3525175086415447,0.2786147448500063,0.4271862769010159
+Sikkim,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3538245323357832,0.2738892775649077,0.4332522299145207
+Sikkim,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3566908379976748,0.2772759347282799,0.4320448292172674
+Tamil Nadu,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2566202582769468,0.1688962853133113,0.376730390469965
+Tamil Nadu,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.266568029123947,0.1855601746995187,0.3720761428260623
+Tamil Nadu,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2740919959130105,0.2016665928292343,0.3656938484265086
+Tamil Nadu,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2792858274523341,0.2086012446272422,0.3621708483996796
+Tamil Nadu,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2822530706443192,0.2130051338586179,0.3596744794799187
+Tamil Nadu,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2831246491742302,0.2134611325177946,0.3576672926404102
+Tamil Nadu,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2798256306702904,0.2122149555491036,0.3482891926260796
+Tamil Nadu,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2719488847641534,0.2085247204662113,0.3367709565656509
+Tamil Nadu,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2620152182690088,0.2025831755808341,0.3242241814646792
+Tamil Nadu,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2525484269980316,0.1967802852618778,0.3105782383761709
+Tamil Nadu,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2461476589755187,0.1933493361513873,0.3019923962753242
+Tamil Nadu,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2424965435484973,0.1916959468576997,0.2944205776558555
+Tamil Nadu,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2394622943382842,0.190639685501251,0.2885785631451112
+Tamil Nadu,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2369200611931181,0.1926451269026174,0.2827588021553006
+Tamil Nadu,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2346950707115313,0.1930071659366273,0.2779720595541702
+Tamil Nadu,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2326788341077803,0.1923190529101159,0.2760363721893461
+Tamil Nadu,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2309944225221419,0.1908316255100433,0.2727182430503783
+Tamil Nadu,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2297362388271604,0.190114819671619,0.2716436801914305
+Tamil Nadu,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2286506228807334,0.1886490956290526,0.2708731022634828
+Tamil Nadu,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2274795974572369,0.1863460965871867,0.2701224571696859
+Tamil Nadu,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2259254104423758,0.1840272209913819,0.2700352812250443
+Tamil Nadu,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.223257007111418,0.1814146127045648,0.2667930427376659
+Tamil Nadu,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.219579461663728,0.1787947692166775,0.2630385775701396
+Tamil Nadu,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2158855236523658,0.1755344941679536,0.2598102192951274
+Tamil Nadu,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2131653787563759,0.1728999659498749,0.2572214760150866
+Tamil Nadu,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2124154703085949,0.1727709109981222,0.2574771861854954
+Tamil Nadu,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2220182511907107,0.1781511008262958,0.2699285417767294
+Tamil Nadu,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.242581220656773,0.1904393554744215,0.2979349911799883
+Tamil Nadu,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2633729240154019,0.2031276942939155,0.3264668092494545
+Tamil Nadu,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2736183926801261,0.2094011726395261,0.3423821886161802
+Tamil Nadu,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2728779888717202,0.2083693235342814,0.3470561310174717
+Tamil Nadu,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2740769774722223,0.2098948454368359,0.3479929349927158
+Telangana,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3033183646936431,0.2073576980967292,0.4155051116736947
+Telangana,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3052161613516221,0.2192235414582425,0.4105084510660847
+Telangana,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3060582375718781,0.2258671625073461,0.4015138770411793
+Telangana,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3060405031364339,0.2311370085476152,0.3912748418853768
+Telangana,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.305352373397959,0.2346241789934327,0.384184793330001
+Telangana,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3041854899561572,0.2375572793498691,0.3779065602477164
+Telangana,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3002245834585669,0.2349964880775338,0.3724432916468936
+Telangana,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2927756883598994,0.2299637792566366,0.3633708156532556
+Telangana,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2843805105970445,0.2239881477990118,0.3499559543626273
+Telangana,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2775941670025148,0.2153701314191538,0.3397009527962098
+Telangana,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2749798908081611,0.2136977173984245,0.3389677897526823
+Telangana,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2769077158653875,0.2181137261571933,0.3384330921244707
+Telangana,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2812712160121849,0.2253271288435389,0.3435935957870507
+Telangana,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.286916742464724,0.2338648070110919,0.3508222239726397
+Telangana,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2926507061130204,0.2404158344457638,0.3565838957462512
+Telangana,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2973153030664719,0.2448311158956143,0.362909026559534
+Telangana,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3018541005806356,0.2474083677253493,0.3668425625077129
+Telangana,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3073971018173783,0.2494155584109118,0.3737632429584249
+Telangana,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3129347661135389,0.2511337851992636,0.3788695636638156
+Telangana,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3173922779719728,0.2533920518032119,0.3844484414154243
+Telangana,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3196713282627014,0.2541752499507981,0.3893907997266754
+Telangana,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3179928105069397,0.2537312996003281,0.3855535659037331
+Telangana,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3128343254811925,0.2501910870764894,0.3782662702422419
+Telangana,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3064904031331388,0.2446782321951462,0.370969492695353
+Telangana,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.301300089501174,0.2410872929192893,0.365803053733832
+Telangana,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.299625399302198,0.2403603751681459,0.3644364213608301
+Telangana,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3055216401053014,0.2458781505587612,0.3733832217980835
+Telangana,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3175110942654848,0.2522423959246149,0.3939990863636847
+Telangana,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3295373910621126,0.2576119071785001,0.41123373722701
+Telangana,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3355259555393634,0.2581431604831534,0.4224902970459251
+Telangana,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3347110338004945,0.2573352514245287,0.4217607146778044
+Telangana,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.332900333704258,0.2560550974159564,0.4185263586358858
+Tripura,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4302992900590407,0.3378438139429786,0.5096942180623629
+Tripura,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4138001032843345,0.3238504519858221,0.4943143731653748
+Tripura,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3974564132626359,0.3090338977266536,0.4809464603631215
+Tripura,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3813910442428102,0.293481678385709,0.4658815910091127
+Tripura,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3657289400309316,0.2794492708887763,0.450872443133427
+Tripura,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3506050328660349,0.2663322797106153,0.4418515295438276
+Tripura,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3343708122677622,0.2533101263195626,0.4218622347674765
+Tripura,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3167417054521621,0.2391945631137077,0.3975814921743907
+Tripura,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2997976447468425,0.2253170127318438,0.3773705859399231
+Tripura,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2856638528973813,0.2145784235984955,0.3641294942466661
+Tripura,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2765237288777529,0.2076429411357311,0.3555355756446251
+Tripura,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2712497166354961,0.204245244644021,0.3476950347047398
+Tripura,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2669948896580795,0.2025842824637863,0.3387432148785833
+Tripura,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2633954720598812,0.2002188733491938,0.3335164137350576
+Tripura,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2600819997054343,0.1986987491160844,0.3294980920471261
+Tripura,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.256695553147053,0.1948549801334467,0.3255455205104738
+Tripura,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2532545392490116,0.1928418779748701,0.3189930222247319
+Tripura,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2499239232675686,0.1905611986297007,0.3174661554037347
+Tripura,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2464941040989013,0.1875868547527187,0.3159384719934531
+Tripura,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2427863698671449,0.18401535597457,0.3091953123989381
+Tripura,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2385962618297176,0.180033338750046,0.3017308924425344
+Tripura,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2335696435244733,0.177436846018389,0.2961711877078723
+Tripura,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2277893596443897,0.173138709073605,0.2902751402579513
+Tripura,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2216844839561578,0.1693670830392143,0.2827962193000777
+Tripura,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.21559620423969,0.1655480282938392,0.2754887216955822
+Tripura,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2102245730133033,0.1622429083897635,0.2688279512733894
+Tripura,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2055528348932307,0.1591199437224126,0.2625036083139241
+Tripura,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2011469791446059,0.155190649030975,0.2561003656549374
+Tripura,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1967281379317536,0.1513856790601819,0.2491158544606808
+Tripura,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1919809920894549,0.1473780712934597,0.2444702093581253
+Tripura,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1861367405513214,0.1432046840585316,0.2358812407536194
+Tripura,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1788956844952743,0.1354108276919841,0.22856321402822
+Uttar Pradesh,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1966203667080945,0.1123960668771373,0.3210710939570217
+Uttar Pradesh,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1926544995646988,0.1176651897333003,0.2972771007149027
+Uttar Pradesh,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1886044344032655,0.1220900798862546,0.2779775271932818
+Uttar Pradesh,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1846167867682301,0.1257814562605972,0.2626677261640999
+Uttar Pradesh,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1808302150426898,0.1263946967497362,0.252256907516721
+Uttar Pradesh,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1773820362236011,0.1267719576016303,0.2455046588474337
+Uttar Pradesh,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1732887162323473,0.1260384296152224,0.2343386948021229
+Uttar Pradesh,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1681601172064847,0.1231964228838737,0.225596573526678
+Uttar Pradesh,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.162971235500145,0.1189783688790376,0.2184970526052909
+Uttar Pradesh,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1587014026315807,0.1151242738430373,0.214623009454093
+Uttar Pradesh,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1563307781068839,0.1124661241661142,0.2105251392333794
+Uttar Pradesh,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1554382410136059,0.1129606395164107,0.203532362437347
+Uttar Pradesh,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1549269660542953,0.1129391084285662,0.2002463339855173
+Uttar Pradesh,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.154780633615967,0.1138494391141712,0.1982174772595879
+Uttar Pradesh,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1549757862778105,0.1154092656458085,0.1974557155483315
+Uttar Pradesh,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1554894100494973,0.1162076931553212,0.1987631927813875
+Uttar Pradesh,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1568116056642414,0.1179739957688412,0.2011648995244613
+Uttar Pradesh,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1590390340408181,0.1192053925082752,0.2056189572903732
+Uttar Pradesh,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1615198060765393,0.1210304691339266,0.2108000067396488
+Uttar Pradesh,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1635916792006557,0.1221296974370178,0.2151346680398297
+Uttar Pradesh,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1645690560058603,0.122705900068329,0.2181442281793365
+Uttar Pradesh,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1636286553520241,0.1226999266032157,0.2138177085678833
+Uttar Pradesh,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.161114666557153,0.1203063973657303,0.2088886923609534
+Uttar Pradesh,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1580747271815918,0.1192081394702166,0.2042516108800923
+Uttar Pradesh,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1555975223312598,0.1192848546637103,0.2012536684793134
+Uttar Pradesh,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1547413419543306,0.1180560475562515,0.2010767314181824
+Uttar Pradesh,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1593939715730381,0.1209305945383498,0.2082054006960126
+Uttar Pradesh,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1693114492403975,0.1254840208791773,0.2230833692304255
+Uttar Pradesh,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1793558778370088,0.1315675138838312,0.235905659480524
+Uttar Pradesh,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.184321982858603,0.1364648405992036,0.2421501576146875
+Uttar Pradesh,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.183495404587506,0.1359545279255985,0.2414639711554832
+Uttar Pradesh,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1821918874109732,0.1338703161382116,0.2379806431498043
+Uttarakhand,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4513311269663544,0.3582335645943322,0.5303449829990747
+Uttarakhand,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4375922825409456,0.3453793888408498,0.51839778784096
+Uttarakhand,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.423711738104303,0.3319280323537803,0.503623177583425
+Uttarakhand,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.4097202964501869,0.3206608906343176,0.4921649728759918
+Uttarakhand,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3957163939354329,0.3062359323934662,0.4829416406495448
+Uttarakhand,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3818565080179253,0.2937801868565947,0.4743419116303518
+Uttarakhand,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3662565327664112,0.2813839611624916,0.4581274960117816
+Uttarakhand,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3486656913564792,0.2678987368216369,0.4390013418848701
+Uttarakhand,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3316337567198972,0.2520915449897857,0.4145008758259969
+Uttarakhand,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3176761725925005,0.2401143132591524,0.3982587338621036
+Uttarakhand,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3093662238682858,0.232655329310331,0.3914555107584277
+Uttarakhand,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3054916974138978,0.2273850561957592,0.3858570498203016
+Uttarakhand,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3027347187658463,0.2262248823773942,0.381512075240879
+Uttarakhand,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3005627892480437,0.2244805004213527,0.3807361448997515
+Uttarakhand,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2984432723119239,0.2222935925054327,0.3787287670382079
+Uttarakhand,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2958268480331972,0.2213641675161478,0.3759379454065679
+Uttarakhand,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2924687734265443,0.2189006973709862,0.3724142925977711
+Uttarakhand,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2885551107066361,0.2163169482637623,0.3691026221982815
+Uttarakhand,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2840565268115982,0.2142732564247684,0.3633240831039034
+Uttarakhand,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2789560777711614,0.2104258693941066,0.357189041515875
+Uttarakhand,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2732456623992815,0.2063291413514401,0.3507006522174142
+Uttarakhand,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2662707343959788,0.2027832613034816,0.3371858047366072
+Uttarakhand,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2578232169309973,0.1967759891612136,0.3237742362571206
+Uttarakhand,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2485510688365744,0.1897815804882112,0.3130613693822891
+Uttarakhand,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2391982864239218,0.1828445834586344,0.3019719525161914
+Uttarakhand,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2304697425846853,0.1764662031358286,0.2908331090550108
+Uttarakhand,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2223275392479724,0.1703512836186067,0.2795252041011717
+Uttarakhand,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2143152510358222,0.1649870802279571,0.2685311305590029
+Uttarakhand,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.2064745033850978,0.1592299149902379,0.2607458994719237
+Uttarakhand,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1988358733394282,0.1518177036129656,0.2530941063881561
+Uttarakhand,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.191342116904317,0.1465192532388027,0.2413516283692406
+Uttarakhand,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.1837702602899669,0.1399876262531826,0.2350545215882047
+West Bengal,1990,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.349552514149168,0.2538396474074284,0.4446135154209975
+West Bengal,1991,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3578011034863577,0.2689799789959037,0.4463299203880835
+West Bengal,1992,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3640538668567218,0.2783621070382336,0.4490761794807031
+West Bengal,1993,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3684211200812397,0.2861634078534076,0.4515220081140263
+West Bengal,1994,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3710102260937602,0.2909700050659722,0.4526413429151522
+West Bengal,1995,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3719511438079875,0.2924360230515515,0.4545712978748823
+West Bengal,1996,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3694200968375241,0.2924857672795065,0.4498151578553016
+West Bengal,1997,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3631300552407183,0.2885974047316346,0.4407722487580492
+West Bengal,1998,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3553743631284262,0.2806676108068954,0.4328450223840122
+West Bengal,1999,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3484507613908568,0.2731519885122448,0.4240670403570943
+West Bengal,2000,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3447590484909971,0.2701362281769973,0.418848383210804
+West Bengal,2001,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3443704676125945,0.2725535360393709,0.4163802321243115
+West Bengal,2002,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3453425566609904,0.2770961551127969,0.4140599944931563
+West Bengal,2003,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3471137685786086,0.2823759410372278,0.4125251869513959
+West Bengal,2004,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3490452925319641,0.2867166732934794,0.4134176437470384
+West Bengal,2005,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3505494458980098,0.2902267325394147,0.4155554974514822
+West Bengal,2006,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.351859717768652,0.2896468261969358,0.4158756233871059
+West Bengal,2007,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3534374942843268,0.2904333357848621,0.4181646831418448
+West Bengal,2008,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3549759266761395,0.2896698817449429,0.4254696552896885
+West Bengal,2009,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3561819426287246,0.2875420076896423,0.4298427647474354
+West Bengal,2010,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.356776147767467,0.2878806851878058,0.4343728046344426
+West Bengal,2011,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3544964637453509,0.2833396612692878,0.4288685084318386
+West Bengal,2012,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3488585934702435,0.2779410510020503,0.4211512022975573
+West Bengal,2013,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3422243144782099,0.2751218275830966,0.4106472649351445
+West Bengal,2014,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3369318033380716,0.2729746387830087,0.4049408324321907
+West Bengal,2015,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3352898923253674,0.27038587941378,0.4001436448811473
+West Bengal,2016,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3443472869008263,0.2753525056900998,0.4135223936244536
+West Bengal,2017,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3632692775439315,0.2841328742164068,0.4412925523048366
+West Bengal,2018,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3824449530492232,0.2939846776714245,0.466552097334393
+West Bengal,2019,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3922184455109497,0.3008371580865906,0.4815096092775259
+West Bengal,2020,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3923212804456366,0.3032742931073933,0.4847891211425722
+West Bengal,2021,<5 years,Male,Tuberculosis,Percent of total prevalent cases,0.3914493270173209,0.30354650112182,0.4815423002820856
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2021. Seattle, WA: IHME, University of Washington, 2023. Available from http://vizhub.healthdata.org/gbd-compare. (Accessed 7/24/2024)."
+"For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"

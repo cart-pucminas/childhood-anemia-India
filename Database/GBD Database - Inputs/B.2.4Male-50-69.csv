@@ -1,0 +1,964 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+Andhra Pradesh,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008495095434214,0.0005869583980121,0.0012309559343163
+Andhra Pradesh,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008581039556369,0.0005979756387493,0.0012361893717144
+Andhra Pradesh,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008684060072497,0.0006033550361895,0.0012347073602787
+Andhra Pradesh,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000879113895826,0.0006145430371778,0.0012464390006135
+Andhra Pradesh,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008895976762786,0.0006197982229909,0.0012459378391305
+Andhra Pradesh,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008994899843979,0.0006214723150548,0.0012574541759051
+Andhra Pradesh,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009090096810548,0.0006367442052357,0.0012670496494402
+Andhra Pradesh,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009180904805524,0.0006488413700233,0.0012859624546633
+Andhra Pradesh,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009261530991293,0.0006580513973403,0.0012937093475938
+Andhra Pradesh,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009319530362402,0.0006607912486934,0.00130956959569
+Andhra Pradesh,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009351470387837,0.000666957756622,0.0013099245400355
+Andhra Pradesh,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009303501408768,0.0006600888037292,0.0013041049861209
+Andhra Pradesh,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000924542796629,0.0006564585764719,0.0012975980713964
+Andhra Pradesh,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009193607704602,0.0006529250227294,0.0012893284369059
+Andhra Pradesh,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000915945392352,0.0006477813379959,0.0012834705395688
+Andhra Pradesh,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009151205120558,0.0006458570135766,0.0012774691325935
+Andhra Pradesh,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.00091808350419,0.0006460256954745,0.0012774739001856
+Andhra Pradesh,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009231717000199,0.0006484947244243,0.0012842972108407
+Andhra Pradesh,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000928893877941,0.0006519744018762,0.0012969341168834
+Andhra Pradesh,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009337620555494,0.0006535889870076,0.0013102865562048
+Andhra Pradesh,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000935574239378,0.0006546904379132,0.0013078451104047
+Andhra Pradesh,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009330892887044,0.0006582587974563,0.0013085844333419
+Andhra Pradesh,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009249725550694,0.0006495124983396,0.0012892942306612
+Andhra Pradesh,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009129343267706,0.0006355550999016,0.0012794609694266
+Andhra Pradesh,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009015886839195,0.0006310232619749,0.0012552826169223
+Andhra Pradesh,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008938917363982,0.0006195207050731,0.0012527598954941
+Andhra Pradesh,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009003199212906,0.0006309576527441,0.0012723353393792
+Andhra Pradesh,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009064025929526,0.0006367552115325,0.0012914967860622
+Andhra Pradesh,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009117358561279,0.0006295524683713,0.0013331237308139
+Andhra Pradesh,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000914171485166,0.000614917343045,0.0013541424521349
+Andhra Pradesh,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009167579307271,0.0006029662976376,0.0013431003914701
+Andhra Pradesh,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009546953416084,0.0006065806437065,0.0014928233686469
+Arunachal Pradesh,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012360655143023,0.0008752581876908,0.0017312218962261
+Arunachal Pradesh,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012453835144682,0.0008914671125817,0.0017174340782934
+Arunachal Pradesh,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012581061419951,0.0009148304125169,0.0017150109763501
+Arunachal Pradesh,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012723398380164,0.0009267690080197,0.001743299428782
+Arunachal Pradesh,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012866421145612,0.0009414853509096,0.0017529341371251
+Arunachal Pradesh,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012997508235918,0.000953234363008,0.001777200668647
+Arunachal Pradesh,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013142972790019,0.0009686960750292,0.001777906545453
+Arunachal Pradesh,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013290679377758,0.0009698582202943,0.0018076853596196
+Arunachal Pradesh,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013426203026497,0.0009764834278542,0.0018170397850191
+Arunachal Pradesh,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013533997833526,0.0009843776644796,0.001836437398676
+Arunachal Pradesh,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013609149919787,0.0009794081212057,0.0018385844566676
+Arunachal Pradesh,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013562324739946,0.0009901668545687,0.0018276995322599
+Arunachal Pradesh,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013512055846973,0.0009869943428645,0.0018192760807281
+Arunachal Pradesh,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013461120422907,0.0009843093128319,0.0018325566293494
+Arunachal Pradesh,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013408931702808,0.0009801196101599,0.0018403751817842
+Arunachal Pradesh,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013351775484554,0.0009654857578104,0.0018471336509033
+Arunachal Pradesh,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013308728732599,0.0009671640765889,0.0018444307614601
+Arunachal Pradesh,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013282590194596,0.000972492061429,0.0018199681646514
+Arunachal Pradesh,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.00132409475971,0.0009802275003995,0.0018141079455658
+Arunachal Pradesh,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013174588448515,0.0009752581324121,0.0018133464663444
+Arunachal Pradesh,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013067591910915,0.0009631598344732,0.0018077300011139
+Arunachal Pradesh,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012993057052396,0.0009686199742513,0.0017816810209526
+Arunachal Pradesh,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012945675738708,0.0009707947752767,0.0017469410515614
+Arunachal Pradesh,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012887782967033,0.000962735331421,0.0017415226353141
+Arunachal Pradesh,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012826424838476,0.0009514809037908,0.0017446279392583
+Arunachal Pradesh,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012749113333197,0.0009444709876265,0.0017459555094293
+Arunachal Pradesh,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012845886128518,0.0009453092858273,0.0017409433660588
+Arunachal Pradesh,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012928540129772,0.0009425302597705,0.0017669492336715
+Arunachal Pradesh,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013007285565039,0.000935856088598,0.0018077960230388
+Arunachal Pradesh,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001306571016415,0.000915958765429,0.0018442458043302
+Arunachal Pradesh,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013143266662872,0.0009225890232737,0.0018614211295218
+Arunachal Pradesh,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013274915622143,0.000859300290719,0.0019627972660723
+Assam,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015504708906472,0.0010904377464203,0.0021922767976413
+Assam,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015602802883613,0.0011229418651948,0.0021805181682443
+Assam,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015726783794454,0.0011477578842211,0.0021714556339464
+Assam,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001585989351442,0.0011579217077695,0.0021860773019239
+Assam,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015988668080177,0.00117415286994,0.0021813404153448
+Assam,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016109776233704,0.0011909436625843,0.0021771071168921
+Assam,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016259853607562,0.0012050102439785,0.0021962902986596
+Assam,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016415701049205,0.0012174691377817,0.0022241983664373
+Assam,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016583112615908,0.0012363435857443,0.0022583651652863
+Assam,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016749068128449,0.001233178468018,0.0022938603887037
+Assam,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016900987078525,0.0012468146070434,0.0023089624875685
+Assam,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016897506169337,0.0012499552041439,0.0022950205838775
+Assam,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001687397717422,0.0012416810444816,0.0022856259828652
+Assam,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016840406256636,0.0012290898132875,0.002268058253805
+Assam,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001679716147586,0.001222950151264,0.0022588066769564
+Assam,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016737020983971,0.001203375200747,0.0022534711562782
+Assam,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016640081119297,0.0012007857639716,0.0022250367007286
+Assam,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016532694106556,0.0011972391330109,0.0022203708366773
+Assam,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016411600657395,0.0011941046374592,0.0021970756587571
+Assam,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001630390304815,0.001189045921901,0.0021716913422207
+Assam,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016205664919277,0.0011843911889231,0.0021793377869983
+Assam,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016147907662,0.001184265960614,0.0021495627260275
+Assam,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001610878655291,0.001193937955241,0.0021516183923366
+Assam,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016031031637685,0.0011961510848945,0.0021603355894219
+Assam,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015931311391647,0.0011753976283619,0.0021465052462019
+Assam,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015807610827066,0.0011581319597184,0.002140042624138
+Assam,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015890257658962,0.0011751994237673,0.0021409613260275
+Assam,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015938402018546,0.0011732926419067,0.0021890218278907
+Assam,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015992868006861,0.0011518846477459,0.002225120842335
+Assam,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016047255276664,0.0011346549512629,0.0022946875943466
+Assam,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016160763598974,0.0011595557907174,0.0022531850764591
+Assam,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016608724216856,0.001105297070042,0.0025007469563431
+Bihar,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011933655065592,0.0008191892992787,0.0016943544576322
+Bihar,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011955978532851,0.0008388741356045,0.0016811563295611
+Bihar,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012017300309589,0.0008634154112341,0.0016736935384723
+Bihar,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012101357253954,0.0008807875470011,0.0016918288525882
+Bihar,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012195003939959,0.0008926693989438,0.0017019699245842
+Bihar,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012293696163238,0.0009000204474833,0.0017013143403199
+Bihar,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001240676779761,0.0009116656889231,0.0017004264919486
+Bihar,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012552531561766,0.0009219326825135,0.0017071190886096
+Bihar,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012691982466991,0.0009279636066629,0.0017119204326809
+Bihar,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001281084879712,0.0009226712278466,0.0017308484712083
+Bihar,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012904710999418,0.0009178926802342,0.0017711344190208
+Bihar,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012899461029781,0.0009224547280026,0.0017523929266884
+Bihar,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012914108741851,0.0009280690404157,0.0017498431565887
+Bihar,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012947799434366,0.0009288135213211,0.0017569380073364
+Bihar,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012996086604881,0.000924853584564,0.0017800332596861
+Bihar,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013051221189211,0.0009327315954088,0.0017914063058673
+Bihar,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001313477331331,0.0009414554940638,0.001801816529104
+Bihar,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013236385341395,0.0009498747803067,0.0018201327587053
+Bihar,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013340357525896,0.0009622279420982,0.0018379381335604
+Bihar,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013425938232208,0.0009762098671135,0.0018666629709549
+Bihar,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013471121373018,0.0009810103994438,0.001871175997435
+Bihar,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013521182514148,0.0009923715465609,0.0018840522267793
+Bihar,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013518626454347,0.0009792409869125,0.0018636942634937
+Bihar,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013485512221669,0.0009701823996776,0.0018526276988034
+Bihar,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013446716380024,0.0009641680995372,0.00183678570859
+Bihar,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013413407353134,0.0009490730247829,0.0018365458162018
+Bihar,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013561243373488,0.0009662297654735,0.0018589909233289
+Bihar,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001368094312642,0.0009642883217718,0.0019190404508082
+Bihar,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013741277747603,0.000958181019121,0.0019514358691783
+Bihar,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013710300160912,0.0009483138399893,0.0019805347494146
+Bihar,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013564722059271,0.0009294239337643,0.0019600159639547
+Bihar,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013744288945382,0.0009053017032167,0.0021008072158896
+Chhattisgarh,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012776691076404,0.0008973944653651,0.0018101035435349
+Chhattisgarh,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012809485270948,0.000914176558004,0.0017790197298908
+Chhattisgarh,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012909936068219,0.000932633051356,0.0017811168646812
+Chhattisgarh,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013050618252442,0.0009412614976189,0.0018070347533084
+Chhattisgarh,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013214185224029,0.0009559136317063,0.0018152127190559
+Chhattisgarh,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013386898136337,0.0009654106930776,0.0018391444354472
+Chhattisgarh,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013582815100997,0.0009896779982607,0.0018515849687853
+Chhattisgarh,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013781091419413,0.0010161007045387,0.0018646317175236
+Chhattisgarh,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001396410900141,0.0010217346836959,0.0018865651501331
+Chhattisgarh,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014108714392946,0.0010362381529297,0.0019052262905235
+Chhattisgarh,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014191601361515,0.0010362624002503,0.001905989006085
+Chhattisgarh,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014141613296867,0.0010357205074374,0.0018934688973202
+Chhattisgarh,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014059833561177,0.0010301012505923,0.0018741751901243
+Chhattisgarh,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013966766783095,0.0010122135502449,0.0018723891709218
+Chhattisgarh,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013869020241005,0.0009916484554574,0.0018665392705697
+Chhattisgarh,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013788713982853,0.000980761676588,0.0018765825880412
+Chhattisgarh,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013747475397547,0.0009830138729872,0.0018572138479549
+Chhattisgarh,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013732076862025,0.0009920212475759,0.0018555159646479
+Chhattisgarh,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013712784989214,0.0010037993837441,0.0018542650242151
+Chhattisgarh,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001367616264719,0.000985936804414,0.0018609795891461
+Chhattisgarh,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013611374288795,0.0009741195354432,0.0018552138492986
+Chhattisgarh,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013571117174427,0.0009773809386919,0.0018440075146762
+Chhattisgarh,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013569396476046,0.0009783565232697,0.0018541788175364
+Chhattisgarh,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013561335106811,0.0009873739271097,0.0018488301521727
+Chhattisgarh,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013540344589653,0.0009884923663339,0.0018342768126331
+Chhattisgarh,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013493269289727,0.0009736813270943,0.0018258868626427
+Chhattisgarh,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013557932601769,0.0009742435413278,0.0018560970493288
+Chhattisgarh,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013604528805759,0.0009646737845634,0.0018877429782683
+Chhattisgarh,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013639036010245,0.0009474635894291,0.0019256208282035
+Chhattisgarh,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013652862094087,0.0009404926131847,0.0019553719656608
+Chhattisgarh,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013705674168733,0.0009416674324813,0.0019293673158584
+Chhattisgarh,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001388430958416,0.0009247645983327,0.0021207320944055
+Delhi,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008293500963325,0.0005649696187392,0.0011954972733507
+Delhi,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008374222422836,0.0005872324612278,0.0011948162551464
+Delhi,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008476965336227,0.000596975684526,0.0012060175768595
+Delhi,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008588416726876,0.0006054176451706,0.0012019223485555
+Delhi,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008699559582534,0.0006088883861735,0.0012120638997553
+Delhi,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008804374628845,0.0006053172684012,0.0012372467417816
+Delhi,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008934141350494,0.0006217870881452,0.0012447153513536
+Delhi,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009067356331849,0.0006373919781116,0.0012625615912614
+Delhi,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009195396612392,0.0006522399924927,0.0012804527920007
+Delhi,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009294871243418,0.0006716772151281,0.0012992603284162
+Delhi,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009349980654823,0.0006694142733912,0.001310603313887
+Delhi,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009314220004261,0.000666993589666,0.0013007208118337
+Delhi,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009258557227276,0.0006619767981678,0.0012976811905248
+Delhi,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009199152459448,0.0006580357511999,0.0012858533487453
+Delhi,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009141773836445,0.0006549702821275,0.0012794124204807
+Delhi,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009089932960715,0.0006409767137434,0.0012786846666254
+Delhi,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009026511495877,0.0006458068783478,0.0012575881766033
+Delhi,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008954955969463,0.0006445736410053,0.0012469619685392
+Delhi,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008884215515737,0.0006334402357885,0.001231304143097
+Delhi,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008834519898303,0.000634549187181,0.0012259484080353
+Delhi,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008810260743817,0.0006324156104297,0.001218055602585
+Delhi,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008809816290601,0.0006276234028331,0.0012152554914283
+Delhi,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008852814118734,0.0006329462475207,0.0012248907961837
+Delhi,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000889041266523,0.000639111748339,0.0012261264990118
+Delhi,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008927327451998,0.0006373082293456,0.0012398877901277
+Delhi,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008952387555084,0.0006263484818747,0.0012567368806584
+Delhi,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009065402444929,0.000634272587173,0.0012789349145434
+Delhi,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009163507963311,0.0006344277151091,0.0013229864832124
+Delhi,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009265409269149,0.0006301002377511,0.0013518685398339
+Delhi,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009354488136552,0.0006283430615093,0.0013586288290887
+Delhi,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009410254851585,0.000626967857936,0.0013407148675834
+Delhi,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009886123573241,0.0006276356011067,0.0015117484905739
+Goa,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008662082270028,0.0005990611952772,0.0012828937188107
+Goa,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008650794618353,0.0006096579889606,0.00126270188847
+Goa,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000868342594367,0.000618181134664,0.0012662138630798
+Goa,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008730502380435,0.00062218417796,0.0012452793026689
+Goa,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008784086065432,0.0006275159787798,0.0012382506233757
+Goa,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008839117199729,0.0006307153439902,0.0012402175536691
+Goa,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008931480878754,0.0006398789700282,0.0012487026846914
+Goa,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009053712953395,0.0006460881055891,0.0012792723553666
+Goa,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000919046294539,0.0006600277002283,0.0013015147606403
+Goa,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009317217769196,0.0006654744422866,0.0013192442038699
+Goa,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009416811245969,0.0006684851570921,0.0013337108443566
+Goa,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009458025803231,0.0006772214337595,0.0013289362291292
+Goa,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009481518013489,0.0006836436559535,0.0013268895874482
+Goa,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009503485482119,0.0006784839487662,0.0013416605491717
+Goa,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009528621539199,0.0006734446491078,0.0013359629902865
+Goa,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009558514863528,0.0006763425464859,0.0013371207659848
+Goa,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009609315209339,0.0006800440295091,0.001334326025288
+Goa,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009688934522064,0.0006871264763305,0.0013447178977892
+Goa,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009774725017183,0.0006939690615958,0.0013381897538664
+Goa,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009846537947091,0.0006972226313875,0.0013479144186258
+Goa,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009876649217595,0.0006953136531612,0.0013440727969194
+Goa,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009879489006348,0.0006935577686642,0.0013513508929622
+Goa,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009926707925767,0.0006989033698779,0.0013700047826884
+Goa,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009959806602522,0.000703331481293,0.0013829322874585
+Goa,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009982324380663,0.0007052455857106,0.0013901387863977
+Goa,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009982983655502,0.0006980410027163,0.0014015932633511
+Goa,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010087830426523,0.0007152135290442,0.0014135499336473
+Goa,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010197167940876,0.0007215111966577,0.0014494311586172
+Goa,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010305520683069,0.000710968616717,0.0014908376559028
+Goa,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010372981597054,0.0007002206839508,0.0015255005429239
+Goa,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010385874998313,0.0007116617270007,0.0015179939662757
+Goa,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001075766569084,0.0006886752271406,0.0016852702947547
+Gujarat,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008458950466266,0.0005764375990734,0.0012470006652333
+Gujarat,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008536888501849,0.0005870783736595,0.0012399585256802
+Gujarat,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008630442869404,0.0006040375191339,0.0012457172566928
+Gujarat,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008731387788546,0.0006193076754325,0.0012429441544533
+Gujarat,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008830991892758,0.0006271048562284,0.0012561820195381
+Gujarat,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008927294110959,0.0006357330409625,0.0012589194954023
+Gujarat,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000902991702156,0.0006363977054522,0.0012671289678359
+Gujarat,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000912604605068,0.0006383380084231,0.0012759579478526
+Gujarat,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009209317129622,0.0006494279718745,0.0012831295366845
+Gujarat,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009281950910564,0.0006542301270746,0.001294629009435
+Gujarat,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009349095806668,0.0006519015140366,0.0013141536052153
+Gujarat,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009323584910145,0.0006503770192684,0.0013016059511326
+Gujarat,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009290614871731,0.0006466681606178,0.0013043810828292
+Gujarat,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009259042957593,0.0006430258356011,0.0013048112594803
+Gujarat,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009219811496763,0.0006412471022037,0.0013056657801171
+Gujarat,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009165419751477,0.0006385472944821,0.0012882995307366
+Gujarat,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009113988830108,0.0006396589329864,0.0012734680631041
+Gujarat,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009066136849232,0.0006407895254788,0.0012549505414462
+Gujarat,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009018701737868,0.0006424752405005,0.0012474343515278
+Gujarat,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008967006285266,0.0006414996119725,0.0012397429244834
+Gujarat,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008896240339353,0.000638854038861,0.0012226927644355
+Gujarat,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008835963109625,0.0006350344827563,0.0012167027975591
+Gujarat,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008782637692417,0.0006384282938309,0.0012104931558134
+Gujarat,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008729301043693,0.0006334203607529,0.0012009986006985
+Gujarat,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000869552524282,0.0006229108881886,0.0012005311576738
+Gujarat,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008684591246366,0.000612494582485,0.0012098080006097
+Gujarat,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008845027375563,0.0006318791338237,0.0012360940189356
+Gujarat,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009031728731512,0.0006428773820306,0.0012833501741322
+Gujarat,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009215928766428,0.000638644358715,0.0013076636052395
+Gujarat,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009352877604227,0.0006371695676687,0.0013481056975526
+Gujarat,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009443096981034,0.0006449906331847,0.001357827493716
+Gujarat,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009814692452208,0.0006192400476264,0.0015072790756463
+Haryana,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010078106414589,0.0006918352949565,0.0014388128047248
+Haryana,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010048075166226,0.0006957018779731,0.0014110894839214
+Haryana,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010060171419751,0.0006992476708264,0.0014107993212399
+Haryana,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010082368109501,0.0007043669846504,0.0014090224106183
+Haryana,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010109614248249,0.0007123808235877,0.0014130768326118
+Haryana,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010137938532302,0.0007090603989679,0.0014225246611797
+Haryana,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010194253669857,0.0007187632277541,0.0014256088582245
+Haryana,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010273968389075,0.0007317832186676,0.0014315953594722
+Haryana,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010363926101137,0.0007373426417477,0.0014335767548116
+Haryana,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010438761587644,0.00074296809864,0.001449942764865
+Haryana,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010480254179385,0.0007425268800849,0.0014502898401504
+Haryana,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010380950470538,0.0007421728976518,0.0014293010934313
+Haryana,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010221950111391,0.0007276523589911,0.0014042753941288
+Haryana,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010054771149153,0.000713959807906,0.0013914402415678
+Haryana,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009919871147616,0.0007033236711969,0.0013858301775745
+Haryana,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009847197297279,0.0006933296401586,0.0013828791994447
+Haryana,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009829217613221,0.0006978796163007,0.0013697406538095
+Haryana,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009837489833626,0.0006997601032018,0.0013650964696085
+Haryana,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009856214446028,0.0006977311678614,0.0013638299064743
+Haryana,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009876572156043,0.0007039195071964,0.0013642526616843
+Haryana,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009867895765382,0.0007018482099063,0.0013694115830223
+Haryana,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009794687971145,0.0007004451373522,0.0013675645672458
+Haryana,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009655817908859,0.0006856500739618,0.0013549231241915
+Haryana,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009465721809136,0.000663002965008,0.0013184483579976
+Haryana,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009291135804365,0.000652453792872,0.0013026160677789
+Haryana,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009183972727368,0.0006437755440917,0.0012882266826977
+Haryana,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009316570223788,0.0006522785601403,0.0013282281583849
+Haryana,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009463792339354,0.000655627054556,0.0013623781860393
+Haryana,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009602136943407,0.0006544154464782,0.0014042173116312
+Haryana,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009676855654601,0.0006553574340818,0.0014230819898738
+Haryana,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009692467787044,0.0006633369303701,0.0014365562548276
+Haryana,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009966780261842,0.0006331989130525,0.0015191581139511
+Himachal Pradesh,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.00096914775588,0.0006643894033596,0.0014059973640319
+Himachal Pradesh,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009742857077555,0.0006820443546125,0.0014033418996127
+Himachal Pradesh,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009821536636929,0.0006921281843181,0.0014043908974728
+Himachal Pradesh,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009900434083866,0.0007028257194621,0.0013885157863307
+Himachal Pradesh,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009971498111998,0.0007009574739067,0.0013847040603401
+Himachal Pradesh,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010036914044089,0.0007043921709031,0.0013870448785331
+Himachal Pradesh,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010109356419869,0.0007128911014103,0.0014022457096494
+Himachal Pradesh,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010188626528064,0.0007228069472182,0.0014142439905084
+Himachal Pradesh,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010257866559735,0.0007322690340159,0.001427528981124
+Himachal Pradesh,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010314832420738,0.0007373974100569,0.00142890562638
+Himachal Pradesh,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010354167430785,0.0007448922609775,0.0014313741706645
+Himachal Pradesh,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010295444981433,0.0007406686749494,0.0014306814908179
+Himachal Pradesh,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010217968407112,0.0007302010871603,0.0014251975940214
+Himachal Pradesh,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010154980458163,0.0007200427386871,0.0014151143658269
+Himachal Pradesh,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010108081729728,0.0007105765122768,0.0014170821548841
+Himachal Pradesh,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010067695076767,0.0006990307891943,0.0014159131965085
+Himachal Pradesh,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010042791746037,0.0007034036057225,0.0014026765394243
+Himachal Pradesh,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010033163996545,0.0007033517161895,0.0013852049485537
+Himachal Pradesh,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010023948228941,0.0007071426508858,0.0013769478771262
+Himachal Pradesh,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010004585601389,0.000712740868258,0.0013676709585029
+Himachal Pradesh,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000995297473672,0.00070728432942,0.0013611663398989
+Himachal Pradesh,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009853753340881,0.0007053120432361,0.0013560604089106
+Himachal Pradesh,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009688506290947,0.0006939625103716,0.0013552748457183
+Himachal Pradesh,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009491854778555,0.0006792181974159,0.001348961365645
+Himachal Pradesh,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009325424479458,0.0006611040360394,0.0013382067028608
+Himachal Pradesh,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009235871350495,0.0006586188071248,0.0013233809055532
+Himachal Pradesh,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009363863637532,0.000660572623928,0.0013545612275773
+Himachal Pradesh,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009519887816012,0.0006651001907459,0.0013606659223043
+Himachal Pradesh,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009676365695595,0.0006656860285881,0.0014032098125451
+Himachal Pradesh,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009792356721588,0.0006522778580795,0.0014193146720783
+Himachal Pradesh,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009887281120633,0.0006721276983588,0.0014396752662044
+Himachal Pradesh,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010423733720887,0.0006418867048096,0.0016561585060179
+Jammu & Kashmir and Ladakh,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008526190122866,0.0005852234360793,0.0012432821171435
+Jammu & Kashmir and Ladakh,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008549539883538,0.0005983724659329,0.0012297504317624
+Jammu & Kashmir and Ladakh,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008605097801076,0.0006052723351148,0.0012313957259317
+Jammu & Kashmir and Ladakh,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008682046001929,0.0006087589544043,0.0012218671769089
+Jammu & Kashmir and Ladakh,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008777797290281,0.0006155655650456,0.001231001033326
+Jammu & Kashmir and Ladakh,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008891946152628,0.0006226662523667,0.0012491635142961
+Jammu & Kashmir and Ladakh,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000904344322729,0.000636537340787,0.0012553880214168
+Jammu & Kashmir and Ladakh,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000922235518363,0.0006530112223737,0.0012781298645563
+Jammu & Kashmir and Ladakh,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000941963854143,0.0006692512299911,0.0012912742968596
+Jammu & Kashmir and Ladakh,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009615490223313,0.0006826563809268,0.001305498747748
+Jammu & Kashmir and Ladakh,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009793224932503,0.0006976503553972,0.0013251376592484
+Jammu & Kashmir and Ladakh,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009899671560781,0.0007030049392737,0.0013438908616297
+Jammu & Kashmir and Ladakh,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009979811801902,0.0007088281977995,0.0013801771528574
+Jammu & Kashmir and Ladakh,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010042675728604,0.0007187450670721,0.0013976175961386
+Jammu & Kashmir and Ladakh,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010084333055026,0.0007183087848561,0.0014107028321814
+Jammu & Kashmir and Ladakh,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010096873422146,0.0007144139702519,0.0014252835112067
+Jammu & Kashmir and Ladakh,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010096907354771,0.0007231980345901,0.0014127870629032
+Jammu & Kashmir and Ladakh,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010104557176555,0.0007269791632287,0.0014153946656766
+Jammu & Kashmir and Ladakh,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010101109582762,0.0007264279444305,0.0014119690588025
+Jammu & Kashmir and Ladakh,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001008392941548,0.0007170430490325,0.0014042226764852
+Jammu & Kashmir and Ladakh,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010041310401242,0.0007065017059757,0.0013971640610464
+Jammu & Kashmir and Ladakh,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009981560852361,0.0007095952807178,0.0013788714016102
+Jammu & Kashmir and Ladakh,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009929363409911,0.0007080920314715,0.0013556701800142
+Jammu & Kashmir and Ladakh,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000985896038132,0.0007036120792133,0.0013431178332262
+Jammu & Kashmir and Ladakh,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009791953269466,0.0006975426003192,0.001334948803017
+Jammu & Kashmir and Ladakh,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009740058287581,0.0006883556506651,0.0013289591970426
+Jammu & Kashmir and Ladakh,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009785530068276,0.000696784868989,0.0013422527879436
+Jammu & Kashmir and Ladakh,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009805052804239,0.0006871083708705,0.0013732354240623
+Jammu & Kashmir and Ladakh,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009818938138827,0.0006863111260964,0.0014108850803071
+Jammu & Kashmir and Ladakh,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009821009459385,0.000666414224675,0.0014384890257535
+Jammu & Kashmir and Ladakh,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009832651223748,0.0006785068248121,0.0014395575205421
+Jammu & Kashmir and Ladakh,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010070937280947,0.000642027591077,0.001547816847578
+Jharkhand,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011615214346506,0.0007891955597317,0.0016420732556288
+Jharkhand,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011602465145405,0.0008171446266972,0.0016205862182839
+Jharkhand,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011645429106842,0.0008397432165868,0.0016150112576494
+Jharkhand,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011718277224491,0.0008486198979421,0.0016106191857729
+Jharkhand,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011807821751536,0.0008550477886256,0.0016102580408065
+Jharkhand,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011905015906731,0.000856569887474,0.0016145126326891
+Jharkhand,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012015170241675,0.0008675654902773,0.0016194807259339
+Jharkhand,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012129512865046,0.0008761018904132,0.0016353036183615
+Jharkhand,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012225260233837,0.0008823528281301,0.0016490143689699
+Jharkhand,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012288743154106,0.000884916395686,0.0016723990034876
+Jharkhand,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012310244009294,0.000884578456456,0.0016848470064806
+Jharkhand,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012160805054133,0.0008762353216226,0.0016574631743361
+Jharkhand,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012012445587635,0.0008739377490606,0.0016338878952494
+Jharkhand,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011889444318283,0.0008604491195693,0.0016185695790558
+Jharkhand,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011800472425773,0.0008605326908059,0.0016083921056368
+Jharkhand,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011755235437952,0.0008588424684071,0.0016124309764439
+Jharkhand,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011760062759918,0.0008484776077045,0.0016047810171621
+Jharkhand,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011772773606452,0.0008501489409653,0.0016180531481614
+Jharkhand,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011786151925873,0.0008422337501757,0.0016287937314686
+Jharkhand,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011790412447827,0.0008374862558589,0.0016344444969339
+Jharkhand,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011754796768256,0.000833445716507,0.0016264849315875
+Jharkhand,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.00117236726364,0.0008331188326153,0.0016143130480877
+Jharkhand,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011650580590941,0.000824230394651,0.0016020221375237
+Jharkhand,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011549636236978,0.0008154399465689,0.0015943785251373
+Jharkhand,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011472984634179,0.0008050943687863,0.0015845432299733
+Jharkhand,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011445203729188,0.0007994811408867,0.0015796909494331
+Jharkhand,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011667112767455,0.000818882592849,0.00162368053234
+Jharkhand,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011862320069303,0.0008357178150916,0.0016574499050806
+Jharkhand,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012018895332854,0.0008292486113496,0.0016876935458246
+Jharkhand,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012107559283506,0.0008177776285745,0.0017208825534542
+Jharkhand,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001213875765542,0.0008293701226364,0.0017550342354205
+Jharkhand,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012447057482867,0.0007929097016718,0.0018903416457614
+Karnataka,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008604534736126,0.0005859973562169,0.0012548357372348
+Karnataka,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008626900813909,0.0006006093628054,0.0012310978003995
+Karnataka,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000866592928973,0.0006079973920423,0.0012156606657612
+Karnataka,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008710249893049,0.0006140550944218,0.0012106751052437
+Karnataka,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008752831058867,0.0006216314895951,0.0012078685792157
+Karnataka,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008791045653082,0.0006247292010474,0.0012204943957304
+Karnataka,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008837147030177,0.0006289039495969,0.001222470616893
+Karnataka,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008907381819532,0.0006333454028885,0.0012400638455188
+Karnataka,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000898341937983,0.0006410676650098,0.0012427089920071
+Karnataka,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009054529405819,0.000642875922771,0.0012526739485472
+Karnataka,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009106916697231,0.0006425483639874,0.0012680693961898
+Karnataka,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009089765565877,0.0006445531694217,0.0012641105069705
+Karnataka,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009054947201108,0.0006446126673163,0.0012611243923751
+Karnataka,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009020958605238,0.0006435327098564,0.0012595712213606
+Karnataka,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008995883780335,0.0006341592253964,0.0012563992652666
+Karnataka,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008972430307141,0.0006247208284292,0.001258180721135
+Karnataka,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008946975038953,0.0006275471828808,0.001246252089184
+Karnataka,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008917762253585,0.0006279439690685,0.0012393280894625
+Karnataka,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008898220510658,0.0006237088540649,0.0012367980863594
+Karnataka,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008886925711905,0.0006176434275743,0.0012351162259534
+Karnataka,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008882356248475,0.000618232686997,0.0012350420786996
+Karnataka,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008903632304551,0.0006171655565356,0.0012375308671026
+Karnataka,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008914843925192,0.0006199083328917,0.0012459583841502
+Karnataka,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008911911071179,0.0006196774122023,0.0012408088486983
+Karnataka,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008903265533012,0.0006199480980198,0.0012443646977856
+Karnataka,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008881344781093,0.0006189044636635,0.0012507909116283
+Karnataka,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000892597344133,0.0006280940322178,0.0012571817820468
+Karnataka,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008976490442768,0.0006282219284142,0.0012742015749652
+Karnataka,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009021074094095,0.000633823894994,0.0013036929913594
+Karnataka,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009046296136143,0.0006220996927557,0.0013388679691193
+Karnataka,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009069620019787,0.0006317991538969,0.001314648182843
+Karnataka,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009387073274234,0.00058882057184,0.001431004036656
+Kerala,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007947443592762,0.0005300421677792,0.0011682355365318
+Kerala,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007974118233664,0.0005399632081958,0.0011566317340683
+Kerala,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008017842364341,0.0005498686882314,0.0011422471003697
+Kerala,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008072016287792,0.0005558390769708,0.0011455191164379
+Kerala,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008135219612513,0.0005627572038302,0.0011525643458427
+Kerala,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008205287930478,0.0005637798982707,0.0011570619720007
+Kerala,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008278931166967,0.0005740757645549,0.0011545477259336
+Kerala,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008354601555916,0.0005831360118566,0.0011583862957847
+Kerala,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000841360010593,0.0005865353088804,0.0011609267490328
+Kerala,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008449612529155,0.0005904003913379,0.0011732590882212
+Kerala,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008465697937976,0.0005932272756506,0.001187456730533
+Kerala,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008408733725866,0.0005878648542108,0.0011803135863205
+Kerala,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008332073449181,0.0005804097239423,0.001172042551611
+Kerala,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008252145269435,0.0005687239101334,0.0011668724211523
+Kerala,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008174172272136,0.0005608004723904,0.0011509843620557
+Kerala,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008101389134282,0.0005573021006233,0.0011488194077174
+Kerala,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008041591189968,0.0005566955767974,0.0011352811156747
+Kerala,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007997107870564,0.0005593226760246,0.0011345279510044
+Kerala,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000796364124207,0.0005632706888835,0.0011341797522238
+Kerala,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007936793610591,0.000565012407532,0.0011339275392793
+Kerala,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000790625410603,0.0005610644022185,0.0011268684934986
+Kerala,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007899035814628,0.000560578841746,0.0011214434797779
+Kerala,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007921639827227,0.000558911345987,0.0011240044130509
+Kerala,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007953319107569,0.0005555251117875,0.0011266489761066
+Kerala,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007996698806837,0.0005583491256571,0.0011307878348593
+Kerala,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008038643074749,0.0005598250109264,0.0011337092411127
+Kerala,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008220519759408,0.0005708339390237,0.0011601656981663
+Kerala,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008449392321152,0.0005828473183775,0.0012141961908115
+Kerala,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008678439259803,0.0005876080220611,0.001278801481764
+Kerala,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008846619424094,0.0005861836599479,0.0013339841244441
+Kerala,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008905572288046,0.0006002150186591,0.0013238010467187
+Kerala,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009209171629009,0.0005587955649585,0.0014342490108222
+Madhya Pradesh,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008982111857962,0.0006156842359423,0.0012988764049512
+Madhya Pradesh,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009085216199836,0.0006323644075244,0.0012864308189284
+Madhya Pradesh,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000920583432108,0.0006456538422566,0.0013021557838915
+Madhya Pradesh,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009335769705893,0.0006631465471951,0.001323157254804
+Madhya Pradesh,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009462153792866,0.0006768905805827,0.0013418126848895
+Madhya Pradesh,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009578956658233,0.0006843766371729,0.0013475125599772
+Madhya Pradesh,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009707022558065,0.0006988002510745,0.0013662438834709
+Madhya Pradesh,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009827777924323,0.0007052265661438,0.0013879094789862
+Madhya Pradesh,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000993220839225,0.0007098761385206,0.00140648325708
+Madhya Pradesh,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010018508495693,0.0007101080387701,0.0014147948083183
+Madhya Pradesh,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010079401120687,0.0007023797358611,0.0014254791277112
+Madhya Pradesh,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009977449595051,0.0007051596083939,0.001405930585552
+Madhya Pradesh,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009875597304273,0.0007041099814732,0.0013844374697807
+Madhya Pradesh,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009791083038903,0.0007012947546475,0.0013644560994972
+Madhya Pradesh,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009730071065319,0.0006927153683872,0.0013448608550549
+Madhya Pradesh,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009692569153641,0.0006821037946748,0.001339853410803
+Madhya Pradesh,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009676954662171,0.0006871663153513,0.0013406272746417
+Madhya Pradesh,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009679457434137,0.0006876917299287,0.0013490725093156
+Madhya Pradesh,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009678163164428,0.0006848906901549,0.001356170791222
+Madhya Pradesh,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009657279389758,0.0006807978793037,0.0013606008595751
+Madhya Pradesh,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009594853019314,0.0006760273059499,0.0013528528582668
+Madhya Pradesh,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009514390287502,0.0006703718433431,0.0013390834510207
+Madhya Pradesh,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009385596841262,0.0006579437107092,0.0013016781810525
+Madhya Pradesh,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000921207694037,0.0006439758445054,0.0012583404941486
+Madhya Pradesh,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009048193909791,0.0006324933998519,0.0012389006100724
+Madhya Pradesh,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008925974148335,0.0006295301653923,0.0012144744636979
+Madhya Pradesh,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009038490742811,0.0006356051688781,0.0012445778197821
+Madhya Pradesh,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009117228227296,0.0006429872174107,0.0012665622626395
+Madhya Pradesh,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009181067806077,0.000636942641293,0.0012970542816578
+Madhya Pradesh,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009217678833493,0.0006331682804219,0.0013462550779699
+Madhya Pradesh,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009254752797908,0.0006253378314549,0.0013350595477917
+Madhya Pradesh,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009542378248691,0.0006166302137213,0.0014844573782378
+Maharashtra,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009799479772177,0.0006764456210132,0.0014089011412108
+Maharashtra,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009828431598599,0.000697252246334,0.0013989054418673
+Maharashtra,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009866339143758,0.0007078600555006,0.0013869225173497
+Maharashtra,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009907250135935,0.0007183784792775,0.0013751227638439
+Maharashtra,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009953265102599,0.000716715609588,0.0013655576290419
+Maharashtra,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010006740813886,0.0007258528349453,0.0013729940597245
+Maharashtra,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010072225583187,0.0007302274692705,0.0013823152199088
+Maharashtra,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010143207588837,0.0007350159522502,0.001412852858411
+Maharashtra,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001021339016409,0.0007412190598559,0.0014126143293886
+Maharashtra,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010279390241278,0.0007431671462619,0.0014102847382201
+Maharashtra,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010331783409528,0.0007402693639662,0.0014279502746011
+Maharashtra,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010223103920987,0.0007344532627777,0.0014191841408626
+Maharashtra,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010020356769978,0.0007211801763335,0.0014035821070927
+Maharashtra,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009790946212821,0.0007095922341108,0.0013711991412906
+Maharashtra,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009595114887321,0.0006935889139646,0.0013530907301571
+Maharashtra,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009487908890214,0.0006859311351147,0.0013316147055718
+Maharashtra,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009453475275466,0.0006820812202201,0.0013244631528671
+Maharashtra,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009422048599345,0.0006764130752429,0.0013245421743777
+Maharashtra,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009383973394465,0.0006701350553766,0.0013318230614802
+Maharashtra,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009335862968926,0.0006658705240762,0.0013257043478561
+Maharashtra,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009268190904911,0.0006524889219261,0.001310005346628
+Maharashtra,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009210013317717,0.0006492281980842,0.001309121417076
+Maharashtra,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009168434399351,0.0006529926561763,0.0013015373212519
+Maharashtra,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009116355993484,0.0006479954487179,0.0012830261022324
+Maharashtra,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000906807161464,0.0006430239403741,0.0012657475994506
+Maharashtra,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009019103077488,0.0006394916212761,0.0012417248810879
+Maharashtra,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009114388155943,0.0006436429382767,0.0012575111280561
+Maharashtra,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009215138046374,0.0006451125772747,0.0012912301742986
+Maharashtra,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009314464856896,0.0006431336002505,0.0013287499555573
+Maharashtra,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009379482125476,0.0006390944083524,0.001369791003075
+Maharashtra,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009411477587416,0.0006347120562686,0.0013610912370126
+Maharashtra,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010098326504021,0.0006338529259462,0.0015865691776544
+Manipur,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012935912475826,0.0009079553455871,0.0018370590080107
+Manipur,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013095553331719,0.0009340412316512,0.0018257983159715
+Manipur,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013272526204402,0.0009585621278531,0.0018271134892404
+Manipur,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013455386845456,0.0009796069078682,0.001839363931918
+Manipur,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013631191956458,0.0009932561252552,0.0018639273245714
+Manipur,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013788905755587,0.0010009760489486,0.0018938797010051
+Manipur,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013937118718857,0.0010155048765601,0.0019091191986092
+Manipur,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014064354500415,0.0010238025500637,0.0019201958641351
+Manipur,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014157007182347,0.0010199112472814,0.0019313598743618
+Manipur,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014212060347135,0.0010160206774039,0.0019409152929205
+Manipur,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014240374944285,0.0010151753504215,0.0019522230600368
+Manipur,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014121896906047,0.0010261707545342,0.0019318118704257
+Manipur,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014014652471601,0.0010103188276114,0.001904219733283
+Manipur,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001392070860823,0.0010012064274148,0.0018720890215256
+Manipur,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013837593742661,0.0009923059128812,0.001844441805653
+Manipur,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013761504280151,0.0009893182559395,0.001843506877794
+Manipur,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013717789626456,0.0009889216133839,0.0018412793569239
+Manipur,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013711704799086,0.0009936163679966,0.0018430722480328
+Manipur,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013709527673498,0.0009901654935759,0.0018370312436816
+Manipur,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013692523852622,0.000992476244605,0.0018382699983279
+Manipur,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001363196045192,0.0009925097219899,0.0018320033831492
+Manipur,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013592352630024,0.0009961717414283,0.0018266532700757
+Manipur,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013566537523227,0.0010002973203273,0.0018280018968489
+Manipur,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013527056333468,0.0009950845459392,0.0018327455544549
+Manipur,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001349087651876,0.0009902535058703,0.0018357009480879
+Manipur,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001345175934277,0.0009782247549609,0.0018338639978466
+Manipur,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013617574061747,0.0009870448175212,0.0018747683470187
+Manipur,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013752970876573,0.000986731287405,0.0018940612292383
+Manipur,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013872366152486,0.0009889579676857,0.0019202379481156
+Manipur,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013964929113636,0.0009780443098082,0.0019641137505014
+Manipur,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014044773026846,0.0009936324578114,0.0019989239845518
+Manipur,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014108558108461,0.0008939137997334,0.0021440799163366
+Meghalaya,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013673358589997,0.0009628465809697,0.0019348488535885
+Meghalaya,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013820096959738,0.0009912631653028,0.0019164810424201
+Meghalaya,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014006651512882,0.0010206869014537,0.001920753137146
+Meghalaya,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001421533104385,0.0010412573590072,0.0019370436080941
+Meghalaya,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014430006553668,0.0010484607481183,0.0019684001422027
+Meghalaya,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001463590778418,0.0010605824648659,0.0020055217761802
+Meghalaya,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014839006914945,0.0010798879699526,0.0020237484260651
+Meghalaya,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015049154520782,0.0011037747477166,0.0020440111067333
+Meghalaya,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015229328558121,0.0011303539464275,0.0020545752068656
+Meghalaya,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015364851662846,0.0011341227324398,0.0020736526134586
+Meghalaya,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001545300728012,0.0011312986479251,0.0020919118854635
+Meghalaya,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015386379505704,0.0011260255351485,0.0020779550083259
+Meghalaya,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015320532405571,0.0011204723252151,0.0020720838898675
+Meghalaya,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015251992681808,0.0011185237960898,0.0020581755689207
+Meghalaya,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015178560490111,0.0011026078398194,0.0020565738884599
+Meghalaya,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015095397074694,0.0010762388071654,0.0020648004340127
+Meghalaya,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015016565702021,0.0010875478978975,0.0020414503708278
+Meghalaya,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014933187477367,0.0010853062925946,0.0020165926603824
+Meghalaya,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001483514064941,0.0010784501359607,0.0020114854085233
+Meghalaya,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014724456639205,0.0010628099810695,0.0019983142774594
+Meghalaya,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014595465588383,0.0010558128704282,0.0019882229445373
+Meghalaya,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014484683680888,0.0010488810481832,0.0019750195238766
+Meghalaya,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014340255971439,0.0010413907880479,0.0019619125829482
+Meghalaya,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014183692614392,0.0010346669198497,0.0019441831223741
+Meghalaya,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014053996094842,0.001027675160077,0.0019213234446619
+Meghalaya,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013970940779927,0.0010164389914812,0.0019092140791101
+Meghalaya,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014093820204659,0.0010325835054392,0.0019481029422084
+Meghalaya,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.00142256477531,0.0010413188440238,0.0019868539840479
+Meghalaya,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014356632773229,0.0010195327442771,0.0020245836388042
+Meghalaya,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014465321158947,0.0010067572726896,0.0020772532870147
+Meghalaya,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014602997123456,0.0010309522373988,0.0020882770258727
+Meghalaya,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015057832622106,0.0009787117884284,0.0022617914034785
+Mizoram,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013749382453257,0.0009569446886683,0.0019341264957911
+Mizoram,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013895529509201,0.0009837484867639,0.001928433909514
+Mizoram,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014059545577101,0.0010137904932333,0.0019334637831817
+Mizoram,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014230324669506,0.001040106327436,0.0019382709471567
+Mizoram,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014391338632672,0.0010528359473399,0.0019601992384815
+Mizoram,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014527995756083,0.001057272469054,0.0019850747167081
+Mizoram,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014651276132999,0.0010714668456039,0.0019968750603073
+Mizoram,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014773632425742,0.0010807129746293,0.0020064332497012
+Mizoram,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014883570488831,0.0010906446662585,0.0020225709148606
+Mizoram,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014977525626173,0.0010993871838984,0.0020374163102637
+Mizoram,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001506220960036,0.0010971292991042,0.0020600346677608
+Mizoram,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015071174228633,0.001103737528586,0.0020334647242325
+Mizoram,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015078181318167,0.001106981991959,0.0020256031396863
+Mizoram,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015076406595037,0.0011023474484245,0.0020514513171421
+Mizoram,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015064681349631,0.0010979345419803,0.0020423184964029
+Mizoram,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015038855661406,0.0010946058381662,0.002022759445831
+Mizoram,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015015517817663,0.001094416327934,0.0020263896816626
+Mizoram,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014987532686596,0.0011078565204869,0.0020183589524728
+Mizoram,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014955051477417,0.0011058323430951,0.0020235370822826
+Mizoram,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014915836734429,0.0010977716687987,0.0020196906561613
+Mizoram,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014859639360765,0.0010923988049801,0.0020251427524515
+Mizoram,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001482106323142,0.0010940768488999,0.0019864259973536
+Mizoram,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014780771263289,0.0010924844513415,0.0019729809086766
+Mizoram,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014728496682726,0.001083101436589,0.0019835071717895
+Mizoram,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014681087174764,0.0010723322347957,0.0019854496034196
+Mizoram,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014636301614189,0.0010625191721241,0.0019981499142773
+Mizoram,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014737859763657,0.0010730950375045,0.002011004500538
+Mizoram,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014883184567443,0.0010783832661091,0.0020495231317775
+Mizoram,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015042660202752,0.0010691145335544,0.0020852892314473
+Mizoram,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015177664247359,0.0010581973734269,0.0021411953097454
+Mizoram,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015295117160533,0.0010726718190117,0.0021608030356863
+Mizoram,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015590169283446,0.0010416904986147,0.0023246425105518
+Nagaland,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012788903786473,0.0008961663772986,0.001825571782044
+Nagaland,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012908404730364,0.0009157227642688,0.0018314080608271
+Nagaland,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013061943213214,0.0009416969267909,0.0018165709671928
+Nagaland,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013216436321042,0.0009609275451881,0.0018043999722159
+Nagaland,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013357317142667,0.0009714692394068,0.0018074473472461
+Nagaland,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013474712464018,0.0009798502076248,0.001829070642659
+Nagaland,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013587716916485,0.0009888195893052,0.0018277967556007
+Nagaland,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013693236378492,0.0009938211195338,0.0018475661356427
+Nagaland,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013779630450784,0.0009997117483822,0.0018681054085825
+Nagaland,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013839436239999,0.0010011156252781,0.0018683590603043
+Nagaland,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013878903244787,0.0009948530266143,0.001883319633431
+Nagaland,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013910768448407,0.0010029350614471,0.001876934000301
+Nagaland,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001393465331692,0.0009997441012844,0.0018761179765689
+Nagaland,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013963664307139,0.0010009001571979,0.0018905012500583
+Nagaland,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013993365192637,0.0010092966172313,0.001910023809566
+Nagaland,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014016550079459,0.0010094849924075,0.0019284120110484
+Nagaland,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014036183746558,0.0010117882340077,0.001916149690018
+Nagaland,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014067898251571,0.0010181253342425,0.0019133075905874
+Nagaland,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001409585483635,0.0010223552520857,0.0019170301855709
+Nagaland,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014113415834141,0.0010147326189506,0.0019219031472543
+Nagaland,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014102905071509,0.0010220361139122,0.0019172734197455
+Nagaland,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014050714171614,0.0010113051308987,0.0018963086341777
+Nagaland,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014030619851744,0.0010144561525634,0.00188427227577
+Nagaland,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014003206150043,0.0010205510102208,0.0018744787518428
+Nagaland,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013987539933439,0.001023588632133,0.0018853502838032
+Nagaland,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013983440148579,0.0010190780366396,0.001898016704369
+Nagaland,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014033723258018,0.0010221679348617,0.0019153571468809
+Nagaland,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.00141087511364,0.001015014376216,0.0019578129261827
+Nagaland,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014196689250419,0.0010049304540962,0.0019871553406538
+Nagaland,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014253869532173,0.0010096022295034,0.0020155562868459
+Nagaland,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014286216113988,0.00100678274696,0.0020067125688934
+Nagaland,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0014525828611011,0.0009403575616313,0.0022152612691447
+Odisha,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015234038176779,0.0010900011197288,0.0021812463246223
+Odisha,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015488076619125,0.0011083824055252,0.0021932053194377
+Odisha,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0015777510904542,0.0011492676361304,0.0022231697435797
+Odisha,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001608441973031,0.0011758626810703,0.002248442518257
+Odisha,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016389196643624,0.0011907684914832,0.0022666035035645
+Odisha,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016676660122416,0.0012002267558405,0.0022809325410918
+Odisha,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0016950770384426,0.0012228930900822,0.0023021787469528
+Odisha,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017199261809679,0.0012471418144215,0.0023269931775786
+Odisha,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017425396439629,0.0012769089319366,0.0023406967991157
+Odisha,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001763366814075,0.0012813505934543,0.002350020649392
+Odisha,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017818838310002,0.0012760647782629,0.0023828358444861
+Odisha,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017833705267331,0.0012841015929388,0.0023844847767873
+Odisha,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017859265795081,0.0012731457766335,0.0023966156075437
+Odisha,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017880903524098,0.0012851996941883,0.0024032490534692
+Odisha,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017882959793101,0.001305916897859,0.00240612158125
+Odisha,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001783772381895,0.0013026517200246,0.002411504735115
+Odisha,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017768890482558,0.0013011247802246,0.0023868145160705
+Odisha,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017696877555842,0.0012978014765938,0.0023672127264314
+Odisha,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017630621707744,0.0012783631443012,0.0023786180491227
+Odisha,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017565670484408,0.0012671567690517,0.0023733402273833
+Odisha,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017483711710502,0.001258110698036,0.0023792069848724
+Odisha,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017478244893539,0.0012592359781882,0.0023909278146917
+Odisha,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017525938324147,0.001272053834984,0.0023489255186844
+Odisha,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017573177275583,0.0012875169584607,0.0023720726009076
+Odisha,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017610078749453,0.0012893951130198,0.0023751569140908
+Odisha,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017594481333305,0.0012831790863148,0.0023714936257721
+Odisha,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0017836351165816,0.0012935003476769,0.0024203398586869
+Odisha,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0018043191785924,0.0013049588547274,0.002471854318878
+Odisha,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0018225241894741,0.0013202941045396,0.0025109558127663
+Odisha,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0018368005161794,0.0013048693833235,0.0025657538801819
+Odisha,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0018510098477002,0.0012718344731408,0.0025924225493789
+Odisha,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0018918868734129,0.0012638994621728,0.0028099667968179
+Punjab,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008518974083226,0.0005678847426182,0.0012433013477749
+Punjab,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008631909072326,0.0005883330695483,0.0012478356217565
+Punjab,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000877189042576,0.0006075123287008,0.0012688903634063
+Punjab,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008916204211989,0.0006274995449566,0.0012811053093652
+Punjab,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009058848087812,0.0006397290519703,0.0012880993823763
+Punjab,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009195525210165,0.0006502762171796,0.0012961481230544
+Punjab,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009337240824957,0.0006587863511991,0.0013062546190441
+Punjab,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009483546058923,0.0006726114634418,0.0013157381900659
+Punjab,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009626273469166,0.0006753505572255,0.0013394610925904
+Punjab,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009756344883146,0.0006754134020852,0.0013709397996455
+Punjab,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009870788672132,0.0006775685479142,0.0013872876687663
+Punjab,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000986290151153,0.0006825169928126,0.001397569109673
+Punjab,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009844411521404,0.0006870782377646,0.0014006697815135
+Punjab,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009833846810884,0.0006850458581571,0.0013845805398035
+Punjab,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009827072845058,0.0006850731664356,0.0013863669106981
+Punjab,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009815992577999,0.0006892451270633,0.0013911330278083
+Punjab,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009822060271309,0.0006924074931507,0.001385762996832
+Punjab,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009845421892462,0.0006977182984838,0.0013815350493564
+Punjab,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009873959039535,0.0006974589114518,0.0013800002654503
+Punjab,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009887661270066,0.0006988267614887,0.0013694784589151
+Punjab,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009851230593401,0.000694676075823,0.0013559454894632
+Punjab,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009754282242834,0.0006955766616524,0.001344434838054
+Punjab,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009611652643906,0.000688684652062,0.0013350295626287
+Punjab,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009421488702505,0.0006680042253268,0.0013207158710991
+Punjab,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009245174549795,0.000657205390203,0.0012975829339763
+Punjab,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009132782248375,0.0006517934342076,0.0012978073812723
+Punjab,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009280859940257,0.0006527247018841,0.0013308105340668
+Punjab,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009421220335223,0.0006590628253249,0.0013537961315733
+Punjab,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009559673221711,0.0006585323372335,0.001378219282737
+Punjab,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009668663056242,0.0006530711722449,0.001444822545356
+Punjab,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000976076979793,0.0006562602364471,0.0014440153971891
+Punjab,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010034486497911,0.0006250682144983,0.0015403435986735
+Rajasthan,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008756931278925,0.0005962648559063,0.0012776769054277
+Rajasthan,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008799606110919,0.0006128179931531,0.0012548065549701
+Rajasthan,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008866313943711,0.0006238654676858,0.0012392518765276
+Rajasthan,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008943072922789,0.0006338445084743,0.0012395057434692
+Rajasthan,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009023238521544,0.0006453232276033,0.0012420877591781
+Rajasthan,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009101682843233,0.0006530546077564,0.001276617272416
+Rajasthan,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009196626762569,0.0006627795293081,0.0012866090836776
+Rajasthan,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009318667762295,0.0006707424700148,0.0013082301840303
+Rajasthan,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009445412655388,0.000681327839567,0.0013349855869174
+Rajasthan,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009555338477157,0.0006855815970224,0.0013538684967062
+Rajasthan,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009626515153336,0.0006865163982147,0.0013662669463924
+Rajasthan,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000962559261922,0.0006848394730445,0.0013633836064016
+Rajasthan,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009618592898038,0.0006865124774119,0.0013539326701084
+Rajasthan,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009607133188161,0.000686223313213,0.0013514646833693
+Rajasthan,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009591322622084,0.000670962538772,0.0013446163753399
+Rajasthan,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009573993166138,0.0006617288404361,0.0013583809106997
+Rajasthan,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009557555821058,0.0006676158252492,0.0013493525835059
+Rajasthan,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009528167975699,0.0006740368708364,0.0013292797511578
+Rajasthan,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009487343855576,0.0006702341503524,0.0013214307798731
+Rajasthan,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009441343198342,0.0006713004726211,0.0013166270508997
+Rajasthan,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009385476208841,0.0006685259011872,0.0012988562615935
+Rajasthan,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009314022249137,0.00065894969366,0.0013040281452543
+Rajasthan,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009217292092074,0.0006482936393413,0.0012800771124043
+Rajasthan,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009110749553706,0.0006404952642904,0.0012590291003393
+Rajasthan,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009026154079417,0.0006279641585912,0.0012439884672852
+Rajasthan,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008975526038137,0.0006187639371201,0.0012356820371763
+Rajasthan,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009055127581153,0.0006334236753775,0.0012610844565789
+Rajasthan,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009177870980632,0.0006454024759849,0.0012945050243101
+Rajasthan,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009301872563538,0.000650888230066,0.0013320430105294
+Rajasthan,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009374866725535,0.0006442848185711,0.0013579391097703
+Rajasthan,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009409056520854,0.0006468278966546,0.0013483919630532
+Rajasthan,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009739613173634,0.0006132209329253,0.0015038314510621
+Sikkim,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001130160651666,0.0008040368774592,0.0015755462108754
+Sikkim,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011424010615873,0.0008266669055801,0.0015833217304203
+Sikkim,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011571556735242,0.0008373754031582,0.0016056604428652
+Sikkim,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011727489397111,0.0008450376246337,0.0016264665501523
+Sikkim,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011880939171464,0.0008553944466631,0.0016406387668276
+Sikkim,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001202474109387,0.0008538744417967,0.0016581601837269
+Sikkim,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012176447364529,0.0008664973685068,0.001673578848978
+Sikkim,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012311982526695,0.0008795362513675,0.0016806476377208
+Sikkim,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012427971856548,0.0008946409582811,0.001695227648943
+Sikkim,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012513767852338,0.0009027923758463,0.0017057291431488
+Sikkim,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012568166331918,0.0008992477220236,0.0017215914532201
+Sikkim,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012556432831779,0.000901109998724,0.0017107285572928
+Sikkim,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012519697001019,0.0009060606190772,0.0016998683775761
+Sikkim,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012470989300755,0.0009082945190165,0.0016805436500759
+Sikkim,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012413249673488,0.0009048777931159,0.0016766520547828
+Sikkim,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012347881296617,0.0008931570987103,0.0016774138854156
+Sikkim,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012296162924813,0.0009033496080535,0.0016628167433136
+Sikkim,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012280488649689,0.0008981163832819,0.00167307049604
+Sikkim,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012266743762264,0.0008979670621833,0.0016866696578615
+Sikkim,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012237523353646,0.000894674067589,0.0016824510921302
+Sikkim,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012167859754065,0.0008874186007261,0.0016770560207796
+Sikkim,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012067495520127,0.0008826163943503,0.0016608466577553
+Sikkim,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012014280943772,0.0008682529329102,0.0016576695594089
+Sikkim,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011960681396383,0.0008657742858255,0.0016576072343152
+Sikkim,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011922485221788,0.0008490863271026,0.0016499626593
+Sikkim,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0011899870041598,0.0008372370433447,0.0016424806025674
+Sikkim,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001198856820886,0.0008467411890534,0.0016605197688937
+Sikkim,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012099710957907,0.0008520450734267,0.0017036880282541
+Sikkim,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012227967967492,0.0008477622249192,0.0017378698077568
+Sikkim,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012324532492643,0.0008536231182436,0.0017833744282776
+Sikkim,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012364391444205,0.0008610716097069,0.0017846639449767
+Sikkim,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012714007778268,0.000794236722673,0.0019574533562672
+Tamil Nadu,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008428191572467,0.0005735930207375,0.0012470685975333
+Tamil Nadu,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008426488015998,0.0005813123417059,0.0012285348652777
+Tamil Nadu,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008451968475043,0.0005865514334459,0.001209736509141
+Tamil Nadu,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008491871054573,0.0005965470935185,0.001204847516225
+Tamil Nadu,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000854366280257,0.0005992409566225,0.0011982403327265
+Tamil Nadu,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008603153886209,0.0005971872523614,0.0011968724965076
+Tamil Nadu,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008667132981023,0.0006060938701465,0.0012132099540492
+Tamil Nadu,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008719667942324,0.0006089070972378,0.001218644843192
+Tamil Nadu,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008754684710901,0.0006093707664768,0.0012199999996926
+Tamil Nadu,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008768470869968,0.0006067485002754,0.0012197587728961
+Tamil Nadu,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008774005693046,0.0006019023519955,0.0012266571075338
+Tamil Nadu,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008682649037951,0.000602842335733,0.0012126670581217
+Tamil Nadu,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008551198469121,0.0005991670336137,0.0011912796193907
+Tamil Nadu,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008411015811758,0.0005856633543529,0.0011664846488903
+Tamil Nadu,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008280297133437,0.0005816443920689,0.0011506767261057
+Tamil Nadu,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008172307240258,0.0005796980452357,0.0011416226999761
+Tamil Nadu,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008086045952191,0.0005761500233757,0.0011238652456893
+Tamil Nadu,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000800544569828,0.0005717644635719,0.0011113354896358
+Tamil Nadu,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007931538623492,0.0005642295344393,0.0011009231904318
+Tamil Nadu,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007864772179536,0.0005567893643771,0.0010928637898163
+Tamil Nadu,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007792389548772,0.0005459438365736,0.0010849311504914
+Tamil Nadu,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007729293067103,0.0005434928937606,0.0010751335639013
+Tamil Nadu,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007678781405155,0.0005407621712717,0.0010711093400181
+Tamil Nadu,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007622466120481,0.0005394637454302,0.0010729471207055
+Tamil Nadu,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007576579751836,0.0005366260494183,0.001075255757291
+Tamil Nadu,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007547900914539,0.0005312510408238,0.0010653623398961
+Tamil Nadu,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007671229976455,0.0005368906964405,0.0010897148994127
+Tamil Nadu,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007817080334966,0.0005385307880592,0.0011222072724011
+Tamil Nadu,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0007964386637931,0.0005441753597609,0.0011717530848524
+Tamil Nadu,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008070533690601,0.0005438733478872,0.0012043993156236
+Tamil Nadu,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008146817103669,0.0005472518875933,0.0012150425453901
+Tamil Nadu,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008526989209091,0.0005213152199893,0.0013397532018757
+Telangana,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000894091464348,0.0006153146005213,0.0013187406046345
+Telangana,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009005598149642,0.0006352363244606,0.0013008259841812
+Telangana,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009087310964268,0.0006510827189381,0.0012926182686673
+Telangana,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009170944706543,0.0006619134422981,0.0012941526518499
+Telangana,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009249127532684,0.0006651737889161,0.001298934071332
+Telangana,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000931821086022,0.0006684714863299,0.0013001028289566
+Telangana,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009385705241018,0.0006730333054386,0.0013167390928102
+Telangana,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009460219611358,0.0006758392023283,0.0013202665380841
+Telangana,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009521338153546,0.0006783613406806,0.0013420419770245
+Telangana,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009562736556857,0.0006760684570309,0.001344101981746
+Telangana,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009586510501823,0.0006686772361957,0.0013442969611924
+Telangana,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009521192087849,0.0006738425834033,0.0013410013052575
+Telangana,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009446071783072,0.000666517272119,0.0013425524005305
+Telangana,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009378207925499,0.0006614689168931,0.0013154155593281
+Telangana,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009328853371415,0.000659303850173,0.0012924024543573
+Telangana,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009308140945755,0.0006585029257027,0.0012882515996065
+Telangana,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009326335102544,0.0006599346709825,0.0012963354090796
+Telangana,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009357245806461,0.0006592627820312,0.0012979125261874
+Telangana,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009396949777556,0.0006623449816318,0.0013000424122149
+Telangana,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009435729014017,0.0006650008164953,0.00130663104414
+Telangana,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009458090246689,0.0006598158465089,0.0013244290018273
+Telangana,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009475184145807,0.0006710133758958,0.0013113017151786
+Telangana,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009444666998957,0.0006683278383113,0.0013066508345891
+Telangana,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009373998851588,0.0006525375849393,0.0012934226658283
+Telangana,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009291109321938,0.0006555614842835,0.001293980776747
+Telangana,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009209415971196,0.0006523317000034,0.0012861488437068
+Telangana,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009228084580713,0.0006462403531775,0.0012960787184442
+Telangana,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009222117571159,0.0006379478775662,0.0013197809036815
+Telangana,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009194085488689,0.0006212278550604,0.0013407830885411
+Telangana,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009140623613647,0.0006037719119271,0.0013473308924848
+Telangana,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009091870492536,0.0006118981443523,0.0013363499399286
+Telangana,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000946610275037,0.0005819828921536,0.0015163938240021
+Tripura,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010268684668998,0.0007033469013404,0.0014683276445109
+Tripura,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010288311135246,0.0007211665680738,0.0014522713134297
+Tripura,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010325019365971,0.000734062081932,0.0014511034380987
+Tripura,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001037100396139,0.000741221684777,0.0014561345872763
+Tripura,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010418345011356,0.0007520011715996,0.0014354524423241
+Tripura,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010460934645127,0.0007531697371781,0.0014491381604761
+Tripura,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010501598146169,0.0007571351007867,0.0014458924555949
+Tripura,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010535077084446,0.0007604708039814,0.0014395139330645
+Tripura,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010558086947348,0.0007551604209652,0.0014526011812221
+Tripura,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010570856618282,0.0007604860966269,0.0014501785668897
+Tripura,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010578725570664,0.0007555249063917,0.0014466782747592
+Tripura,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010508092133309,0.0007533668938645,0.001433265125799
+Tripura,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010420690358611,0.0007484066397156,0.0014125237328447
+Tripura,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001032453951158,0.0007387741510207,0.0014108758535853
+Tripura,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.00102281032448,0.0007311960522172,0.001415103178501
+Tripura,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010138474714794,0.0007221453391796,0.0014083665267103
+Tripura,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010076674424705,0.0007245206365912,0.0013946852461468
+Tripura,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010041689450499,0.0007227280715922,0.0013855485342139
+Tripura,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010006422462734,0.0007223750737043,0.0013777237187606
+Tripura,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009954349225037,0.0007114676516929,0.0013631996951499
+Tripura,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009866529908413,0.0006981361200216,0.0013471594227473
+Tripura,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009782689917405,0.0007038198553717,0.0013410164760918
+Tripura,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009695257327901,0.0007028555252699,0.0013290502523133
+Tripura,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000959743750289,0.0006935751992397,0.0013058310849104
+Tripura,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009500857235883,0.0006871384365006,0.0013065485536661
+Tripura,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009402440759862,0.0006827970150043,0.0013150597146929
+Tripura,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009458667316595,0.0006803234253056,0.0013102633649026
+Tripura,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000956320567391,0.0006835153674216,0.0013499248777675
+Tripura,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009675454656849,0.000681813677364,0.0013956586066175
+Tripura,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009745343756345,0.0006694382615679,0.0014206097294214
+Tripura,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009764142830528,0.0006831773136823,0.0014291966119343
+Tripura,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009981234251281,0.0006349569583335,0.0015448012045185
+Uttar Pradesh,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012238203692972,0.0008637584882759,0.0017482946869986
+Uttar Pradesh,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012373001077462,0.0008927127381411,0.0017517798780034
+Uttar Pradesh,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012528841737625,0.0009148868234664,0.0017615785492623
+Uttar Pradesh,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012687285099086,0.0009210678737729,0.0017615412007004
+Uttar Pradesh,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0012839095661388,0.000936616876181,0.0017672873199658
+Uttar Pradesh,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001297779864232,0.0009359660935328,0.0017798902957899
+Uttar Pradesh,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013109581254055,0.0009472552683165,0.0017907255310206
+Uttar Pradesh,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013240047846164,0.0009602801703286,0.0017896190450994
+Uttar Pradesh,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013342341299935,0.0009634968901831,0.0018235787633581
+Uttar Pradesh,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013412100248052,0.000970033809476,0.0018284061156997
+Uttar Pradesh,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013452176574924,0.0009707525372803,0.0018381503428754
+Uttar Pradesh,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001339835578481,0.0009686363678542,0.0018293088736435
+Uttar Pradesh,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013354828163799,0.0009649839700846,0.001817311109836
+Uttar Pradesh,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013336037416899,0.0009622560357776,0.0018111701886951
+Uttar Pradesh,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013336852517266,0.0009524455014723,0.0018091540683186
+Uttar Pradesh,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013343942432662,0.000944753625558,0.0018055775665223
+Uttar Pradesh,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013336178471344,0.0009447896372898,0.0018077054599178
+Uttar Pradesh,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013287816448836,0.0009439701354621,0.0018026082585245
+Uttar Pradesh,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013222133723616,0.0009410686949909,0.0018065077647351
+Uttar Pradesh,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013156619231735,0.0009390869948211,0.0018164229465125
+Uttar Pradesh,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001309767323295,0.0009404756427276,0.0018253610417222
+Uttar Pradesh,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013086355191223,0.0009334632341368,0.0018312197743352
+Uttar Pradesh,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013085616852139,0.0009256710205038,0.0018127468142347
+Uttar Pradesh,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.001308120774569,0.0009157183359595,0.0017834646453891
+Uttar Pradesh,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013065827844764,0.0009161403530078,0.0017785239483774
+Uttar Pradesh,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013023337339638,0.0009204566939823,0.0017988453224837
+Uttar Pradesh,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013099924951719,0.0009151463943923,0.0017953809145028
+Uttar Pradesh,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013137124480337,0.0009205210516151,0.0018220218514256
+Uttar Pradesh,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013135441689954,0.0009162358163443,0.0018473057640334
+Uttar Pradesh,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013094761517604,0.0008951296950237,0.0018499195728783
+Uttar Pradesh,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013078852157299,0.0008999759370057,0.0018769922706345
+Uttar Pradesh,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0013375037078816,0.0008598342901297,0.0020253940529266
+Uttarakhand,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0008854474846406,0.0006058715869655,0.0012616506532988
+Uttarakhand,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.00089629896309,0.0006251823994214,0.0012613517108911
+Uttarakhand,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009095369191727,0.0006496945958381,0.0012818966388701
+Uttarakhand,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009236148366373,0.0006616451802357,0.0013064929785595
+Uttarakhand,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009377468809536,0.0006691978488479,0.0013290281245994
+Uttarakhand,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009517088236033,0.0006796206135593,0.0013455216532615
+Uttarakhand,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009661539153603,0.000693768806464,0.0013455725044566
+Uttarakhand,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009815155695432,0.0007031976898094,0.0013534262522197
+Uttarakhand,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009958863084185,0.0007103446173082,0.0013667516055245
+Uttarakhand,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010080447966266,0.0007101781556887,0.0013842793742669
+Uttarakhand,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010171994256214,0.0007142878845872,0.0014052857903497
+Uttarakhand,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010194793230594,0.0007228868229656,0.0013917063825909
+Uttarakhand,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010152628884423,0.0007240789677381,0.0013797569963946
+Uttarakhand,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010082911450395,0.0007211873684922,0.0013717559462721
+Uttarakhand,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010005553422161,0.0007176263178394,0.0013641451065577
+Uttarakhand,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009936785767393,0.0007174135196523,0.0013616064203819
+Uttarakhand,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009887210931216,0.0007181033372778,0.0013644382959185
+Uttarakhand,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009851807770045,0.0007163497244812,0.0013702716617126
+Uttarakhand,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009831334749613,0.0007100290034512,0.0013757774859687
+Uttarakhand,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009821063598247,0.0007030800566034,0.0013761826487615
+Uttarakhand,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009805633190683,0.0006997052985951,0.0013598275401008
+Uttarakhand,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009756272851285,0.000698927644036,0.0013511083003205
+Uttarakhand,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009654455997742,0.0006944915408411,0.0013455236491521
+Uttarakhand,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009525555271956,0.0006846160247993,0.0013308158079796
+Uttarakhand,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009416598132265,0.0006750520546836,0.0013164977962457
+Uttarakhand,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009360913656713,0.0006692218100361,0.0013189212176199
+Uttarakhand,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009412102544876,0.0006648195245083,0.001326047645145
+Uttarakhand,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009515945767876,0.0006651509227934,0.0013663341591614
+Uttarakhand,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009625764574007,0.0006605403160824,0.0013880855339786
+Uttarakhand,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009691389393668,0.0006490671522034,0.0014155180884855
+Uttarakhand,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009710022031467,0.0006697771760075,0.001418074310301
+Uttarakhand,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010056942529698,0.0006218530307839,0.001532721097291
+West Bengal,1990,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009055425624864,0.0006172801261672,0.0013477951702512
+West Bengal,1991,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009136606850975,0.0006321221004427,0.0013357877302228
+West Bengal,1992,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009229259449062,0.0006422311672852,0.0013136012949406
+West Bengal,1993,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009321985199904,0.0006516284549188,0.0013105253718491
+West Bengal,1994,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009406231973308,0.0006611752899834,0.0012990083204432
+West Bengal,1995,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009479655812972,0.000665056604896,0.0013012369270324
+West Bengal,1996,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009555788370544,0.0006788898590588,0.0013112972437387
+West Bengal,1997,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009634296410981,0.0006873716640972,0.0013233817707471
+West Bengal,1998,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009714810197912,0.0006952261133321,0.0013367009331685
+West Bengal,1999,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000978996035629,0.0006977267585301,0.0013451329074
+West Bengal,2000,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009857622278315,0.0006843251386948,0.0013694448792711
+West Bengal,2001,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000984540457914,0.0006966569583027,0.0013637949090196
+West Bengal,2002,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009830321144083,0.0007023384631981,0.0013600392536651
+West Bengal,2003,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009814540927019,0.0007025892988952,0.0013637762650327
+West Bengal,2004,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009790898817702,0.000701530423681,0.0013626963324571
+West Bengal,2005,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009751316221656,0.0006950055108553,0.0013559322026265
+West Bengal,2006,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009686042535736,0.0006939266977894,0.0013420929478714
+West Bengal,2007,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009593942604385,0.0006892337111114,0.0013285142919269
+West Bengal,2008,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009487600284414,0.0006832636837299,0.0013133516081301
+West Bengal,2009,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009389396484045,0.0006805575982554,0.001315389049235
+West Bengal,2010,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009309396670315,0.0006683630107623,0.0012953549685939
+West Bengal,2011,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009267023238586,0.0006640994585623,0.0012897377236808
+West Bengal,2012,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009237098706209,0.0006648268167466,0.0012849172037195
+West Bengal,2013,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000920106228933,0.0006650694910438,0.0012764873507719
+West Bengal,2014,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009176852670305,0.0006563902199065,0.0012724908999669
+West Bengal,2015,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009161117090858,0.0006485419639158,0.0012747328950845
+West Bengal,2016,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000926568559686,0.000658120511948,0.0012877531863573
+West Bengal,2017,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000935630516486,0.0006579296910355,0.0013174415676457
+West Bengal,2018,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009448197479273,0.0006553510677784,0.0013527198941698
+West Bengal,2019,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.000953308173184,0.0006474900170727,0.0013818348207182
+West Bengal,2020,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0009614056624621,0.0006498771549215,0.0013890865535099
+West Bengal,2021,50-69 years,Male,Hypertensive heart disease,Percent of total prevalent cases,0.0010030704500563,0.0006422577973894,0.0015551679116313
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2021. Seattle, WA: IHME, University of Washington, 2023. Available from http://vizhub.healthdata.org/gbd-compare. (Accessed 7/24/2024)."
+"For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
