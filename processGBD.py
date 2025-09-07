@@ -37,8 +37,8 @@ def process(df):
     return df
 
 
-csv_files = glob.glob("GBD Database/*.csv")
-datas = pd.read_csv("GBD DatabaseOutput/A.7.4Dietary iron deficiency.csv")
+csv_files = glob.glob("Database/GBD Database - Inputs/*.csv")
+datas = pd.read_csv("GBD Database - Target/A.7.4Dietary iron deficiency.csv")
 datas = process(datas)
 
 for f in csv_files:
@@ -49,5 +49,5 @@ for f in csv_files:
 print(datas)
 print(datas)
 df.dropna(inplace=True)
-datas.to_csv("base.csv", sep=';')
+datas.to_csv("database.csv", sep=';')
 
